@@ -9,6 +9,7 @@ Note: plotting function deprecated, send to Greg instead.
 
 ===
 Usage:
+---
 
 summary_map.pl: 
 
@@ -16,13 +17,14 @@ Collects DYFI data and creates summary maps.
 
 Flags:
 
-- start		all events in the database (from 1990-?)
-- 2015		only do this year
-- 2015-01		only do this month
-- yearly		step through each year
-- monthly		step through each month and year
-- -noplot		deprecated, this flag is on by default
-- Other flags are available but deprecated (type 'summary_map.pl' without any flags)
+    start		all events in the database (from 1990-?)
+    2015		only do this year
+    2015-01		only do this month
+    yearly		step through each year
+    monthly		step through each month and year
+    -noplot		deprecated, this flag is on by default
+  
+Other flags are available but deprecated (type 'summary_map.pl' without any flags)
 
 redo_missing:
 
