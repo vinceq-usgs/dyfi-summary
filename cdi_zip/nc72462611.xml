@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>37.7746713921</lat>
+      <lon>-122.275647073</lon>
+      <name>Alameda</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94564">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.9943624284</lat>
+      <lon>-122.285174153</lon>
+      <name>Pinole</name>
+      <state>CA</state>
+    </location>
+    <location name="94566">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>37.6457318049</lat>
+      <lon>-121.852881407</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

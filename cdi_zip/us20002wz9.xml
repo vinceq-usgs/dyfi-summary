@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Shigenobu::Ehime::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>33.80</lat>
+      <lon>132.88</lon>
+      <name>Shigenobu</name>
+    </location>
+    <location name="Fukuoka::Fukuoka::Japan">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>147</dist>
+      <lat>33.59</lat>
+      <lon>130.41</lon>
+      <name>Fukuoka</name>
+    </location>
+    <location name="Ōnojō::Fukuoka::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>33.54</lat>
+      <lon>130.48</lon>
+      <name>Ōnojō</name>
+    </location>
+    <location name="Hiroshima::Hiroshima::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>169</dist>
+      <lat>34.39</lat>
+      <lon>132.44</lon>
+      <name>Hiroshima</name>
+    </location>
+    <location name="Kumamoto::Kumamoto::Japan">
+      <cdi>4.3417</cdi>
+      <nresp>2</nresp>
+      <dist>111</dist>
+      <lat>32.80</lat>
+      <lon>130.71</lon>
+      <name>Kumamoto</name>
+    </location>
+    <location name="Kōchi::Kōchi::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>182</dist>
+      <lat>33.56</lat>
+      <lon>133.54</lon>
+      <name>Kōchi</name>
+    </location>
+    <location name="Miyazaki::Miyazaki::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>31.91</lat>
+      <lon>131.42</lon>
+      <name>Miyazaki</name>
+    </location>
+    <location name="Nobeoka::Miyazaki::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>32.58</lat>
+      <lon>131.68</lon>
+      <name>Nobeoka</name>
+    </location>
+    <location name="Okayama::Okayama::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>274</dist>
+      <lat>34.67</lat>
+      <lon>133.92</lon>
+      <name>Okayama</name>
+    </location>
+    <location name="Iwakuni::Yamaguchi::Japan">
+      <cdi>2.9076</cdi>
+      <nresp>28</nresp>
+      <dist>141</dist>
+      <lat>34.17</lat>
+      <lon>132.23</lon>
+      <name>Iwakuni</name>
+    </location>
+    <location name="Beppu::Ōita::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>59</dist>
+      <lat>33.28</lat>
+      <lon>131.50</lon>
+      <name>Beppu</name>
+    </location>
+    <location name="Nakatsu::Ōita::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>33.60</lat>
+      <lon>131.19</lon>
+      <name>Nakatsu</name>
+    </location>
+    <location name="Saiki::Ōita::Japan">
+      <cdi>4.3850</cdi>
+      <nresp>3</nresp>
+      <dist>49</dist>
+      <lat>32.96</lat>
+      <lon>131.91</lon>
+      <name>Saiki</name>
+    </location>
+    <location name="Ōita::Ōita::Japan">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>33.24</lat>
+      <lon>131.60</lon>
+      <name>Ōita</name>
+    </location>
+  </cdi>
+</cdidata>

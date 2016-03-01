@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="97457">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>481</dist>
+      <lat>43.0669652369</lat>
+      <lon>-123.198807567</lon>
+      <name>Myrtle Creek</name>
+      <state>OR</state>
+    </location>
+    <location name="97478">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>366</dist>
+      <lat>44.0889039688</lat>
+      <lon>-122.846722567</lon>
+      <name>Springfield</name>
+      <state>OR</state>
+    </location>
+    <location name="98008">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>47.6049410507</lat>
+      <lon>-122.11081182</lon>
+      <name>Bellevue</name>
+      <state>WA</state>
+    </location>
+    <location name="98074">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>47.6247721875</lat>
+      <lon>-122.044467223</lon>
+      <name>Sammamish</name>
+      <state>WA</state>
+    </location>
+    <location name="98103">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>47.6742132238</lat>
+      <lon>-122.34285049</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98119">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>47.6388850773</lat>
+      <lon>-122.368991303</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98125">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>47.7168864011</lat>
+      <lon>-122.303535509</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98277">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>48.316505286</lat>
+      <lon>-122.631076509</lon>
+      <name>Oak Harbor</name>
+      <state>WA</state>
+    </location>
+    <location name="98332">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>47.3654508573</lat>
+      <lon>-122.59807683</lon>
+      <name>Gig Harbor</name>
+      <state>WA</state>
+    </location>
+    <location name="98335">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>47.2992815114</lat>
+      <lon>-122.617884618</lon>
+      <name>Gig Harbor</name>
+      <state>WA</state>
+    </location>
+    <location name="98337">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>47.5690625244</lat>
+      <lon>-122.63632621</lon>
+      <name>Bremerton</name>
+      <state>WA</state>
+    </location>
+    <location name="98366">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>47.533819613</lat>
+      <lon>-122.581280464</lon>
+      <name>Port Orchard</name>
+      <state>WA</state>
+    </location>
+    <location name="98409">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>47.2113439713</lat>
+      <lon>-122.482464712</lon>
+      <name>Tacoma</name>
+      <state>WA</state>
+    </location>
+    <location name="98467">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>47.2030986552</lat>
+      <lon>-122.544223074</lon>
+      <name>University Place</name>
+      <state>WA</state>
+    </location>
+    <location name="98499">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>47.1659427801</lat>
+      <lon>-122.506448889</lon>
+      <name>Lakewood</name>
+      <state>WA</state>
+    </location>
+    <location name="98584">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>47.2255119678</lat>
+      <lon>-123.159343596</lon>
+      <name>Shelton</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

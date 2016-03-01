@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Jipijapa::Manabí::Ecuador">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>-1.35</lat>
+      <lon>-80.58</lon>
+      <name>Jipijapa</name>
+    </location>
+    <location name="Manta::Manabí::Ecuador">
+      <cdi>4.2310</cdi>
+      <nresp>4</nresp>
+      <dist>72</dist>
+      <lat>-0.96</lat>
+      <lon>-80.72</lon>
+      <name>Manta</name>
+    </location>
+    <location name="Portoviejo::Manabí::Ecuador">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>-1.06</lat>
+      <lon>-80.46</lon>
+      <name>Portoviejo</name>
+    </location>
+    <location name="Rocafuerte::Manabí::Ecuador">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>-0.92</lat>
+      <lon>-80.46</lon>
+      <name>Rocafuerte</name>
+    </location>
+  </cdi>
+</cdidata>

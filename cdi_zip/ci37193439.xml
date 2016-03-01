@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90069">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>34.0943207767</lat>
+      <lon>-118.381469996</lon>
+      <name>West Hollywood</name>
+      <state>CA</state>
+    </location>
+    <location name="92008">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>67</dist>
+      <lat>33.1466607065</lat>
+      <lon>-117.31838967</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="92011">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>33.1071883866</lat>
+      <lon>-117.294891529</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="92543">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>33.7022792679</lat>
+      <lon>-116.979163214</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92591">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>28</dist>
+      <lat>33.5323376586</lat>
+      <lon>-117.110101788</lon>
+      <name>Temecula</name>
+      <state>CA</state>
+    </location>
+    <location name="92630">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>33.6460770575</lat>
+      <lon>-117.685681724</lon>
+      <name>Lake Forest</name>
+      <state>CA</state>
+    </location>
+    <location name="92802">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>33.8080753934</lat>
+      <lon>-117.923431126</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="03103">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>80</dist>
+      <lat>42.9543752663</lat>
+      <lon>-71.4441858618</lon>
+      <name>Manchester</name>
+      <state>NH</state>
+    </location>
+    <location name="03253">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>43.6262387663</lat>
+      <lon>-71.5144772033</lon>
+      <name>Meredith</name>
+      <state>NH</state>
+    </location>
+    <location name="03254">
+      <cdi>2.6912</cdi>
+      <nresp>4</nresp>
+      <dist>7</dist>
+      <lat>43.7333629928</lat>
+      <lon>-71.3767449729</lon>
+      <name>Moultonborough</name>
+      <state>NH</state>
+    </location>
+  </cdi>
+</cdidata>

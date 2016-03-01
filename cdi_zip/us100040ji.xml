@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64105">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>411</dist>
+      <lat>39.1040197693</lat>
+      <lon>-94.5907783776</lon>
+      <name>Kansas City</name>
+      <state>MO</state>
+    </location>
+    <location name="64124">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>415</dist>
+      <lat>39.1067948412</lat>
+      <lon>-94.5400185598</lon>
+      <name>Kansas City</name>
+      <state>MO</state>
+    </location>
+    <location name="67060">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67147">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>37.8628400574</lat>
+      <lon>-97.3052940713</lon>
+      <name>Valley Center</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67203">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>37.7037979044</lat>
+      <lon>-97.364550356</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67221">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>126</dist>
+      <lat>37.6249365618</lat>
+      <lon>-97.2632326114</lon>
+      <name>McConnell AFB</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73102">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>35.4714367683</lat>
+      <lon>-97.519123843</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73728">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>36.7610465168</lat>
+      <lon>-98.3690400836</lon>
+      <name>Cherokee</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

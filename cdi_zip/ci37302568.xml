@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92284">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>34.1720242491</lat>
+      <lon>-116.468234152</lon>
+      <name>Yucca Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92285">
+      <cdi>2.4261</cdi>
+      <nresp>4</nresp>
+      <dist>19</dist>
+      <lat>34.4357668723</lat>
+      <lon>-116.553399679</lon>
+      <name>Landers</name>
+      <state>CA</state>
+    </location>
+    <location name="92311">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>34.8400535</lat>
+      <lon>-117.043139595</lon>
+      <name>Barstow</name>
+      <state>CA</state>
+    </location>
+    <location name="92881">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>33.8400889046</lat>
+      <lon>-117.497317567</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73007">
+      <cdi>4.3850</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>2.8469</cdi>
+      <nresp>11</nresp>
+      <dist>12</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73020">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>35.456075286</lat>
+      <lon>-97.2632650514</lon>
+      <name>Choctaw</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.7479</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73049">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>35.5848257111</lat>
+      <lon>-97.2955576644</lon>
+      <name>Jones</name>
+      <state>OK</state>
+    </location>
+    <location name="73084">
+      <cdi>3.2152</cdi>
+      <nresp>4</nresp>
+      <dist>9</dist>
+      <lat>35.5264751791</lat>
+      <lon>-97.3432436184</lon>
+      <name>Spencer</name>
+      <state>OK</state>
+    </location>
+    <location name="73110">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>35.4599812871</lat>
+      <lon>-97.3970813939</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73118">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.5186748711</lat>
+      <lon>-97.5298794618</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73120">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73130">
+      <cdi>2.9370</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>35.4587000193</lat>
+      <lon>-97.3453705199</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73131">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>35.5750702853</lat>
+      <lon>-97.4624606899</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73151">
+      <cdi>3.3345</cdi>
+      <nresp>7</nresp>
+      <dist>6</dist>
+      <lat>35.5701370079</lat>
+      <lon>-97.4054663471</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Tarakan::Kalimantan Timur::Indonesia">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>279</dist>
+      <lat>3.28</lat>
+      <lon>117.62</lon>
+      <name>Tarakan</name>
+    </location>
+    <location name="Semporna::Sabah::Malaysia">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>4.47</lat>
+      <lon>118.60</lon>
+      <name>Semporna</name>
+    </location>
+    <location name="Tawau::Sabah::Malaysia">
+      <cdi>2.7958</cdi>
+      <nresp>3</nresp>
+      <dist>212</dist>
+      <lat>4.26</lat>
+      <lon>117.88</lon>
+      <name>Tawau</name>
+    </location>
+  </cdi>
+</cdidata>

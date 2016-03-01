@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73069">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>35.2483008817</lat>
+      <lon>-97.462346545</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73071">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>35.2411743327</lat>
+      <lon>-97.4121112581</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73114">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>35.579568444</lat>
+      <lon>-97.5180480544</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>3.6884</cdi>
+      <nresp>11</nresp>
+      <dist>5</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74037">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>36.0015021664</lat>
+      <lon>-95.981016881</lon>
+      <name>Jenks</name>
+      <state>OK</state>
+    </location>
+    <location name="74066">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>35.9886131945</lat>
+      <lon>-96.1598316867</lon>
+      <name>Sapulpa</name>
+      <state>OK</state>
+    </location>
+    <location name="74105">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>36.097220527</lat>
+      <lon>-95.9631988411</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74128">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>36.1469379829</lat>
+      <lon>-95.850969085</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74133">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>36.0413422515</lat>
+      <lon>-95.8789406288</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74136">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>36.0617672231</lat>
+      <lon>-95.9409568667</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

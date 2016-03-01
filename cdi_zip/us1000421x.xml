@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Córdoba::Córdoba::Argentina">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>870</dist>
+      <lat>-31.40</lat>
+      <lon>-64.19</lon>
+      <name>Córdoba</name>
+    </location>
+    <location name="Jujuy::Jujuy::Argentina">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>96</dist>
+      <lat>-24.19</lat>
+      <lon>-65.30</lon>
+      <name>Jujuy</name>
+    </location>
+    <location name="Libertador General San Martín::Jujuy::Argentina">
+      <cdi>5.4480</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>-23.82</lat>
+      <lon>-64.79</lon>
+      <name>Libertador General San Martín</name>
+    </location>
+    <location name="Salta::Salta::Argentina">
+      <cdi>3.1985</cdi>
+      <nresp>11</nresp>
+      <dist>156</dist>
+      <lat>-24.79</lat>
+      <lon>-65.41</lon>
+      <name>Salta</name>
+    </location>
+    <location name="Tucumán::Tucumán::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>366</dist>
+      <lat>-26.83</lat>
+      <lon>-65.22</lon>
+      <name>Tucumán</name>
+    </location>
+  </cdi>
+</cdidata>

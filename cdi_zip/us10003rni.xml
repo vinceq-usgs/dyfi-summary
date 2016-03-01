@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Lagoa::Algarve::Portugal">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>37.13</lat>
+      <lon>-8.44</lon>
+      <name>Lagoa</name>
+    </location>
+    <location name="Lagos::Algarve::Portugal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>37.10</lat>
+      <lon>-8.68</lon>
+      <name>Lagos</name>
+    </location>
+    <location name="Portimão::Algarve::Portugal">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>37.13</lat>
+      <lon>-8.54</lon>
+      <name>Portimão</name>
+    </location>
+    <location name="Silves::Algarve::Portugal">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>37.18</lat>
+      <lon>-8.42</lon>
+      <name>Silves</name>
+    </location>
+  </cdi>
+</cdidata>

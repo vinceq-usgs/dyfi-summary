@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74011">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>35.9844979881</lat>
+      <lon>-95.8098860351</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74857">
+      <cdi>3.6156</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>35.3419691675</lat>
+      <lon>-97.1962017041</lon>
+      <name>Newalla</name>
+      <state>OK</state>
+    </location>
+    <location name="74864">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>6</dist>
+      <lat>35.5532278614</lat>
+      <lon>-96.7135501732</lon>
+      <name>Prague</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

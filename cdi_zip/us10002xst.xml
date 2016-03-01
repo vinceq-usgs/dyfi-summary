@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="85534">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>18</dist>
+      <lat>32.753167593</lat>
+      <lon>-109.140915076</lon>
+      <name>Duncan</name>
+      <state>AZ</state>
+    </location>
+    <location name="85546">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>32.7041945712</lat>
+      <lon>-109.486923526</lon>
+      <name>Safford</name>
+      <state>AZ</state>
+    </location>
+    <location name="88045">
+      <cdi>2.8026</cdi>
+      <nresp>6</nresp>
+      <dist>43</dist>
+      <lat>32.3059176626</lat>
+      <lon>-108.813721831</lon>
+      <name>Lordsburg</name>
+      <state>NM</state>
+    </location>
+  </cdi>
+</cdidata>

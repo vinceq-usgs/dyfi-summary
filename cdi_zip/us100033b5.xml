@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="68134">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>354</dist>
+      <lat>41.2975592422</lat>
+      <lon>-96.0519520045</lon>
+      <name>Omaha</name>
+      <state>NE</state>
+    </location>
+    <location name="68508">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>315</dist>
+      <lat>40.8174569335</lat>
+      <lon>-96.7083359103</lon>
+      <name>Lincoln</name>
+      <state>NE</state>
+    </location>
+    <location name="68813">
+      <cdi>2.9370</cdi>
+      <nresp>3</nresp>
+      <dist>41</dist>
+      <lat>41.6611181372</lat>
+      <lon>-99.7837924954</lon>
+      <name>Anselmo</name>
+      <state>NE</state>
+    </location>
+    <location name="68821">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>41.9296570566</lat>
+      <lon>-99.808721468</lon>
+      <name>Brewster</name>
+      <state>NE</state>
+    </location>
+    <location name="68833">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>41.7868453668</lat>
+      <lon>-100.061358672</lon>
+      <name>Dunning</name>
+      <state>NE</state>
+    </location>
+    <location name="68842">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>41.5904380735</lat>
+      <lon>-98.5419663922</lon>
+      <name>Greeley</name>
+      <state>NE</state>
+    </location>
+    <location name="68860">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>41.1330243806</lat>
+      <lon>-99.6641032002</lon>
+      <name>Oconto</name>
+      <state>NE</state>
+    </location>
+    <location name="69101">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>41.1393817246</lat>
+      <lon>-100.779824189</lon>
+      <name>North Platte</name>
+      <state>NE</state>
+    </location>
+    <location name="69120">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>41.5354897326</lat>
+      <lon>-100.114322199</lon>
+      <name>Arnold</name>
+      <state>NE</state>
+    </location>
+    <location name="69142">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>41.8908758718</lat>
+      <lon>-100.350946147</lon>
+      <name>Halsey</name>
+      <state>NE</state>
+    </location>
+    <location name="69166">
+      <cdi>3.5004</cdi>
+      <nresp>4</nresp>
+      <dist>30</dist>
+      <lat>41.9265054729</lat>
+      <lon>-100.557090634</lon>
+      <name>Thedford</name>
+      <state>NE</state>
+    </location>
+    <location name="69167">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>41.5681091454</lat>
+      <lon>-101.060006448</lon>
+      <name>Tryon</name>
+      <state>NE</state>
+    </location>
+  </cdi>
+</cdidata>

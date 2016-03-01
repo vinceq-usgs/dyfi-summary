@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73020">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>11</dist>
+      <lat>35.456075286</lat>
+      <lon>-97.2632650514</lon>
+      <name>Choctaw</name>
+      <state>OK</state>
+    </location>
+    <location name="73045">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>35.5033357543</lat>
+      <lon>-97.1512438578</lon>
+      <name>Harrah</name>
+      <state>OK</state>
+    </location>
+    <location name="73084">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>35.5264751791</lat>
+      <lon>-97.3432436184</lon>
+      <name>Spencer</name>
+      <state>OK</state>
+    </location>
+    <location name="73139">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>35.3846384697</lat>
+      <lon>-97.5255414331</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74114">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>36.1261559611</lat>
+      <lon>-95.9461925162</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74135">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>36.0971002866</lat>
+      <lon>-95.9223153955</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

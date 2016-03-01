@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Buenos Aires::Buenos Aires::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1408</dist>
+      <lat>-34.61</lat>
+      <lon>-58.37</lon>
+      <name>Buenos Aires</name>
+    </location>
+    <location name="La Rioja::La Rioja::Argentina">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>501</dist>
+      <lat>-29.41</lat>
+      <lon>-66.85</lon>
+      <name>La Rioja</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>483</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>404</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="Copiapó::Atacama::Chile">
+      <cdi>2.6770</cdi>
+      <nresp>4</nresp>
+      <dist>289</dist>
+      <lat>-27.36</lat>
+      <lon>-70.34</lon>
+      <name>Copiapó</name>
+    </location>
+    <location name="Vallenar::Atacama::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>-28.57</lat>
+      <lon>-70.76</lon>
+      <name>Vallenar</name>
+    </location>
+    <location name="Coquimbo::Coquimbo::Chile">
+      <cdi>4.3557</cdi>
+      <nresp>9</nresp>
+      <dist>84</dist>
+      <lat>-29.96</lat>
+      <lon>-71.33</lon>
+      <name>Coquimbo</name>
+    </location>
+    <location name="Illapel::Coquimbo::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>250</dist>
+      <lat>-31.63</lat>
+      <lon>-71.17</lon>
+      <name>Illapel</name>
+    </location>
+    <location name="La Serena::Coquimbo::Chile">
+      <cdi>4.7550</cdi>
+      <nresp>12</nresp>
+      <dist>87</dist>
+      <lat>-29.90</lat>
+      <lon>-71.25</lon>
+      <name>La Serena</name>
+    </location>
+    <location name="Vicuña::Coquimbo::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>-30.03</lat>
+      <lon>-70.74</lon>
+      <name>Vicuña</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>11</nresp>
+      <dist>458</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Valparaíso::Valparaíso::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>394</dist>
+      <lat>-33.04</lat>
+      <lon>-71.64</lon>
+      <name>Valparaíso</name>
+    </location>
+    <location name="Villa Alemana::Valparaíso::Chile">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>397</dist>
+      <lat>-33.04</lat>
+      <lon>-71.36</lon>
+      <name>Villa Alemana</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>391</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

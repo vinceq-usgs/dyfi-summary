@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kagoshima::Kagoshima::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>31.59</lat>
+      <lon>130.56</lon>
+      <name>Kagoshima</name>
+    </location>
+    <location name="Kanoya::Kagoshima::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>31.38</lat>
+      <lon>130.85</lon>
+      <name>Kanoya</name>
+    </location>
+    <location name="Kumamoto::Kumamoto::Japan">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>130</dist>
+      <lat>32.80</lat>
+      <lon>130.71</lon>
+      <name>Kumamoto</name>
+    </location>
+    <location name="Miyazaki::Miyazaki::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>31.91</lat>
+      <lon>131.42</lon>
+      <name>Miyazaki</name>
+    </location>
+    <location name="Ōita::Ōita::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>33.24</lat>
+      <lon>131.60</lon>
+      <name>Ōita</name>
+    </location>
+  </cdi>
+</cdidata>

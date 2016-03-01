@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73013">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>161</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.7751</cdi>
+      <nresp>6</nresp>
+      <dist>160</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73049">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>177</dist>
+      <lat>35.5848257111</lat>
+      <lon>-97.2955576644</lon>
+      <name>Jones</name>
+      <state>OK</state>
+    </location>
+    <location name="73107">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>35.4822241552</lat>
+      <lon>-97.5745488944</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

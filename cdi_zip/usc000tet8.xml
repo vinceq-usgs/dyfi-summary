@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="74012">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.0916</cdi>
+      <nresp>5</nresp>
+      <dist>8</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

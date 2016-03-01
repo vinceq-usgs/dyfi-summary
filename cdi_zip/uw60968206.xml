@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98104">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>47.6016873065</lat>
+      <lon>-122.327813516</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98239">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>48.1910931846</lat>
+      <lon>-122.659790095</lon>
+      <name>Coupeville</name>
+      <state>WA</state>
+    </location>
+    <location name="98241">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>48.1641380081</lat>
+      <lon>-121.29965921</lon>
+      <name>Darrington</name>
+      <state>WA</state>
+    </location>
+    <location name="98260">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>48.0290125947</lat>
+      <lon>-122.447159264</lon>
+      <name>Langley</name>
+      <state>WA</state>
+    </location>
+    <location name="98402">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>47.2535023917</lat>
+      <lon>-122.444702352</lon>
+      <name>Tacoma</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

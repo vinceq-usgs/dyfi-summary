@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Coonawarra::Northern Territory::Australia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>585</dist>
+      <lat>-12.38</lat>
+      <lon>130.88</lon>
+      <name>Coonawarra</name>
+    </location>
+    <location name="Darwin::Northern Territory::Australia">
+      <cdi>2.3140</cdi>
+      <nresp>5</nresp>
+      <dist>590</dist>
+      <lat>-12.43</lat>
+      <lon>130.85</lon>
+      <name>Darwin</name>
+    </location>
+    <location name="Humpty Doo-MacMinns Lagoon::Northern Territory::Australia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>605</dist>
+      <lat>-12.53</lat>
+      <lon>131.05</lon>
+      <name>Humpty Doo-MacMinns Lagoon</name>
+    </location>
+  </cdi>
+</cdidata>

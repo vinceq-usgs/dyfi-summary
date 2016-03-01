@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66502">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>390</dist>
+      <lat>39.1505766574</lat>
+      <lon>-96.5362802963</lon>
+      <name>Manhattan</name>
+      <state>KS</state>
+    </location>
+    <location name="67152">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>37.2574619357</lat>
+      <lon>-97.4015125998</lon>
+      <name>Wellington</name>
+      <state>KS</state>
+    </location>
+    <location name="67214">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>226</dist>
+      <lat>37.7053583689</lat>
+      <lon>-97.3177636222</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73013">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73644">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>35.4252803039</lat>
+      <lon>-99.4700218667</lon>
+      <name>Elk City</name>
+      <state>OK</state>
+    </location>
+    <location name="73801">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>36.4182290271</lat>
+      <lon>-99.4156610643</lon>
+      <name>Woodward</name>
+      <state>OK</state>
+    </location>
+    <location name="73857">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>36.2587687472</lat>
+      <lon>-99.391707397</lon>
+      <name>Sharon</name>
+      <state>OK</state>
+    </location>
+    <location name="74070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>283</dist>
+      <lat>36.3807769423</lat>
+      <lon>-96.0623166374</lon>
+      <name>Skiatook</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

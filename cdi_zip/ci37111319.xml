@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91106">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>34.1390483935</lat>
+      <lon>-118.127607218</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91423">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>34.1482353238</lat>
+      <lon>-118.432572496</lon>
+      <name>Sherman Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="92234">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>33.8157080121</lat>
+      <lon>-116.466479106</lon>
+      <name>Cathedral City</name>
+      <state>CA</state>
+    </location>
+    <location name="92262">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>33.8625160663</lat>
+      <lon>-116.56832194</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92264">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>33.7408622467</lat>
+      <lon>-116.535954528</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

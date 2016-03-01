@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91367">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>408</dist>
+      <lat>34.176389334</lat>
+      <lon>-118.61601363</lon>
+      <name>Woodland Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95020">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>10</dist>
+      <lat>37.0188204369</lat>
+      <lon>-121.560718867</lon>
+      <name>Gilroy</name>
+      <state>CA</state>
+    </location>
+    <location name="95035">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>37.4377791393</lat>
+      <lon>-121.817111415</lon>
+      <name>Milpitas</name>
+      <state>CA</state>
+    </location>
+    <location name="95037">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>37.1634138038</lat>
+      <lon>-121.605115684</lon>
+      <name>Morgan Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+    <location name="95126">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>37.3268750735</lat>
+      <lon>-121.916914377</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

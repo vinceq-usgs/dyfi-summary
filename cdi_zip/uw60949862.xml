@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83634">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>43.4293810992</lat>
+      <lon>-116.328110605</lon>
+      <name>Kuna</name>
+      <state>ID</state>
+    </location>
+    <location name="97031">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>243</dist>
+      <lat>45.575908832</lat>
+      <lon>-121.654609748</lon>
+      <name>Hood River</name>
+      <state>OR</state>
+    </location>
+    <location name="97124">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>343</dist>
+      <lat>45.5713571483</lat>
+      <lon>-122.946731352</lon>
+      <name>Hillsboro</name>
+      <state>OR</state>
+    </location>
+    <location name="97801">
+      <cdi>2.3031</cdi>
+      <nresp>28</nresp>
+      <dist>26</dist>
+      <lat>45.6114290006</lat>
+      <lon>-118.701452739</lon>
+      <name>Pendleton</name>
+      <state>OR</state>
+    </location>
+    <location name="97810">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>45.7445542999</lat>
+      <lon>-118.550403546</lon>
+      <name>Adams</name>
+      <state>OR</state>
+    </location>
+    <location name="97813">
+      <cdi>2.7613</cdi>
+      <nresp>6</nresp>
+      <dist>28</dist>
+      <lat>45.8928803834</lat>
+      <lon>-118.54690731</lon>
+      <name>Athena</name>
+      <state>OR</state>
+    </location>
+    <location name="97826">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>45.7456747111</lat>
+      <lon>-119.196861001</lon>
+      <name>Echo</name>
+      <state>OR</state>
+    </location>
+    <location name="97827">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>45.6688381416</lat>
+      <lon>-117.896419272</lon>
+      <name>Elgin</name>
+      <state>OR</state>
+    </location>
+    <location name="97862">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>45.9186307925</lat>
+      <lon>-118.214900918</lon>
+      <name>Milton Freewater</name>
+      <state>OR</state>
+    </location>
+    <location name="99362">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>46.125120785</lat>
+      <lon>-118.354111655</lon>
+      <name>Walla Walla</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

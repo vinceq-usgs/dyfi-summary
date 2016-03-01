@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67226">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73071">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>35.2411743327</lat>
+      <lon>-97.4121112581</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73077">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.0802</cdi>
+      <nresp>5</nresp>
+      <dist>17</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74128">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>36.1469379829</lat>
+      <lon>-95.850969085</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="75039">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>360</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="76065">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>407</dist>
+      <lat>32.4651450818</lat>
+      <lon>-96.9898726456</lon>
+      <name>Midlothian</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

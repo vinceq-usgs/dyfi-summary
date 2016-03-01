@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="PokharÄ::Kaski::Nepal">
+      <cdi>4.3351</cdi>
+      <nresp>11</nresp>
+      <dist>33</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>PokharÄ</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>150</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>152</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dembéni::Mayotte::Mayotte">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>-12.84</lat>
+      <lon>45.19</lon>
+      <name>Dembéni</name>
+    </location>
+    <location name="Dzaoudzi::Pamanzi::Mayotte">
+      <cdi>2.5391</cdi>
+      <nresp>4</nresp>
+      <dist>84</dist>
+      <lat>-12.77</lat>
+      <lon>45.25</lon>
+      <name>Dzaoudzi</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94503">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>241</dist>
+      <lat>38.1933015059</lat>
+      <lon>-122.228210427</lon>
+      <name>American Canyon</name>
+      <state>CA</state>
+    </location>
+    <location name="94550">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>297</dist>
+      <lat>37.5189222377</lat>
+      <lon>-121.624336977</lon>
+      <name>Livermore</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>260</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="95947">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>40.1780003086</lat>
+      <lon>-120.887963583</lon>
+      <name>Greenville</name>
+      <state>CA</state>
+    </location>
+    <location name="96020">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>40.2714139928</lat>
+      <lon>-121.292870802</lon>
+      <name>Chester</name>
+      <state>CA</state>
+    </location>
+    <location name="96114">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>40.1741150966</lat>
+      <lon>-120.576387624</lon>
+      <name>Janesville</name>
+      <state>CA</state>
+    </location>
+    <location name="96137">
+      <cdi>2.9958</cdi>
+      <nresp>6</nresp>
+      <dist>14</dist>
+      <lat>40.2842914898</lat>
+      <lon>-121.088551847</lon>
+      <name>Westwood</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

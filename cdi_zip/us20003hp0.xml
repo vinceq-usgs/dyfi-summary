@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="73703">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="74120">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>36.1500754484</lat>
+      <lon>-95.9765243594</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74864">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>35.5532278614</lat>
+      <lon>-96.7135501732</lon>
+      <name>Prague</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="33036">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>24.8611020911</lat>
+      <lon>-80.7190794901</lon>
+      <name>Islamorada</name>
+      <state>FL</state>
+    </location>
+    <location name="33050">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>167</dist>
+      <lat>24.6912864803</lat>
+      <lon>-81.0763679991</lon>
+      <name>Marathon</name>
+      <state>FL</state>
+    </location>
+    <location name="33165">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>278</dist>
+      <lat>25.7350347847</lat>
+      <lon>-80.3594381365</lon>
+      <name>Miami</name>
+      <state>FL</state>
+    </location>
+    <location name="33309">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>330</dist>
+      <lat>26.1880085673</lat>
+      <lon>-80.1741255487</lon>
+      <name>Fort Lauderdale</name>
+      <state>FL</state>
+    </location>
+  </cdi>
+</cdidata>

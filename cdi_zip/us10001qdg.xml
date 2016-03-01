@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66045">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>343</dist>
+      <lat>38.956286394</lat>
+      <lon>-95.2520770496</lon>
+      <name>Lawrence</name>
+      <state>KS</state>
+    </location>
+    <location name="66441">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>269</dist>
+      <lat>38.9783878023</lat>
+      <lon>-96.7420764821</lon>
+      <name>Junction City</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67022">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>49</dist>
+      <lat>37.0959484612</lat>
+      <lon>-97.6546725248</lon>
+      <name>Caldwell</name>
+      <state>KS</state>
+    </location>
+    <location name="67345">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>37.3585868888</lat>
+      <lon>-96.2132176157</lon>
+      <name>Elk Falls</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>4</nresp>
+      <dist>137</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73401">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>294</dist>
+      <lat>34.2173070847</lat>
+      <lon>-97.1695824833</lon>
+      <name>Ardmore</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.3799</cdi>
+      <nresp>6</nresp>
+      <dist>43</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73726">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>36.5952202687</lat>
+      <lon>-98.4585467157</lon>
+      <name>Carmen</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>2.4718</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="73749">
+      <cdi>5.4480</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>36.7086874656</lat>
+      <lon>-98.1642211912</lon>
+      <name>Jet</name>
+      <state>OK</state>
+    </location>
+    <location name="74008">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>35.9148562447</lat>
+      <lon>-95.8381122962</lon>
+      <name>Bixby</name>
+      <state>OK</state>
+    </location>
+    <location name="74119">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>196</dist>
+      <lat>36.1416718329</lat>
+      <lon>-95.9891883481</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

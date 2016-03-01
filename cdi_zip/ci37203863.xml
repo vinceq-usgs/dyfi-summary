@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90603">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>33.9456933787</lat>
+      <lon>-117.991801052</lon>
+      <name>Whittier</name>
+      <state>CA</state>
+    </location>
+    <location name="90713">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>33.8479130281</lat>
+      <lon>-118.112581056</lon>
+      <name>Lakewood</name>
+      <state>CA</state>
+    </location>
+    <location name="91504">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>115</dist>
+      <lat>34.2027816715</lat>
+      <lon>-118.328942469</lon>
+      <name>Burbank</name>
+      <state>CA</state>
+    </location>
+    <location name="91765">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>33.9874327625</lat>
+      <lon>-117.815205205</lon>
+      <name>Diamond Bar</name>
+      <state>CA</state>
+    </location>
+    <location name="92028">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>33.4048723722</lat>
+      <lon>-117.251406715</lon>
+      <name>Fallbrook</name>
+      <state>CA</state>
+    </location>
+    <location name="92070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>33.1880931737</lat>
+      <lon>-116.755355854</lon>
+      <name>Santa Ysabel</name>
+      <state>CA</state>
+    </location>
+    <location name="92532">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>33.6996810148</lat>
+      <lon>-117.319216486</lon>
+      <name>Lake Elsinore</name>
+      <state>CA</state>
+    </location>
+    <location name="92586">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>33.7070027055</lat>
+      <lon>-117.200214478</lon>
+      <name>Sun City</name>
+      <state>CA</state>
+    </location>
+    <location name="92881">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>33.8400889046</lat>
+      <lon>-117.497317567</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

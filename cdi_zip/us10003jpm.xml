@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="46319">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1080</dist>
+      <lat>41.5207643193</lat>
+      <lon>-87.422016919</lon>
+      <name>Griffith</name>
+      <state>IN</state>
+    </location>
+    <location name="67060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67203">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>141</dist>
+      <lat>37.7037979044</lat>
+      <lon>-97.364550356</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>154</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73749">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>36.7086874656</lat>
+      <lon>-98.1642211912</lon>
+      <name>Jet</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>3.6156</cdi>
+      <nresp>4</nresp>
+      <dist>130</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+    <location name="74059">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>35.9797187465</lat>
+      <lon>-97.0916283661</lon>
+      <name>Perkins</name>
+      <state>OK</state>
+    </location>
+    <location name="74352">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>277</dist>
+      <lat>36.1684100758</lat>
+      <lon>-95.173010106</lon>
+      <name>Locust Grove</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

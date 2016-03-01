@@ -1,0 +1,140 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90260">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1297</dist>
+      <lat>33.888648438</lat>
+      <lon>-118.351851502</lon>
+      <name>Lawndale</name>
+      <state>CA</state>
+    </location>
+    <location name="90603">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>1279</dist>
+      <lat>33.9456933787</lat>
+      <lon>-117.991801052</lon>
+      <name>Whittier</name>
+      <state>CA</state>
+    </location>
+    <location name="91304">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>1342</dist>
+      <lat>34.2240325986</lat>
+      <lon>-118.63324204</lon>
+      <name>Canoga Park</name>
+      <state>CA</state>
+    </location>
+    <location name="92040">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>1125</dist>
+      <lat>32.9132430478</lat>
+      <lon>-116.882406668</lon>
+      <name>Lakeside</name>
+      <state>CA</state>
+    </location>
+    <location name="92102">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>1124</dist>
+      <lat>32.7171498719</lat>
+      <lon>-117.118627348</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92662">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>1245</dist>
+      <lat>33.6037689687</lat>
+      <lon>-117.891046991</lon>
+      <name>Newport Beach</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Cabo San Lucas::Baja California Sur::Mexico">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>256</dist>
+      <lat>22.88</lat>
+      <lon>-109.90</lon>
+      <name>Cabo San Lucas</name>
+    </location>
+    <location name="La Paz::Baja California Sur::Mexico">
+      <cdi>2.7751</cdi>
+      <nresp>3</nresp>
+      <dist>143</dist>
+      <lat>24.14</lat>
+      <lon>-110.32</lon>
+      <name>La Paz</name>
+    </location>
+    <location name="Ahome::Sinaloa::Mexico">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>25.91</lat>
+      <lon>-109.17</lon>
+      <name>Ahome</name>
+    </location>
+    <location name="Compuertas::Sinaloa::Mexico">
+      <cdi>4.1397</cdi>
+      <nresp>2</nresp>
+      <dist>114</dist>
+      <lat>25.45</lat>
+      <lon>-108.35</lon>
+      <name>Compuertas</name>
+    </location>
+    <location name="Culiacán::Sinaloa::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>210</dist>
+      <lat>24.80</lat>
+      <lon>-107.39</lon>
+      <name>Culiacán</name>
+    </location>
+    <location name="Guamúchil::Sinaloa::Mexico">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>25.47</lat>
+      <lon>-108.09</lon>
+      <name>Guamúchil</name>
+    </location>
+    <location name="Guasave::Sinaloa::Mexico">
+      <cdi>4.4826</cdi>
+      <nresp>2</nresp>
+      <dist>108</dist>
+      <lat>25.57</lat>
+      <lon>-108.47</lon>
+      <name>Guasave</name>
+    </location>
+    <location name="Los Mochis::Sinaloa::Mexico">
+      <cdi>3.9933</cdi>
+      <nresp>14</nresp>
+      <dist>83</dist>
+      <lat>25.79</lat>
+      <lon>-109.00</lon>
+      <name>Los Mochis</name>
+    </location>
+    <location name="Topolobampo::Sinaloa::Mexico">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>25.60</lat>
+      <lon>-109.05</lon>
+      <name>Topolobampo</name>
+    </location>
+    <location name="Hermosillo::Sonora::Mexico">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>460</dist>
+      <lat>29.07</lat>
+      <lon>-110.97</lon>
+      <name>Hermosillo</name>
+    </location>
+  </cdi>
+</cdidata>

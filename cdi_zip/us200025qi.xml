@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89436">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>558</dist>
+      <lat>39.6022820496</lat>
+      <lon>-119.707274422</lon>
+      <name>Sparks</name>
+      <state>NV</state>
+    </location>
+    <location name="94952">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>381</dist>
+      <lat>38.2191104861</lat>
+      <lon>-122.775453144</lon>
+      <name>Petaluma</name>
+      <state>CA</state>
+    </location>
+    <location name="95445">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>294</dist>
+      <lat>38.8367313039</lat>
+      <lon>-123.433501289</lon>
+      <name>Gualala</name>
+      <state>CA</state>
+    </location>
+    <location name="95521">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>40.8495303628</lat>
+      <lon>-124.03465378</lon>
+      <name>Arcata</name>
+      <state>CA</state>
+    </location>
+    <location name="95531">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>235</dist>
+      <lat>41.7745510499</lat>
+      <lon>-123.9970815</lon>
+      <name>Crescent City</name>
+      <state>CA</state>
+    </location>
+    <location name="95589">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>40.0406855713</lat>
+      <lon>-123.994740274</lon>
+      <name>Whitethorn</name>
+      <state>CA</state>
+    </location>
+    <location name="95695">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>417</dist>
+      <lat>38.6921573977</lat>
+      <lon>-121.855632552</lon>
+      <name>Woodland</name>
+      <state>CA</state>
+    </location>
+    <location name="95713">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>472</dist>
+      <lat>39.087350268</lat>
+      <lon>-120.927305576</lon>
+      <name>Colfax</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

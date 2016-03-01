@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Córdoba::Córdoba::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>713</dist>
+      <lat>-31.40</lat>
+      <lon>-64.19</lon>
+      <name>Córdoba</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>315</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>259</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>3.8264</cdi>
+      <nresp>7</nresp>
+      <dist>247</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Talagante::Metropolitana::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>259</dist>
+      <lat>-33.66</lat>
+      <lon>-70.93</lon>
+      <name>Talagante</name>
+    </location>
+  </cdi>
+</cdidata>

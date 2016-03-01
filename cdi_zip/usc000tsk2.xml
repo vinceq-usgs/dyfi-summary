@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Baguio::Cordillera::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>16.43</lat>
+      <lon>120.57</lon>
+      <name>Baguio</name>
+    </location>
+    <location name="Dalupirip::Cordillera::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>16.33</lat>
+      <lon>120.73</lon>
+      <name>Dalupirip</name>
+    </location>
+    <location name="La Trinidad::Cordillera::Philippines">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>50</dist>
+      <lat>16.46</lat>
+      <lon>120.59</lon>
+      <name>La Trinidad</name>
+    </location>
+    <location name="Tuding::Cordillera::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>16.41</lat>
+      <lon>120.64</lon>
+      <name>Tuding</name>
+    </location>
+    <location name="Nama::Ilocos::Philippines">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>16.12</lat>
+      <lon>120.55</lon>
+      <name>Nama</name>
+    </location>
+    <location name="San Fernando::Ilocos::Philippines">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>16.61</lat>
+      <lon>120.32</lon>
+      <name>San Fernando</name>
+    </location>
+    <location name="Taboc::Ilocos::Philippines">
+      <cdi>3.8046</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>16.69</lat>
+      <lon>120.34</lon>
+      <name>Taboc</name>
+    </location>
+    <location name="Manila::National Capital Region::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>194</dist>
+      <lat>14.62</lat>
+      <lon>120.97</lon>
+      <name>Manila</name>
+    </location>
+  </cdi>
+</cdidata>

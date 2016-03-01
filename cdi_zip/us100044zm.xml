@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67026">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>37.5122638106</lat>
+      <lon>-97.4881281076</lon>
+      <name>Clearwater</name>
+      <state>KS</state>
+    </location>
+    <location name="67156">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>37.2468518161</lat>
+      <lon>-96.9651090421</lon>
+      <name>Winfield</name>
+      <state>KS</state>
+    </location>
+    <location name="67211">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>37.6671074036</lat>
+      <lon>-97.3175664461</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67217">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>37.6147214594</lat>
+      <lon>-97.361317861</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="74112">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>36.1467733009</lat>
+      <lon>-95.9042716241</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

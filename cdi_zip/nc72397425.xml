@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94025">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>37.4463637453</lat>
+      <lon>-122.186041488</lon>
+      <name>Menlo Park</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94596">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>37.8884024161</lat>
+      <lon>-122.036464813</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="95401">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>38.4514015217</lat>
+      <lon>-122.793254532</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="97535">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>383</dist>
+      <lat>42.2687670372</lat>
+      <lon>-122.813843153</lon>
+      <name>Phoenix</name>
+      <state>OR</state>
+    </location>
+  </cdi>
+</cdidata>

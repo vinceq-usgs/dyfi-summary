@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Tanjung Pandan::Bangka-Belitung::Indonesia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>666</dist>
+      <lat>-2.74</lat>
+      <lon>107.63</lon>
+      <name>Tanjung Pandan</name>
+    </location>
+    <location name="Toboali-Rias::Bangka-Belitung::Indonesia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>655</dist>
+      <lat>-3.00</lat>
+      <lon>106.50</lon>
+      <name>Toboali-Rias</name>
+    </location>
+    <location name="Cilegon::Banten::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>673</dist>
+      <lat>-5.94</lat>
+      <lon>106.00</lon>
+      <name>Cilegon</name>
+    </location>
+    <location name="Labuhan::Banten::Indonesia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>691</dist>
+      <lat>-6.37</lat>
+      <lon>105.83</lon>
+      <name>Labuhan</name>
+    </location>
+    <location name="Tangerang::Banten::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>675</dist>
+      <lat>-6.18</lat>
+      <lon>106.63</lon>
+      <name>Tangerang</name>
+    </location>
+    <location name="Jakarta::Jakarta::Indonesia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>675</dist>
+      <lat>-6.18</lat>
+      <lon>106.83</lon>
+      <name>Jakarta</name>
+    </location>
+    <location name="Bandung::Jawa Barat::Indonesia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>709</dist>
+      <lat>-6.91</lat>
+      <lon>107.60</lon>
+      <name>Bandung</name>
+    </location>
+    <location name="Bogor::Jawa Barat::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>690</dist>
+      <lat>-6.58</lat>
+      <lon>106.79</lon>
+      <name>Bogor</name>
+    </location>
+    <location name="Indramayu::Jawa Barat::Indonesia">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>699</dist>
+      <lat>-6.33</lat>
+      <lon>108.32</lon>
+      <name>Indramayu</name>
+    </location>
+    <location name="Metro::Lampung::Indonesia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>669</dist>
+      <lat>-5.10</lat>
+      <lon>105.33</lon>
+      <name>Metro</name>
+    </location>
+    <location name="Palembang::Sumatera Selatan::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>695</dist>
+      <lat>-2.99</lat>
+      <lon>104.75</lon>
+      <name>Palembang</name>
+    </location>
+  </cdi>
+</cdidata>

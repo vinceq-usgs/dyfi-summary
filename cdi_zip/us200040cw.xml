@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64836">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>311</dist>
+      <lat>37.1726696892</lat>
+      <lon>-94.2839707947</lon>
+      <name>Carthage</name>
+      <state>MO</state>
+    </location>
+    <location name="73025">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.0916</cdi>
+      <nresp>5</nresp>
+      <dist>21</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>3.4234</cdi>
+      <nresp>11</nresp>
+      <dist>11</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73063">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>36.0483977142</lat>
+      <lon>-97.4320352821</lon>
+      <name>Mulhall</name>
+      <state>OK</state>
+    </location>
+    <location name="73108">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>35.4499840591</lat>
+      <lon>-97.5664580898</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="75460">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>304</dist>
+      <lat>33.5716448438</lat>
+      <lon>-95.561473483</lon>
+      <name>Paris</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

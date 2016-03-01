@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="72632">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>329</dist>
+      <lat>36.3731245913</lat>
+      <lon>-93.7428546433</lon>
+      <name>Eureka Springs</name>
+      <state>AR</state>
+    </location>
+    <location name="73044">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73084">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>35.5264751791</lat>
+      <lon>-97.3432436184</lon>
+      <name>Spencer</name>
+      <state>OK</state>
+    </location>
+    <location name="74014">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>36.0489735158</lat>
+      <lon>-95.688743227</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="75225">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>335</dist>
+      <lat>32.865168445</lat>
+      <lon>-96.7910223422</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

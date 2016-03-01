@@ -1,0 +1,172 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Badami Bagh::Jammu and Kashmir::India">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>34.07</lat>
+      <lon>74.85</lon>
+      <name>Badami Bagh</name>
+    </location>
+    <location name="Uri::Jammu and Kashmir::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>34.08</lat>
+      <lon>74.03</lon>
+      <name>Uri</name>
+    </location>
+    <location name="Amritsar::Punjab::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>295</dist>
+      <lat>31.64</lat>
+      <lon>74.87</lon>
+      <name>Amritsar</name>
+    </location>
+    <location name="Muzafferabad::Azad Kashmir::Pakistan">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>60</dist>
+      <lat>34.35</lat>
+      <lon>73.48</lon>
+      <name>Muzafferabad</name>
+    </location>
+    <location name="Islamabad::Federal Capital Area::Pakistan">
+      <cdi>4.0128</cdi>
+      <nresp>42</nresp>
+      <dist>28</dist>
+      <lat>33.72</lat>
+      <lon>73.06</lon>
+      <name>Islamabad</name>
+    </location>
+    <location name="Abottabad::North-West Frontier::Pakistan">
+      <cdi>4.2534</cdi>
+      <nresp>4</nresp>
+      <dist>34</dist>
+      <lat>34.15</lat>
+      <lon>73.20</lon>
+      <name>Abottabad</name>
+    </location>
+    <location name="Harīpur::North-West Frontier::Pakistan">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>34.02</lat>
+      <lon>72.92</lon>
+      <name>Harīpur</name>
+    </location>
+    <location name="Haveliān::North-West Frontier::Pakistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>34.05</lat>
+      <lon>73.17</lon>
+      <name>Haveliān</name>
+    </location>
+    <location name="Jahangira::North-West Frontier::Pakistan">
+      <cdi>7.0399</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>34.02</lat>
+      <lon>73.13</lon>
+      <name>Jahangira</name>
+    </location>
+    <location name="Mingaora::North-West Frontier::Pakistan">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>126</dist>
+      <lat>34.78</lat>
+      <lon>72.36</lon>
+      <name>Mingaora</name>
+    </location>
+    <location name="Risālpur Cantonment::North-West Frontier::Pakistan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>34.07</lat>
+      <lon>71.99</lon>
+      <name>Risālpur Cantonment</name>
+    </location>
+    <location name="Tall::North-West Frontier::Pakistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>198</dist>
+      <lat>35.49</lat>
+      <lon>72.23</lon>
+      <name>Tall</name>
+    </location>
+    <location name="Gujranwala::Punjab::Pakistan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>213</dist>
+      <lat>32.16</lat>
+      <lon>74.18</lon>
+      <name>Gujranwala</name>
+    </location>
+    <location name="Haroonabad::Punjab::Pakistan">
+      <cdi>3.2754</cdi>
+      <nresp>1</nresp>
+      <dist>474</dist>
+      <lat>29.61</lat>
+      <lon>73.14</lon>
+      <name>Haroonabad</name>
+    </location>
+    <location name="Jhelum::Punjab::Pakistan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>32.94</lat>
+      <lon>73.72</lon>
+      <name>Jhelum</name>
+    </location>
+    <location name="Kahuta::Punjab::Pakistan">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>41</dist>
+      <lat>33.59</lat>
+      <lon>73.38</lon>
+      <name>Kahuta</name>
+    </location>
+    <location name="Lahore::Punjab::Pakistan">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>280</dist>
+      <lat>31.56</lat>
+      <lon>74.35</lon>
+      <name>Lahore</name>
+    </location>
+    <location name="Murree::Punjab::Pakistan">
+      <cdi>4.4384</cdi>
+      <nresp>4</nresp>
+      <dist>26</dist>
+      <lat>33.91</lat>
+      <lon>73.39</lon>
+      <name>Murree</name>
+    </location>
+    <location name="Pindi Gheb::Punjab::Pakistan">
+      <cdi>5.4480</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>33.24</lat>
+      <lon>72.26</lon>
+      <name>Pindi Gheb</name>
+    </location>
+    <location name="Rawalpindi::Punjab::Pakistan">
+      <cdi>3.5679</cdi>
+      <nresp>22</nresp>
+      <dist>39</dist>
+      <lat>33.60</lat>
+      <lon>73.04</lon>
+      <name>Rawalpindi</name>
+    </location>
+    <location name="Taxila::Punjab::Pakistan">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>33.75</lat>
+      <lon>72.81</lon>
+      <name>Taxila</name>
+    </location>
+  </cdi>
+</cdidata>

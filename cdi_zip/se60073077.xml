@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="28570">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>439</dist>
+      <lat>34.7853023595</lat>
+      <lon>-76.895295576</lon>
+      <name>Newport</name>
+      <state>NC</state>
+    </location>
+    <location name="29150">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>33.8726821839</lat>
+      <lon>-80.3537940678</lon>
+      <name>Sumter</name>
+      <state>SC</state>
+    </location>
+    <location name="29201">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>78</dist>
+      <lat>33.9856062668</lat>
+      <lon>-81.0289245403</lon>
+      <name>Columbia</name>
+      <state>SC</state>
+    </location>
+    <location name="29585">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>33.4696689926</lat>
+      <lon>-79.1242480463</lon>
+      <name>Pawleys Island</name>
+      <state>SC</state>
+    </location>
+    <location name="29621">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>34.4374036224</lat>
+      <lon>-82.6085659821</lon>
+      <name>Anderson</name>
+      <state>SC</state>
+    </location>
+    <location name="29671">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>221</dist>
+      <lat>34.9379004336</lat>
+      <lon>-82.7194065811</lon>
+      <name>Pickens</name>
+      <state>SC</state>
+    </location>
+    <location name="29803">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>38</dist>
+      <lat>33.4567426171</lat>
+      <lon>-81.7027664226</lon>
+      <name>Aiken</name>
+      <state>SC</state>
+    </location>
+    <location name="29812">
+      <cdi>2.7770</cdi>
+      <nresp>11</nresp>
+      <dist>12</dist>
+      <lat>33.207359249</lat>
+      <lon>-81.3581696348</lon>
+      <name>Barnwell</name>
+      <state>SC</state>
+    </location>
+    <location name="29817">
+      <cdi>3.2968</cdi>
+      <nresp>5</nresp>
+      <dist>6</dist>
+      <lat>33.3669299492</lat>
+      <lon>-81.2867190384</lon>
+      <name>Blackville</name>
+      <state>SC</state>
+    </location>
+  </cdi>
+</cdidata>

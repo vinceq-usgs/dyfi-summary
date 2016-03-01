@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="27332">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>376</dist>
+      <lat>35.3756170052</lat>
+      <lon>-79.1381578407</lon>
+      <name>Sanford</name>
+      <state>NC</state>
+    </location>
+    <location name="27941">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>677</dist>
+      <lat>36.1151612728</lat>
+      <lon>-75.8342179758</lon>
+      <name>Harbinger</name>
+      <state>NC</state>
+    </location>
+    <location name="28205">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>35.2198066143</lat>
+      <lon>-80.7880620871</lon>
+      <name>Charlotte</name>
+      <state>NC</state>
+    </location>
+    <location name="28376">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>371</dist>
+      <lat>34.9906508124</lat>
+      <lon>-79.2453561794</lon>
+      <name>Raeford</name>
+      <state>NC</state>
+    </location>
+    <location name="28716">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>35.4364367056</lat>
+      <lon>-82.8607124355</lon>
+      <name>Canton</name>
+      <state>NC</state>
+    </location>
+    <location name="28719">
+      <cdi>2.1718</cdi>
+      <nresp>3</nresp>
+      <dist>18</dist>
+      <lat>35.6154694366</lat>
+      <lon>-83.216955817</lon>
+      <name>Cherokee</name>
+      <state>NC</state>
+    </location>
+    <location name="28734">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>35.1759453279</lat>
+      <lon>-83.4279385995</lon>
+      <name>Franklin</name>
+      <state>NC</state>
+    </location>
+    <location name="28779">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>35.3602971539</lat>
+      <lon>-83.1981054567</lon>
+      <name>Sylva</name>
+      <state>NC</state>
+    </location>
+    <location name="28789">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>3</dist>
+      <lat>35.4310165211</lat>
+      <lon>-83.2796046478</lon>
+      <name>Whittier</name>
+      <state>NC</state>
+    </location>
+    <location name="28906">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>85</dist>
+      <lat>35.1180726576</lat>
+      <lon>-84.1309893511</lon>
+      <name>Murphy</name>
+      <state>NC</state>
+    </location>
+    <location name="29681">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>34.7691636933</lat>
+      <lon>-82.2241357999</lon>
+      <name>Simpsonville</name>
+      <state>SC</state>
+    </location>
+  </cdi>
+</cdidata>

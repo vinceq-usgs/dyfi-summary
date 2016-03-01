@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94122">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>37.7628768326</lat>
+      <lon>-122.485058175</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94128">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>37.6208624629</lat>
+      <lon>-122.382871255</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94605">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>37.7602447192</lat>
+      <lon>-122.148766398</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95020">
+      <cdi>2.6699</cdi>
+      <nresp>4</nresp>
+      <dist>10</dist>
+      <lat>37.0188204369</lat>
+      <lon>-121.560718867</lon>
+      <name>Gilroy</name>
+      <state>CA</state>
+    </location>
+    <location name="95130">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>37.2813311083</lat>
+      <lon>-121.977808985</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

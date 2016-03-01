@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94112">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>364</dist>
+      <lat>37.7204624906</lat>
+      <lon>-122.443455038</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="95503">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>41</dist>
+      <lat>40.7119988087</lat>
+      <lon>-124.097405236</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95528">
+      <cdi>2.6051</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>40.4876765719</lat>
+      <lon>-123.910528309</lon>
+      <name>Carlotta</name>
+      <state>CA</state>
+    </location>
+    <location name="95536">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>40.4647699382</lat>
+      <lon>-124.250835346</lon>
+      <name>Ferndale</name>
+      <state>CA</state>
+    </location>
+    <location name="95558">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>40.2881620643</lat>
+      <lon>-124.221826337</lon>
+      <name>Petrolia</name>
+      <state>CA</state>
+    </location>
+    <location name="95562">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>40.4799439242</lat>
+      <lon>-124.14320836</lon>
+      <name>Rio Dell</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

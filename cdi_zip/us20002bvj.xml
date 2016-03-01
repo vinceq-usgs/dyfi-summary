@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dalsingh Sarai::Bihar::India">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>198</dist>
+      <lat>25.67</lat>
+      <lon>85.83</lon>
+      <name>Dalsingh Sarai</name>
+    </location>
+    <location name="Katihār::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>276</dist>
+      <lat>25.55</lat>
+      <lon>87.57</lon>
+      <name>Katihār</name>
+    </location>
+    <location name="Khunti::Jharkhand::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>487</dist>
+      <lat>23.08</lat>
+      <lon>85.28</lon>
+      <name>Khunti</name>
+    </location>
+    <location name="Nirsa::Jharkhand::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>418</dist>
+      <lat>23.78</lat>
+      <lon>86.72</lon>
+      <name>Nirsa</name>
+    </location>
+  </cdi>
+</cdidata>

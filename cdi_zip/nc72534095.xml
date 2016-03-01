@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94015">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>37.6808059301</lat>
+      <lon>-122.480422578</lon>
+      <name>Daly City</name>
+      <state>CA</state>
+    </location>
+    <location name="94107">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.7648450669</lat>
+      <lon>-122.394608669</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94110">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>37.7497940107</lat>
+      <lon>-122.415347766</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94116">
+      <cdi>2.1718</cdi>
+      <nresp>4</nresp>
+      <dist>6</dist>
+      <lat>37.7446010014</lat>
+      <lon>-122.48655692</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94118">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>37.7818712131</lat>
+      <lon>-122.461211306</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94121">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>37.7798657144</lat>
+      <lon>-122.494688449</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94122">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>8</dist>
+      <lat>37.7628768326</lat>
+      <lon>-122.485058175</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94132">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>37.7218737448</lat>
+      <lon>-122.486382201</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94521">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>37.9713331484</lat>
+      <lon>-121.957127634</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

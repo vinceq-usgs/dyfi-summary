@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="El Verde::Jalisco::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>57</dist>
+      <lat>20.55</lat>
+      <lon>-103.27</lon>
+      <name>El Verde</name>
+    </location>
+    <location name="Guadalajara::Jalisco::Mexico">
+      <cdi>3.0548</cdi>
+      <nresp>18</nresp>
+      <dist>51</dist>
+      <lat>20.67</lat>
+      <lon>-103.35</lon>
+      <name>Guadalajara</name>
+    </location>
+    <location name="La Venta del Astillero::Jalisco::Mexico">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>20.72</lat>
+      <lon>-103.54</lon>
+      <name>La Venta del Astillero</name>
+    </location>
+    <location name="Las Pintas::Jalisco::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>20.57</lat>
+      <lon>-103.32</lon>
+      <name>Las Pintas</name>
+    </location>
+    <location name="Nuevo México::Jalisco::Mexico">
+      <cdi>4.4700</cdi>
+      <nresp>2</nresp>
+      <dist>51</dist>
+      <lat>20.75</lat>
+      <lon>-103.43</lon>
+      <name>Nuevo México</name>
+    </location>
+    <location name="Santa Anita::Jalisco::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>20.55</lat>
+      <lon>-103.47</lon>
+      <name>Santa Anita</name>
+    </location>
+    <location name="Tesistán::Jalisco::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>20.78</lat>
+      <lon>-103.48</lon>
+      <name>Tesistán</name>
+    </location>
+    <location name="Tlaquepaque::Jalisco::Mexico">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>20.64</lat>
+      <lon>-103.32</lon>
+      <name>Tlaquepaque</name>
+    </location>
+    <location name="Zapopan::Jalisco::Mexico">
+      <cdi>3.5337</cdi>
+      <nresp>9</nresp>
+      <dist>51</dist>
+      <lat>20.72</lat>
+      <lon>-103.40</lon>
+      <name>Zapopan</name>
+    </location>
+  </cdi>
+</cdidata>

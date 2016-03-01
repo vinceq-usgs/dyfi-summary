@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Tucurú::Alta Verapaz::Guatemala">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>15.30</lat>
+      <lon>-90.07</lon>
+      <name>Tucurú</name>
+    </location>
+    <location name="Parramos::Chimaltenango::Guatemala">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>14.61</lat>
+      <lon>-90.80</lon>
+      <name>Parramos</name>
+    </location>
+    <location name="Palín::Escuintla::Guatemala">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>14.40</lat>
+      <lon>-90.70</lon>
+      <name>Palín</name>
+    </location>
+    <location name="Chinautla::Guatemala::Guatemala">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>123</dist>
+      <lat>14.70</lat>
+      <lon>-90.50</lon>
+      <name>Chinautla</name>
+    </location>
+    <location name="Guatemala::Guatemala::Guatemala">
+      <cdi>2.8026</cdi>
+      <nresp>6</nresp>
+      <dist>117</dist>
+      <lat>14.63</lat>
+      <lon>-90.55</lon>
+      <name>Guatemala</name>
+    </location>
+    <location name="Mixco::Guatemala::Guatemala">
+      <cdi>3.2394</cdi>
+      <nresp>4</nresp>
+      <dist>115</dist>
+      <lat>14.64</lat>
+      <lon>-90.60</lon>
+      <name>Mixco</name>
+    </location>
+    <location name="San Raymundo::Guatemala::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>14.76</lat>
+      <lon>-90.60</lon>
+      <name>San Raymundo</name>
+    </location>
+    <location name="Santa Catarina Pinula::Guatemala::Guatemala">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>14.57</lat>
+      <lon>-90.50</lon>
+      <name>Santa Catarina Pinula</name>
+    </location>
+    <location name="Quetzaltenango::Quezaltenango::Guatemala">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>124</dist>
+      <lat>14.84</lat>
+      <lon>-91.53</lon>
+      <name>Quetzaltenango</name>
+    </location>
+    <location name="Antigua Guatemala::Sacatepéquez::Guatemala">
+      <cdi>3.3231</cdi>
+      <nresp>9</nresp>
+      <dist>105</dist>
+      <lat>14.56</lat>
+      <lon>-90.74</lon>
+      <name>Antigua Guatemala</name>
+    </location>
+    <location name="Ciudad Vieja::Sacatepéquez::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>14.52</lat>
+      <lon>-90.77</lon>
+      <name>Ciudad Vieja</name>
+    </location>
+    <location name="San Pablo la Laguna::Sololá::Guatemala">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>14.72</lat>
+      <lon>-91.27</lon>
+      <name>San Pablo la Laguna</name>
+    </location>
+    <location name="San Pedro la Laguna::Sololá::Guatemala">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>14.68</lat>
+      <lon>-91.27</lon>
+      <name>San Pedro la Laguna</name>
+    </location>
+  </cdi>
+</cdidata>

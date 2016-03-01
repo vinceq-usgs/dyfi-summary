@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94558">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>29</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94559">
+      <cdi>2.3251</cdi>
+      <nresp>4</nresp>
+      <dist>8</dist>
+      <lat>38.2394047273</lat>
+      <lon>-122.330669802</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

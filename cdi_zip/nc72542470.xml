@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94087">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>37.3511799729</lat>
+      <lon>-122.036982745</lon>
+      <name>Sunnyvale</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2.6068</cdi>
+      <nresp>11</nresp>
+      <dist>8</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.4575</cdi>
+      <nresp>10</nresp>
+      <dist>8</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.4653</cdi>
+      <nresp>8</nresp>
+      <dist>8</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.8659</cdi>
+      <nresp>23</nresp>
+      <dist>7</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94588">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.6895558211</lat>
+      <lon>-121.896794754</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

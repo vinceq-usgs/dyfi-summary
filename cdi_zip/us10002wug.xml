@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73099">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>35.5251099208</lat>
+      <lon>-97.7584631196</lon>
+      <name>Yukon</name>
+      <state>OK</state>
+    </location>
+    <location name="73131">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>35.5750702853</lat>
+      <lon>-97.4624606899</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.9763</cdi>
+      <nresp>5</nresp>
+      <dist>15</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74105">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>36.097220527</lat>
+      <lon>-95.9631988411</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74344">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>235</dist>
+      <lat>36.5766578996</lat>
+      <lon>-94.7224045508</lon>
+      <name>Grove</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

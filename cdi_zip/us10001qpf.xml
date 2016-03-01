@@ -1,0 +1,47 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98592">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>443</dist>
+      <lat>47.3309358764</lat>
+      <lon>-123.059947524</lon>
+      <name>Union</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Nanaimo::British Columbia::Canada">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>305</dist>
+      <lat>49.21</lat>
+      <lon>-123.97</lon>
+      <name>Nanaimo</name>
+    </location>
+    <location name="Port Hardy::British Columbia::Canada">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>50.72</lat>
+      <lon>-127.50</lon>
+      <name>Port Hardy</name>
+    </location>
+    <location name="Sooke::British Columbia::Canada">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>345</dist>
+      <lat>48.38</lat>
+      <lon>-123.73</lon>
+      <name>Sooke</name>
+    </location>
+    <location name="Victoria::British Columbia::Canada">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>368</dist>
+      <lat>48.43</lat>
+      <lon>-123.37</lon>
+      <name>Victoria</name>
+    </location>
+  </cdi>
+</cdidata>

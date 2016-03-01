@@ -1,0 +1,55 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96799">
+      <cdi>4.7129</cdi>
+      <nresp>4</nresp>
+      <dist>330</dist>
+      <lat>-14.31</lat>
+      <lon>-170.70</lon>
+      <name>AMERICAN SAMOA</name>
+      <state>AS</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Tulaele::North West Upolu::Samoa">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>274</dist>
+      <lat>-13.83</lat>
+      <lon>-171.77</lon>
+      <name>Tulaele</name>
+    </location>
+    <location name="Vailele::North West Upolu::Samoa">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>276</dist>
+      <lat>-13.85</lat>
+      <lon>-171.72</lon>
+      <name>Vailele</name>
+    </location>
+    <location name="Puapua::Savaii::Samoa">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>270</dist>
+      <lat>-13.58</lat>
+      <lon>-172.22</lon>
+      <name>Puapua</name>
+    </location>
+    <location name="Pago Pago::Eastern::American Samoa">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>332</dist>
+      <lat>-14.24</lat>
+      <lon>-170.72</lon>
+      <name>Pago Pago</name>
+    </location>
+    <location name="Ofu::Manuʿa::American Samoa">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>436</dist>
+      <lat>-14.15</lat>
+      <lon>-169.68</lon>
+      <name>Ofu</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90247">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>33.8912563605</lat>
+      <lon>-118.297597956</lon>
+      <name>Gardena</name>
+      <state>CA</state>
+    </location>
+    <location name="92612">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>33.6603612083</lat>
+      <lon>-117.826102104</lon>
+      <name>Irvine</name>
+      <state>CA</state>
+    </location>
+    <location name="92614">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>33.6817944827</lat>
+      <lon>-117.832675108</lon>
+      <name>Irvine</name>
+      <state>CA</state>
+    </location>
+    <location name="92625">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.6015783083</lat>
+      <lon>-117.865633077</lon>
+      <name>Corona del Mar</name>
+      <state>CA</state>
+    </location>
+    <location name="92626">
+      <cdi>2.8973</cdi>
+      <nresp>5</nresp>
+      <dist>11</dist>
+      <lat>33.6791371119</lat>
+      <lon>-117.908579177</lon>
+      <name>Costa Mesa</name>
+      <state>CA</state>
+    </location>
+    <location name="92627">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>33.6481914604</lat>
+      <lon>-117.920343388</lon>
+      <name>Costa Mesa</name>
+      <state>CA</state>
+    </location>
+    <location name="92646">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.6650142157</lat>
+      <lon>-117.968173898</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92649">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>33.7210990547</lat>
+      <lon>-118.044472241</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92651">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>17</dist>
+      <lat>33.5587734014</lat>
+      <lon>-117.772289819</lon>
+      <name>Laguna Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92656">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>33.5748604027</lat>
+      <lon>-117.731392449</lon>
+      <name>Aliso Viejo</name>
+      <state>CA</state>
+    </location>
+    <location name="92663">
+      <cdi>3.9249</cdi>
+      <nresp>3</nresp>
+      <dist>10</dist>
+      <lat>33.6229987</lat>
+      <lon>-117.930008457</lon>
+      <name>Newport Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92708">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>33.7103499656</lat>
+      <lon>-117.951432954</lon>
+      <name>Fountain Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92780">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>33.7357343502</lat>
+      <lon>-117.819201202</lon>
+      <name>Tustin</name>
+      <state>CA</state>
+    </location>
+    <location name="92844">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>33.7655008968</lat>
+      <lon>-117.969557627</lon>
+      <name>Garden Grove</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90046">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>35</dist>
+      <lat>34.1072326039</lat>
+      <lon>-118.364759793</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90049">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>31</dist>
+      <lat>34.0868710988</lat>
+      <lon>-118.488186954</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90232">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>34.0179145665</lat>
+      <lon>-118.391987459</lon>
+      <name>Culver City</name>
+      <state>CA</state>
+    </location>
+    <location name="90245">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>33.9170086764</lat>
+      <lon>-118.402142054</lon>
+      <name>El Segundo</name>
+      <state>CA</state>
+    </location>
+    <location name="90254">
+      <cdi>2.7001</cdi>
+      <nresp>19</nresp>
+      <dist>13</dist>
+      <lat>33.8652373721</lat>
+      <lon>-118.396575558</lon>
+      <name>Hermosa Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90260">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>33.888648438</lat>
+      <lon>-118.351851502</lon>
+      <name>Lawndale</name>
+      <state>CA</state>
+    </location>
+    <location name="90266">
+      <cdi>2.3865</cdi>
+      <nresp>14</nresp>
+      <dist>14</dist>
+      <lat>33.8893870912</lat>
+      <lon>-118.397318684</lon>
+      <name>Manhattan Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90277">
+      <cdi>2.5717</cdi>
+      <nresp>26</nresp>
+      <dist>13</dist>
+      <lat>33.8304542479</lat>
+      <lon>-118.384029436</lon>
+      <name>Redondo Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90278">
+      <cdi>2.3098</cdi>
+      <nresp>13</nresp>
+      <dist>15</dist>
+      <lat>33.8733679819</lat>
+      <lon>-118.370277574</lon>
+      <name>Redondo Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90293">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>33.9546199675</lat>
+      <lon>-118.441214521</lon>
+      <name>Playa del Rey</name>
+      <state>CA</state>
+    </location>
+    <location name="90403">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>34.0306581003</lat>
+      <lon>-118.490537842</lon>
+      <name>Santa Monica</name>
+      <state>CA</state>
+    </location>
+    <location name="90501">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>33.8336285474</lat>
+      <lon>-118.314281547</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90503">
+      <cdi>2.1883</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>33.8419954117</lat>
+      <lon>-118.351634592</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90505">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>33.8086917483</lat>
+      <lon>-118.348325088</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="92008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>33.1466607065</lat>
+      <lon>-117.31838967</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

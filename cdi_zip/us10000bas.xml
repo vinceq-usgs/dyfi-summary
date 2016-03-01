@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>3</nresp>
+      <dist>87</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.1077</cdi>
+      <nresp>14</nresp>
+      <dist>14</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.7095</cdi>
+      <nresp>35</nresp>
+      <dist>5</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="75067">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>351</dist>
+      <lat>33.0150097821</lat>
+      <lon>-97.0039628339</lon>
+      <name>Lewisville</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

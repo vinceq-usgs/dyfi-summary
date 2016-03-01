@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Caracas::Distrito Capital::Venezuela">
+      <cdi>3.9543</cdi>
+      <nresp>1</nresp>
+      <dist>626</dist>
+      <lat>10.54</lat>
+      <lon>-66.93</lon>
+      <name>Caracas</name>
+    </location>
+    <location name="El Cafetal::Miranda::Venezuela">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>631</dist>
+      <lat>10.43</lat>
+      <lon>-66.83</lon>
+      <name>El Cafetal</name>
+    </location>
+    <location name="Ejido::Mérida::Venezuela">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>106</dist>
+      <lat>8.56</lat>
+      <lon>-71.23</lon>
+      <name>Ejido</name>
+    </location>
+    <location name="El Vigía::Mérida::Venezuela">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>8.63</lat>
+      <lon>-71.65</lon>
+      <name>El Vigía</name>
+    </location>
+    <location name="Valera::Trujillo::Venezuela">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>9.32</lat>
+      <lon>-70.62</lon>
+      <name>Valera</name>
+    </location>
+    <location name="La Fría::Táchira::Venezuela">
+      <cdi>7.4040</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>8.22</lat>
+      <lon>-72.25</lon>
+      <name>La Fría</name>
+    </location>
+    <location name="San Cristóbal::Táchira::Venezuela">
+      <cdi>2.5759</cdi>
+      <nresp>3</nresp>
+      <dist>53</dist>
+      <lat>7.77</lat>
+      <lon>-72.25</lon>
+      <name>San Cristóbal</name>
+    </location>
+    <location name="Maracaibo::Zulia::Venezuela">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>280</dist>
+      <lat>10.73</lat>
+      <lon>-71.66</lon>
+      <name>Maracaibo</name>
+    </location>
+    <location name="Cúcuta::Norte de Santander::Colombia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>7.88</lat>
+      <lon>-72.51</lon>
+      <name>Cúcuta</name>
+    </location>
+    <location name="Bucaramanga::Santander::Colombia">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>164</dist>
+      <lat>7.13</lat>
+      <lon>-73.13</lon>
+      <name>Bucaramanga</name>
+    </location>
+    <location name="Floridablanca::Santander::Colombia">
+      <cdi>2.5168</cdi>
+      <nresp>2</nresp>
+      <dist>167</dist>
+      <lat>7.06</lat>
+      <lon>-73.09</lon>
+      <name>Floridablanca</name>
+    </location>
+  </cdi>
+</cdidata>

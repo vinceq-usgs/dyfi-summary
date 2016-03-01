@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73025">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>6</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="74120">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>36.1500754484</lat>
+      <lon>-95.9765243594</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

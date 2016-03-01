@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94110">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>37.7497940107</lat>
+      <lon>-122.415347766</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94115">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>37.7858951001</lat>
+      <lon>-122.437453444</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94508">
+      <cdi>2.2854</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>38.5793622419</lat>
+      <lon>-122.447535241</lon>
+      <name>Angwin</name>
+      <state>CA</state>
+    </location>
+    <location name="94515">
+      <cdi>2.7659</cdi>
+      <nresp>12</nresp>
+      <dist>21</dist>
+      <lat>38.6063407927</lat>
+      <lon>-122.595633121</lon>
+      <name>Calistoga</name>
+      <state>CA</state>
+    </location>
+    <location name="94558">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>28</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94559">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>38.2394047273</lat>
+      <lon>-122.330669802</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94567">
+      <cdi>2.9370</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>38.6713870349</lat>
+      <lon>-122.442966451</lon>
+      <name>Pope Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94574">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>38.4956568895</lat>
+      <lon>-122.410359481</lon>
+      <name>Saint Helena</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94930">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>37.963648832</lat>
+      <lon>-122.628676967</lon>
+      <name>Fairfax</name>
+      <state>CA</state>
+    </location>
+    <location name="95403">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>38.5032353589</lat>
+      <lon>-122.750206204</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95404">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>38.3832370515</lat>
+      <lon>-122.640583489</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95409">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>38.4572243695</lat>
+      <lon>-122.598650563</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

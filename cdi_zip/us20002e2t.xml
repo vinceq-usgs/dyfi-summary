@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Maracaibo::Zulia::Venezuela">
+      <cdi>4.0423</cdi>
+      <nresp>8</nresp>
+      <dist>108</dist>
+      <lat>10.73</lat>
+      <lon>-71.66</lon>
+      <name>Maracaibo</name>
+    </location>
+    <location name="Maicao::La Guajira::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>11.39</lat>
+      <lon>-72.24</lon>
+      <name>Maicao</name>
+    </location>
+    <location name="Ríohacha::La Guajira::Colombia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>11.54</lat>
+      <lon>-72.91</lon>
+      <name>Ríohacha</name>
+    </location>
+  </cdi>
+</cdidata>

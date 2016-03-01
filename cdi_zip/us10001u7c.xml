@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>3.4498</cdi>
+      <nresp>5</nresp>
+      <dist>7</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

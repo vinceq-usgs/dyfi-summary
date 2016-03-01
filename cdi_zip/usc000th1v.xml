@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67005">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>37.065145113</lat>
+      <lon>-96.9858253723</lon>
+      <name>Arkansas City</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67133">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>37.5767304997</lat>
+      <lon>-97.1039969268</lon>
+      <name>Rose Hill</name>
+      <state>KS</state>
+    </location>
+    <location name="74136">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>36.0617672231</lat>
+      <lon>-95.9409568667</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="75062">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>445</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Pualas::Central Mindanao::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>8.02</lat>
+      <lon>123.85</lon>
+      <name>Pualas</name>
+    </location>
+    <location name="Bais::Central Visayas::Philippines">
+      <cdi>4.2355</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>9.60</lat>
+      <lon>123.12</lon>
+      <name>Bais</name>
+    </location>
+    <location name="Clarin::Central Visayas::Philippines">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>141</dist>
+      <lat>9.96</lat>
+      <lon>124.02</lon>
+      <name>Clarin</name>
+    </location>
+    <location name="Dumaguete::Central Visayas::Philippines">
+      <cdi>2.4261</cdi>
+      <nresp>3</nresp>
+      <dist>103</dist>
+      <lat>9.32</lat>
+      <lon>123.31</lon>
+      <name>Dumaguete</name>
+    </location>
+    <location name="Lazi::Central Visayas::Philippines">
+      <cdi>4.8844</cdi>
+      <nresp>2</nresp>
+      <dist>93</dist>
+      <lat>9.13</lat>
+      <lon>123.64</lon>
+      <name>Lazi</name>
+    </location>
+    <location name="Sibulan::Central Visayas::Philippines">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>9.36</lat>
+      <lon>123.29</lon>
+      <name>Sibulan</name>
+    </location>
+    <location name="Siquijor::Central Visayas::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>95</dist>
+      <lat>9.22</lat>
+      <lon>123.51</lon>
+      <name>Siquijor</name>
+    </location>
+    <location name="Magdiwang::Southern Tagalog::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>407</dist>
+      <lat>12.49</lat>
+      <lon>122.51</lon>
+      <name>Magdiwang</name>
+    </location>
+  </cdi>
+</cdidata>

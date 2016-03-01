@@ -1,0 +1,238 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93010">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>472</dist>
+      <lat>34.229149675</lat>
+      <lon>-119.075762949</lon>
+      <name>Camarillo</name>
+      <state>CA</state>
+    </location>
+    <location name="93641">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>286</dist>
+      <lat>36.6950387743</lat>
+      <lon>-119.040531661</lon>
+      <name>Miramonte</name>
+      <state>CA</state>
+    </location>
+    <location name="94109">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>37.7930720881</lat>
+      <lon>-122.421238911</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94127">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>37.7353467968</lat>
+      <lon>-122.459866554</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94501">
+      <cdi>2.8939</cdi>
+      <nresp>8</nresp>
+      <dist>28</dist>
+      <lat>37.7746713921</lat>
+      <lon>-122.275647073</lon>
+      <name>Alameda</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>3.2193</cdi>
+      <nresp>11</nresp>
+      <dist>10</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94507">
+      <cdi>2.8973</cdi>
+      <nresp>6</nresp>
+      <dist>12</dist>
+      <lat>37.8529789211</lat>
+      <lon>-122.00597462</lon>
+      <name>Alamo</name>
+      <state>CA</state>
+    </location>
+    <location name="94523">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.9543225437</lat>
+      <lon>-122.07630293</lon>
+      <name>Pleasant Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>3.2025</cdi>
+      <nresp>26</nresp>
+      <dist>9</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94541">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>37.6745039472</lat>
+      <lon>-122.08434059</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94546">
+      <cdi>2.8812</cdi>
+      <nresp>5</nresp>
+      <dist>14</dist>
+      <lat>37.7535145162</lat>
+      <lon>-122.097032395</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94549">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>37.9011071203</lat>
+      <lon>-122.117193174</lon>
+      <name>Lafayette</name>
+      <state>CA</state>
+    </location>
+    <location name="94556">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>37.8329277404</lat>
+      <lon>-122.111057261</lon>
+      <name>Moraga</name>
+      <state>CA</state>
+    </location>
+    <location name="94566">
+      <cdi>3.6156</cdi>
+      <nresp>3</nresp>
+      <dist>19</dist>
+      <lat>37.6457318049</lat>
+      <lon>-121.852881407</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>2.1224</cdi>
+      <nresp>19</nresp>
+      <dist>12</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.7829</cdi>
+      <nresp>38</nresp>
+      <dist>10</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>3.0679</cdi>
+      <nresp>38</nresp>
+      <dist>8</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94588">
+      <cdi>2.5168</cdi>
+      <nresp>6</nresp>
+      <dist>14</dist>
+      <lat>37.6895558211</lat>
+      <lon>-121.896794754</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="94595">
+      <cdi>2.7404</cdi>
+      <nresp>6</nresp>
+      <dist>16</dist>
+      <lat>37.8714903106</lat>
+      <lon>-122.069041617</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94596">
+      <cdi>2.7751</cdi>
+      <nresp>4</nresp>
+      <dist>16</dist>
+      <lat>37.8884024161</lat>
+      <lon>-122.036464813</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94597">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.9181539053</lat>
+      <lon>-122.071327156</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94598">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>37.9057818419</lat>
+      <lon>-122.003612069</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94601">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.7769570111</lat>
+      <lon>-122.218009652</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94603">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.738999196</lat>
+      <lon>-122.1764151</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94605">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>37.7602447192</lat>
+      <lon>-122.148766398</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94609">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>37.8347302593</lat>
+      <lon>-122.264110335</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

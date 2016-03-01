@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94122">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>272</dist>
+      <lat>37.7628768326</lat>
+      <lon>-122.485058175</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94538">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>279</dist>
+      <lat>37.4995299957</lat>
+      <lon>-121.977885195</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94577">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>263</dist>
+      <lat>37.7165921385</lat>
+      <lon>-122.164549051</lon>
+      <name>San Leandro</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>252</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94589">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>226</dist>
+      <lat>38.1408765464</lat>
+      <lon>-122.248056096</lon>
+      <name>Vallejo</name>
+      <state>CA</state>
+    </location>
+    <location name="94704">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>251</dist>
+      <lat>37.8690688607</lat>
+      <lon>-122.244743009</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+    <location name="95678">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>38.7648177637</lat>
+      <lon>-121.288145345</lon>
+      <name>Roseville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

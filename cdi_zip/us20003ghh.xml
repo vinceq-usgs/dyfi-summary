@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bandung::Jawa Barat::Indonesia">
+      <cdi>2.7124</cdi>
+      <nresp>6</nresp>
+      <dist>132</dist>
+      <lat>-6.91</lat>
+      <lon>107.60</lon>
+      <name>Bandung</name>
+    </location>
+    <location name="Batu Jajar::Jawa Barat::Indonesia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>-6.88</lat>
+      <lon>107.48</lon>
+      <name>Batu Jajar</name>
+    </location>
+    <location name="Ciawi::Jawa Barat::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>-6.67</lat>
+      <lon>106.83</lon>
+      <name>Ciawi</name>
+    </location>
+    <location name="Dayeuh Kolot::Jawa Barat::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>-6.98</lat>
+      <lon>107.62</lon>
+      <name>Dayeuh Kolot</name>
+    </location>
+    <location name="Lembang::Jawa Barat::Indonesia">
+      <cdi>3.8502</cdi>
+      <nresp>2</nresp>
+      <dist>142</dist>
+      <lat>-6.81</lat>
+      <lon>107.61</lon>
+      <name>Lembang</name>
+    </location>
+    <location name="Padalarang::Jawa Barat::Indonesia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>-6.84</lat>
+      <lon>107.48</lon>
+      <name>Padalarang</name>
+    </location>
+    <location name="Pameungpeuk::Jawa Barat::Indonesia">
+      <cdi>5.4480</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>-7.02</lat>
+      <lon>107.60</lon>
+      <name>Pameungpeuk</name>
+    </location>
+    <location name="Sukabumi::Jawa Barat::Indonesia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>-6.92</lat>
+      <lon>106.92</lon>
+      <name>Sukabumi</name>
+    </location>
+  </cdi>
+</cdidata>

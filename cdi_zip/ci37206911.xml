@@ -1,0 +1,238 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90623">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>33.8504803622</lat>
+      <lon>-118.040965967</lon>
+      <name>La Palma</name>
+      <state>CA</state>
+    </location>
+    <location name="90815">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>33.796240627</lat>
+      <lon>-118.11595962</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91011">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>34.2247504665</lat>
+      <lon>-118.111431029</lon>
+      <name>La Canada Flintridge</name>
+      <state>CA</state>
+    </location>
+    <location name="91730">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>34.0996175563</lat>
+      <lon>-117.579542111</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91737">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>34.1517080412</lat>
+      <lon>-117.582705701</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91739">
+      <cdi>2.2372</cdi>
+      <nresp>4</nresp>
+      <dist>20</dist>
+      <lat>34.135237188</lat>
+      <lon>-117.525563436</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92311">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>34.8400535</lat>
+      <lon>-117.043139595</lon>
+      <name>Barstow</name>
+      <state>CA</state>
+    </location>
+    <location name="92322">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>34.2328855629</lat>
+      <lon>-117.327701991</lon>
+      <name>Cedarpines Park</name>
+      <state>CA</state>
+    </location>
+    <location name="92325">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>34.246238693</lat>
+      <lon>-117.292453158</lon>
+      <name>Crestline</name>
+      <state>CA</state>
+    </location>
+    <location name="92335">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>34.0869349564</lat>
+      <lon>-117.466361873</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92336">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>34.1352054936</lat>
+      <lon>-117.462098185</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92346">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>34.1187046695</lat>
+      <lon>-117.178198622</lon>
+      <name>Highland</name>
+      <state>CA</state>
+    </location>
+    <location name="92401">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>16</dist>
+      <lat>34.1057137797</lat>
+      <lon>-117.290972962</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92404">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.1771868051</lat>
+      <lon>-117.274202394</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92405">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.1461626381</lat>
+      <lon>-117.304032925</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92407">
+      <cdi>2.5939</cdi>
+      <nresp>17</nresp>
+      <dist>14</dist>
+      <lat>34.1726036158</lat>
+      <lon>-117.308551982</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92408">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>34.0845095549</lat>
+      <lon>-117.26370311</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92506">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>33.9345422726</lat>
+      <lon>-117.361830818</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92507">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>33.9529113701</lat>
+      <lon>-117.323004987</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92509">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>34.0033889465</lat>
+      <lon>-117.445586484</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92592">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>33.5072014251</lat>
+      <lon>-117.013060513</lon>
+      <name>Temecula</name>
+      <state>CA</state>
+    </location>
+    <location name="92595">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>33.6189102624</lat>
+      <lon>-117.260994905</lon>
+      <name>Wildomar</name>
+      <state>CA</state>
+    </location>
+    <location name="92860">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>33.9246632061</lat>
+      <lon>-117.55268765</lon>
+      <name>Norco</name>
+      <state>CA</state>
+    </location>
+    <location name="92880">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>33.9212642945</lat>
+      <lon>-117.611282855</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+    <location name="93033">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>34.1531414971</lat>
+      <lon>-119.122868651</lon>
+      <name>Oxnard</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

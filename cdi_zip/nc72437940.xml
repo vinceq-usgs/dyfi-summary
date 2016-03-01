@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92701">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>435</dist>
+      <lat>33.7483589418</lat>
+      <lon>-117.85871774</lon>
+      <name>Santa Ana</name>
+      <state>CA</state>
+    </location>
+    <location name="93940">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>36.5827434701</lat>
+      <lon>-121.841088555</lon>
+      <name>Monterey</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+    <location name="95827">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>219</dist>
+      <lat>38.5526604872</lat>
+      <lon>-121.326734146</lon>
+      <name>Sacramento</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

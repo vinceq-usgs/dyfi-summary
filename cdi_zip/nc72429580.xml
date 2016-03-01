@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94303">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>338</dist>
+      <lat>37.4540850883</lat>
+      <lon>-122.121923924</lon>
+      <name>Palo Alto</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>302</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95008">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>356</dist>
+      <lat>37.2799654858</lat>
+      <lon>-121.954633222</lon>
+      <name>Campbell</name>
+      <state>CA</state>
+    </location>
+    <location name="95032">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>363</dist>
+      <lat>37.2152832761</lat>
+      <lon>-121.929411862</lon>
+      <name>Los Gatos</name>
+      <state>CA</state>
+    </location>
+    <location name="95128">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>351</dist>
+      <lat>37.3162104971</lat>
+      <lon>-121.936547909</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95762">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>202</dist>
+      <lat>38.6813012122</lat>
+      <lon>-121.059670478</lon>
+      <name>El Dorado Hills</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

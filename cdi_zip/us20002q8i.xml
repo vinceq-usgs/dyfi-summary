@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="San Francisco de Macorís::Duarte::Dominican Republic">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>44</dist>
+      <lat>19.30</lat>
+      <lon>-70.25</lon>
+      <name>San Francisco de Macorís</name>
+    </location>
+    <location name="Gaspar Hernández::Espaillat::Dominican Republic">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>19.62</lat>
+      <lon>-70.28</lon>
+      <name>Gaspar Hernández</name>
+    </location>
+    <location name="Jamao al Norte::Espaillat::Dominican Republic">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>20</dist>
+      <lat>19.65</lat>
+      <lon>-70.45</lon>
+      <name>Jamao al Norte</name>
+    </location>
+    <location name="La Vega::La Vega::Dominican Republic">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>58</dist>
+      <lat>19.22</lat>
+      <lon>-70.53</lon>
+      <name>La Vega</name>
+    </location>
+    <location name="Río San Juan::María Trinidad Sánchez::Dominican Republic">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>19.65</lat>
+      <lon>-70.08</lon>
+      <name>Río San Juan</name>
+    </location>
+    <location name="Sosúa::Puerto Plata::Dominican Republic">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>19.75</lat>
+      <lon>-70.52</lon>
+      <name>Sosúa</name>
+    </location>
+    <location name="San José de las Matas::Santiago::Dominican Republic">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>79</dist>
+      <lat>19.33</lat>
+      <lon>-70.93</lon>
+      <name>San José de las Matas</name>
+    </location>
+    <location name="Santiago::Santiago::Dominican Republic">
+      <cdi>3.1131</cdi>
+      <nresp>7</nresp>
+      <dist>49</dist>
+      <lat>19.48</lat>
+      <lon>-70.69</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Santo Domingo::Santo Domingo::Dominican Republic">
+      <cdi>2.3954</cdi>
+      <nresp>4</nresp>
+      <dist>139</dist>
+      <lat>18.48</lat>
+      <lon>-69.91</lon>
+      <name>Santo Domingo</name>
+    </location>
+  </cdi>
+</cdidata>

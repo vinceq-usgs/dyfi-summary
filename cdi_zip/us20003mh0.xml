@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="74023">
+      <cdi>2.9893</cdi>
+      <nresp>6</nresp>
+      <dist>7</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

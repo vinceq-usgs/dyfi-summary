@@ -1,0 +1,139 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98001">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>47.3084550057</lat>
+      <lon>-122.263909349</lon>
+      <name>Auburn</name>
+      <state>WA</state>
+    </location>
+    <location name="98014">
+      <cdi>2.6484</cdi>
+      <nresp>4</nresp>
+      <dist>35</dist>
+      <lat>47.6597964065</lat>
+      <lon>-121.897333527</lon>
+      <name>Carnation</name>
+      <state>WA</state>
+    </location>
+    <location name="98024">
+      <cdi>2.2534</cdi>
+      <nresp>3</nresp>
+      <dist>36</dist>
+      <lat>47.6268253909</lat>
+      <lon>-121.783005304</lon>
+      <name>Fall City</name>
+      <state>WA</state>
+    </location>
+    <location name="98027">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>47.4908700225</lat>
+      <lon>-121.974492819</lon>
+      <name>Issaquah</name>
+      <state>WA</state>
+    </location>
+    <location name="98038">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>47.4038894051</lat>
+      <lon>-122.021086476</lon>
+      <name>Maple Valley</name>
+      <state>WA</state>
+    </location>
+    <location name="98045">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>47.4516538059</lat>
+      <lon>-121.604044606</lon>
+      <name>North Bend</name>
+      <state>WA</state>
+    </location>
+    <location name="98051">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>47.3628212242</lat>
+      <lon>-121.902011034</lon>
+      <name>Ravensdale</name>
+      <state>WA</state>
+    </location>
+    <location name="98065">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>33</dist>
+      <lat>47.5651262062</lat>
+      <lon>-121.771397506</lon>
+      <name>Snoqualmie</name>
+      <state>WA</state>
+    </location>
+    <location name="98074">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>47.6247721875</lat>
+      <lon>-122.044467223</lon>
+      <name>Sammamish</name>
+      <state>WA</state>
+    </location>
+    <location name="98075">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>47.5883057958</lat>
+      <lon>-122.039391171</lon>
+      <name>Sammamish</name>
+      <state>WA</state>
+    </location>
+    <location name="98110">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>47.6444952321</lat>
+      <lon>-122.537135564</lon>
+      <name>Bainbridge Island</name>
+      <state>WA</state>
+    </location>
+    <location name="98119">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>47.6388850773</lat>
+      <lon>-122.368991303</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98178">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>47.4964308247</lat>
+      <lon>-122.250881271</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98296">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>47.8438328078</lat>
+      <lon>-122.104435082</lon>
+      <name>Snohomish</name>
+      <state>WA</state>
+    </location>
+    <location name="98367">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>47.4656985398</lat>
+      <lon>-122.684433726</lon>
+      <name>Port Orchard</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bologna::Emilia-Romagna::Italy">
+      <cdi>3.3462</cdi>
+      <nresp>3</nresp>
+      <dist>45</dist>
+      <lat>44.50</lat>
+      <lon>11.34</lon>
+      <name>Bologna</name>
+    </location>
+    <location name="Porretta Terme::Emilia-Romagna::Italy">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>44.15</lat>
+      <lon>10.98</lon>
+      <name>Porretta Terme</name>
+    </location>
+    <location name="Florence::Toscana::Italy">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>43.78</lat>
+      <lon>11.24</lon>
+      <name>Florence</name>
+    </location>
+    <location name="Pistoia::Toscana::Italy">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>43.94</lat>
+      <lon>10.91</lon>
+      <name>Pistoia</name>
+    </location>
+    <location name="Prato::Toscana::Italy">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>43.89</lat>
+      <lon>11.09</lon>
+      <name>Prato</name>
+    </location>
+  </cdi>
+</cdidata>

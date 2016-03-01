@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66071">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>383</dist>
+      <lat>38.5737024137</lat>
+      <lon>-94.8681166431</lon>
+      <name>Paola</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>37.9758810565</lat>
+      <lon>-97.931237911</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="67502">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>38.1280036149</lat>
+      <lon>-97.9208647034</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="73071">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>35.2411743327</lat>
+      <lon>-97.4121112581</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73116">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>35.5436102007</lat>
+      <lon>-97.5548398296</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73717">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>36.8636011675</lat>
+      <lon>-98.750839081</lon>
+      <name>Alva</name>
+      <state>OK</state>
+    </location>
+    <location name="74017">
+      <cdi>2.1136</cdi>
+      <nresp>4</nresp>
+      <dist>260</dist>
+      <lat>36.3934747275</lat>
+      <lon>-95.5741682638</lon>
+      <name>Claremore</name>
+      <state>OK</state>
+    </location>
+    <location name="74019">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>259</dist>
+      <lat>36.2821833601</lat>
+      <lon>-95.6050489434</lon>
+      <name>Claremore</name>
+      <state>OK</state>
+    </location>
+    <location name="74134">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>246</dist>
+      <lat>36.1112685837</lat>
+      <lon>-95.7986242503</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

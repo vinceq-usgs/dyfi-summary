@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90802">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>33.7546211793</lat>
+      <lon>-118.21110738</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91730">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>34.0996175563</lat>
+      <lon>-117.579542111</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91739">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.135237188</lat>
+      <lon>-117.525563436</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="92335">
+      <cdi>2.2908</cdi>
+      <nresp>9</nresp>
+      <dist>4</dist>
+      <lat>34.0869349564</lat>
+      <lon>-117.466361873</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92336">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>6</dist>
+      <lat>34.1352054936</lat>
+      <lon>-117.462098185</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92337">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>34.0491763581</lat>
+      <lon>-117.471344778</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92505">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>33.9341559414</lat>
+      <lon>-117.495019802</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92509">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>34.0033889465</lat>
+      <lon>-117.445586484</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

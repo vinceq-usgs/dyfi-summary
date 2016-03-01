@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91342">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>34.3502679015</lat>
+      <lon>-118.300760788</lon>
+      <name>Sylmar</name>
+      <state>CA</state>
+    </location>
+    <location name="91344">
+      <cdi>2.9958</cdi>
+      <nresp>4</nresp>
+      <dist>6</dist>
+      <lat>34.2915037907</lat>
+      <lon>-118.506153742</lon>
+      <name>Granada Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91345">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>34.266494957</lat>
+      <lon>-118.460362113</lon>
+      <name>Mission Hills</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,122 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>61.2172381203</lat>
+      <lon>-149.869068212</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99502">
+      <cdi>2.9958</cdi>
+      <nresp>4</nresp>
+      <dist>179</dist>
+      <lat>61.158809373</lat>
+      <lon>-150.04667767</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99503">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>175</dist>
+      <lat>61.1880996048</lat>
+      <lon>-149.889156419</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99507">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>178</dist>
+      <lat>61.151181701</lat>
+      <lon>-149.77914819</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99517">
+      <cdi>2.6841</cdi>
+      <nresp>4</nresp>
+      <dist>175</dist>
+      <lat>61.1899261926</lat>
+      <lon>-149.936096257</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99518">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>178</dist>
+      <lat>61.1591909995</lat>
+      <lon>-149.884408774</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99567">
+      <cdi>2.4911</cdi>
+      <nresp>7</nresp>
+      <dist>146</dist>
+      <lat>61.4609962815</lat>
+      <lon>-149.330150001</lon>
+      <name>Chugiak</name>
+      <state>AK</state>
+    </location>
+    <location name="99577">
+      <cdi>2.4718</cdi>
+      <nresp>4</nresp>
+      <dist>170</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+    <location name="99587">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>197</dist>
+      <lat>60.9713228515</lat>
+      <lon>-149.123866496</lon>
+      <name>Girdwood</name>
+      <state>AK</state>
+    </location>
+    <location name="99645">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>61.6828083589</lat>
+      <lon>-148.01052815</lon>
+      <name>Palmer</name>
+      <state>AK</state>
+    </location>
+    <location name="99654">
+      <cdi>2.1718</cdi>
+      <nresp>6</nresp>
+      <dist>143</dist>
+      <lat>61.5022894283</lat>
+      <lon>-149.796287978</lon>
+      <name>Wasilla</name>
+      <state>AK</state>
+    </location>
+    <location name="99676">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>62.1797503902</lat>
+      <lon>-149.889641836</lon>
+      <name>Talkeetna</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Mayo::Yukon::Canada">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>696</dist>
+      <lat>63.60</lat>
+      <lon>-135.89</lon>
+      <name>Mayo</name>
+    </location>
+  </cdi>
+</cdidata>

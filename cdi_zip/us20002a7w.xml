@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67025">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>37.6317979716</lat>
+      <lon>-97.7606812407</lon>
+      <name>Cheney</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73044">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73056">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>36.1278486852</lat>
+      <lon>-97.591388566</lon>
+      <name>Marshall</name>
+      <state>OK</state>
+    </location>
+    <location name="73071">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>35.2411743327</lat>
+      <lon>-97.4121112581</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73073">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>36.1327356471</lat>
+      <lon>-97.4344452141</lon>
+      <name>Orlando</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>4.7129</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="74008">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>35.9148562447</lat>
+      <lon>-95.8381122962</lon>
+      <name>Bixby</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74116">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>36.1848986441</lat>
+      <lon>-95.8325638899</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74127">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>36.1716076469</lat>
+      <lon>-96.045630502</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74135">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>36.0971002866</lat>
+      <lon>-95.9223153955</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74136">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>144</dist>
+      <lat>36.0617672231</lat>
+      <lon>-95.9409568667</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74644">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>36.5500488707</lat>
+      <lon>-97.0587219188</lon>
+      <name>Marland</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

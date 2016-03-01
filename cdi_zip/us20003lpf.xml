@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>244</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Limache::Valparaíso::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>-33.02</lat>
+      <lon>-71.27</lon>
+      <name>Limache</name>
+    </location>
+    <location name="Quillota::Valparaíso::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>-32.88</lat>
+      <lon>-71.26</lon>
+      <name>Quillota</name>
+    </location>
+    <location name="Villa Alemana::Valparaíso::Chile">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>-33.04</lat>
+      <lon>-71.36</lon>
+      <name>Villa Alemana</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

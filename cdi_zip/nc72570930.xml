@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95501">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>52</dist>
+      <lat>40.7953313015</lat>
+      <lon>-124.153385167</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95503">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>40.7119988087</lat>
+      <lon>-124.097405236</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95519">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>40.9515606458</lat>
+      <lon>-124.03879277</lon>
+      <name>McKinleyville</name>
+      <state>CA</state>
+    </location>
+    <location name="95536">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>40.4647699382</lat>
+      <lon>-124.250835346</lon>
+      <name>Ferndale</name>
+      <state>CA</state>
+    </location>
+    <location name="95540">
+      <cdi>2.2854</cdi>
+      <nresp>8</nresp>
+      <dist>38</dist>
+      <lat>40.5903951405</lat>
+      <lon>-124.130433801</lon>
+      <name>Fortuna</name>
+      <state>CA</state>
+    </location>
+    <location name="95551">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>37</dist>
+      <lat>40.6620732404</lat>
+      <lon>-124.246703351</lon>
+      <name>Loleta</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

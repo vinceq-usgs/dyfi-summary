@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="AnjÅ::Aichi::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>34.96</lat>
+      <lon>137.10</lon>
+      <name>AnjÅ</name>
+    </location>
+    <location name="Ichinomiya::Aichi::Japan">
+      <cdi>4.4700</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>35.30</lat>
+      <lon>136.80</lon>
+      <name>Ichinomiya</name>
+    </location>
+    <location name="Kanie::Aichi::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>35.12</lat>
+      <lon>136.80</lon>
+      <name>Kanie</name>
+    </location>
+    <location name="Komaki::Aichi::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>35.30</lat>
+      <lon>136.91</lon>
+      <name>Komaki</name>
+    </location>
+    <location name="Nagoya::Aichi::Japan">
+      <cdi>3.9249</cdi>
+      <nresp>5</nresp>
+      <dist>48</dist>
+      <lat>35.15</lat>
+      <lon>136.91</lon>
+      <name>Nagoya</name>
+    </location>
+    <location name="KyÅto::KyÅto::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>35.01</lat>
+      <lon>135.75</lon>
+      <name>KyÅto</name>
+    </location>
+    <location name="Iida::Nagano::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>106</dist>
+      <lat>35.52</lat>
+      <lon>137.83</lon>
+      <name>Iida</name>
+    </location>
+    <location name="Fujieda::Shizuoka::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>34.88</lat>
+      <lon>138.26</lon>
+      <name>Fujieda</name>
+    </location>
+    <location name="Shizuoka::Shizuoka::Japan">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>34.98</lat>
+      <lon>138.39</lon>
+      <name>Shizuoka</name>
+    </location>
+    <location name="Tenryu::Shizuoka::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>34.88</lat>
+      <lon>137.83</lon>
+      <name>Tenryu</name>
+    </location>
+  </cdi>
+</cdidata>

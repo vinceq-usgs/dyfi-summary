@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99567">
+      <cdi>2.3330</cdi>
+      <nresp>3</nresp>
+      <dist>62</dist>
+      <lat>61.4609962815</lat>
+      <lon>-149.330150001</lon>
+      <name>Chugiak</name>
+      <state>AK</state>
+    </location>
+    <location name="99577">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+    <location name="99654">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>61.5022894283</lat>
+      <lon>-149.796287978</lon>
+      <name>Wasilla</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

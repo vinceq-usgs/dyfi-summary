@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Hitachi::Ibaraki::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>36.59</lat>
+      <lon>140.66</lon>
+      <name>Hitachi</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>125</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Yokohama::Kanagawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>209</dist>
+      <lat>35.47</lat>
+      <lon>139.62</lon>
+      <name>Yokohama</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>184</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

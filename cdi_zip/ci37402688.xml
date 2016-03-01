@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90501">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>33.8336285474</lat>
+      <lon>-118.314281547</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="92070">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>33.1880931737</lat>
+      <lon>-116.755355854</lon>
+      <name>Santa Ysabel</name>
+      <state>CA</state>
+    </location>
+    <location name="92108">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>32.7736067464</lat>
+      <lon>-117.143828476</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92586">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>33.7070027055</lat>
+      <lon>-117.200214478</lon>
+      <name>Sun City</name>
+      <state>CA</state>
+    </location>
+    <location name="92672">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>33.3967264913</lat>
+      <lon>-117.553883921</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+    <location name="92673">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>33.466341879</lat>
+      <lon>-117.61159134</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+    <location name="92780">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>33.7357343502</lat>
+      <lon>-117.819201202</lon>
+      <name>Tustin</name>
+      <state>CA</state>
+    </location>
+    <location name="93445">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>407</dist>
+      <lat>35.1040392777</lat>
+      <lon>-120.615001668</lon>
+      <name>Oceano</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

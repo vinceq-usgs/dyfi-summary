@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67052">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>37.6555956014</lat>
+      <lon>-97.5764084283</lon>
+      <name>Goddard</name>
+      <state>KS</state>
+    </location>
+    <location name="67152">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>37.2574619357</lat>
+      <lon>-97.4015125998</lon>
+      <name>Wellington</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73739">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>36.5358234222</lat>
+      <lon>-98.1581411831</lon>
+      <name>Goltry</name>
+      <state>OK</state>
+    </location>
+    <location name="73761">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>5</dist>
+      <lat>36.7154412504</lat>
+      <lon>-98.014218327</lon>
+      <name>Nash</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

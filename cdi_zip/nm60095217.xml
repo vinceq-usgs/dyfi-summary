@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="38117">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>35.1154064841</lat>
+      <lon>-89.9050629229</lon>
+      <name>Memphis</name>
+      <state>TN</state>
+    </location>
+    <location name="63640">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>298</dist>
+      <lat>37.7542179963</lat>
+      <lon>-90.3707839078</lon>
+      <name>Farmington</name>
+      <state>MO</state>
+    </location>
+    <location name="63901">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>200</dist>
+      <lat>36.774012722</lat>
+      <lon>-90.4491847559</lon>
+      <name>Poplar Bluff</name>
+      <state>MO</state>
+    </location>
+    <location name="72015">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>34.5109488607</lat>
+      <lon>-92.5907624377</lon>
+      <name>Benton</name>
+      <state>AR</state>
+    </location>
+    <location name="72081">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>11</dist>
+      <lat>35.3655017813</lat>
+      <lon>-91.6610763485</lon>
+      <name>Judsonia</name>
+      <state>AR</state>
+    </location>
+    <location name="72143">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>9</dist>
+      <lat>35.2321187782</lat>
+      <lon>-91.7371226837</lon>
+      <name>Searcy</name>
+      <state>AR</state>
+    </location>
+    <location name="72149">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>35.2474609086</lat>
+      <lon>-91.7266498882</lon>
+      <name>Searcy</name>
+      <state>AR</state>
+    </location>
+    <location name="72204">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>34.7168735345</lat>
+      <lon>-92.3565305278</lon>
+      <name>Little Rock</name>
+      <state>AR</state>
+    </location>
+  </cdi>
+</cdidata>

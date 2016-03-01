@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Oranjestad::_no region::Aruba">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>762</dist>
+      <lat>12.53</lat>
+      <lon>-70.03</lon>
+      <name>Oranjestad</name>
+    </location>
+    <location name="La Calera::Cundinamarca::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>4.72</lat>
+      <lon>-73.97</lon>
+      <name>La Calera</name>
+    </location>
+    <location name="Bucaramanga::Santander::Colombia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>7.13</lat>
+      <lon>-73.13</lon>
+      <name>Bucaramanga</name>
+    </location>
+    <location name="Floridablanca::Santander::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>7.06</lat>
+      <lon>-73.09</lon>
+      <name>Floridablanca</name>
+    </location>
+    <location name="Los Santos::Santander::Colombia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>7.17</lat>
+      <lon>-73.09</lon>
+      <name>Los Santos</name>
+    </location>
+    <location name="San Gil::Santander::Colombia">
+      <cdi>5.1522</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>6.56</lat>
+      <lon>-73.14</lon>
+      <name>San Gil</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Rangpūr::Rangpūr::Bangladesh">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>25.74</lat>
+      <lon>89.25</lon>
+      <name>Rangpūr</name>
+    </location>
+    <location name="Bilasipara::Assam::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>26.24</lat>
+      <lon>90.24</lon>
+      <name>Bilasipara</name>
+    </location>
+    <location name="Bongaigaon::Assam::India">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>26.48</lat>
+      <lon>90.54</lon>
+      <name>Bongaigaon</name>
+    </location>
+    <location name="Gauhati::Assam::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>26.19</lat>
+      <lon>91.75</lon>
+      <name>Gauhati</name>
+    </location>
+    <location name="Baghmara::Meghalaya::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>25.20</lat>
+      <lon>90.63</lon>
+      <name>Baghmara</name>
+    </location>
+  </cdi>
+</cdidata>

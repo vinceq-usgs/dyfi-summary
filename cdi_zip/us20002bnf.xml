@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kokopo::East New Britain::Papua New Guinea">
+      <cdi>7.1275</cdi>
+      <nresp>2</nresp>
+      <dist>140</dist>
+      <lat>-4.34</lat>
+      <lon>152.27</lon>
+      <name>Kokopo</name>
+    </location>
+    <location name="Rabaul::East New Britain::Papua New Guinea">
+      <cdi>6.4961</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>-4.20</lat>
+      <lon>152.16</lon>
+      <name>Rabaul</name>
+    </location>
+    <location name="Kimbe::West New Britain::Papua New Guinea">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>196</dist>
+      <lat>-5.55</lat>
+      <lon>150.14</lon>
+      <name>Kimbe</name>
+    </location>
+  </cdi>
+</cdidata>

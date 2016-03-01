@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="77515">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>199</dist>
+      <lat>29.1657285075</lat>
+      <lon>-95.4627172918</lon>
+      <name>Angleton</name>
+      <state>TX</state>
+    </location>
+    <location name="78116">
+      <cdi>3.9249</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>29.0779644735</lat>
+      <lon>-97.7903650701</lon>
+      <name>Gillett</name>
+      <state>TX</state>
+    </location>
+    <location name="78159">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>29.241538422</lat>
+      <lon>-97.597368623</lon>
+      <name>Smiley</name>
+      <state>TX</state>
+    </location>
+    <location name="78629">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>29.4840311086</lat>
+      <lon>-97.4282156634</lon>
+      <name>Gonzales</name>
+      <state>TX</state>
+    </location>
+    <location name="78645">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>30.4464625997</lat>
+      <lon>-97.9693299796</lon>
+      <name>Leander</name>
+      <state>TX</state>
+    </location>
+    <location name="78736">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>30.2508877416</lat>
+      <lon>-97.9458490264</lon>
+      <name>Austin</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

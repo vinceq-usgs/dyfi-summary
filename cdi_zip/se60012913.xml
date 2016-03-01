@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="18052">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>367</dist>
+      <lat>40.6562375705</lat>
+      <lon>-75.5037149354</lon>
+      <name>Whitehall</name>
+      <state>PA</state>
+    </location>
+    <location name="20906">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>39.0877577722</lat>
+      <lon>-77.0564030661</lon>
+      <name>Silver Spring</name>
+      <state>MD</state>
+    </location>
+    <location name="21075">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>39.2047497826</lat>
+      <lon>-76.7530030102</lon>
+      <name>Elkridge</name>
+      <state>MD</state>
+    </location>
+    <location name="21228">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>39.2723650955</lat>
+      <lon>-76.745923977</lon>
+      <name>Catonsville</name>
+      <state>MD</state>
+    </location>
+    <location name="22207">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>38.9069288381</lat>
+      <lon>-77.1235132514</lon>
+      <name>Arlington</name>
+      <state>VA</state>
+    </location>
+    <location name="22551">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>38.1693593094</lat>
+      <lon>-77.7030902167</lon>
+      <name>Spotsylvania</name>
+      <state>VA</state>
+    </location>
+    <location name="22960">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>38.2108397293</lat>
+      <lon>-78.0512494835</lon>
+      <name>Orange</name>
+      <state>VA</state>
+    </location>
+    <location name="23059">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.7012358296</lat>
+      <lon>-77.5658493855</lon>
+      <name>Glen Allen</name>
+      <state>VA</state>
+    </location>
+    <location name="23093">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>6</dist>
+      <lat>38.0004107227</lat>
+      <lon>-78.0371685324</lon>
+      <name>Louisa</name>
+      <state>VA</state>
+    </location>
+    <location name="23111">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>37.6118554699</lat>
+      <lon>-77.2465496295</lon>
+      <name>Mechanicsville</name>
+      <state>VA</state>
+    </location>
+    <location name="23117">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>37.9812175261</lat>
+      <lon>-77.8737014329</lon>
+      <name>Mineral</name>
+      <state>VA</state>
+    </location>
+    <location name="23487">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>36.8529108679</lat>
+      <lon>-76.7238202387</lon>
+      <name>Windsor</name>
+      <state>VA</state>
+    </location>
+  </cdi>
+</cdidata>

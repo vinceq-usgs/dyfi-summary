@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Jakarta::Jakarta::Indonesia">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>242</dist>
+      <lat>-6.18</lat>
+      <lon>106.83</lon>
+      <name>Jakarta</name>
+    </location>
+    <location name="Bandung::Jawa Barat::Indonesia">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>173</dist>
+      <lat>-6.91</lat>
+      <lon>107.60</lon>
+      <name>Bandung</name>
+    </location>
+    <location name="Batu Jajar::Jawa Barat::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>-6.88</lat>
+      <lon>107.48</lon>
+      <name>Batu Jajar</name>
+    </location>
+    <location name="Cisaat::Jawa Barat::Indonesia">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>-6.90</lat>
+      <lon>106.88</lon>
+      <name>Cisaat</name>
+    </location>
+    <location name="Lembang::Jawa Barat::Indonesia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>183</dist>
+      <lat>-6.81</lat>
+      <lon>107.61</lon>
+      <name>Lembang</name>
+    </location>
+    <location name="Tasikmalaya::Jawa Barat::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>-7.32</lat>
+      <lon>108.21</lon>
+      <name>Tasikmalaya</name>
+    </location>
+  </cdi>
+</cdidata>

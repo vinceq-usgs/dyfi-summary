@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94303">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>37.4540850883</lat>
+      <lon>-122.121923924</lon>
+      <name>Palo Alto</name>
+      <state>CA</state>
+    </location>
+    <location name="94304">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>37.3990962354</lat>
+      <lon>-122.172460116</lon>
+      <name>Palo Alto</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.8408</cdi>
+      <nresp>5</nresp>
+      <dist>8</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>7</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95126">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>37.3268750735</lat>
+      <lon>-121.916914377</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

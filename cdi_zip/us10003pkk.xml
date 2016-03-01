@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Machalí::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>-34.18</lat>
+      <lon>-70.67</lon>
+      <name>Machalí</name>
+    </location>
+    <location name="Rancagua::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>119</dist>
+      <lat>-34.17</lat>
+      <lon>-70.74</lon>
+      <name>Rancagua</name>
+    </location>
+    <location name="San Fernando::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>81</dist>
+      <lat>-34.58</lat>
+      <lon>-70.99</lon>
+      <name>San Fernando</name>
+    </location>
+    <location name="Curicó::Maule::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>63</dist>
+      <lat>-34.98</lat>
+      <lon>-71.24</lon>
+      <name>Curicó</name>
+    </location>
+    <location name="Talca::Maule::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>-35.42</lat>
+      <lon>-71.66</lon>
+      <name>Talca</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.3330</cdi>
+      <nresp>3</nresp>
+      <dist>182</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

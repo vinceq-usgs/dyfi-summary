@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89501">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>39.5276392064</lat>
+      <lon>-119.810246013</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89502">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>39.4934115902</lat>
+      <lon>-119.74641456</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89506">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>39.6777141272</lat>
+      <lon>-119.83754497</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89508">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>39.7994960561</lat>
+      <lon>-119.923799475</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89519">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>39.4812247569</lat>
+      <lon>-119.858942136</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89521">
+      <cdi>3.2152</cdi>
+      <nresp>7</nresp>
+      <dist>13</dist>
+      <lat>39.3850735022</lat>
+      <lon>-119.686126294</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89704">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>39.2646937658</lat>
+      <lon>-119.790752886</lon>
+      <name>Washoe Valley</name>
+      <state>NV</state>
+    </location>
+    <location name="89706">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>37</dist>
+      <lat>39.1659952628</lat>
+      <lon>-119.547075036</lon>
+      <name>Carson City</name>
+      <state>NV</state>
+    </location>
+    <location name="95252">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>38.1607928198</lat>
+      <lon>-120.822744362</lon>
+      <name>Valley Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="95714">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>39.1947970847</lat>
+      <lon>-120.831044137</lon>
+      <name>Dutch Flat</name>
+      <state>CA</state>
+    </location>
+    <location name="95901">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>39.189320091</lat>
+      <lon>-121.481230042</lon>
+      <name>Marysville</name>
+      <state>CA</state>
+    </location>
+    <location name="95922">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>39.4850341333</lat>
+      <lon>-120.97538791</lon>
+      <name>Camptonville</name>
+      <state>CA</state>
+    </location>
+    <location name="95945">
+      <cdi>2.6627</cdi>
+      <nresp>3</nresp>
+      <dist>101</dist>
+      <lat>39.2138541316</lat>
+      <lon>-120.926496583</lon>
+      <name>Grass Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95946">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>39.1771978554</lat>
+      <lon>-121.214661963</lon>
+      <name>Penn Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95949">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>120</dist>
+      <lat>39.0999764229</lat>
+      <lon>-121.114611914</lon>
+      <name>Grass Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95959">
+      <cdi>2.6223</cdi>
+      <nresp>19</nresp>
+      <dist>97</dist>
+      <lat>39.3405158705</lat>
+      <lon>-120.901725991</lon>
+      <name>Nevada City</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

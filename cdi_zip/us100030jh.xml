@@ -1,0 +1,100 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiba::Chiba::Japan">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>59</dist>
+      <lat>35.61</lat>
+      <lon>140.11</lon>
+      <name>Chiba</name>
+    </location>
+    <location name="Urayasu::Chiba::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>35.67</lat>
+      <lon>139.90</lon>
+      <name>Urayasu</name>
+    </location>
+    <location name="Fujisawa::Kanagawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>35.33</lat>
+      <lon>139.47</lon>
+      <name>Fujisawa</name>
+    </location>
+    <location name="Kawasaki::Kanagawa::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>66</dist>
+      <lat>35.53</lat>
+      <lon>139.70</lon>
+      <name>Kawasaki</name>
+    </location>
+    <location name="Yamato::Kanagawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>35.52</lat>
+      <lon>139.47</lon>
+      <name>Yamato</name>
+    </location>
+    <location name="Yokohama::Kanagawa::Japan">
+      <cdi>2.8299</cdi>
+      <nresp>6</nresp>
+      <dist>69</dist>
+      <lat>35.47</lat>
+      <lon>139.62</lon>
+      <name>Yokohama</name>
+    </location>
+    <location name="Hatogaya::Saitama::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>35.84</lat>
+      <lon>139.73</lon>
+      <name>Hatogaya</name>
+    </location>
+    <location name="Kawaguchi::Saitama::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>35.81</lat>
+      <lon>139.73</lon>
+      <name>Kawaguchi</name>
+    </location>
+    <location name="Saitama::Saitama::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>35.87</lat>
+      <lon>139.64</lon>
+      <name>Saitama</name>
+    </location>
+    <location name="Kokubunji::Tokio::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>35.70</lat>
+      <lon>139.48</lon>
+      <name>Kokubunji</name>
+    </location>
+    <location name="Komae::Tokio::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>35.63</lat>
+      <lon>139.58</lon>
+      <name>Komae</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.5099</cdi>
+      <nresp>13</nresp>
+      <dist>69</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

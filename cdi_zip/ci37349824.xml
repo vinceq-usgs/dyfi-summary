@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>34.1379565788</lat>
+      <lon>-117.600749744</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91766">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>34.0416787651</lat>
+      <lon>-117.757154453</lon>
+      <name>Pomona</name>
+      <state>CA</state>
+    </location>
+    <location name="92324">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>34.0312328963</lat>
+      <lon>-117.28500846</lon>
+      <name>Colton</name>
+      <state>CA</state>
+    </location>
+    <location name="92401">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>34.1057137797</lat>
+      <lon>-117.290972962</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92407">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>34.1726036158</lat>
+      <lon>-117.308551982</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92507">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>33.9529113701</lat>
+      <lon>-117.323004987</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92509">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>34.0033889465</lat>
+      <lon>-117.445586484</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92845">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>33.7831326172</lat>
+      <lon>-118.02664898</lon>
+      <name>Garden Grove</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

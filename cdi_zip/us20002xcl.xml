@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="74075">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>52</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74881">
+      <cdi>3.5612</cdi>
+      <nresp>3</nresp>
+      <dist>4</dist>
+      <lat>35.6811574012</lat>
+      <lon>-97.0462017044</lon>
+      <name>Wellston</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

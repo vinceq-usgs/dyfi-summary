@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cilegon::Banten::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>-5.94</lat>
+      <lon>106.00</lon>
+      <name>Cilegon</name>
+    </location>
+    <location name="Pasarkemis::Banten::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>183</dist>
+      <lat>-6.16</lat>
+      <lon>106.51</lon>
+      <name>Pasarkemis</name>
+    </location>
+    <location name="Pondok Aren::Banten::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>197</dist>
+      <lat>-6.25</lat>
+      <lon>106.68</lon>
+      <name>Pondok Aren</name>
+    </location>
+    <location name="Serpong::Banten::Indonesia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>192</dist>
+      <lat>-6.32</lat>
+      <lon>106.66</lon>
+      <name>Serpong</name>
+    </location>
+    <location name="Tangerang::Banten::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>194</dist>
+      <lat>-6.18</lat>
+      <lon>106.63</lon>
+      <name>Tangerang</name>
+    </location>
+    <location name="Jakarta::Jakarta::Indonesia">
+      <cdi>2.4094</cdi>
+      <nresp>11</nresp>
+      <dist>215</dist>
+      <lat>-6.18</lat>
+      <lon>106.83</lon>
+      <name>Jakarta</name>
+    </location>
+    <location name="Bogor::Jawa Barat::Indonesia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>200</dist>
+      <lat>-6.58</lat>
+      <lon>106.79</lon>
+      <name>Bogor</name>
+    </location>
+    <location name="Citeureup::Jawa Barat::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>209</dist>
+      <lat>-6.48</lat>
+      <lon>106.86</lon>
+      <name>Citeureup</name>
+    </location>
+    <location name="Pamulang::Jawa Barat::Indonesia">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>200</dist>
+      <lat>-6.31</lat>
+      <lon>106.73</lon>
+      <name>Pamulang</name>
+    </location>
+  </cdi>
+</cdidata>

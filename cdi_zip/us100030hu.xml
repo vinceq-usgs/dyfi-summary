@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67211">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>248</dist>
+      <lat>37.6671074036</lat>
+      <lon>-97.3175664461</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73020">
+      <cdi>2.4718</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>35.456075286</lat>
+      <lon>-97.2632650514</lon>
+      <name>Choctaw</name>
+      <state>OK</state>
+    </location>
+    <location name="73045">
+      <cdi>3.4070</cdi>
+      <nresp>12</nresp>
+      <dist>10</dist>
+      <lat>35.5033357543</lat>
+      <lon>-97.1512438578</lon>
+      <name>Harrah</name>
+      <state>OK</state>
+    </location>
+    <location name="73165">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>35.3420484245</lat>
+      <lon>-97.3589880869</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74851">
+      <cdi>3.0916</cdi>
+      <nresp>9</nresp>
+      <dist>8</dist>
+      <lat>35.4031104746</lat>
+      <lon>-97.0926965117</lon>
+      <name>McLoud</name>
+      <state>OK</state>
+    </location>
+    <location name="74857">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>35.3419691675</lat>
+      <lon>-97.1962017041</lon>
+      <name>Newalla</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

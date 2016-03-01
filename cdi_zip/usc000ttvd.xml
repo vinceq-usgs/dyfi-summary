@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="35055">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>34.1544447175</lat>
+      <lon>-86.7613140827</lon>
+      <name>Cullman</name>
+      <state>AL</state>
+    </location>
+    <location name="35211">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>33.4589500005</lat>
+      <lon>-86.8624374362</lon>
+      <name>Birmingham</name>
+      <state>AL</state>
+    </location>
+    <location name="35401">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>33.177333537</lat>
+      <lon>-87.6165755816</lon>
+      <name>Tuscaloosa</name>
+      <state>AL</state>
+    </location>
+    <location name="35462">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>32.9341757636</lat>
+      <lon>-87.98539177</lon>
+      <name>Eutaw</name>
+      <state>AL</state>
+    </location>
+    <location name="35476">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>33.2325590366</lat>
+      <lon>-87.6106920153</lon>
+      <name>Northport</name>
+      <state>AL</state>
+    </location>
+    <location name="35504">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>33.8950597703</lat>
+      <lon>-87.1694610937</lon>
+      <name>Jasper</name>
+      <state>AL</state>
+    </location>
+    <location name="36067">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>32.5071931481</lat>
+      <lon>-86.5680328977</lon>
+      <name>Prattville</name>
+      <state>AL</state>
+    </location>
+  </cdi>
+</cdidata>

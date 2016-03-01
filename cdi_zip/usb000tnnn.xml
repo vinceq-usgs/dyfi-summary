@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64784">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>338</dist>
+      <lat>37.6889868325</lat>
+      <lon>-94.2060796662</lon>
+      <name>Sheldon</name>
+      <state>MO</state>
+    </location>
+    <location name="67003">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67217">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>37.6147214594</lat>
+      <lon>-97.361317861</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73771">
+      <cdi>5.7201</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>36.8672796879</lat>
+      <lon>-97.9811769749</lon>
+      <name>Wakita</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

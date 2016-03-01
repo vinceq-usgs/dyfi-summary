@@ -1,0 +1,139 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="30016">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>33.5166673466</lat>
+      <lon>-83.9295143482</lon>
+      <name>Covington</name>
+      <state>GA</state>
+    </location>
+    <location name="30025">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>33.6576259685</lat>
+      <lon>-83.6958123324</lon>
+      <name>Social Circle</name>
+      <state>GA</state>
+    </location>
+    <location name="30305">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>33.835025829</lat>
+      <lon>-84.3888592868</lon>
+      <name>Atlanta</name>
+      <state>GA</state>
+    </location>
+    <location name="30546">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>34.9081353178</lat>
+      <lon>-83.7067599541</lon>
+      <name>Hiawassee</name>
+      <state>GA</state>
+    </location>
+    <location name="30656">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>33.8616036433</lat>
+      <lon>-83.7185753687</lon>
+      <name>Monroe</name>
+      <state>GA</state>
+    </location>
+    <location name="30663">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>33.6144165073</lat>
+      <lon>-83.5956808236</lon>
+      <name>Rutledge</name>
+      <state>GA</state>
+    </location>
+    <location name="30677">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>33.7938679306</lat>
+      <lon>-83.3788406649</lon>
+      <name>Watkinsville</name>
+      <state>GA</state>
+    </location>
+    <location name="31024">
+      <cdi>2.9427</cdi>
+      <nresp>14</nresp>
+      <dist>13</dist>
+      <lat>33.3187035129</lat>
+      <lon>-83.3739062942</lon>
+      <name>Eatonton</name>
+      <state>GA</state>
+    </location>
+    <location name="31032">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>33.0197027874</lat>
+      <lon>-83.5816924576</lon>
+      <name>Gray</name>
+      <state>GA</state>
+    </location>
+    <location name="31061">
+      <cdi>2</cdi>
+      <nresp>11</nresp>
+      <dist>17</dist>
+      <lat>33.0792063285</lat>
+      <lon>-83.2373786596</lon>
+      <name>Milledgeville</name>
+      <state>GA</state>
+    </location>
+    <location name="31088">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>32.583931862</lat>
+      <lon>-83.6512846279</lon>
+      <name>Warner Robins</name>
+      <state>GA</state>
+    </location>
+    <location name="31211">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>32.8970435481</lat>
+      <lon>-83.5800919778</lon>
+      <name>Macon</name>
+      <state>GA</state>
+    </location>
+    <location name="31794">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>197</dist>
+      <lat>31.4476146667</lat>
+      <lon>-83.4544269611</lon>
+      <name>Tifton</name>
+      <state>GA</state>
+    </location>
+    <location name="36205">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>236</dist>
+      <lat>33.7192774739</lat>
+      <lon>-85.7906422603</lon>
+      <name>Anniston</name>
+      <state>AL</state>
+    </location>
+    <location name="38326">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>500</dist>
+      <lat>35.041266179</lat>
+      <lon>-88.2837759736</lon>
+      <name>Counce</name>
+      <state>TN</state>
+    </location>
+  </cdi>
+</cdidata>

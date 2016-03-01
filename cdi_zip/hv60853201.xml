@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96727">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>20</dist>
+      <lat>20.0606169257</lat>
+      <lon>-155.542666088</lon>
+      <name>Honokaa</name>
+      <state>HI</state>
+    </location>
+    <location name="96743">
+      <cdi>2.8026</cdi>
+      <nresp>6</nresp>
+      <dist>38</dist>
+      <lat>19.931537941</lat>
+      <lon>-155.724082526</lon>
+      <name>Kamuela</name>
+      <state>HI</state>
+    </location>
+    <location name="96764">
+      <cdi>3.2104</cdi>
+      <nresp>5</nresp>
+      <dist>15</dist>
+      <lat>19.9386109147</lat>
+      <lon>-155.278546267</lon>
+      <name>Laupahoehoe</name>
+      <state>HI</state>
+    </location>
+    <location name="96774">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>19.9908496497</lat>
+      <lon>-155.273009108</lon>
+      <name>Ookala</name>
+      <state>HI</state>
+    </location>
+    <location name="96776">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>19.801926795</lat>
+      <lon>-155.525904156</lon>
+      <name>Paauilo</name>
+      <state>HI</state>
+    </location>
+    <location name="96780">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>19.8965405484</lat>
+      <lon>-155.242800424</lon>
+      <name>Papaaloa</name>
+      <state>HI</state>
+    </location>
+    <location name="96781">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>32</dist>
+      <lat>19.7878309204</lat>
+      <lon>-155.189185432</lon>
+      <name>Papaikou</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

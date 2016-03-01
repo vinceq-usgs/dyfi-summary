@@ -1,0 +1,156 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Alajuela::Alajuela::Costa Rica">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>10.02</lat>
+      <lon>-84.23</lon>
+      <name>Alajuela</name>
+    </location>
+    <location name="San Antonio::Alajuela::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>9.98</lat>
+      <lon>-84.19</lon>
+      <name>San Antonio</name>
+    </location>
+    <location name="Venado::Alajuela::Costa Rica">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>10.55</lat>
+      <lon>-84.77</lon>
+      <name>Venado</name>
+    </location>
+    <location name="Cartago::Cartago::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>9.87</lat>
+      <lon>-83.93</lon>
+      <name>Cartago</name>
+    </location>
+    <location name="Pacayas::Cartago::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>9.80</lat>
+      <lon>-84.05</lon>
+      <name>Pacayas</name>
+    </location>
+    <location name="Pejibaye::Cartago::Costa Rica">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>9.82</lat>
+      <lon>-83.70</lon>
+      <name>Pejibaye</name>
+    </location>
+    <location name="Asunción::Heredia::Costa Rica">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>9.98</lat>
+      <lon>-84.17</lon>
+      <name>Asunción</name>
+    </location>
+    <location name="San Francisco::Heredia::Costa Rica">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>9.99</lat>
+      <lon>-84.13</lon>
+      <name>San Francisco</name>
+    </location>
+    <location name="Quepos::Puntarenas::Costa Rica">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>9.45</lat>
+      <lon>-84.15</lon>
+      <name>Quepos</name>
+    </location>
+    <location name="Calle Blancos::San José::Costa Rica">
+      <cdi>3.3811</cdi>
+      <nresp>2</nresp>
+      <dist>65</dist>
+      <lat>9.95</lat>
+      <lon>-84.07</lon>
+      <name>Calle Blancos</name>
+    </location>
+    <location name="Colón::San José::Costa Rica">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>9.92</lat>
+      <lon>-84.25</lon>
+      <name>Colón</name>
+    </location>
+    <location name="Guadalupe::San José::Costa Rica">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>65</dist>
+      <lat>9.94</lat>
+      <lon>-84.06</lon>
+      <name>Guadalupe</name>
+    </location>
+    <location name="Sabanilla::San José::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>9.95</lat>
+      <lon>-84.03</lon>
+      <name>Sabanilla</name>
+    </location>
+    <location name="San Isidro (San Isidro de Coronado)::San José::Costa Rica">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>10.02</lat>
+      <lon>-84.06</lon>
+      <name>San Isidro (San Isidro de Coronado)</name>
+    </location>
+    <location name="San Isidro (San Isidro de El General)::San José::Costa Rica">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>9.37</lat>
+      <lon>-83.71</lon>
+      <name>San Isidro (San Isidro de El General)</name>
+    </location>
+    <location name="San José::San José::Costa Rica">
+      <cdi>3.0916</cdi>
+      <nresp>6</nresp>
+      <dist>64</dist>
+      <lat>9.93</lat>
+      <lon>-84.08</lon>
+      <name>San José</name>
+    </location>
+    <location name="San Juan (San Juan de Tibás)::San José::Costa Rica">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>9.96</lat>
+      <lon>-84.08</lon>
+      <name>San Juan (San Juan de Tibás)</name>
+    </location>
+    <location name="San Rafael::San José::Costa Rica">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>9.93</lat>
+      <lon>-84.13</lon>
+      <name>San Rafael</name>
+    </location>
+    <location name="Santa Ana::San José::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>9.94</lat>
+      <lon>-84.18</lon>
+      <name>Santa Ana</name>
+    </location>
+  </cdi>
+</cdidata>

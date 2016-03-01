@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67005">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>37.065145113</lat>
+      <lon>-96.9858253723</lon>
+      <name>Arkansas City</name>
+      <state>KS</state>
+    </location>
+    <location name="67013">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>37.3907583526</lat>
+      <lon>-97.30073702</lon>
+      <name>Belle Plaine</name>
+      <state>KS</state>
+    </location>
+    <location name="67060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>175</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>178</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67216">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>167</dist>
+      <lat>37.6082148038</lat>
+      <lon>-97.314056177</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73034">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73063">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>36.0483977142</lat>
+      <lon>-97.4320352821</lon>
+      <name>Mulhall</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>2.1883</cdi>
+      <nresp>2</nresp>
+      <dist>39</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>46</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73773">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>36.2657606082</lat>
+      <lon>-97.8823018211</lon>
+      <name>Waukomis</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>75</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>45</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74644">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>36.5500488707</lat>
+      <lon>-97.0587219188</lon>
+      <name>Marland</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,220 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1035</dist>
+      <lat>46.195923345</lat>
+      <lon>-116.868962453</lon>
+      <name>Lewiston</name>
+      <state>ID</state>
+    </location>
+    <location name="90604">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>1555</dist>
+      <lat>33.930163994</lat>
+      <lon>-118.012801925</lon>
+      <name>Whittier</name>
+      <state>CA</state>
+    </location>
+    <location name="93252">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>1399</dist>
+      <lat>34.830922025</lat>
+      <lon>-119.367067381</lon>
+      <name>Maricopa</name>
+      <state>CA</state>
+    </location>
+    <location name="95501">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>621</dist>
+      <lat>40.7953313015</lat>
+      <lon>-124.153385167</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95521">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>625</dist>
+      <lat>40.8495303628</lat>
+      <lon>-124.03465378</lon>
+      <name>Arcata</name>
+      <state>CA</state>
+    </location>
+    <location name="95531">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>563</dist>
+      <lat>41.7745510499</lat>
+      <lon>-123.9970815</lon>
+      <name>Crescent City</name>
+      <state>CA</state>
+    </location>
+    <location name="97006">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>563</dist>
+      <lat>45.5173108422</lat>
+      <lon>-122.859147072</lon>
+      <name>Beaverton</name>
+      <state>OR</state>
+    </location>
+    <location name="97124">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>557</dist>
+      <lat>45.5713571483</lat>
+      <lon>-122.946731352</lon>
+      <name>Hillsboro</name>
+      <state>OR</state>
+    </location>
+    <location name="97209">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>576</dist>
+      <lat>45.5304791577</lat>
+      <lon>-122.684273321</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97220">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>586</dist>
+      <lat>45.5499036701</lat>
+      <lon>-122.558251898</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97230">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>591</dist>
+      <lat>45.5494781851</lat>
+      <lon>-122.500581211</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97304">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>536</dist>
+      <lat>45.0144330244</lat>
+      <lon>-123.111960444</lon>
+      <name>Salem</name>
+      <state>OR</state>
+    </location>
+    <location name="97306">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>538</dist>
+      <lat>44.8453114425</lat>
+      <lon>-123.080467255</lon>
+      <name>Salem</name>
+      <state>OR</state>
+    </location>
+    <location name="97333">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>520</dist>
+      <lat>44.476980228</lat>
+      <lon>-123.303904118</lon>
+      <name>Corvallis</name>
+      <state>OR</state>
+    </location>
+    <location name="97355">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>560</dist>
+      <lat>44.5258039203</lat>
+      <lon>-122.802163924</lon>
+      <name>Lebanon</name>
+      <state>OR</state>
+    </location>
+    <location name="97394">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>466</dist>
+      <lat>44.4171191773</lat>
+      <lon>-123.991801244</lon>
+      <name>Waldport</name>
+      <state>OR</state>
+    </location>
+    <location name="97415">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>530</dist>
+      <lat>42.2160121032</lat>
+      <lon>-124.093338898</lon>
+      <name>Brookings</name>
+      <state>OR</state>
+    </location>
+    <location name="97439">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>465</dist>
+      <lat>44.1023761498</lat>
+      <lon>-124.03948956</lon>
+      <name>Florence</name>
+      <state>OR</state>
+    </location>
+    <location name="97470">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>536</dist>
+      <lat>43.2322531411</lat>
+      <lon>-123.406566681</lon>
+      <name>Roseburg</name>
+      <state>OR</state>
+    </location>
+    <location name="97501">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>615</dist>
+      <lat>42.2615417756</lat>
+      <lon>-122.901183691</lon>
+      <name>Medford</name>
+      <state>OR</state>
+    </location>
+    <location name="97539">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>609</dist>
+      <lat>42.6055654086</lat>
+      <lon>-122.763478381</lon>
+      <name>Shady Cove</name>
+      <state>OR</state>
+    </location>
+    <location name="98077">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>703</dist>
+      <lat>47.751795578</lat>
+      <lon>-122.055206482</lon>
+      <name>Woodinville</name>
+      <state>WA</state>
+    </location>
+    <location name="98225">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>736</dist>
+      <lat>48.7759601548</lat>
+      <lon>-122.522355499</lon>
+      <name>Bellingham</name>
+      <state>WA</state>
+    </location>
+    <location name="98625">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>585</dist>
+      <lat>46.0464085502</lat>
+      <lon>-122.728859617</lon>
+      <name>Kalama</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dikili::İzmir::Turkey">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>39.07</lat>
+      <lon>26.89</lon>
+      <name>Dikili</name>
+    </location>
+    <location name="Menderes::İzmir::Turkey">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>38.25</lat>
+      <lon>27.13</lon>
+      <name>Menderes</name>
+    </location>
+    <location name="İzmir::İzmir::Turkey">
+      <cdi>2.4414</cdi>
+      <nresp>7</nresp>
+      <dist>96</dist>
+      <lat>38.43</lat>
+      <lon>27.15</lon>
+      <name>İzmir</name>
+    </location>
+    <location name="Mitilíni::Lésvos::Greece">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>39.11</lat>
+      <lon>26.55</lon>
+      <name>Mitilíni</name>
+    </location>
+    <location name="Skíathos::Magnisía::Greece">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>234</dist>
+      <lat>39.17</lat>
+      <lon>23.48</lon>
+      <name>Skíathos</name>
+    </location>
+  </cdi>
+</cdidata>

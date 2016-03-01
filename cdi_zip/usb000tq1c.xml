@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96720">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>123</dist>
+      <lat>19.6696050142</lat>
+      <lon>-155.307460679</lon>
+      <name>Hilo</name>
+      <state>HI</state>
+    </location>
+    <location name="96740">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>62</dist>
+      <lat>19.7409901702</lat>
+      <lon>-155.898323017</lon>
+      <name>Kailua Kona</name>
+      <state>HI</state>
+    </location>
+    <location name="96746">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>403</dist>
+      <lat>22.1104657986</lat>
+      <lon>-159.369122714</lon>
+      <name>Kapaa</name>
+      <state>HI</state>
+    </location>
+    <location name="96772">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>19.0812641122</lat>
+      <lon>-155.68553121</lon>
+      <name>Naalehu</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

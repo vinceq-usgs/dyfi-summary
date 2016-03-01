@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="75010">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>33.0254597275</lat>
+      <lon>-96.8974080059</lon>
+      <name>Carrollton</name>
+      <state>TX</state>
+    </location>
+    <location name="75038">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75062">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>5</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75204">
+      <cdi>3.6156</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>32.802015297</lat>
+      <lon>-96.7890399543</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75220">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>32.8669930898</lat>
+      <lon>-96.8778633804</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

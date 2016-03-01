@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96704">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>19.3358149217</lat>
+      <lon>-155.811715146</lon>
+      <name>Captain Cook</name>
+      <state>HI</state>
+    </location>
+    <location name="96708">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>20.8747284353</lat>
+      <lon>-156.263569015</lon>
+      <name>Haiku</name>
+      <state>HI</state>
+    </location>
+    <location name="96720">
+      <cdi>2.1718</cdi>
+      <nresp>3</nresp>
+      <dist>41</dist>
+      <lat>19.6696050142</lat>
+      <lon>-155.307460679</lon>
+      <name>Hilo</name>
+      <state>HI</state>
+    </location>
+    <location name="96749">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>19.6195044849</lat>
+      <lon>-155.001476088</lon>
+      <name>Keaau</name>
+      <state>HI</state>
+    </location>
+    <location name="96760">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>19.5627940117</lat>
+      <lon>-155.031909027</lon>
+      <name>Kurtistown</name>
+      <state>HI</state>
+    </location>
+    <location name="96778">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>19.4316020081</lat>
+      <lon>-155.011419042</lon>
+      <name>Pahoa</name>
+      <state>HI</state>
+    </location>
+    <location name="96783">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>57</dist>
+      <lat>19.8240572979</lat>
+      <lon>-155.158954428</lon>
+      <name>Pepeekeo</name>
+      <state>HI</state>
+    </location>
+    <location name="96785">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>22</dist>
+      <lat>19.4941740559</lat>
+      <lon>-155.209215778</lon>
+      <name>Volcano</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

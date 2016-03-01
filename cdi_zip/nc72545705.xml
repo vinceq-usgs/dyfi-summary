@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94403">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>37.5381557686</lat>
+      <lon>-122.304679264</lon>
+      <name>San Mateo</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.1817</cdi>
+      <nresp>5</nresp>
+      <dist>9</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94588">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.6895558211</lat>
+      <lon>-121.896794754</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="94608">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>37.8355803247</lat>
+      <lon>-122.284666408</lon>
+      <name>Emeryville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

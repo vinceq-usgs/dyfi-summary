@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chinautla::Guatemala::Guatemala">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>14.70</lat>
+      <lon>-90.50</lon>
+      <name>Chinautla</name>
+    </location>
+    <location name="Guatemala::Guatemala::Guatemala">
+      <cdi>3.1067</cdi>
+      <nresp>5</nresp>
+      <dist>154</dist>
+      <lat>14.63</lat>
+      <lon>-90.55</lon>
+      <name>Guatemala</name>
+    </location>
+    <location name="Antigua Guatemala::Sacatepéquez::Guatemala">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>134</dist>
+      <lat>14.56</lat>
+      <lon>-90.74</lon>
+      <name>Antigua Guatemala</name>
+    </location>
+    <location name="Jocotenango::Sacatepéquez::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>14.58</lat>
+      <lon>-90.73</lon>
+      <name>Jocotenango</name>
+    </location>
+  </cdi>
+</cdidata>

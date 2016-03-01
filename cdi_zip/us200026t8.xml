@@ -1,0 +1,100 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiba::Chiba::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>362</dist>
+      <lat>35.61</lat>
+      <lon>140.11</lon>
+      <name>Chiba</name>
+    </location>
+    <location name="Kashiwa::Chiba::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>344</dist>
+      <lat>35.87</lat>
+      <lon>139.97</lon>
+      <name>Kashiwa</name>
+    </location>
+    <location name="Kiryū::Gumma::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>334</dist>
+      <lat>36.43</lat>
+      <lon>139.33</lon>
+      <name>Kiryū</name>
+    </location>
+    <location name="Ōta::Gumma::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>341</dist>
+      <lat>36.30</lat>
+      <lon>139.38</lon>
+      <name>Ōta</name>
+    </location>
+    <location name="Hitachi::Ibaraki::Japan">
+      <cdi>4.3417</cdi>
+      <nresp>2</nresp>
+      <dist>243</dist>
+      <lat>36.59</lat>
+      <lon>140.66</lon>
+      <name>Hitachi</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>313</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Yokosuka::Kanagawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>415</dist>
+      <lat>35.27</lat>
+      <lon>139.67</lon>
+      <name>Yokosuka</name>
+    </location>
+    <location name="Koshigaya::Saitama::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>352</dist>
+      <lat>35.89</lat>
+      <lon>139.79</lon>
+      <name>Koshigaya</name>
+    </location>
+    <location name="Kumagaya::Saitama::Japan">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>352</dist>
+      <lat>36.15</lat>
+      <lon>139.39</lon>
+      <name>Kumagaya</name>
+    </location>
+    <location name="Saitama::Saitama::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>361</dist>
+      <lat>35.87</lat>
+      <lon>139.64</lon>
+      <name>Saitama</name>
+    </location>
+    <location name="Yashio::Saitama::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>354</dist>
+      <lat>35.83</lat>
+      <lon>139.84</lon>
+      <name>Yashio</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>373</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

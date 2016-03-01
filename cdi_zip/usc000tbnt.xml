@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67058">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>37.3066539451</lat>
+      <lon>-98.0003593977</lon>
+      <name>Harper</name>
+      <state>KS</state>
+    </location>
+    <location name="73003">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>35.6683436545</lat>
+      <lon>-97.4969186829</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73007">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73012">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73016">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>35.798486284</lat>
+      <lon>-97.7008464429</lon>
+      <name>Cashion</name>
+      <state>OK</state>
+    </location>
+    <location name="73025">
+      <cdi>3.3345</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73026">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>35.2317425075</lat>
+      <lon>-97.2751949742</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.3836</cdi>
+      <nresp>8</nresp>
+      <dist>14</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>3.6609</cdi>
+      <nresp>12</nresp>
+      <dist>7</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73058">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.8039022557</lat>
+      <lon>-97.2544125407</lon>
+      <name>Meridian</name>
+      <state>OK</state>
+    </location>
+    <location name="73132">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>35.5513031039</lat>
+      <lon>-97.6345444976</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74851">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>35.4031104746</lat>
+      <lon>-97.0926965117</lon>
+      <name>McLoud</name>
+      <state>OK</state>
+    </location>
+    <location name="74857">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>35.3419691675</lat>
+      <lon>-97.1962017041</lon>
+      <name>Newalla</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

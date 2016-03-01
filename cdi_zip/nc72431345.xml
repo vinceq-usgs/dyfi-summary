@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95536">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>36</dist>
+      <lat>40.4647699382</lat>
+      <lon>-124.250835346</lon>
+      <name>Ferndale</name>
+      <state>CA</state>
+    </location>
+    <location name="95540">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>40.5903951405</lat>
+      <lon>-124.130433801</lon>
+      <name>Fortuna</name>
+      <state>CA</state>
+    </location>
+    <location name="95558">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>40.2881620643</lat>
+      <lon>-124.221826337</lon>
+      <name>Petrolia</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

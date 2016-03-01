@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67010">
+      <cdi>3.6156</cdi>
+      <nresp>1</nresp>
+      <dist>187</dist>
+      <lat>37.6594194979</lat>
+      <lon>-96.9652711107</lon>
+      <name>Augusta</name>
+      <state>KS</state>
+    </location>
+    <location name="73034">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2.4718</cdi>
+      <nresp>6</nresp>
+      <dist>8</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74115">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>36.1955504607</lat>
+      <lon>-95.9059523166</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74119">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>36.1416718329</lat>
+      <lon>-95.9891883481</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74868">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>35.2971131316</lat>
+      <lon>-96.6644856622</lon>
+      <name>Seminole</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

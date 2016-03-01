@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ayvalık::Balıkesir::Turkey">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>39.33</lat>
+      <lon>26.69</lon>
+      <name>Ayvalık</name>
+    </location>
+    <location name="Urla::İzmir::Turkey">
+      <cdi>2.7613</cdi>
+      <nresp>3</nresp>
+      <dist>27</dist>
+      <lat>38.33</lat>
+      <lon>26.76</lon>
+      <name>Urla</name>
+    </location>
+    <location name="Çeşme::İzmir::Turkey">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>38.33</lat>
+      <lon>26.31</lon>
+      <name>Çeşme</name>
+    </location>
+    <location name="İzmir::İzmir::Turkey">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>38.43</lat>
+      <lon>27.15</lon>
+      <name>İzmir</name>
+    </location>
+  </cdi>
+</cdidata>

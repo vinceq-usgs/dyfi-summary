@@ -1,0 +1,124 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dacca::Dhāka::Bangladesh">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>618</dist>
+      <lat>23.70</lat>
+      <lon>90.39</lon>
+      <name>Dacca</name>
+    </location>
+    <location name="Rangpūr::Rangpūr::Bangladesh">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>380</dist>
+      <lat>25.74</lat>
+      <lon>89.25</lon>
+      <name>Rangpūr</name>
+    </location>
+    <location name="Calcutta::Bangla::India">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>614</dist>
+      <lat>22.57</lat>
+      <lon>88.36</lon>
+      <name>Calcutta</name>
+    </location>
+    <location name="Bihariganj::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>237</dist>
+      <lat>25.73</lat>
+      <lon>86.98</lon>
+      <name>Bihariganj</name>
+    </location>
+    <location name="Dalsingh Sarai::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>230</dist>
+      <lat>25.67</lat>
+      <lon>85.83</lon>
+      <name>Dalsingh Sarai</name>
+    </location>
+    <location name="Patna::Bihar::India">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>254</dist>
+      <lat>25.62</lat>
+      <lon>85.13</lon>
+      <name>Patna</name>
+    </location>
+    <location name="Gurgaon::Haryana::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>900</dist>
+      <lat>28.47</lat>
+      <lon>77.01</lon>
+      <name>Gurgaon</name>
+    </location>
+    <location name="Mango::Jharkhand::India">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>540</dist>
+      <lat>22.85</lat>
+      <lon>86.21</lon>
+      <name>Mango</name>
+    </location>
+    <location name="Bansgaon::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>305</dist>
+      <lat>26.55</lat>
+      <lon>83.35</lon>
+      <name>Bansgaon</name>
+    </location>
+    <location name="Jaunpur::Uttar Pradesh::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>406</dist>
+      <lat>25.76</lat>
+      <lon>82.69</lon>
+      <name>Jaunpur</name>
+    </location>
+    <location name="Banares::Uttar Pradesh::India">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>410</dist>
+      <lat>25.32</lat>
+      <lon>83.01</lon>
+      <name>Banares</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Lahān::Siraha::Nepal">
+      <cdi>5.3522</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>26.72</lat>
+      <lon>86.48</lon>
+      <name>Lahān</name>
+    </location>
+  </cdi>
+</cdidata>

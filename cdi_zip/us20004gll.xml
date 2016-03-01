@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Asunción::Heredia::Costa Rica">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>9.98</lat>
+      <lon>-84.17</lon>
+      <name>Asunción</name>
+    </location>
+    <location name="Heredia::Heredia::Costa Rica">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>10.00</lat>
+      <lon>-84.12</lon>
+      <name>Heredia</name>
+    </location>
+    <location name="San Francisco::Heredia::Costa Rica">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>9.99</lat>
+      <lon>-84.13</lon>
+      <name>San Francisco</name>
+    </location>
+    <location name="San José::San José::Costa Rica">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>9.93</lat>
+      <lon>-84.08</lon>
+      <name>San José</name>
+    </location>
+    <location name="San Pedro::San José::Costa Rica">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>9.93</lat>
+      <lon>-84.05</lon>
+      <name>San Pedro</name>
+    </location>
+  </cdi>
+</cdidata>

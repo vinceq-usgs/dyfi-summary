@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89418">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>197</dist>
+      <lat>40.5943071234</lat>
+      <lon>-117.969169626</lon>
+      <name>Imlay</name>
+      <state>NV</state>
+    </location>
+    <location name="95409">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>456</dist>
+      <lat>38.4572243695</lat>
+      <lon>-122.598650563</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95831">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>408</dist>
+      <lat>38.495587119</lat>
+      <lon>-121.529159846</lon>
+      <name>Sacramento</name>
+      <state>CA</state>
+    </location>
+    <location name="96104">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>68</dist>
+      <lat>41.3963352966</lat>
+      <lon>-120.119100007</lon>
+      <name>Cedarville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

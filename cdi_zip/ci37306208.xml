@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89005">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>359</dist>
+      <lat>35.8989249819</lat>
+      <lon>-114.828845892</lon>
+      <name>Boulder City</name>
+      <state>NV</state>
+    </location>
+    <location name="90603">
+      <cdi>2.5168</cdi>
+      <nresp>4</nresp>
+      <dist>9</dist>
+      <lat>33.9456933787</lat>
+      <lon>-117.991801052</lon>
+      <name>Whittier</name>
+      <state>CA</state>
+    </location>
+    <location name="90604">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>33.930163994</lat>
+      <lon>-118.012801925</lon>
+      <name>Whittier</name>
+      <state>CA</state>
+    </location>
+    <location name="90631">
+      <cdi>2</cdi>
+      <nresp>12</nresp>
+      <dist>8</dist>
+      <lat>33.9418254683</lat>
+      <lon>-117.951404302</lon>
+      <name>La Habra</name>
+      <state>CA</state>
+    </location>
+    <location name="90638">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>10</dist>
+      <lat>33.9025675228</lat>
+      <lon>-118.009023689</lon>
+      <name>La Mirada</name>
+      <state>CA</state>
+    </location>
+    <location name="91745">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>34.0006116969</lat>
+      <lon>-117.975860341</lon>
+      <name>Hacienda Heights</name>
+      <state>CA</state>
+    </location>
+    <location name="92833">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>33.8799569546</lat>
+      <lon>-117.961070373</lon>
+      <name>Fullerton</name>
+      <state>CA</state>
+    </location>
+    <location name="92835">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>33.9020736449</lat>
+      <lon>-117.915301138</lon>
+      <name>Fullerton</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

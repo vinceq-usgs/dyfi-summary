@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73114">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>35.579568444</lat>
+      <lon>-97.5180480544</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>3.1073</cdi>
+      <nresp>8</nresp>
+      <dist>3</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

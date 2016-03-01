@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74133">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>238</dist>
+      <lat>36.0413422515</lat>
+      <lon>-95.8789406288</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

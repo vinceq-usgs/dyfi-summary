@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>4.5529</cdi>
+      <nresp>3</nresp>
+      <dist>5</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67101">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>37.7840123097</lat>
+      <lon>-97.4653089634</lon>
+      <name>Maize</name>
+      <state>KS</state>
+    </location>
+    <location name="67133">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>37.5767304997</lat>
+      <lon>-97.1039969268</lon>
+      <name>Rose Hill</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67209">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>37.6664896303</lat>
+      <lon>-97.4346930874</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67456">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>38.6071470365</lat>
+      <lon>-97.6753697846</lon>
+      <name>Lindsborg</name>
+      <state>KS</state>
+    </location>
+    <location name="67501">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>37.9758810565</lat>
+      <lon>-97.931237911</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

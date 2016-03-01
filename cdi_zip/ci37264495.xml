@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92003">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>33.2847089706</lat>
+      <lon>-117.199972079</lon>
+      <name>Bonsall</name>
+      <state>CA</state>
+    </location>
+    <location name="92007">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>33.0192766152</lat>
+      <lon>-117.270008631</lon>
+      <name>Cardiff By the Sea</name>
+      <state>CA</state>
+    </location>
+    <location name="92008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>33.1466607065</lat>
+      <lon>-117.31838967</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="92026">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>33.2142707741</lat>
+      <lon>-117.113675744</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92036">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>32.9446829288</lat>
+      <lon>-116.378860094</lon>
+      <name>Julian</name>
+      <state>CA</state>
+    </location>
+    <location name="92061">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>33.30614883</lat>
+      <lon>-116.923420083</lon>
+      <name>Pauma Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92064">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>32.9850686794</lat>
+      <lon>-117.020713724</lon>
+      <name>Poway</name>
+      <state>CA</state>
+    </location>
+    <location name="92065">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>33.042819068</lat>
+      <lon>-116.848126526</lon>
+      <name>Ramona</name>
+      <state>CA</state>
+    </location>
+    <location name="92082">
+      <cdi>2</cdi>
+      <nresp>8</nresp>
+      <dist>20</dist>
+      <lat>33.2538529897</lat>
+      <lon>-116.994477053</lon>
+      <name>Valley Center</name>
+      <state>CA</state>
+    </location>
+    <location name="92086">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>33.3052143168</lat>
+      <lon>-116.680202128</lon>
+      <name>Warner Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92131">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>32.919242608</lat>
+      <lon>-117.068053394</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92672">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>33.3967264913</lat>
+      <lon>-117.553883921</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

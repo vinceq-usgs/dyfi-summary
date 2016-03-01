@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="97121">
+      <cdi>2.5168</cdi>
+      <nresp>2</nresp>
+      <dist>253</dist>
+      <lat>46.2024327858</lat>
+      <lon>-123.977500805</lon>
+      <name>Hammond</name>
+      <state>OR</state>
+    </location>
+    <location name="97341">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>299</dist>
+      <lat>44.8082793348</lat>
+      <lon>-124.021630162</lon>
+      <name>Depoe Bay</name>
+      <state>OR</state>
+    </location>
+    <location name="98110">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>47.6444952321</lat>
+      <lon>-122.537135564</lon>
+      <name>Bainbridge Island</name>
+      <state>WA</state>
+    </location>
+    <location name="98501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>46.9736084891</lat>
+      <lon>-122.869684906</lon>
+      <name>Olympia</name>
+      <state>WA</state>
+    </location>
+    <location name="98901">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>46.669922483</lat>
+      <lon>-120.366874258</lon>
+      <name>Yakima</name>
+      <state>WA</state>
+    </location>
+    <location name="98948">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>46.3104283693</lat>
+      <lon>-120.333958048</lon>
+      <name>Toppenish</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

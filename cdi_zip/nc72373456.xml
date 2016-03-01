@@ -1,0 +1,220 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94062">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>452</dist>
+      <lat>37.4076638109</lat>
+      <lon>-122.303813288</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+    <location name="94566">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>460</dist>
+      <lat>37.6457318049</lat>
+      <lon>-121.852881407</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="94571">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>428</dist>
+      <lat>38.1776330337</lat>
+      <lon>-121.755223584</lon>
+      <name>Rio Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>442</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94589">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>398</dist>
+      <lat>38.1408765464</lat>
+      <lon>-122.248056096</lon>
+      <name>Vallejo</name>
+      <state>CA</state>
+    </location>
+    <location name="94923">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>333</dist>
+      <lat>38.337065453</lat>
+      <lon>-123.027753963</lon>
+      <name>Bodega Bay</name>
+      <state>CA</state>
+    </location>
+    <location name="94952">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>358</dist>
+      <lat>38.2191104861</lat>
+      <lon>-122.775453144</lon>
+      <name>Petaluma</name>
+      <state>CA</state>
+    </location>
+    <location name="95003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>510</dist>
+      <lat>37.0096905719</lat>
+      <lon>-121.879735429</lon>
+      <name>Aptos</name>
+      <state>CA</state>
+    </location>
+    <location name="95223">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>533</dist>
+      <lat>38.3924064649</lat>
+      <lon>-120.173258375</lon>
+      <name>Arnold</name>
+      <state>CA</state>
+    </location>
+    <location name="95407">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>347</dist>
+      <lat>38.3945264359</lat>
+      <lon>-122.742813614</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95437">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>209</dist>
+      <lat>39.4643563766</lat>
+      <lon>-123.69642113</lon>
+      <name>Fort Bragg</name>
+      <state>CA</state>
+    </location>
+    <location name="95456">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>39.2626253714</lat>
+      <lon>-123.749191449</lon>
+      <name>Littleriver</name>
+      <state>CA</state>
+    </location>
+    <location name="95501">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>144</dist>
+      <lat>40.7953313015</lat>
+      <lon>-124.153385167</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95503">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>147</dist>
+      <lat>40.7119988087</lat>
+      <lon>-124.097405236</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95511">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>40.1665160516</lat>
+      <lon>-123.627565412</lon>
+      <name>Alderpoint</name>
+      <state>CA</state>
+    </location>
+    <location name="95521">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>155</dist>
+      <lat>40.8495303628</lat>
+      <lon>-124.03465378</lon>
+      <name>Arcata</name>
+      <state>CA</state>
+    </location>
+    <location name="95526">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>40.4351618509</lat>
+      <lon>-123.601712884</lon>
+      <name>Bridgeville</name>
+      <state>CA</state>
+    </location>
+    <location name="95536">
+      <cdi>2.2950</cdi>
+      <nresp>5</nresp>
+      <dist>131</dist>
+      <lat>40.4647699382</lat>
+      <lon>-124.250835346</lon>
+      <name>Ferndale</name>
+      <state>CA</state>
+    </location>
+    <location name="95540">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>142</dist>
+      <lat>40.5903951405</lat>
+      <lon>-124.130433801</lon>
+      <name>Fortuna</name>
+      <state>CA</state>
+    </location>
+    <location name="95542">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>40.1168241031</lat>
+      <lon>-123.868356562</lon>
+      <name>Garberville</name>
+      <state>CA</state>
+    </location>
+    <location name="95551">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>40.6620732404</lat>
+      <lon>-124.246703351</lon>
+      <name>Loleta</name>
+      <state>CA</state>
+    </location>
+    <location name="95564">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>140</dist>
+      <lat>40.7928855156</lat>
+      <lon>-124.203746168</lon>
+      <name>Samoa</name>
+      <state>CA</state>
+    </location>
+    <location name="95570">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>41.1325638843</lat>
+      <lon>-124.054737392</lon>
+      <name>Trinidad</name>
+      <state>CA</state>
+    </location>
+    <location name="95589">
+      <cdi>2.4414</cdi>
+      <nresp>3</nresp>
+      <dist>159</dist>
+      <lat>40.0406855713</lat>
+      <lon>-123.994740274</lon>
+      <name>Whitethorn</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

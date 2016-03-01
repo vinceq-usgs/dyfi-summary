@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Boquete::Chiriquí::Panama">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>8.78</lat>
+      <lon>-82.44</lon>
+      <name>Boquete</name>
+    </location>
+    <location name="David::Chiriquí::Panama">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>54</dist>
+      <lat>8.44</lat>
+      <lon>-82.43</lon>
+      <name>David</name>
+    </location>
+    <location name="Pedregal::Chiriquí::Panama">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>8.37</lat>
+      <lon>-82.43</lon>
+      <name>Pedregal</name>
+    </location>
+    <location name="Pueblo Nuevo::Chiriquí::Panama">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>8.57</lat>
+      <lon>-82.42</lon>
+      <name>Pueblo Nuevo</name>
+    </location>
+    <location name="Volcán::Chiriquí::Panama">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>8.77</lat>
+      <lon>-82.63</lon>
+      <name>Volcán</name>
+    </location>
+  </cdi>
+</cdidata>

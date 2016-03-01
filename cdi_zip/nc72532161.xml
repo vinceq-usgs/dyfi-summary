@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95054">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>244</dist>
+      <lat>37.3933177105</lat>
+      <lon>-121.96494896</lon>
+      <name>Santa Clara</name>
+      <state>CA</state>
+    </location>
+    <location name="95112">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>252</dist>
+      <lat>37.3449260065</lat>
+      <lon>-121.883622921</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95453">
+      <cdi>2.9106</cdi>
+      <nresp>3</nresp>
+      <dist>43</dist>
+      <lat>39.0561231508</lat>
+      <lon>-122.972725974</lon>
+      <name>Lakeport</name>
+      <state>CA</state>
+    </location>
+    <location name="95464">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>39.1177264167</lat>
+      <lon>-122.82195143</lon>
+      <name>Nice</name>
+      <state>CA</state>
+    </location>
+    <location name="95469">
+      <cdi>3.3345</cdi>
+      <nresp>6</nresp>
+      <dist>12</dist>
+      <lat>39.4015067309</lat>
+      <lon>-123.068836502</lon>
+      <name>Potter Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95470">
+      <cdi>3.1238</cdi>
+      <nresp>7</nresp>
+      <dist>36</dist>
+      <lat>39.2751318915</lat>
+      <lon>-123.329440439</lon>
+      <name>Redwood Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95482">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>40</dist>
+      <lat>39.1369495272</lat>
+      <lon>-123.224829878</lon>
+      <name>Ukiah</name>
+      <state>CA</state>
+    </location>
+    <location name="95485">
+      <cdi>3.0536</cdi>
+      <nresp>4</nresp>
+      <dist>27</dist>
+      <lat>39.2164509889</lat>
+      <lon>-122.923722186</lon>
+      <name>Upper Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="95490">
+      <cdi>2.5393</cdi>
+      <nresp>11</nresp>
+      <dist>34</dist>
+      <lat>39.4716278515</lat>
+      <lon>-123.365954363</lon>
+      <name>Willits</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

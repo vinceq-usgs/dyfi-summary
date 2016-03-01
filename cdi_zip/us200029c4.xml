@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dacca::Dhāka::Bangladesh">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>640</dist>
+      <lat>23.70</lat>
+      <lon>90.39</lon>
+      <name>Dacca</name>
+    </location>
+    <location name="Ţungī::Gazipur::Bangladesh">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>627</dist>
+      <lat>23.88</lat>
+      <lon>90.40</lon>
+      <name>Ţungī</name>
+    </location>
+    <location name="Silhaţ::Silhaţ::Bangladesh">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>686</dist>
+      <lat>24.90</lat>
+      <lon>91.87</lon>
+      <name>Silhaţ</name>
+    </location>
+    <location name="Kalimpong::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>283</dist>
+      <lat>27.07</lat>
+      <lon>88.48</lon>
+      <name>Kalimpong</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>288</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Bettiah::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>26.81</lat>
+      <lon>84.50</lon>
+      <name>Bettiah</name>
+    </location>
+    <location name="Phulwari::Bihar::India">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>227</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Samastīpur::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>193</dist>
+      <lat>25.85</lat>
+      <lon>85.78</lon>
+      <name>Samastīpur</name>
+    </location>
+    <location name="Dilli Cantonment::Delhi::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>844</dist>
+      <lat>28.57</lat>
+      <lon>77.16</lon>
+      <name>Dilli Cantonment</name>
+    </location>
+    <location name="Gharonda::Delhi::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>833</dist>
+      <lat>28.61</lat>
+      <lon>77.28</lon>
+      <name>Gharonda</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>478</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Shohratgarh::Uttar Pradesh::India">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>270</dist>
+      <lat>27.38</lat>
+      <lon>82.95</lon>
+      <name>Shohratgarh</name>
+    </location>
+    <location name="Utraula::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>323</dist>
+      <lat>27.32</lat>
+      <lon>82.42</lon>
+      <name>Utraula</name>
+    </location>
+    <location name="Kalaiyā::Bara::Nepal">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>27.03</lat>
+      <lon>85.00</lon>
+      <name>Kalaiyā</name>
+    </location>
+  </cdi>
+</cdidata>

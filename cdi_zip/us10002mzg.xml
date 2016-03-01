@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Muzafferabad::Azad Kashmir::Pakistan">
+      <cdi>3.9249</cdi>
+      <nresp>4</nresp>
+      <dist>25</dist>
+      <lat>34.35</lat>
+      <lon>73.48</lon>
+      <name>Muzafferabad</name>
+    </location>
+    <location name="Islamabad::Federal Capital Area::Pakistan">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>101</dist>
+      <lat>33.72</lat>
+      <lon>73.06</lon>
+      <name>Islamabad</name>
+    </location>
+    <location name="Abottabad::North-West Frontier::Pakistan">
+      <cdi>2.9841</cdi>
+      <nresp>5</nresp>
+      <dist>58</dist>
+      <lat>34.15</lat>
+      <lon>73.20</lon>
+      <name>Abottabad</name>
+    </location>
+  </cdi>
+</cdidata>

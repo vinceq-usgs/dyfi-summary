@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98020">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>47.8000123478</lat>
+      <lon>-122.372868943</lon>
+      <name>Edmonds</name>
+      <state>WA</state>
+    </location>
+    <location name="98037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>47.8391192606</lat>
+      <lon>-122.285736923</lon>
+      <name>Lynnwood</name>
+      <state>WA</state>
+    </location>
+    <location name="98043">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>47.7919695532</lat>
+      <lon>-122.307677987</lon>
+      <name>Mountlake Terrace</name>
+      <state>WA</state>
+    </location>
+    <location name="98045">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>47.4516538059</lat>
+      <lon>-121.604044606</lon>
+      <name>North Bend</name>
+      <state>WA</state>
+    </location>
+    <location name="98119">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>47.6388850773</lat>
+      <lon>-122.368991303</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98249">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>48.0225719533</lat>
+      <lon>-122.541960961</lon>
+      <name>Freeland</name>
+      <state>WA</state>
+    </location>
+    <location name="98260">
+      <cdi>2.7613</cdi>
+      <nresp>7</nresp>
+      <dist>33</dist>
+      <lat>48.0290125947</lat>
+      <lon>-122.447159264</lon>
+      <name>Langley</name>
+      <state>WA</state>
+    </location>
+    <location name="98346">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>47.8193771589</lat>
+      <lon>-122.531878134</lon>
+      <name>Kingston</name>
+      <state>WA</state>
+    </location>
+    <location name="98370">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>47.7568778917</lat>
+      <lon>-122.627206215</lon>
+      <name>Poulsbo</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

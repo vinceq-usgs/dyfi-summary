@@ -1,0 +1,164 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Arima::Arima::Trinidad and Tobago">
+      <cdi>2.9633</cdi>
+      <nresp>4</nresp>
+      <dist>148</dist>
+      <lat>10.64</lat>
+      <lon>-61.28</lon>
+      <name>Arima</name>
+    </location>
+    <location name="Chaguanas::Chaguanas::Trinidad and Tobago">
+      <cdi>2.9399</cdi>
+      <nresp>9</nresp>
+      <dist>138</dist>
+      <lat>10.52</lat>
+      <lon>-61.43</lon>
+      <name>Chaguanas</name>
+    </location>
+    <location name="Couva::Couva-Tabaquite-Talparo::Trinidad and Tobago">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>140</dist>
+      <lat>10.42</lat>
+      <lon>-61.44</lon>
+      <name>Couva</name>
+    </location>
+    <location name="Mucurapo::Diego Martín::Trinidad and Tobago">
+      <cdi>3.8788</cdi>
+      <nresp>15</nresp>
+      <dist>126</dist>
+      <lat>10.67</lat>
+      <lon>-61.54</lon>
+      <name>Mucurapo</name>
+    </location>
+    <location name="Rio Claro::Mayaro-Río Claro::Trinidad and Tobago">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>10.26</lat>
+      <lon>-61.15</lon>
+      <name>Rio Claro</name>
+    </location>
+    <location name="Point Fortín::Point Fortín::Trinidad and Tobago">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>10.16</lat>
+      <lon>-61.68</lon>
+      <name>Point Fortín</name>
+    </location>
+    <location name="Port of Spain::Port of Spain::Trinidad and Tobago">
+      <cdi>3.4559</cdi>
+      <nresp>22</nresp>
+      <dist>128</dist>
+      <lat>10.66</lat>
+      <lon>-61.51</lon>
+      <name>Port of Spain</name>
+    </location>
+    <location name="Marabella::Princes Town::Trinidad and Tobago">
+      <cdi>3.0280</cdi>
+      <nresp>3</nresp>
+      <dist>144</dist>
+      <lat>10.29</lat>
+      <lon>-61.45</lon>
+      <name>Marabella</name>
+    </location>
+    <location name="San Fernando::San Fernando::Trinidad and Tobago">
+      <cdi>3.1737</cdi>
+      <nresp>5</nresp>
+      <dist>146</dist>
+      <lat>10.25</lat>
+      <lon>-61.46</lon>
+      <name>San Fernando</name>
+    </location>
+    <location name="Saint Joseph::San Juan-Laventville::Trinidad and Tobago">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>142</dist>
+      <lat>10.46</lat>
+      <lon>-61.40</lon>
+      <name>Saint Joseph</name>
+    </location>
+    <location name="San Juan::San Juan-Laventville::Trinidad and Tobago">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>10.46</lat>
+      <lon>-61.44</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="Sangre Grande::Sangre Grande::Trinidad and Tobago">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>164</dist>
+      <lat>10.61</lat>
+      <lon>-61.12</lon>
+      <name>Sangre Grande</name>
+    </location>
+    <location name="Siparia::Siparia::Trinidad and Tobago">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>10.10</lat>
+      <lon>-61.50</lon>
+      <name>Siparia</name>
+    </location>
+    <location name="Arouca::Tunapuna-Piarco::Trinidad and Tobago">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>10.65</lat>
+      <lon>-61.33</lon>
+      <name>Arouca</name>
+    </location>
+    <location name="Tacarigua::Tunapuna-Piarco::Trinidad and Tobago">
+      <cdi>2.6699</cdi>
+      <nresp>4</nresp>
+      <dist>142</dist>
+      <lat>10.65</lat>
+      <lon>-61.35</lon>
+      <name>Tacarigua</name>
+    </location>
+    <location name="Tunapuna::Tunapuna-Piarco::Trinidad and Tobago">
+      <cdi>3.6212</cdi>
+      <nresp>11</nresp>
+      <dist>139</dist>
+      <lat>10.65</lat>
+      <lon>-61.39</lon>
+      <name>Tunapuna</name>
+    </location>
+    <location name="Ciudad Guayana::Bolívar::Venezuela">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>283</dist>
+      <lat>8.37</lat>
+      <lon>-62.62</lon>
+      <name>Ciudad Guayana</name>
+    </location>
+    <location name="Saint Georgeʿs::Saint George::Grenada">
+      <cdi>2.5559</cdi>
+      <nresp>11</nresp>
+      <dist>176</dist>
+      <lat>12.06</lat>
+      <lon>-61.74</lon>
+      <name>Saint Georgeʿs</name>
+    </location>
+    <location name="Skeldon::East Berbice-Corentyne::Guyana">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>798</dist>
+      <lat>5.88</lat>
+      <lon>-57.15</lon>
+      <name>Skeldon</name>
+    </location>
+    <location name="Vreed en Hoop::Essequibo Islands-West Demerara::Guyana">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>646</dist>
+      <lat>6.81</lat>
+      <lon>-58.18</lon>
+      <name>Vreed en Hoop</name>
+    </location>
+  </cdi>
+</cdidata>

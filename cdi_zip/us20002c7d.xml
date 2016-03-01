@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67058">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>161</dist>
+      <lat>37.3066539451</lat>
+      <lon>-98.0003593977</lon>
+      <name>Harper</name>
+      <state>KS</state>
+    </location>
+    <location name="73027">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>35.8886780296</lat>
+      <lon>-97.2208866929</lon>
+      <name>Coyle</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73131">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>35.5750702853</lat>
+      <lon>-97.4624606899</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

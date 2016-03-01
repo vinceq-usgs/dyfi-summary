@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Boquete::Chiriquí::Panama">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>8.78</lat>
+      <lon>-82.44</lon>
+      <name>Boquete</name>
+    </location>
+    <location name="Palmares::Alajuela::Costa Rica">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>9.32</lat>
+      <lon>-83.67</lon>
+      <name>Palmares</name>
+    </location>
+    <location name="Turrialba::Cartago::Costa Rica">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>9.91</lat>
+      <lon>-83.69</lon>
+      <name>Turrialba</name>
+    </location>
+    <location name="Puerto Cortés::Puntarenas::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>8.96</lat>
+      <lon>-83.53</lon>
+      <name>Puerto Cortés</name>
+    </location>
+    <location name="Quepos::Puntarenas::Costa Rica">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>9.45</lat>
+      <lon>-84.15</lon>
+      <name>Quepos</name>
+    </location>
+    <location name="San Isidro (San Isidro de El General)::San José::Costa Rica">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>9.37</lat>
+      <lon>-83.71</lon>
+      <name>San Isidro (San Isidro de El General)</name>
+    </location>
+  </cdi>
+</cdidata>

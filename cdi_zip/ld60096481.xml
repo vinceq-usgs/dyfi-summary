@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="12937">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>58</dist>
+      <lat>44.9609156617</lat>
+      <lon>-74.4852745489</lon>
+      <name>Fort Covington</name>
+      <state>NY</state>
+    </location>
+    <location name="12953">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>44.7409594014</lat>
+      <lon>-74.2627518573</lon>
+      <name>Malone</name>
+      <state>NY</state>
+    </location>
+    <location name="13655">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>44.9757444283</lat>
+      <lon>-74.6425268892</lon>
+      <name>Hogansburg</name>
+      <state>NY</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Alexandria::Ontario::Canada">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>45.30</lat>
+      <lon>-74.63</lon>
+      <name>Alexandria</name>
+    </location>
+    <location name="Casselman::Ontario::Canada">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>45.30</lat>
+      <lon>-75.08</lon>
+      <name>Casselman</name>
+    </location>
+    <location name="Constance Bay::Ontario::Canada">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>45.25</lat>
+      <lon>-75.50</lon>
+      <name>Constance Bay</name>
+    </location>
+    <location name="Hawkesbury::Ontario::Canada">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>19</dist>
+      <lat>45.62</lat>
+      <lon>-74.60</lon>
+      <name>Hawkesbury</name>
+    </location>
+    <location name="Morrisburg::Ontario::Canada">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>81</dist>
+      <lat>44.90</lat>
+      <lon>-75.18</lon>
+      <name>Morrisburg</name>
+    </location>
+    <location name="Brownsburg::Québec::Canada">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>45.68</lat>
+      <lon>-74.40</lon>
+      <name>Brownsburg</name>
+    </location>
+    <location name="Oka-Kanesatake::Québec::Canada">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>37</dist>
+      <lat>45.47</lat>
+      <lon>-74.08</lon>
+      <name>Oka-Kanesatake</name>
+    </location>
+    <location name="Rigaud::Québec::Canada">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>45.47</lat>
+      <lon>-74.30</lon>
+      <name>Rigaud</name>
+    </location>
+    <location name="Saint-Jerome::Québec::Canada">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>45.78</lat>
+      <lon>-74.00</lon>
+      <name>Saint-Jerome</name>
+    </location>
+    <location name="Sainte-Agathe-des-Monts::Québec::Canada">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>46.03</lat>
+      <lon>-74.28</lon>
+      <name>Sainte-Agathe-des-Monts</name>
+    </location>
+    <location name="Verchères::Québec::Canada">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>45.77</lat>
+      <lon>-73.35</lon>
+      <name>Verchères</name>
+    </location>
+  </cdi>
+</cdidata>

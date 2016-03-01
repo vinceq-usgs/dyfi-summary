@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Mucurapo::Diego Martín::Trinidad and Tobago">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>10.67</lat>
+      <lon>-61.54</lon>
+      <name>Mucurapo</name>
+    </location>
+    <location name="Port of Spain::Port of Spain::Trinidad and Tobago">
+      <cdi>2.8299</cdi>
+      <nresp>5</nresp>
+      <dist>158</dist>
+      <lat>10.66</lat>
+      <lon>-61.51</lon>
+      <name>Port of Spain</name>
+    </location>
+    <location name="Tunapuna::Tunapuna-Piarco::Trinidad and Tobago">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>10.65</lat>
+      <lon>-61.39</lon>
+      <name>Tunapuna</name>
+    </location>
+  </cdi>
+</cdidata>

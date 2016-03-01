@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73013">
+      <cdi>2.6268</cdi>
+      <nresp>6</nresp>
+      <dist>11</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73025">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.6299</cdi>
+      <nresp>7</nresp>
+      <dist>6</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73049">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.5848257111</lat>
+      <lon>-97.2955576644</lon>
+      <name>Jones</name>
+      <state>OK</state>
+    </location>
+    <location name="73114">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>35.579568444</lat>
+      <lon>-97.5180480544</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73120">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

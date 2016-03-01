@@ -1,0 +1,88 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="10030">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>605</dist>
+      <lat>40.818443936</lat>
+      <lon>-73.942745803</lon>
+      <name>New York</name>
+      <state>NY</state>
+    </location>
+    <location name="14204">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>345</dist>
+      <lat>42.8829283024</lat>
+      <lon>-78.8616529283</lon>
+      <name>Buffalo</name>
+      <state>NY</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Brooklin::Ontario::Canada">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>245</dist>
+      <lat>43.95</lat>
+      <lon>-78.96</lon>
+      <name>Brooklin</name>
+    </location>
+    <location name="Carleton Place::Ontario::Canada">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>45.13</lat>
+      <lon>-76.13</lon>
+      <name>Carleton Place</name>
+    </location>
+    <location name="Eganville::Ontario::Canada">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>45.53</lat>
+      <lon>-77.10</lon>
+      <name>Eganville</name>
+    </location>
+    <location name="Golden::Ontario::Canada">
+      <cdi>2.9567</cdi>
+      <nresp>4</nresp>
+      <dist>26</dist>
+      <lat>45.58</lat>
+      <lon>-77.25</lon>
+      <name>Golden</name>
+    </location>
+    <location name="Kanata::Ontario::Canada">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>45.34</lat>
+      <lon>-75.88</lon>
+      <name>Kanata</name>
+    </location>
+    <location name="Pembroke::Ontario::Canada">
+      <cdi>3.3198</cdi>
+      <nresp>4</nresp>
+      <dist>21</dist>
+      <lat>45.83</lat>
+      <lon>-77.12</lon>
+      <name>Pembroke</name>
+    </location>
+    <location name="Petawawa::Ontario::Canada">
+      <cdi>2.6912</cdi>
+      <nresp>5</nresp>
+      <dist>27</dist>
+      <lat>45.90</lat>
+      <lon>-77.28</lon>
+      <name>Petawawa</name>
+    </location>
+    <location name="Fort-Coulonge::Québec::Canada">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>45.85</lat>
+      <lon>-76.75</lon>
+      <name>Fort-Coulonge</name>
+    </location>
+  </cdi>
+</cdidata>

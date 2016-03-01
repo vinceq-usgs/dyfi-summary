@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93111">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>417</dist>
+      <lat>34.4512982648</lat>
+      <lon>-119.802651067</lon>
+      <name>Santa Barbara</name>
+      <state>CA</state>
+    </location>
+    <location name="93704">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>220</dist>
+      <lat>36.799712176</lat>
+      <lon>-119.801059738</lon>
+      <name>Fresno</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94507">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>37.8529789211</lat>
+      <lon>-122.00597462</lon>
+      <name>Alamo</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>3.7841</cdi>
+      <nresp>3</nresp>
+      <dist>10</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94556">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>37.8329277404</lat>
+      <lon>-122.111057261</lon>
+      <name>Moraga</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.0628</cdi>
+      <nresp>4</nresp>
+      <dist>9</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94595">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>16</dist>
+      <lat>37.8714903106</lat>
+      <lon>-122.069041617</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94619">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>37.7907735637</lat>
+      <lon>-122.174004163</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95066">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>37.0739284951</lat>
+      <lon>-122.01083177</lon>
+      <name>Scotts Valley</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

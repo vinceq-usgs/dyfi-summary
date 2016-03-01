@@ -1,0 +1,292 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="97005">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>45.4916211796</lat>
+      <lon>-122.80369491</lon>
+      <name>Beaverton</name>
+      <state>OR</state>
+    </location>
+    <location name="97007">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>35</dist>
+      <lat>45.4535456354</lat>
+      <lon>-122.878212201</lon>
+      <name>Beaverton</name>
+      <state>OR</state>
+    </location>
+    <location name="97034">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>45.4101535159</lat>
+      <lon>-122.684758809</lon>
+      <name>Lake Oswego</name>
+      <state>OR</state>
+    </location>
+    <location name="97116">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>46</dist>
+      <lat>45.683484856</lat>
+      <lon>-123.272300488</lon>
+      <name>Forest Grove</name>
+      <state>OR</state>
+    </location>
+    <location name="97201">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>45.5076946703</lat>
+      <lon>-122.689844813</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97202">
+      <cdi>2.3954</cdi>
+      <nresp>3</nresp>
+      <dist>32</dist>
+      <lat>45.4825052841</lat>
+      <lon>-122.644559748</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97212">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>28</dist>
+      <lat>45.5440182596</lat>
+      <lon>-122.643772963</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97213">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>30</dist>
+      <lat>45.5377387364</lat>
+      <lon>-122.599595803</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97214">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>30</dist>
+      <lat>45.5138418989</lat>
+      <lon>-122.64431235</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97217">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>45.5857845277</lat>
+      <lon>-122.693366675</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97219">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>45.4538233839</lat>
+      <lon>-122.6999909</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97221">
+      <cdi>2.0628</cdi>
+      <nresp>4</nresp>
+      <dist>30</dist>
+      <lat>45.4971511158</lat>
+      <lon>-122.728943465</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97222">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>45.4411232244</lat>
+      <lon>-122.616289744</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97223">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>45.4404066139</lat>
+      <lon>-122.778227909</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97225">
+      <cdi>2.3330</cdi>
+      <nresp>4</nresp>
+      <dist>29</dist>
+      <lat>45.5019508964</lat>
+      <lon>-122.770162606</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97229">
+      <cdi>2.2031</cdi>
+      <nresp>9</nresp>
+      <dist>26</dist>
+      <lat>45.5524424332</lat>
+      <lon>-122.804513614</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97230">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>45.5494781851</lat>
+      <lon>-122.500581211</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97231">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>45.6788684062</lat>
+      <lon>-122.830910676</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97232">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>45.5289401988</lat>
+      <lon>-122.643659351</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="98604">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>32</dist>
+      <lat>45.7955979567</lat>
+      <lon>-122.499105288</lon>
+      <name>Battle Ground</name>
+      <state>WA</state>
+    </location>
+    <location name="98606">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>45.7305007648</lat>
+      <lon>-122.455071821</lon>
+      <name>Brush Prairie</name>
+      <state>WA</state>
+    </location>
+    <location name="98629">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>45.8803912932</lat>
+      <lon>-122.611961562</lon>
+      <name>La Center</name>
+      <state>WA</state>
+    </location>
+    <location name="98660">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>45.6853281621</lat>
+      <lon>-122.727538947</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+    <location name="98661">
+      <cdi>2.0372</cdi>
+      <nresp>3</nresp>
+      <dist>24</dist>
+      <lat>45.6412729229</lat>
+      <lon>-122.62486599</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+    <location name="98664">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>45.6211126078</lat>
+      <lon>-122.577663257</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+    <location name="98665">
+      <cdi>2.6912</cdi>
+      <nresp>4</nresp>
+      <dist>23</dist>
+      <lat>45.6818452104</lat>
+      <lon>-122.653412944</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+    <location name="98671">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>45.6734578609</lat>
+      <lon>-122.198229487</lon>
+      <name>Washougal</name>
+      <state>WA</state>
+    </location>
+    <location name="98674">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>45.9473173613</lat>
+      <lon>-122.6557392</lon>
+      <name>Woodland</name>
+      <state>WA</state>
+    </location>
+    <location name="98683">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>45.604498949</lat>
+      <lon>-122.510812025</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+    <location name="98684">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>45.6310178402</lat>
+      <lon>-122.516536551</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+    <location name="98685">
+      <cdi>2.6376</cdi>
+      <nresp>28</nresp>
+      <dist>23</dist>
+      <lat>45.7161381312</lat>
+      <lon>-122.689893094</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+    <location name="98686">
+      <cdi>2.4236</cdi>
+      <nresp>9</nresp>
+      <dist>24</dist>
+      <lat>45.7238582679</lat>
+      <lon>-122.624192475</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

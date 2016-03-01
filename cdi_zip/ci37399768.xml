@@ -1,0 +1,86 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92227">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>33.0077298456</lat>
+      <lon>-115.429493874</lon>
+      <name>Brawley</name>
+      <state>CA</state>
+    </location>
+    <location name="92243">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>32.7733878486</lat>
+      <lon>-115.600968985</lon>
+      <name>El Centro</name>
+      <state>CA</state>
+    </location>
+    <location name="92251">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>32.8727372362</lat>
+      <lon>-115.620839586</lon>
+      <name>Imperial</name>
+      <state>CA</state>
+    </location>
+    <location name="92543">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>161</dist>
+      <lat>33.7022792679</lat>
+      <lon>-116.979163214</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92544">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>33.6443840016</lat>
+      <lon>-116.898417469</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92545">
+      <cdi>2.7194</cdi>
+      <nresp>3</nresp>
+      <dist>167</dist>
+      <lat>33.732725009</lat>
+      <lon>-117.043277134</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92582">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>33.8093053678</lat>
+      <lon>-117.012716267</lon>
+      <name>San Jacinto</name>
+      <state>CA</state>
+    </location>
+    <location name="92583">
+      <cdi>2.8570</cdi>
+      <nresp>2</nresp>
+      <dist>163</dist>
+      <lat>33.7928153426</lat>
+      <lon>-116.919476933</lon>
+      <name>San Jacinto</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="La Joya::Baja California::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>32.44</lat>
+      <lon>-117.01</lon>
+      <name>La Joya</name>
+    </location>
+  </cdi>
+</cdidata>

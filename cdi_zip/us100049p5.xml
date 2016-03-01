@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Juan López::Espaillat::Dominican Republic">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>19.43</lat>
+      <lon>-70.52</lon>
+      <name>Juan López</name>
+    </location>
+    <location name="Jarabacoa::La Vega::Dominican Republic">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>19.12</lat>
+      <lon>-70.64</lon>
+      <name>Jarabacoa</name>
+    </location>
+    <location name="Altamira::Puerto Plata::Dominican Republic">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>19.68</lat>
+      <lon>-70.83</lon>
+      <name>Altamira</name>
+    </location>
+    <location name="Puerto Plata::Puerto Plata::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>19.80</lat>
+      <lon>-70.70</lon>
+      <name>Puerto Plata</name>
+    </location>
+    <location name="Sosúa::Puerto Plata::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>19.75</lat>
+      <lon>-70.52</lon>
+      <name>Sosúa</name>
+    </location>
+    <location name="Sabaneta::Santiago Rodríguez::Dominican Republic">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>76</dist>
+      <lat>19.47</lat>
+      <lon>-71.34</lon>
+      <name>Sabaneta</name>
+    </location>
+    <location name="Licey al Medio::Santiago::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>19.43</lat>
+      <lon>-70.60</lon>
+      <name>Licey al Medio</name>
+    </location>
+    <location name="Palmar Arriba::Santiago::Dominican Republic">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>19.53</lat>
+      <lon>-70.73</lon>
+      <name>Palmar Arriba</name>
+    </location>
+    <location name="Santiago::Santiago::Dominican Republic">
+      <cdi>3.5942</cdi>
+      <nresp>31</nresp>
+      <dist>30</dist>
+      <lat>19.48</lat>
+      <lon>-70.69</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

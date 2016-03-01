@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96910">
+      <cdi>3.5612</cdi>
+      <nresp>4</nresp>
+      <dist>136</dist>
+      <lat>13.47</lat>
+      <lon>144.75</lon>
+      <name>HAGATNA</name>
+      <state>GU</state>
+    </location>
+    <location name="96911">
+      <cdi>3.3968</cdi>
+      <nresp>11</nresp>
+      <dist>143</dist>
+      <lat>13.51</lat>
+      <lon>144.81</lon>
+      <name>TAMUNING</name>
+      <state>GU</state>
+    </location>
+    <location name="96912">
+      <cdi>3.4396</cdi>
+      <nresp>5</nresp>
+      <dist>148</dist>
+      <lat>13.57</lat>
+      <lon>144.84</lon>
+      <name>DEDEDO</name>
+      <state>GU</state>
+    </location>
+    <location name="96913">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>140</dist>
+      <lat>13.48</lat>
+      <lon>144.80</lon>
+      <name>BARRIGADA</name>
+      <state>GU</state>
+    </location>
+    <location name="96914">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>132</dist>
+      <lat>13.40</lat>
+      <lon>144.74</lon>
+      <name>YONA</name>
+      <state>GU</state>
+    </location>
+    <location name="96915">
+      <cdi>3.2754</cdi>
+      <nresp>5</nresp>
+      <dist>127</dist>
+      <lat>13.40</lat>
+      <lon>144.67</lon>
+      <name>SANTA RITA</name>
+      <state>GU</state>
+    </location>
+    <location name="96916">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>13.27</lat>
+      <lon>144.69</lon>
+      <name>MERIZO</name>
+      <state>GU</state>
+    </location>
+    <location name="96918">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>13.31</lat>
+      <lon>144.66</lon>
+      <name>UMATAC</name>
+      <state>GU</state>
+    </location>
+    <location name="96922">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>13.46</lat>
+      <lon>144.73</lon>
+      <name>ASAN</name>
+      <state>GU</state>
+    </location>
+    <location name="96923">
+      <cdi>3.1847</cdi>
+      <nresp>4</nresp>
+      <dist>142</dist>
+      <lat>13.46</lat>
+      <lon>144.84</lon>
+      <name>MANGILAO</name>
+      <state>GU</state>
+    </location>
+    <location name="96927">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>13.47</lat>
+      <lon>144.77</lon>
+      <name>MONGMONG</name>
+      <state>GU</state>
+    </location>
+    <location name="96929">
+      <cdi>2.8265</cdi>
+      <nresp>8</nresp>
+      <dist>154</dist>
+      <lat>13.57</lat>
+      <lon>144.91</lon>
+      <name>YIGO</name>
+      <state>GU</state>
+    </location>
+    <location name="96930">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>127</dist>
+      <lat>13.33</lat>
+      <lon>144.72</lon>
+      <name>TALOFOFO</name>
+      <state>GU</state>
+    </location>
+  </cdi>
+</cdidata>

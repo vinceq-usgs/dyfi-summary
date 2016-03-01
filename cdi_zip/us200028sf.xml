@@ -1,0 +1,211 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="59844">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>32</dist>
+      <lat>48.0573339412</lat>
+      <lon>-115.940035716</lon>
+      <name>Heron</name>
+      <state>MT</state>
+    </location>
+    <location name="59853">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>45</dist>
+      <lat>48.0841721287</lat>
+      <lon>-115.743441673</lon>
+      <name>Noxon</name>
+      <state>MT</state>
+    </location>
+    <location name="59923">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>48.3362395153</lat>
+      <lon>-115.343109067</lon>
+      <name>Libby</name>
+      <state>MT</state>
+    </location>
+    <location name="83801">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>47.9455309956</lat>
+      <lon>-116.649195932</lon>
+      <name>Athol</name>
+      <state>ID</state>
+    </location>
+    <location name="83803">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>24</dist>
+      <lat>47.9707758615</lat>
+      <lon>-116.562753389</lon>
+      <name>Bayview</name>
+      <state>ID</state>
+    </location>
+    <location name="83805">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>48.7953685038</lat>
+      <lon>-116.604600457</lon>
+      <name>Bonners Ferry</name>
+      <state>ID</state>
+    </location>
+    <location name="83811">
+      <cdi>2.1718</cdi>
+      <nresp>4</nresp>
+      <dist>10</dist>
+      <lat>48.0972134487</lat>
+      <lon>-116.276912504</lon>
+      <name>Clark Fork</name>
+      <state>ID</state>
+    </location>
+    <location name="83814">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>60</dist>
+      <lat>47.6359564774</lat>
+      <lon>-116.700976082</lon>
+      <name>Coeur D Alene</name>
+      <state>ID</state>
+    </location>
+    <location name="83815">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>55</dist>
+      <lat>47.7244907055</lat>
+      <lon>-116.785763515</lon>
+      <name>Coeur D Alene</name>
+      <state>ID</state>
+    </location>
+    <location name="83823">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>46.8306149769</lat>
+      <lon>-116.465946721</lon>
+      <name>Deary</name>
+      <state>ID</state>
+    </location>
+    <location name="83835">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>39</dist>
+      <lat>47.7984272937</lat>
+      <lon>-116.54332286</lon>
+      <name>Hayden</name>
+      <state>ID</state>
+    </location>
+    <location name="83836">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>28</dist>
+      <lat>48.3267915519</lat>
+      <lon>-116.175802787</lon>
+      <name>Hope</name>
+      <state>ID</state>
+    </location>
+    <location name="83837">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>47.7320127717</lat>
+      <lon>-116.094472804</lon>
+      <name>Kellogg</name>
+      <state>ID</state>
+    </location>
+    <location name="83845">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>48.8520025021</lat>
+      <lon>-116.167207754</lon>
+      <name>Moyie Springs</name>
+      <state>ID</state>
+    </location>
+    <location name="83848">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>48.6914733526</lat>
+      <lon>-116.94985907</lon>
+      <name>Nordman</name>
+      <state>ID</state>
+    </location>
+    <location name="83854">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>64</dist>
+      <lat>47.7255528074</lat>
+      <lon>-116.969924959</lon>
+      <name>Post Falls</name>
+      <state>ID</state>
+    </location>
+    <location name="83856">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>48.3101096452</lat>
+      <lon>-116.860575379</lon>
+      <name>Priest River</name>
+      <state>ID</state>
+    </location>
+    <location name="83858">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>47.8518911291</lat>
+      <lon>-116.906989061</lon>
+      <name>Rathdrum</name>
+      <state>ID</state>
+    </location>
+    <location name="83860">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>19</dist>
+      <lat>48.1954452017</lat>
+      <lon>-116.545587275</lon>
+      <name>Sagle</name>
+      <state>ID</state>
+    </location>
+    <location name="83864">
+      <cdi>2.8458</cdi>
+      <nresp>12</nresp>
+      <dist>33</dist>
+      <lat>48.3884295813</lat>
+      <lon>-116.473634745</lon>
+      <name>Sandpoint</name>
+      <state>ID</state>
+    </location>
+    <location name="83869">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>46</dist>
+      <lat>47.9596763134</lat>
+      <lon>-116.904803483</lon>
+      <name>Spirit Lake</name>
+      <state>ID</state>
+    </location>
+    <location name="99022">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>47.6063771806</lat>
+      <lon>-117.703355013</lon>
+      <name>Medical Lake</name>
+      <state>WA</state>
+    </location>
+    <location name="99216">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>47.6789461111</lat>
+      <lon>-117.20926295</lon>
+      <name>Spokane</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

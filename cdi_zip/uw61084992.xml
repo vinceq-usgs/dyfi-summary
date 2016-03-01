@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="97215">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>45.5140463841</lat>
+      <lon>-122.598939364</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="98027">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>47.4908700225</lat>
+      <lon>-121.974492819</lon>
+      <name>Issaquah</name>
+      <state>WA</state>
+    </location>
+    <location name="98304">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>47</dist>
+      <lat>46.8008168361</lat>
+      <lon>-121.990988507</lon>
+      <name>Ashford</name>
+      <state>WA</state>
+    </location>
+    <location name="98321">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>46.9755124829</lat>
+      <lon>-121.793389963</lon>
+      <name>Buckley</name>
+      <state>WA</state>
+    </location>
+    <location name="98328">
+      <cdi>2.8973</cdi>
+      <nresp>4</nresp>
+      <dist>48</dist>
+      <lat>46.8694205731</lat>
+      <lon>-122.221594142</lon>
+      <name>Eatonville</name>
+      <state>WA</state>
+    </location>
+    <location name="98336">
+      <cdi>3.3110</cdi>
+      <nresp>6</nresp>
+      <dist>27</dist>
+      <lat>46.5512329343</lat>
+      <lon>-122.107873211</lon>
+      <name>Glenoma</name>
+      <state>WA</state>
+    </location>
+    <location name="98356">
+      <cdi>2.3330</cdi>
+      <nresp>4</nresp>
+      <dist>22</dist>
+      <lat>46.511678634</lat>
+      <lon>-122.23660581</lon>
+      <name>Morton</name>
+      <state>WA</state>
+    </location>
+    <location name="98360">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>46.9905040727</lat>
+      <lon>-122.096061148</lon>
+      <name>Orting</name>
+      <state>WA</state>
+    </location>
+    <location name="98370">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>47.7568778917</lat>
+      <lon>-122.627206215</lon>
+      <name>Poulsbo</name>
+      <state>WA</state>
+    </location>
+    <location name="98373">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>47.1477433189</lat>
+      <lon>-122.325231449</lon>
+      <name>Puyallup</name>
+      <state>WA</state>
+    </location>
+    <location name="98374">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>47.130092791</lat>
+      <lon>-122.261731838</lon>
+      <name>Puyallup</name>
+      <state>WA</state>
+    </location>
+    <location name="98377">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>51</dist>
+      <lat>46.5414679842</lat>
+      <lon>-121.698281349</lon>
+      <name>Randle</name>
+      <state>WA</state>
+    </location>
+    <location name="98564">
+      <cdi>2.5563</cdi>
+      <nresp>9</nresp>
+      <dist>23</dist>
+      <lat>46.4536022702</lat>
+      <lon>-122.433050639</lon>
+      <name>Mossyrock</name>
+      <state>WA</state>
+    </location>
+    <location name="98596">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>46.4896089256</lat>
+      <lon>-122.926674845</lon>
+      <name>Winlock</name>
+      <state>WA</state>
+    </location>
+    <location name="98597">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>46.8548823684</lat>
+      <lon>-122.514616054</lon>
+      <name>Yelm</name>
+      <state>WA</state>
+    </location>
+    <location name="98601">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>62</dist>
+      <lat>45.96043909</lat>
+      <lon>-122.36334064</lon>
+      <name>Amboy</name>
+      <state>WA</state>
+    </location>
+    <location name="98604">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>45.7955979567</lat>
+      <lon>-122.499105288</lon>
+      <name>Battle Ground</name>
+      <state>WA</state>
+    </location>
+    <location name="98649">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>46.2459904883</lat>
+      <lon>-122.478541194</lon>
+      <name>Toutle</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,184 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67003">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>34</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67004">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.2943035664</lat>
+      <lon>-97.7322661219</lon>
+      <name>Argonia</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67022">
+      <cdi>3.3287</cdi>
+      <nresp>6</nresp>
+      <dist>5</dist>
+      <lat>37.0959484612</lat>
+      <lon>-97.6546725248</lon>
+      <name>Caldwell</name>
+      <state>KS</state>
+    </location>
+    <location name="67031">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>37.4030449969</lat>
+      <lon>-97.6227732393</lon>
+      <name>Conway Springs</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67103">
+      <cdi>4.2757</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.2793460344</lat>
+      <lon>-97.5444736341</lon>
+      <name>Mayfield</name>
+      <state>KS</state>
+    </location>
+    <location name="67111">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>37.608636809</lat>
+      <lon>-97.9678765996</lon>
+      <name>Murdock</name>
+      <state>KS</state>
+    </location>
+    <location name="67152">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>37.2574619357</lat>
+      <lon>-97.4015125998</lon>
+      <name>Wellington</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67206">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>77</dist>
+      <lat>37.7037441156</lat>
+      <lon>-97.2255351318</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67209">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>37.6664896303</lat>
+      <lon>-97.4346930874</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67210">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>37.6332691731</lat>
+      <lon>-97.2435551436</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67556">
+      <cdi>3.9249</cdi>
+      <nresp>1</nresp>
+      <dist>234</dist>
+      <lat>38.6312308126</lat>
+      <lon>-99.4814909769</lon>
+      <name>MC Cracken</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73759">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>36.855793831</lat>
+      <lon>-97.6934025249</lon>
+      <name>Medford</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+    <location name="75040">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>471</dist>
+      <lat>32.9285075059</lat>
+      <lon>-96.6199944134</lon>
+      <name>Garland</name>
+      <state>TX</state>
+    </location>
+    <location name="75052">
+      <cdi>3.2031</cdi>
+      <nresp>1</nresp>
+      <dist>494</dist>
+      <lat>32.6702486359</lat>
+      <lon>-97.0227709302</lon>
+      <name>Grand Prairie</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Víron::Attikí::Greece">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>423</dist>
+      <lat>37.97</lat>
+      <lon>23.75</lon>
+      <name>Víron</name>
+    </location>
+    <location name="Kárpathos::Dodekánisos::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>35.50</lat>
+      <lon>27.23</lon>
+      <name>Kárpathos</name>
+    </location>
+    <location name="Iráklion::Iráklion::Greece">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>148</dist>
+      <lat>35.33</lat>
+      <lon>25.13</lon>
+      <name>Iráklion</name>
+    </location>
+    <location name="Koutsourás::Lasíthi::Greece">
+      <cdi>3.6156</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>35.03</lat>
+      <lon>25.95</lon>
+      <name>Koutsourás</name>
+    </location>
+    <location name="Sitía::Lasíthi::Greece">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>35.20</lat>
+      <lon>26.10</lon>
+      <name>Sitía</name>
+    </location>
+    <location name="Aghios Nikolaos::Nisia Aigaiou Kriti::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>35.15</lat>
+      <lon>25.73</lon>
+      <name>Aghios Nikolaos</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>3.2394</cdi>
+      <nresp>4</nresp>
+      <dist>148</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="La Ligua::ValparaÃ­so::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>-32.46</lat>
+      <lon>-71.24</lon>
+      <name>La Ligua</name>
+    </location>
+    <location name="ValparaÃ­so::ValparaÃ­so::Chile">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>-33.04</lat>
+      <lon>-71.64</lon>
+      <name>ValparaÃ­so</name>
+    </location>
+    <location name="ViÃ±a del Mar::ValparaÃ­so::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>75</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>ViÃ±a del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

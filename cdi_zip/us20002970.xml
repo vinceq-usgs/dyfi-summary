@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chakdaha::Bangla::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>658</dist>
+      <lat>22.48</lat>
+      <lon>88.35</lon>
+      <name>Chakdaha</name>
+    </location>
+    <location name="Muzaffarpur::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>195</dist>
+      <lat>26.13</lat>
+      <lon>85.38</lon>
+      <name>Muzaffarpur</name>
+    </location>
+    <location name="Phulwari::Bihar::India">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>257</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>3.4498</cdi>
+      <nresp>5</nresp>
+      <dist>479</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Noida::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>818</dist>
+      <lat>28.58</lat>
+      <lon>77.33</lon>
+      <name>Noida</name>
+    </location>
+    <location name="Sikandra Rao::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>712</dist>
+      <lat>27.70</lat>
+      <lon>78.40</lon>
+      <name>Sikandra Rao</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+  </cdi>
+</cdidata>

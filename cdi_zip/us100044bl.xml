@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73013">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73069">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>35.2483008817</lat>
+      <lon>-97.462346545</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74119">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>36.1416718329</lat>
+      <lon>-95.9891883481</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

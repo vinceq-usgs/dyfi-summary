@@ -1,0 +1,229 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90501">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>33.8336285474</lat>
+      <lon>-118.314281547</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90505">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>33.8086917483</lat>
+      <lon>-118.348325088</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90803">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>33.7617903124</lat>
+      <lon>-118.123316205</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91311">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>34.2856213545</lat>
+      <lon>-118.604515487</lon>
+      <name>Chatsworth</name>
+      <state>CA</state>
+    </location>
+    <location name="91344">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>34.2915037907</lat>
+      <lon>-118.506153742</lon>
+      <name>Granada Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91701">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>16</dist>
+      <lat>34.1379565788</lat>
+      <lon>-117.600749744</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91706">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>34.0984519064</lat>
+      <lon>-117.967778641</lon>
+      <name>Baldwin Park</name>
+      <state>CA</state>
+    </location>
+    <location name="91730">
+      <cdi>3.2091</cdi>
+      <nresp>4</nresp>
+      <dist>16</dist>
+      <lat>34.0996175563</lat>
+      <lon>-117.579542111</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91737">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>34.1517080412</lat>
+      <lon>-117.582705701</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91762">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>33.9939331753</lat>
+      <lon>-117.635306497</lon>
+      <name>Ontario</name>
+      <state>CA</state>
+    </location>
+    <location name="91767">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>34.0814669607</lat>
+      <lon>-117.73847442</lon>
+      <name>Pomona</name>
+      <state>CA</state>
+    </location>
+    <location name="92314">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>34.2734445739</lat>
+      <lon>-116.914645906</lon>
+      <name>Big Bear City</name>
+      <state>CA</state>
+    </location>
+    <location name="92316">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>34.0592198055</lat>
+      <lon>-117.393338293</lon>
+      <name>Bloomington</name>
+      <state>CA</state>
+    </location>
+    <location name="92324">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>34.0312328963</lat>
+      <lon>-117.28500846</lon>
+      <name>Colton</name>
+      <state>CA</state>
+    </location>
+    <location name="92335">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>34.0869349564</lat>
+      <lon>-117.466361873</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92336">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>11</dist>
+      <lat>34.1352054936</lat>
+      <lon>-117.462098185</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92337">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>34.0491763581</lat>
+      <lon>-117.471344778</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92399">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>34.0384658442</lat>
+      <lon>-117.007660214</lon>
+      <name>Yucaipa</name>
+      <state>CA</state>
+    </location>
+    <location name="92407">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>34.1726036158</lat>
+      <lon>-117.308551982</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92506">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>33.9345422726</lat>
+      <lon>-117.361830818</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92508">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>33.8922663294</lat>
+      <lon>-117.325067728</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92509">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>34.0033889465</lat>
+      <lon>-117.445586484</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92868">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>33.7878272262</lat>
+      <lon>-117.876379683</lon>
+      <name>Orange</name>
+      <state>CA</state>
+    </location>
+    <location name="92880">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>33.9212642945</lat>
+      <lon>-117.611282855</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+    <location name="93063">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>34.2882593211</lat>
+      <lon>-118.688958163</lon>
+      <name>Simi Valley</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

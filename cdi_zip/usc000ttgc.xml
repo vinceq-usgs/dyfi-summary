@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Muzafferabad::Azad Kashmir::Pakistan">
+      <cdi>3.6956</cdi>
+      <nresp>2</nresp>
+      <dist>60</dist>
+      <lat>34.35</lat>
+      <lon>73.48</lon>
+      <name>Muzafferabad</name>
+    </location>
+    <location name="Islamabad::Federal Capital Area::Pakistan">
+      <cdi>3.4017</cdi>
+      <nresp>19</nresp>
+      <dist>116</dist>
+      <lat>33.72</lat>
+      <lon>73.06</lon>
+      <name>Islamabad</name>
+    </location>
+    <location name="Abottabad::North-West Frontier::Pakistan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>34.15</lat>
+      <lon>73.20</lon>
+      <name>Abottabad</name>
+    </location>
+    <location name="Mardan::North-West Frontier::Pakistan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>34.20</lat>
+      <lon>72.04</lon>
+      <name>Mardan</name>
+    </location>
+    <location name="MÄnsehra::North-West Frontier::Pakistan">
+      <cdi>4.7129</cdi>
+      <nresp>2</nresp>
+      <dist>58</dist>
+      <lat>34.34</lat>
+      <lon>73.20</lon>
+      <name>MÄnsehra</name>
+    </location>
+    <location name="Peshawar::North-West Frontier::Pakistan">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>181</dist>
+      <lat>34.01</lat>
+      <lon>71.54</lon>
+      <name>Peshawar</name>
+    </location>
+    <location name="Hazro::Punjab::Pakistan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>33.91</lat>
+      <lon>72.49</lon>
+      <name>Hazro</name>
+    </location>
+    <location name="Lahore::Punjab::Pakistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>362</dist>
+      <lat>31.56</lat>
+      <lon>74.35</lon>
+      <name>Lahore</name>
+    </location>
+    <location name="Murree::Punjab::Pakistan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>33.91</lat>
+      <lon>73.39</lon>
+      <name>Murree</name>
+    </location>
+    <location name="Rawalpindi::Punjab::Pakistan">
+      <cdi>3.6684</cdi>
+      <nresp>8</nresp>
+      <dist>129</dist>
+      <lat>33.60</lat>
+      <lon>73.04</lon>
+      <name>Rawalpindi</name>
+    </location>
+    <location name="Taxila::Punjab::Pakistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>33.75</lat>
+      <lon>72.81</lon>
+      <name>Taxila</name>
+    </location>
+  </cdi>
+</cdidata>

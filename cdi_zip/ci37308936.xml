@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>195</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="91201">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>34.1702785367</lat>
+      <lon>-118.289070935</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="92036">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>32.9446829288</lat>
+      <lon>-116.378860094</lon>
+      <name>Julian</name>
+      <state>CA</state>
+    </location>
+    <location name="92054">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>33.1940587868</lat>
+      <lon>-117.355547092</lon>
+      <name>Oceanside</name>
+      <state>CA</state>
+    </location>
+    <location name="92274">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>33.0884435351</lat>
+      <lon>-115.953124539</lon>
+      <name>Thermal</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94558">
+      <cdi>2.4414</cdi>
+      <nresp>3</nresp>
+      <dist>21</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94612">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>37.8086513164</lat>
+      <lon>-122.267192618</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95476">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>38.2510840872</lat>
+      <lon>-122.453732438</lon>
+      <name>Sonoma</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

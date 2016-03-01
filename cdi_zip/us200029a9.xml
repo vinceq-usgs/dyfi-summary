@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96911">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>179</dist>
+      <lat>13.51</lat>
+      <lon>144.81</lon>
+      <name>TAMUNING</name>
+      <state>GU</state>
+    </location>
+    <location name="96915">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>13.40</lat>
+      <lon>144.67</lon>
+      <name>SANTA RITA</name>
+      <state>GU</state>
+    </location>
+    <location name="96923">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>13.46</lat>
+      <lon>144.84</lon>
+      <name>MANGILAO</name>
+      <state>GU</state>
+    </location>
+    <location name="96927">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>13.47</lat>
+      <lon>144.77</lon>
+      <name>MONGMONG</name>
+      <state>GU</state>
+    </location>
+  </cdi>
+</cdidata>

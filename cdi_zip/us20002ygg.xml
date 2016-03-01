@@ -1,0 +1,175 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89503">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>39.5409651745</lat>
+      <lon>-119.839807904</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89523">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>32</dist>
+      <lat>39.5490517233</lat>
+      <lon>-119.942425913</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="93428">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>434</dist>
+      <lat>35.5833958464</lat>
+      <lon>-121.019668707</lon>
+      <name>Cambria</name>
+      <state>CA</state>
+    </location>
+    <location name="94519">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>221</dist>
+      <lat>37.9883965249</lat>
+      <lon>-122.006762282</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="95065">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>307</dist>
+      <lat>37.0324334294</lat>
+      <lon>-121.983257671</lon>
+      <name>Santa Cruz</name>
+      <state>CA</state>
+    </location>
+    <location name="95350">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>207</dist>
+      <lat>37.6715987488</lat>
+      <lon>-121.007168907</lon>
+      <name>Modesto</name>
+      <state>CA</state>
+    </location>
+    <location name="95661">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>38.740224929</lat>
+      <lon>-121.250351975</lon>
+      <name>Roseville</name>
+      <state>CA</state>
+    </location>
+    <location name="95701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>39.2411463041</lat>
+      <lon>-120.745244982</lon>
+      <name>Alta</name>
+      <state>CA</state>
+    </location>
+    <location name="95713">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>69</dist>
+      <lat>39.087350268</lat>
+      <lon>-120.927305576</lon>
+      <name>Colfax</name>
+      <state>CA</state>
+    </location>
+    <location name="95714">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>39.1947970847</lat>
+      <lon>-120.831044137</lon>
+      <name>Dutch Flat</name>
+      <state>CA</state>
+    </location>
+    <location name="95724">
+      <cdi>2.7751</cdi>
+      <nresp>5</nresp>
+      <dist>27</dist>
+      <lat>39.2529772376</lat>
+      <lon>-120.432111713</lon>
+      <name>Norden</name>
+      <state>CA</state>
+    </location>
+    <location name="95728">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>39.4029422138</lat>
+      <lon>-120.502354689</lon>
+      <name>Soda Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="95945">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>39.2138541316</lat>
+      <lon>-120.926496583</lon>
+      <name>Grass Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95946">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>39.1771978554</lat>
+      <lon>-121.214661963</lon>
+      <name>Penn Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95959">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>55</dist>
+      <lat>39.3405158705</lat>
+      <lon>-120.901725991</lon>
+      <name>Nevada City</name>
+      <state>CA</state>
+    </location>
+    <location name="96124">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>39.5946836366</lat>
+      <lon>-120.508152775</lon>
+      <name>Calpine</name>
+      <state>CA</state>
+    </location>
+    <location name="96145">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>34</dist>
+      <lat>39.1547351097</lat>
+      <lon>-120.216879548</lon>
+      <name>Tahoe City</name>
+      <state>CA</state>
+    </location>
+    <location name="96150">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>38.8843567361</lat>
+      <lon>-120.03415586</lon>
+      <name>South Lake Tahoe</name>
+      <state>CA</state>
+    </location>
+    <location name="96161">
+      <cdi>2.6588</cdi>
+      <nresp>28</nresp>
+      <dist>18</dist>
+      <lat>39.331275754</lat>
+      <lon>-120.193978014</lon>
+      <name>Truckee</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

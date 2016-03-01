@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Phulwari::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>240</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Rusera::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>231</dist>
+      <lat>25.75</lat>
+      <lon>86.03</lon>
+      <name>Rusera</name>
+    </location>
+    <location name="Angul::Orissa::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>765</dist>
+      <lat>20.85</lat>
+      <lon>85.10</lon>
+      <name>Angul</name>
+    </location>
+    <location name="Cawnpore::Uttar Pradesh::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>520</dist>
+      <lat>26.47</lat>
+      <lon>80.33</lon>
+      <name>Cawnpore</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+  </cdi>
+</cdidata>

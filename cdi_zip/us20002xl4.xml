@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67112">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>178</dist>
+      <lat>37.4573962341</lat>
+      <lon>-98.4110354736</lon>
+      <name>Nashville</name>
+      <state>KS</state>
+    </location>
+    <location name="73028">
+      <cdi>3.2754</cdi>
+      <nresp>4</nresp>
+      <dist>6</dist>
+      <lat>35.9736322317</lat>
+      <lon>-97.5941537472</lon>
+      <name>Crescent</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>3.7349</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73112">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>35.5185814398</lat>
+      <lon>-97.5743746682</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73170">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>35.3273748202</lat>
+      <lon>-97.55027554</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74008">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>35.9148562447</lat>
+      <lon>-95.8381122962</lon>
+      <name>Bixby</name>
+      <state>OK</state>
+    </location>
+    <location name="74037">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>36.0015021664</lat>
+      <lon>-95.981016881</lon>
+      <name>Jenks</name>
+      <state>OK</state>
+    </location>
+    <location name="74063">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>36.1018895691</lat>
+      <lon>-96.2093090001</lon>
+      <name>Sand Springs</name>
+      <state>OK</state>
+    </location>
+    <location name="74120">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>36.1500754484</lat>
+      <lon>-95.9765243594</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

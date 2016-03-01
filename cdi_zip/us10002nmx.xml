@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Pangai::Haʿapai::Tonga">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>110</dist>
+      <lat>-19.81</lat>
+      <lon>-174.36</lon>
+      <name>Pangai</name>
+    </location>
+    <location name="Muʿa::Tongatapu::Tonga">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>-21.20</lat>
+      <lon>-175.11</lon>
+      <name>Muʿa</name>
+    </location>
+    <location name="Nukuʿalofa::Tongatapu::Tonga">
+      <cdi>3.4948</cdi>
+      <nresp>7</nresp>
+      <dist>95</dist>
+      <lat>-21.14</lat>
+      <lon>-175.22</lon>
+      <name>Nukuʿalofa</name>
+    </location>
+    <location name="Alofi::_no region::Niue">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>519</dist>
+      <lat>-19.05</lat>
+      <lon>-169.92</lon>
+      <name>Alofi</name>
+    </location>
+  </cdi>
+</cdidata>

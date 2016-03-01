@@ -1,0 +1,348 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dacca::Dhāka::Bangladesh">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>605</dist>
+      <lat>23.70</lat>
+      <lon>90.39</lon>
+      <name>Dacca</name>
+    </location>
+    <location name="Ţungī::Gazipur::Bangladesh">
+      <cdi>3.1404</cdi>
+      <nresp>9</nresp>
+      <dist>592</dist>
+      <lat>23.88</lat>
+      <lon>90.40</lon>
+      <name>Ţungī</name>
+    </location>
+    <location name="Khulna::Khulnā::Bangladesh">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>629</dist>
+      <lat>22.84</lat>
+      <lon>89.56</lon>
+      <name>Khulna</name>
+    </location>
+    <location name="Nawabganj::Nawābganj::Bangladesh">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>395</dist>
+      <lat>24.59</lat>
+      <lon>88.27</lon>
+      <name>Nawabganj</name>
+    </location>
+    <location name="Hyderabad::Andhra Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>1380</dist>
+      <lat>17.40</lat>
+      <lon>78.48</lon>
+      <name>Hyderabad</name>
+    </location>
+    <location name="Bokokhat::Assam::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>744</dist>
+      <lat>26.64</lat>
+      <lon>93.60</lon>
+      <name>Bokokhat</name>
+    </location>
+    <location name="Gauhati::Assam::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>576</dist>
+      <lat>26.19</lat>
+      <lon>91.75</lon>
+      <name>Gauhati</name>
+    </location>
+    <location name="Barabazar::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>600</dist>
+      <lat>22.57</lat>
+      <lon>88.35</lon>
+      <name>Barabazar</name>
+    </location>
+    <location name="Barddhaman::Bangla::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>513</dist>
+      <lat>23.24</lat>
+      <lon>87.86</lon>
+      <name>Barddhaman</name>
+    </location>
+    <location name="Calcutta::Bangla::India">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>600</dist>
+      <lat>22.57</lat>
+      <lon>88.36</lon>
+      <name>Calcutta</name>
+    </location>
+    <location name="Dhupguri::Bangla::India">
+      <cdi>6.1302</cdi>
+      <nresp>1</nresp>
+      <dist>304</dist>
+      <lat>26.60</lat>
+      <lon>89.02</lon>
+      <name>Dhupguri</name>
+    </location>
+    <location name="Jalpaiguri::Bangla::India">
+      <cdi>5.6318</cdi>
+      <nresp>1</nresp>
+      <dist>279</dist>
+      <lat>26.53</lat>
+      <lon>88.71</lon>
+      <name>Jalpaiguri</name>
+    </location>
+    <location name="Kurseong::Bangla::India">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>224</dist>
+      <lat>26.88</lat>
+      <lon>88.28</lon>
+      <name>Kurseong</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>243</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Araria::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>210</dist>
+      <lat>26.15</lat>
+      <lon>87.52</lon>
+      <name>Araria</name>
+    </location>
+    <location name="Katihār::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>267</dist>
+      <lat>25.55</lat>
+      <lon>87.57</lon>
+      <name>Katihār</name>
+    </location>
+    <location name="Marhaura::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>25.97</lat>
+      <lon>84.87</lon>
+      <name>Marhaura</name>
+    </location>
+    <location name="Patna::Bihar::India">
+      <cdi>6.3544</cdi>
+      <nresp>1</nresp>
+      <dist>244</dist>
+      <lat>25.62</lat>
+      <lon>85.13</lon>
+      <name>Patna</name>
+    </location>
+    <location name="Phulwari::Bihar::India">
+      <cdi>3.2091</cdi>
+      <nresp>4</nresp>
+      <dist>246</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Chandīgarh::Chandigarh::India">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>977</dist>
+      <lat>30.75</lat>
+      <lon>76.78</lon>
+      <name>Chandīgarh</name>
+    </location>
+    <location name="Delhi::Delhi::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>888</dist>
+      <lat>28.67</lat>
+      <lon>77.21</lon>
+      <name>Delhi</name>
+    </location>
+    <location name="Ni Dilli::Delhi::India">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>886</dist>
+      <lat>28.60</lat>
+      <lon>77.22</lon>
+      <name>Ni Dilli</name>
+    </location>
+    <location name="Nangloi Jat::Delhi::India">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>902</dist>
+      <lat>28.68</lat>
+      <lon>77.07</lon>
+      <name>Nangloi Jat</name>
+    </location>
+    <location name="Vadodara::Gujarat::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1437</dist>
+      <lat>22.31</lat>
+      <lon>73.18</lon>
+      <name>Vadodara</name>
+    </location>
+    <location name="Gurgaon::Haryana::India">
+      <cdi>4.0696</cdi>
+      <nresp>2</nresp>
+      <dist>906</dist>
+      <lat>28.47</lat>
+      <lon>77.01</lon>
+      <name>Gurgaon</name>
+    </location>
+    <location name="Jaipur::Rajasthan::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>1030</dist>
+      <lat>26.92</lat>
+      <lon>75.80</lon>
+      <name>Jaipur</name>
+    </location>
+    <location name="Mangan::Sikkim::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>233</dist>
+      <lat>27.52</lat>
+      <lon>88.53</lon>
+      <name>Mangan</name>
+    </location>
+    <location name="Ghaziabad::Uttar Pradesh::India">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>868</dist>
+      <lat>28.66</lat>
+      <lon>77.41</lon>
+      <name>Ghaziabad</name>
+    </location>
+    <location name="Harraiya::Uttar Pradesh::India">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>377</dist>
+      <lat>26.80</lat>
+      <lon>82.47</lon>
+      <name>Harraiya</name>
+    </location>
+    <location name="Cawnpore::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>593</dist>
+      <lat>26.47</lat>
+      <lon>80.33</lon>
+      <name>Cawnpore</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>3.4611</cdi>
+      <nresp>3</nresp>
+      <dist>527</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Lakhnau Cantonment::Uttar Pradesh::India">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>523</dist>
+      <lat>26.81</lat>
+      <lon>80.97</lon>
+      <name>Lakhnau Cantonment</name>
+    </location>
+    <location name="Noida::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>875</dist>
+      <lat>28.58</lat>
+      <lon>77.33</lon>
+      <name>Noida</name>
+    </location>
+    <location name="Rura::Uttar Pradesh::India">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>634</dist>
+      <lat>26.48</lat>
+      <lon>79.90</lon>
+      <name>Rura</name>
+    </location>
+    <location name="Shohratgarh::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>319</dist>
+      <lat>27.38</lat>
+      <lon>82.95</lon>
+      <name>Shohratgarh</name>
+    </location>
+    <location name="Banares::Uttar Pradesh::India">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>404</dist>
+      <lat>25.32</lat>
+      <lon>83.01</lon>
+      <name>Banares</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Dhankutā::Dhankuta::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>26.95</lat>
+      <lon>87.34</lon>
+      <name>Dhankutā</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>225</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>89</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>85</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Biratnagar::Morang::Nepal">
+      <cdi>4.9397</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>26.46</lat>
+      <lon>87.28</lon>
+      <name>Biratnagar</name>
+    </location>
+    <location name="Lahān::Siraha::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>26.72</lat>
+      <lon>86.48</lon>
+      <name>Lahān</name>
+    </location>
+  </cdi>
+</cdidata>

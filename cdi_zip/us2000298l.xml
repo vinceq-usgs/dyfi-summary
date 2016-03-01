@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kuanhsi::Hsinchu Hsien::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>24.79</lat>
+      <lon>121.17</lon>
+      <name>Kuanhsi</name>
+    </location>
+    <location name="Ilan::Ilan::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>24.77</lat>
+      <lon>121.74</lon>
+      <name>Ilan</name>
+    </location>
+    <location name="Keelung::Keelung Shih::Taiwan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>25.13</lat>
+      <lon>121.73</lon>
+      <name>Keelung</name>
+    </location>
+    <location name="Taichung::Taichung Shih::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>24.15</lat>
+      <lon>120.68</lon>
+      <name>Taichung</name>
+    </location>
+    <location name="Hsichih::Taipei Hsien::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>25.07</lat>
+      <lon>121.65</lon>
+      <name>Hsichih</name>
+    </location>
+    <location name="Hsintien::Taipei Hsien::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>24.96</lat>
+      <lon>121.53</lon>
+      <name>Hsintien</name>
+    </location>
+    <location name="Sanchung::Taipei Hsien::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>25.07</lat>
+      <lon>121.48</lon>
+      <name>Sanchung</name>
+    </location>
+    <location name="Yungho::Taipei Hsien::Taiwan">
+      <cdi>2.9370</cdi>
+      <nresp>6</nresp>
+      <dist>159</dist>
+      <lat>25.02</lat>
+      <lon>121.51</lon>
+      <name>Yungho</name>
+    </location>
+    <location name="Chatan::Okinawa::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>588</dist>
+      <lat>26.30</lat>
+      <lon>127.76</lon>
+      <name>Chatan</name>
+    </location>
+  </cdi>
+</cdidata>

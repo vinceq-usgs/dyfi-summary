@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67156">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>37.2468518161</lat>
+      <lon>-96.9651090421</lon>
+      <name>Winfield</name>
+      <state>KS</state>
+    </location>
+    <location name="67209">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>37.6664896303</lat>
+      <lon>-97.4346930874</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73077">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>7</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="73738">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>36.4552468116</lat>
+      <lon>-97.5592235278</lon>
+      <name>Garber</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

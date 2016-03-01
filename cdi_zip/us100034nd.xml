@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="72364">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>635</dist>
+      <lat>35.2134555132</lat>
+      <lon>-90.1912293707</lon>
+      <name>Marion</name>
+      <state>AR</state>
+    </location>
+    <location name="73132">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>35.5513031039</lat>
+      <lon>-97.6345444976</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74059">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>7</dist>
+      <lat>35.9797187465</lat>
+      <lon>-97.0916283661</lon>
+      <name>Perkins</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.6124</cdi>
+      <nresp>4</nresp>
+      <dist>6</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74864">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>35.5532278614</lat>
+      <lon>-96.7135501732</lon>
+      <name>Prague</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

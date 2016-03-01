@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92627">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>420</dist>
+      <lat>33.6481914604</lat>
+      <lon>-117.920343388</lon>
+      <name>Costa Mesa</name>
+      <state>CA</state>
+    </location>
+    <location name="92806">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>400</dist>
+      <lat>33.838352873</lat>
+      <lon>-117.870242707</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="92807">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>400</dist>
+      <lat>33.8499966703</lat>
+      <lon>-117.789240734</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="93514">
+      <cdi>3.1592</cdi>
+      <nresp>45</nresp>
+      <dist>14</dist>
+      <lat>37.4762712635</lat>
+      <lon>-118.400747511</lon>
+      <name>Bishop</name>
+      <state>CA</state>
+    </location>
+    <location name="93526">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>36.9237202606</lat>
+      <lon>-117.895933892</lon>
+      <name>Independence</name>
+      <state>CA</state>
+    </location>
+    <location name="93529">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>37.8139103806</lat>
+      <lon>-118.99650126</lon>
+      <name>June Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="93546">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>44</dist>
+      <lat>37.6583157092</lat>
+      <lon>-118.898845011</lon>
+      <name>Mammoth Lakes</name>
+      <state>CA</state>
+    </location>
+    <location name="93555">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>213</dist>
+      <lat>35.6917311746</lat>
+      <lon>-117.449167256</lon>
+      <name>Ridgecrest</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

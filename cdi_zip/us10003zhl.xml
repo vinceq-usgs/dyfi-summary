@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67062">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>38.1445808317</lat>
+      <lon>-97.4412009706</lon>
+      <name>Hesston</name>
+      <state>KS</state>
+    </location>
+    <location name="67070">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>37.0220357008</lat>
+      <lon>-98.4945206523</lon>
+      <name>Kiowa</name>
+      <state>KS</state>
+    </location>
+    <location name="67151">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>197</dist>
+      <lat>38.1385284829</lat>
+      <lon>-97.2398939683</lon>
+      <name>Walton</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67203">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>37.7037979044</lat>
+      <lon>-97.364550356</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67209">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>37.6664896303</lat>
+      <lon>-97.4346930874</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67456">
+      <cdi>3.0152</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>38.6071470365</lat>
+      <lon>-97.6753697846</lon>
+      <name>Lindsborg</name>
+      <state>KS</state>
+    </location>
+    <location name="67501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>37.9758810565</lat>
+      <lon>-97.931237911</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="67749">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>399</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="74020">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>36.2409919596</lat>
+      <lon>-96.4652056739</lon>
+      <name>Cleveland</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Hsinchu::Hsinchu Shih::Taiwan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>109</dist>
+      <lat>24.82</lat>
+      <lon>120.98</lon>
+      <name>Hsinchu</name>
+    </location>
+    <location name="Hualian::Hualien::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>23.99</lat>
+      <lon>121.59</lon>
+      <name>Hualian</name>
+    </location>
+    <location name="Taichung::Taichung Shih::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>24.15</lat>
+      <lon>120.68</lon>
+      <name>Taichung</name>
+    </location>
+    <location name="Hsinchuang::Taipei Hsien::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>25.04</lat>
+      <lon>121.44</lon>
+      <name>Hsinchuang</name>
+    </location>
+    <location name="Luchou::Taipei Hsien::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>101</dist>
+      <lat>25.08</lat>
+      <lon>121.47</lon>
+      <name>Luchou</name>
+    </location>
+    <location name="Yungho::Taipei Hsien::Taiwan">
+      <cdi>3.1118</cdi>
+      <nresp>9</nresp>
+      <dist>94</dist>
+      <lat>25.02</lat>
+      <lon>121.51</lon>
+      <name>Yungho</name>
+    </location>
+    <location name="Chungli::Taoyuan::Taiwan">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>103</dist>
+      <lat>24.96</lat>
+      <lon>121.22</lon>
+      <name>Chungli</name>
+    </location>
+    <location name="Taoyuan::Taoyuan::Taiwan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>25.00</lat>
+      <lon>121.31</lon>
+      <name>Taoyuan</name>
+    </location>
+  </cdi>
+</cdidata>

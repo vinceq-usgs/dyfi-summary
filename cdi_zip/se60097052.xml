@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="30019">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>33.9750706081</lat>
+      <lon>-83.881074262</lon>
+      <name>Dacula</name>
+      <state>GA</state>
+    </location>
+    <location name="30317">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>33.7493666274</lat>
+      <lon>-84.3151976018</lon>
+      <name>Atlanta</name>
+      <state>GA</state>
+    </location>
+    <location name="30533">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>95</dist>
+      <lat>34.5740793174</lat>
+      <lon>-84.0097837589</lon>
+      <name>Dahlonega</name>
+      <state>GA</state>
+    </location>
+    <location name="30747">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>44</dist>
+      <lat>34.504664767</lat>
+      <lon>-85.2871658822</lon>
+      <name>Summerville</name>
+      <state>GA</state>
+    </location>
+    <location name="31779">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>415</dist>
+      <lat>31.1063617772</lat>
+      <lon>-84.1875323915</lon>
+      <name>Pelham</name>
+      <state>GA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83333">
+      <cdi>2.7334</cdi>
+      <nresp>2</nresp>
+      <dist>94</dist>
+      <lat>43.6116475512</lat>
+      <lon>-114.236344854</lon>
+      <name>Hailey</name>
+      <state>ID</state>
+    </location>
+    <location name="83340">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>43.8039169078</lat>
+      <lon>-114.596142717</lon>
+      <name>Ketchum</name>
+      <state>ID</state>
+    </location>
+    <location name="83422">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>247</dist>
+      <lat>43.7185498622</lat>
+      <lon>-111.258016852</lon>
+      <name>Driggs</name>
+      <state>ID</state>
+    </location>
+    <location name="83611">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>44.4285653837</lat>
+      <lon>-115.808002613</lon>
+      <name>Cascade</name>
+      <state>ID</state>
+    </location>
+    <location name="83642">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>204</dist>
+      <lat>43.5721104087</lat>
+      <lon>-116.399601119</lon>
+      <name>Meridian</name>
+      <state>ID</state>
+    </location>
+    <location name="83706">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>43.590635805</lat>
+      <lon>-116.192839823</lon>
+      <name>Boise</name>
+      <state>ID</state>
+    </location>
+  </cdi>
+</cdidata>

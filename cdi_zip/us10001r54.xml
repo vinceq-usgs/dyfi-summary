@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73044">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="74032">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>36.2090916512</lat>
+      <lon>-96.9126312998</lon>
+      <name>Glencoe</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.7869</cdi>
+      <nresp>7</nresp>
+      <dist>7</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74085">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>36.1079031234</lat>
+      <lon>-96.7217558094</lon>
+      <name>Yale</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

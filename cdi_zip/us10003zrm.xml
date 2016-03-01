@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64116">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>440</dist>
+      <lat>39.1504954226</lat>
+      <lon>-94.5739100061</lon>
+      <name>Kansas City</name>
+      <state>MO</state>
+    </location>
+    <location name="67010">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>37.6594194979</lat>
+      <lon>-96.9652711107</lon>
+      <name>Augusta</name>
+      <state>KS</state>
+    </location>
+    <location name="67654">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>381</dist>
+      <lat>39.8623886309</lat>
+      <lon>-99.974371028</lon>
+      <name>Norton</name>
+      <state>KS</state>
+    </location>
+    <location name="73044">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73717">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>36.8636011675</lat>
+      <lon>-98.750839081</lon>
+      <name>Alva</name>
+      <state>OK</state>
+    </location>
+    <location name="73726">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>36.5952202687</lat>
+      <lon>-98.4585467157</lon>
+      <name>Carmen</name>
+      <state>OK</state>
+    </location>
+    <location name="74008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>248</dist>
+      <lat>35.9148562447</lat>
+      <lon>-95.8381122962</lon>
+      <name>Bixby</name>
+      <state>OK</state>
+    </location>
+    <location name="74133">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>241</dist>
+      <lat>36.0413422515</lat>
+      <lon>-95.8789406288</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

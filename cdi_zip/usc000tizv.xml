@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73044">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73077">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="75039">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>324</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="76670">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>405</dist>
+      <lat>32.1501261833</lat>
+      <lon>-96.9635196677</lon>
+      <name>Milford</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

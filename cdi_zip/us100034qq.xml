@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="72207">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>458</dist>
+      <lat>34.7741370599</lat>
+      <lon>-92.3426103857</lon>
+      <name>Little Rock</name>
+      <state>AR</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74059">
+      <cdi>3.5749</cdi>
+      <nresp>4</nresp>
+      <dist>9</dist>
+      <lat>35.9797187465</lat>
+      <lon>-97.0916283661</lon>
+      <name>Perkins</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.2488</cdi>
+      <nresp>16</nresp>
+      <dist>5</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74077">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>36.1228033078</lat>
+      <lon>-97.0706479473</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74133">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>36.0413422515</lat>
+      <lon>-95.8789406288</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

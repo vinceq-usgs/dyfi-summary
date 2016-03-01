@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bello::Antioquia::Colombia">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>285</dist>
+      <lat>6.33</lat>
+      <lon>-75.57</lon>
+      <name>Bello</name>
+    </location>
+    <location name="Envigado::Antioquia::Colombia">
+      <cdi>2.7334</cdi>
+      <nresp>2</nresp>
+      <dist>300</dist>
+      <lat>6.16</lat>
+      <lon>-75.56</lon>
+      <name>Envigado</name>
+    </location>
+    <location name="Itagüí::Antioquia::Colombia">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>295</dist>
+      <lat>6.17</lat>
+      <lon>-75.62</lon>
+      <name>Itagüí</name>
+    </location>
+    <location name="Medellín::Antioquia::Colombia">
+      <cdi>2.4868</cdi>
+      <nresp>3</nresp>
+      <dist>290</dist>
+      <lat>6.29</lat>
+      <lon>-75.54</lon>
+      <name>Medellín</name>
+    </location>
+    <location name="Sabaneta::Antioquia::Colombia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>298</dist>
+      <lat>6.15</lat>
+      <lon>-75.60</lon>
+      <name>Sabaneta</name>
+    </location>
+    <location name="Bogotá::Bogotá::Colombia">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>534</dist>
+      <lat>4.63</lat>
+      <lon>-74.09</lon>
+      <name>Bogotá</name>
+    </location>
+    <location name="Panamá::Panamá::Panama">
+      <cdi>2.4664</cdi>
+      <nresp>14</nresp>
+      <dist>257</dist>
+      <lat>8.97</lat>
+      <lon>-79.53</lon>
+      <name>Panamá</name>
+    </location>
+    <location name="San Carlos::Panamá::Panama">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>290</dist>
+      <lat>8.48</lat>
+      <lon>-79.94</lon>
+      <name>San Carlos</name>
+    </location>
+    <location name="San Miguelito::Panamá::Panama">
+      <cdi>3.0374</cdi>
+      <nresp>10</nresp>
+      <dist>256</dist>
+      <lat>9.03</lat>
+      <lon>-79.50</lon>
+      <name>San Miguelito</name>
+    </location>
+    <location name="Tocumen::Panamá::Panama">
+      <cdi>2.4944</cdi>
+      <nresp>2</nresp>
+      <dist>246</dist>
+      <lat>9.08</lat>
+      <lon>-79.38</lon>
+      <name>Tocumen</name>
+    </location>
+  </cdi>
+</cdidata>

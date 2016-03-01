@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73003">
+      <cdi>2.4261</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>35.6683436545</lat>
+      <lon>-97.4969186829</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73007">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73012">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>32</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>31</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73025">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73028">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>35.9736322317</lat>
+      <lon>-97.5941537472</lon>
+      <name>Crescent</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.2091</cdi>
+      <nresp>12</nresp>
+      <dist>20</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>3.6156</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73102">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>47</dist>
+      <lat>35.4714367683</lat>
+      <lon>-97.519123843</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73103">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>35.4894976361</lat>
+      <lon>-97.5187431888</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73120">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>39</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73127">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>35.478786196</lat>
+      <lon>-97.6488560757</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73134">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>35.616130717</lat>
+      <lon>-97.5754984565</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73135">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>35.3969288808</lat>
+      <lon>-97.4266585694</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73142">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>35.6092863133</lat>
+      <lon>-97.6384003062</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>42</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.3897</cdi>
+      <nresp>4</nresp>
+      <dist>31</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

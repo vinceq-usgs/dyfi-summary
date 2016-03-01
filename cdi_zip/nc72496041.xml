@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94043">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>37.4186501185</lat>
+      <lon>-122.076805997</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94103">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>37.7731288064</lat>
+      <lon>-122.411274893</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94602">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>37.8041177031</lat>
+      <lon>-122.207451284</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94607">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.808279628</lat>
+      <lon>-122.298285049</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67123">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>37.9522717239</lat>
+      <lon>-96.9891564006</lon>
+      <name>Potwin</name>
+      <state>KS</state>
+    </location>
+    <location name="73054">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>35.6691143696</lat>
+      <lon>-97.191976607</lon>
+      <name>Luther</name>
+      <state>OK</state>
+    </location>
+    <location name="74017">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>36.3934747275</lat>
+      <lon>-95.5741682638</lon>
+      <name>Claremore</name>
+      <state>OK</state>
+    </location>
+    <location name="74020">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>36.2409919596</lat>
+      <lon>-96.4652056739</lon>
+      <name>Cleveland</name>
+      <state>OK</state>
+    </location>
+    <location name="74032">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>36.2090916512</lat>
+      <lon>-96.9126312998</lon>
+      <name>Glencoe</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+    <location name="74851">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>35.4031104746</lat>
+      <lon>-97.0926965117</lon>
+      <name>McLoud</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

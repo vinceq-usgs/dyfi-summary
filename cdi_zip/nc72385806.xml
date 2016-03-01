@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95501">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>40.7953313015</lat>
+      <lon>-124.153385167</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95536">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>40.4647699382</lat>
+      <lon>-124.250835346</lon>
+      <name>Ferndale</name>
+      <state>CA</state>
+    </location>
+    <location name="95540">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>54</dist>
+      <lat>40.5903951405</lat>
+      <lon>-124.130433801</lon>
+      <name>Fortuna</name>
+      <state>CA</state>
+    </location>
+    <location name="95558">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>40.2881620643</lat>
+      <lon>-124.221826337</lon>
+      <name>Petrolia</name>
+      <state>CA</state>
+    </location>
+    <location name="95562">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>40.4799439242</lat>
+      <lon>-124.14320836</lon>
+      <name>Rio Dell</name>
+      <state>CA</state>
+    </location>
+    <location name="95565">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>40.4452805485</lat>
+      <lon>-124.030606023</lon>
+      <name>Scotia</name>
+      <state>CA</state>
+    </location>
+    <location name="95589">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>40.0406855713</lat>
+      <lon>-123.994740274</lon>
+      <name>Whitethorn</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

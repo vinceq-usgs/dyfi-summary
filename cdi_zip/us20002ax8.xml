@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="34217">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>906</dist>
+      <lat>27.5081586744</lat>
+      <lon>-82.7171971785</lon>
+      <name>Bradenton Beach</name>
+      <state>FL</state>
+    </location>
+    <location name="37067">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>481</dist>
+      <lat>35.9143674433</lat>
+      <lon>-86.7759764012</lon>
+      <name>Franklin</name>
+      <state>TN</state>
+    </location>
+    <location name="39042">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>32.2137155973</lat>
+      <lon>-89.8797271959</lon>
+      <name>Brandon</name>
+      <state>MS</state>
+    </location>
+    <location name="39046">
+      <cdi>3.1518</cdi>
+      <nresp>13</nresp>
+      <dist>13</dist>
+      <lat>32.6326772271</lat>
+      <lon>-89.9922581977</lon>
+      <name>Canton</name>
+      <state>MS</state>
+    </location>
+    <location name="39083">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>31.8342611634</lat>
+      <lon>-90.467507816</lon>
+      <name>Hazlehurst</name>
+      <state>MS</state>
+    </location>
+    <location name="39110">
+      <cdi>3.1401</cdi>
+      <nresp>48</nresp>
+      <dist>9</dist>
+      <lat>32.5021313703</lat>
+      <lon>-90.1293151174</lon>
+      <name>Madison</name>
+      <state>MS</state>
+    </location>
+    <location name="39120">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>31.5459824439</lat>
+      <lon>-91.3229268563</lon>
+      <name>Natchez</name>
+      <state>MS</state>
+    </location>
+    <location name="39157">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>32.422666903</lat>
+      <lon>-90.1600052954</lon>
+      <name>Ridgeland</name>
+      <state>MS</state>
+    </location>
+    <location name="39160">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>32.9808298288</lat>
+      <lon>-89.7807392068</lon>
+      <name>Sallis</name>
+      <state>MS</state>
+    </location>
+    <location name="39183">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>32.4443528387</lat>
+      <lon>-90.8325627438</lon>
+      <name>Vicksburg</name>
+      <state>MS</state>
+    </location>
+    <location name="39208">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>32.2544515831</lat>
+      <lon>-90.0908640282</lon>
+      <name>Pearl</name>
+      <state>MS</state>
+    </location>
+    <location name="39209">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>32.3941242699</lat>
+      <lon>-90.2999995631</lon>
+      <name>Jackson</name>
+      <state>MS</state>
+    </location>
+    <location name="39232">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>32.3207785313</lat>
+      <lon>-90.0978478008</lon>
+      <name>Flowood</name>
+      <state>MS</state>
+    </location>
+    <location name="39462">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>31.1733293855</lat>
+      <lon>-89.0452223906</lon>
+      <name>New Augusta</name>
+      <state>MS</state>
+    </location>
+    <location name="39565">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>255</dist>
+      <lat>30.5830990536</lat>
+      <lon>-88.7407818599</lon>
+      <name>Vancleave</name>
+      <state>MS</state>
+    </location>
+    <location name="39630">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>31.4565955427</lat>
+      <lon>-90.8535640958</lon>
+      <name>Bude</name>
+      <state>MS</state>
+    </location>
+    <location name="70810">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>263</dist>
+      <lat>30.3456777681</lat>
+      <lon>-91.0818471519</lon>
+      <name>Baton Rouge</name>
+      <state>LA</state>
+    </location>
+    <location name="70817">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>256</dist>
+      <lat>30.3751420007</lat>
+      <lon>-90.980087493</lon>
+      <name>Baton Rouge</name>
+      <state>LA</state>
+    </location>
+  </cdi>
+</cdidata>

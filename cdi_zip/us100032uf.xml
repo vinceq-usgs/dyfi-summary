@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="65806">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>367</dist>
+      <lat>37.2052412137</lat>
+      <lon>-93.297836861</lon>
+      <name>Springfield</name>
+      <state>MO</state>
+    </location>
+    <location name="74003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>36.7412189362</lat>
+      <lon>-96.0844334228</lon>
+      <name>Bartlesville</name>
+      <state>OK</state>
+    </location>
+    <location name="74030">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>35.9828204849</lat>
+      <lon>-96.5564969222</lon>
+      <name>Drumright</name>
+      <state>OK</state>
+    </location>
+    <location name="74127">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>36.1716076469</lat>
+      <lon>-96.045630502</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74868">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>35.2971131316</lat>
+      <lon>-96.6644856622</lon>
+      <name>Seminole</name>
+      <state>OK</state>
+    </location>
+    <location name="77070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>602</dist>
+      <lat>29.978462607</lat>
+      <lon>-95.5734285483</lon>
+      <name>Houston</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

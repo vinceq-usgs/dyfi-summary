@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92503">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>456</dist>
+      <lat>33.8897441303</lat>
+      <lon>-117.446817121</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92604">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>449</dist>
+      <lat>33.6880832796</lat>
+      <lon>-117.788561672</lon>
+      <name>Irvine</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+    <location name="95070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>37.2553258487</lat>
+      <lon>-122.048765195</lon>
+      <name>Saratoga</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

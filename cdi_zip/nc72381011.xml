@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95423">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>215</dist>
+      <lat>39.1237409093</lat>
+      <lon>-122.643192124</lon>
+      <name>Clearlake Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="95451">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>220</dist>
+      <lat>38.921044264</lat>
+      <lon>-122.79454376</lon>
+      <name>Kelseyville</name>
+      <state>CA</state>
+    </location>
+    <location name="95503">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>40.7119988087</lat>
+      <lon>-124.097405236</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95521">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>40.8495303628</lat>
+      <lon>-124.03465378</lon>
+      <name>Arcata</name>
+      <state>CA</state>
+    </location>
+    <location name="95536">
+      <cdi>2.2649</cdi>
+      <nresp>7</nresp>
+      <dist>38</dist>
+      <lat>40.4647699382</lat>
+      <lon>-124.250835346</lon>
+      <name>Ferndale</name>
+      <state>CA</state>
+    </location>
+    <location name="95564">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>40.7928855156</lat>
+      <lon>-124.203746168</lon>
+      <name>Samoa</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,184 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00198">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>60.9302607613</lat>
+      <lon>-149.087241999</lon>
+      <name>E Mncplty of Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99501">
+      <cdi>2.9633</cdi>
+      <nresp>4</nresp>
+      <dist>133</dist>
+      <lat>61.2172381203</lat>
+      <lon>-149.869068212</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99502">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>135</dist>
+      <lat>61.158809373</lat>
+      <lon>-150.04667767</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99504">
+      <cdi>2.3424</cdi>
+      <nresp>5</nresp>
+      <dist>136</dist>
+      <lat>61.2040802623</lat>
+      <lon>-149.742978801</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99507">
+      <cdi>2.2566</cdi>
+      <nresp>5</nresp>
+      <dist>140</dist>
+      <lat>61.151181701</lat>
+      <lon>-149.77914819</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99508">
+      <cdi>2.5743</cdi>
+      <nresp>8</nresp>
+      <dist>135</dist>
+      <lat>61.2041909265</lat>
+      <lon>-149.812690714</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99515">
+      <cdi>2.3954</cdi>
+      <nresp>5</nresp>
+      <dist>141</dist>
+      <lat>61.1145748641</lat>
+      <lon>-149.893146119</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99516">
+      <cdi>2.4868</cdi>
+      <nresp>3</nresp>
+      <dist>148</dist>
+      <lat>61.0726161718</lat>
+      <lon>-149.715124965</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99517">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>134</dist>
+      <lat>61.1899261926</lat>
+      <lon>-149.936096257</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99518">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>137</dist>
+      <lat>61.1591909995</lat>
+      <lon>-149.884408774</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99567">
+      <cdi>2.6565</cdi>
+      <nresp>13</nresp>
+      <dist>128</dist>
+      <lat>61.4609962815</lat>
+      <lon>-149.330150001</lon>
+      <name>Chugiak</name>
+      <state>AK</state>
+    </location>
+    <location name="99572">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>204</dist>
+      <lat>60.4562734219</lat>
+      <lon>-149.983779932</lon>
+      <name>Cooper Landing</name>
+      <state>AK</state>
+    </location>
+    <location name="99577">
+      <cdi>2</cdi>
+      <nresp>10</nresp>
+      <dist>146</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+    <location name="99588">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>241</dist>
+      <lat>62.048860826</lat>
+      <lon>-146.364211702</lon>
+      <name>Glennallen</name>
+      <state>AK</state>
+    </location>
+    <location name="99603">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>298</dist>
+      <lat>59.5330957545</lat>
+      <lon>-151.193180499</lon>
+      <name>Homer</name>
+      <state>AK</state>
+    </location>
+    <location name="99611">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>169</dist>
+      <lat>60.7531620408</lat>
+      <lon>-150.48260084</lon>
+      <name>Kenai</name>
+      <state>AK</state>
+    </location>
+    <location name="99654">
+      <cdi>2.4585</cdi>
+      <nresp>16</nresp>
+      <dist>112</dist>
+      <lat>61.5022894283</lat>
+      <lon>-149.796287978</lon>
+      <name>Wasilla</name>
+      <state>AK</state>
+    </location>
+    <location name="99667">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>61.6712497398</lat>
+      <lon>-152.129813116</lon>
+      <name>Skwentna</name>
+      <state>AK</state>
+    </location>
+    <location name="99676">
+      <cdi>3.3345</cdi>
+      <nresp>5</nresp>
+      <dist>85</dist>
+      <lat>62.1797503902</lat>
+      <lon>-149.889641836</lon>
+      <name>Talkeetna</name>
+      <state>AK</state>
+    </location>
+    <location name="99688">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>97</dist>
+      <lat>61.5775256877</lat>
+      <lon>-150.312380005</lon>
+      <name>Willow</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

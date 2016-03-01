@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93529">
+      <cdi>2.4414</cdi>
+      <nresp>6</nresp>
+      <dist>6</dist>
+      <lat>37.8139103806</lat>
+      <lon>-118.99650126</lon>
+      <name>June Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="93541">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>37.9266592922</lat>
+      <lon>-118.937735008</lon>
+      <name>Lee Vining</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

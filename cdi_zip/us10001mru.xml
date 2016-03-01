@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chatan::Okinawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>381</dist>
+      <lat>26.30</lat>
+      <lon>127.76</lon>
+      <name>Chatan</name>
+    </location>
+    <location name="Ginowan::Okinawa::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>379</dist>
+      <lat>26.30</lat>
+      <lon>127.79</lon>
+      <name>Ginowan</name>
+    </location>
+    <location name="Gushikawa::Okinawa::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>369</dist>
+      <lat>26.36</lat>
+      <lon>127.87</lon>
+      <name>Gushikawa</name>
+    </location>
+    <location name="Ishikawa::Okinawa::Japan">
+      <cdi>3.4270</cdi>
+      <nresp>5</nresp>
+      <dist>369</dist>
+      <lat>26.42</lat>
+      <lon>127.83</lon>
+      <name>Ishikawa</name>
+    </location>
+    <location name="Nago::Okinawa::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>346</dist>
+      <lat>26.59</lat>
+      <lon>127.99</lon>
+      <name>Nago</name>
+    </location>
+    <location name="Okinawa::Okinawa::Japan">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>377</dist>
+      <lat>26.34</lat>
+      <lon>127.79</lon>
+      <name>Okinawa</name>
+    </location>
+    <location name="Yomitan::Okinawa::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>379</dist>
+      <lat>26.39</lat>
+      <lon>127.73</lon>
+      <name>Yomitan</name>
+    </location>
+  </cdi>
+</cdidata>

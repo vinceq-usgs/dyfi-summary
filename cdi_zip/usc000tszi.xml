@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67036">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73728">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>36.7610465168</lat>
+      <lon>-98.3690400836</lon>
+      <name>Cherokee</name>
+      <state>OK</state>
+    </location>
+    <location name="74930">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>367</dist>
+      <lat>35.1433084553</lat>
+      <lon>-94.8208033972</lon>
+      <name>Bokoshe</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

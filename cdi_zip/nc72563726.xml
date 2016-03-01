@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>315</dist>
+      <lat>37.1634138038</lat>
+      <lon>-121.605115684</lon>
+      <name>Morgan Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="95437">
+      <cdi>2.9849</cdi>
+      <nresp>74</nresp>
+      <dist>10</dist>
+      <lat>39.4643563766</lat>
+      <lon>-123.69642113</lon>
+      <name>Fort Bragg</name>
+      <state>CA</state>
+    </location>
+    <location name="95460">
+      <cdi>2.7820</cdi>
+      <nresp>6</nresp>
+      <dist>25</dist>
+      <lat>39.3101880737</lat>
+      <lon>-123.718137663</lon>
+      <name>Mendocino</name>
+      <state>CA</state>
+    </location>
+    <location name="95488">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>39.6741222962</lat>
+      <lon>-123.742393642</lon>
+      <name>Westport</name>
+      <state>CA</state>
+    </location>
+    <location name="95490">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>39.4716278515</lat>
+      <lon>-123.365954363</lon>
+      <name>Willits</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67037">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67203">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>37.7037979044</lat>
+      <lon>-97.364550356</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73049">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>145</dist>
+      <lat>35.5848257111</lat>
+      <lon>-97.2955576644</lon>
+      <name>Jones</name>
+      <state>OK</state>
+    </location>
+    <location name="73120">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74055">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>187</dist>
+      <lat>36.2761266346</lat>
+      <lon>-95.8175582945</lon>
+      <name>Owasso</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

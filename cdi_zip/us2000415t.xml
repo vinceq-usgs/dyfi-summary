@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Tirana::Tirana::Albania">
+      <cdi>3.9650</cdi>
+      <nresp>11</nresp>
+      <dist>40</dist>
+      <lat>41.33</lat>
+      <lon>19.82</lon>
+      <name>Tirana</name>
+    </location>
+    <location name="Kičevo::Kičevo::Macedonia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>41.51</lat>
+      <lon>20.97</lon>
+      <name>Kičevo</name>
+    </location>
+    <location name="Skopje::Skopje::Macedonia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>42.00</lat>
+      <lon>21.47</lon>
+      <name>Skopje</name>
+    </location>
+  </cdi>
+</cdidata>

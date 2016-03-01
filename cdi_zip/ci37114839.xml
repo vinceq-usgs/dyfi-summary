@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90277">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>33.8304542479</lat>
+      <lon>-118.384029436</lon>
+      <name>Redondo Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90713">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>33.8479130281</lat>
+      <lon>-118.112581056</lon>
+      <name>Lakewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90723">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>33.8976337779</lat>
+      <lon>-118.164718803</lon>
+      <name>Paramount</name>
+      <state>CA</state>
+    </location>
+    <location name="91740">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>34.1185404722</lat>
+      <lon>-117.853681417</lon>
+      <name>Glendora</name>
+      <state>CA</state>
+    </location>
+    <location name="93117">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>203</dist>
+      <lat>34.4931874411</lat>
+      <lon>-120.046075664</lon>
+      <name>Goleta</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,172 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Delvinë::Delvinë::Albania">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>39.96</lat>
+      <lon>20.09</lon>
+      <name>Delvinë</name>
+    </location>
+    <location name="Aktaío::Ahaia::Greece">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>38.29</lat>
+      <lon>21.78</lon>
+      <name>Aktaío</name>
+    </location>
+    <location name="Pátrai::Ahaia::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>38.24</lat>
+      <lon>21.73</lon>
+      <name>Pátrai</name>
+    </location>
+    <location name="Agrínion::Aitolía kai Akarnanía::Greece">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>38.62</lat>
+      <lon>21.41</lon>
+      <name>Agrínion</name>
+    </location>
+    <location name="Amfilokhía::Aitolía kai Akarnanía::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>38.86</lat>
+      <lon>21.17</lon>
+      <name>Amfilokhía</name>
+    </location>
+    <location name="Athens::Attikí::Greece">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>284</dist>
+      <lat>37.98</lat>
+      <lon>23.73</lon>
+      <name>Athens</name>
+    </location>
+    <location name="Filothí::Attikí::Greece">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>287</dist>
+      <lat>38.03</lat>
+      <lon>23.78</lon>
+      <name>Filothí</name>
+    </location>
+    <location name="Keratsínion::Attikí::Greece">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>275</dist>
+      <lat>37.96</lat>
+      <lon>23.62</lon>
+      <name>Keratsínion</name>
+    </location>
+    <location name="Palaión Fáliron::Attikí::Greece">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>283</dist>
+      <lat>37.93</lat>
+      <lon>23.70</lon>
+      <name>Palaión Fáliron</name>
+    </location>
+    <location name="Zográfos::Attikí::Greece">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>287</dist>
+      <lat>37.98</lat>
+      <lon>23.77</lon>
+      <name>Zográfos</name>
+    </location>
+    <location name="Áyioi Anáryiroi::Attikí::Greece">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>282</dist>
+      <lat>38.02</lat>
+      <lon>23.72</lon>
+      <name>Áyioi Anáryiroi</name>
+    </location>
+    <location name="Ioánnina::Ioánnina::Greece">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>39.67</lat>
+      <lon>20.85</lon>
+      <name>Ioánnina</name>
+    </location>
+    <location name="Itháki::Kefallinía::Greece">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>38.36</lat>
+      <lon>20.72</lon>
+      <name>Itháki</name>
+    </location>
+    <location name="Káto Korakiána::Kérkira::Greece">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>39.69</lat>
+      <lon>19.83</lon>
+      <name>Káto Korakiána</name>
+    </location>
+    <location name="Kérkira::Kérkira::Greece">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>121</dist>
+      <lat>39.62</lat>
+      <lon>19.92</lon>
+      <name>Kérkira</name>
+    </location>
+    <location name="Leukás::Levkás::Greece">
+      <cdi>7.1846</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>38.83</lat>
+      <lon>20.70</lon>
+      <name>Leukás</name>
+    </location>
+    <location name="Nidríon::Levkás::Greece">
+      <cdi>6.5648</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>38.70</lat>
+      <lon>20.72</lon>
+      <name>Nidríon</name>
+    </location>
+    <location name="Préveza::Préveza::Greece">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>35</dist>
+      <lat>38.95</lat>
+      <lon>20.75</lon>
+      <name>Préveza</name>
+    </location>
+    <location name="Megála Kalívia::Tríkala::Greece">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>39.50</lat>
+      <lon>21.79</lon>
+      <name>Megála Kalívia</name>
+    </location>
+    <location name="Catania::Sizilien::Italy">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>501</dist>
+      <lat>37.50</lat>
+      <lon>15.08</lon>
+      <name>Catania</name>
+    </location>
+    <location name="Xghajra::Outer Harbour::Malta">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>619</dist>
+      <lat>35.89</lat>
+      <lon>14.55</lon>
+      <name>Xghajra</name>
+    </location>
+  </cdi>
+</cdidata>

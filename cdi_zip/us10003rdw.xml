@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="38105">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>705</dist>
+      <lat>35.1508252727</lat>
+      <lon>-90.0343044953</lon>
+      <name>Memphis</name>
+      <state>TN</state>
+    </location>
+    <location name="67124">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>37.6417806919</lat>
+      <lon>-98.7883123714</lon>
+      <name>Pratt</name>
+      <state>KS</state>
+    </location>
+    <location name="68503">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>503</dist>
+      <lat>40.8239521408</lat>
+      <lon>-96.677268361</lon>
+      <name>Lincoln</name>
+      <state>NE</state>
+    </location>
+    <location name="73036">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>35.5403840183</lat>
+      <lon>-97.9652004499</lon>
+      <name>El Reno</name>
+      <state>OK</state>
+    </location>
+    <location name="73069">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>35.2483008817</lat>
+      <lon>-97.462346545</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>3.0916</cdi>
+      <nresp>5</nresp>
+      <dist>13</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="74059">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>35.9797187465</lat>
+      <lon>-97.0916283661</lon>
+      <name>Perkins</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

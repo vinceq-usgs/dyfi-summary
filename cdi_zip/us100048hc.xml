@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bandar Seri Begawan::Brunei-Muara::Brunei">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>330</dist>
+      <lat>4.93</lat>
+      <lon>114.95</lon>
+      <name>Bandar Seri Begawan</name>
+    </location>
+    <location name="Tarakan::Kalimantan Timur::Indonesia">
+      <cdi>6.2192</cdi>
+      <nresp>4</nresp>
+      <dist>40</dist>
+      <lat>3.28</lat>
+      <lon>117.62</lon>
+      <name>Tarakan</name>
+    </location>
+    <location name="Keningau::Sabah::Malaysia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>250</dist>
+      <lat>5.35</lat>
+      <lon>116.15</lon>
+      <name>Keningau</name>
+    </location>
+    <location name="Kudat::Sabah::Malaysia">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>371</dist>
+      <lat>6.90</lat>
+      <lon>116.84</lon>
+      <name>Kudat</name>
+    </location>
+    <location name="Tawau::Sabah::Malaysia">
+      <cdi>4.2540</cdi>
+      <nresp>12</nresp>
+      <dist>74</dist>
+      <lat>4.26</lat>
+      <lon>117.88</lon>
+      <name>Tawau</name>
+    </location>
+  </cdi>
+</cdidata>

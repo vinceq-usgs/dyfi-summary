@@ -1,0 +1,180 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiba::Chiba::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>90</dist>
+      <lat>35.61</lat>
+      <lon>140.11</lon>
+      <name>Chiba</name>
+    </location>
+    <location name="Fussa::Chiba::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>35.74</lat>
+      <lon>139.33</lon>
+      <name>Fussa</name>
+    </location>
+    <location name="Kashiwa::Chiba::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>35.87</lat>
+      <lon>139.97</lon>
+      <name>Kashiwa</name>
+    </location>
+    <location name="Matsudo::Chiba::Japan">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>78</dist>
+      <lat>35.78</lat>
+      <lon>139.90</lon>
+      <name>Matsudo</name>
+    </location>
+    <location name="Narita::Chiba::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>79</dist>
+      <lat>35.79</lat>
+      <lon>140.32</lon>
+      <name>Narita</name>
+    </location>
+    <location name="Tomisato::Chiba::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>35.73</lat>
+      <lon>140.36</lon>
+      <name>Tomisato</name>
+    </location>
+    <location name="Yachiyo::Chiba::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>35.74</lat>
+      <lon>140.10</lon>
+      <name>Yachiyo</name>
+    </location>
+    <location name="Hitachi::Ibaraki::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>36.59</lat>
+      <lon>140.66</lon>
+      <name>Hitachi</name>
+    </location>
+    <location name="Naka::Ibaraki::Japan">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>63</dist>
+      <lat>36.05</lat>
+      <lon>140.17</lon>
+      <name>Naka</name>
+    </location>
+    <location name="Shimotsuma::Ibaraki::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>36.20</lat>
+      <lon>139.96</lon>
+      <name>Shimotsuma</name>
+    </location>
+    <location name="Toride::Ibaraki::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>35.90</lat>
+      <lon>140.07</lon>
+      <name>Toride</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>63</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Yokohama::Kanagawa::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>35.47</lat>
+      <lon>139.62</lon>
+      <name>Yokohama</name>
+    </location>
+    <location name="Kasukabe::Saitama::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>35.98</lat>
+      <lon>139.77</lon>
+      <name>Kasukabe</name>
+    </location>
+    <location name="Kawaguchi::Saitama::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>35.81</lat>
+      <lon>139.73</lon>
+      <name>Kawaguchi</name>
+    </location>
+    <location name="Niiza::Saitama::Japan">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>35.81</lat>
+      <lon>139.55</lon>
+      <name>Niiza</name>
+    </location>
+    <location name="Saitama::Saitama::Japan">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>81</dist>
+      <lat>35.87</lat>
+      <lon>139.64</lon>
+      <name>Saitama</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>3.2754</cdi>
+      <nresp>4</nresp>
+      <dist>73</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+    <location name="Kokubunji::Tokio::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>35.70</lat>
+      <lon>139.48</lon>
+      <name>Kokubunji</name>
+    </location>
+    <location name="Mitaka::Tokio::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>35.68</lat>
+      <lon>139.57</lon>
+      <name>Mitaka</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.2811</cdi>
+      <nresp>11</nresp>
+      <dist>89</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+    <location name="Otsuki::Yamanashi::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>35.62</lat>
+      <lon>138.93</lon>
+      <name>Otsuki</name>
+    </location>
+  </cdi>
+</cdidata>

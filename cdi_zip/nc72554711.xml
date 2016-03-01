@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94591">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>251</dist>
+      <lat>38.1137083826</lat>
+      <lon>-122.199613148</lon>
+      <name>Vallejo</name>
+      <state>CA</state>
+    </location>
+    <location name="95947">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>40.1780003086</lat>
+      <lon>-120.887963583</lon>
+      <name>Greenville</name>
+      <state>CA</state>
+    </location>
+    <location name="95984">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>40.0387139795</lat>
+      <lon>-121.144829209</lon>
+      <name>Twain</name>
+      <state>CA</state>
+    </location>
+    <location name="96137">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>40.2842914898</lat>
+      <lon>-121.088551847</lon>
+      <name>Westwood</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

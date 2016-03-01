@@ -1,0 +1,12 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Honiara::Guadalcanal::Solomon Islands">
+      <cdi>3.4780</cdi>
+      <nresp>6</nresp>
+      <dist>60</dist>
+      <lat>-9.43</lat>
+      <lon>159.91</lon>
+      <name>Honiara</name>
+    </location>
+  </cdi>
+</cdidata>

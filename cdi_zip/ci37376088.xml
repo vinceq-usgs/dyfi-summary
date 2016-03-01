@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90278">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>398</dist>
+      <lat>33.8733679819</lat>
+      <lon>-118.370277574</lon>
+      <name>Redondo Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91737">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>377</dist>
+      <lat>34.1517080412</lat>
+      <lon>-117.582705701</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="92507">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>345</dist>
+      <lat>33.9529113701</lat>
+      <lon>-117.323004987</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92672">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>308</dist>
+      <lat>33.3967264913</lat>
+      <lon>-117.553883921</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+    <location name="92860">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>354</dist>
+      <lat>33.9246632061</lat>
+      <lon>-117.55268765</lon>
+      <name>Norco</name>
+      <state>CA</state>
+    </location>
+    <location name="92881">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>344</dist>
+      <lat>33.8400889046</lat>
+      <lon>-117.497317567</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Lázaro Cárdenas::Baja California::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>31.41</lat>
+      <lon>-115.74</lon>
+      <name>Lázaro Cárdenas</name>
+    </location>
+  </cdi>
+</cdidata>

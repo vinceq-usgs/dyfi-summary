@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73007">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>2.3643</cdi>
+      <nresp>3</nresp>
+      <dist>12</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="75038">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75039">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>308</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75062">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>312</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>308</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

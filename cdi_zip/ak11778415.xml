@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99501">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>61.2172381203</lat>
+      <lon>-149.869068212</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99506">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>61.2644150792</lat>
+      <lon>-149.799820601</lon>
+      <name>Elmendorf AFB</name>
+      <state>AK</state>
+    </location>
+    <location name="99507">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>61.151181701</lat>
+      <lon>-149.77914819</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99508">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>61.2041909265</lat>
+      <lon>-149.812690714</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99517">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>61.1899261926</lat>
+      <lon>-149.936096257</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99645">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>61.6828083589</lat>
+      <lon>-148.01052815</lon>
+      <name>Palmer</name>
+      <state>AK</state>
+    </location>
+    <location name="99676">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>62.1797503902</lat>
+      <lon>-149.889641836</lon>
+      <name>Talkeetna</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="42021">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>777</dist>
+      <lat>36.7925285118</lat>
+      <lon>-88.9447888776</lon>
+      <name>Arlington</name>
+      <state>KY</state>
+    </location>
+    <location name="72701">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>313</dist>
+      <lat>35.9791586876</lat>
+      <lon>-94.078286645</lon>
+      <name>Fayetteville</name>
+      <state>AR</state>
+    </location>
+    <location name="72761">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>279</dist>
+      <lat>36.1689572713</lat>
+      <lon>-94.4604536407</lon>
+      <name>Siloam Springs</name>
+      <state>AR</state>
+    </location>
+    <location name="73013">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73028">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>35.9736322317</lat>
+      <lon>-97.5941537472</lon>
+      <name>Crescent</name>
+      <state>OK</state>
+    </location>
+    <location name="73104">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>35.4752021975</lat>
+      <lon>-97.5038449583</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73718">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>36.2328848488</lat>
+      <lon>-98.1871464971</lon>
+      <name>Ames</name>
+      <state>OK</state>
+    </location>
+    <location name="74006">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>169</dist>
+      <lat>36.7104634151</lat>
+      <lon>-95.8836624984</lon>
+      <name>Bartlesville</name>
+      <state>OK</state>
+    </location>
+    <location name="74032">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>36.2090916512</lat>
+      <lon>-96.9126312998</lon>
+      <name>Glencoe</name>
+      <state>OK</state>
+    </location>
+    <location name="74055">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>36.2761266346</lat>
+      <lon>-95.8175582945</lon>
+      <name>Owasso</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>141</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

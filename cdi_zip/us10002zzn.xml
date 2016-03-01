@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Butare::Butare::Rwanda">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>-2.59</lat>
+      <lon>29.73</lon>
+      <name>Butare</name>
+    </location>
+    <location name="Cyangugu::Cyangugu::Rwanda">
+      <cdi>3.9249</cdi>
+      <nresp>3</nresp>
+      <dist>38</dist>
+      <lat>-2.48</lat>
+      <lon>28.90</lon>
+      <name>Cyangugu</name>
+    </location>
+    <location name="Gisenyi::Gisenyi::Rwanda">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>66</dist>
+      <lat>-1.69</lat>
+      <lon>29.26</lon>
+      <name>Gisenyi</name>
+    </location>
+    <location name="Kibuye::Kibuye::Rwanda">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>-2.06</lat>
+      <lon>29.36</lon>
+      <name>Kibuye</name>
+    </location>
+    <location name="Ruhengeri::Ruhengeri::Rwanda">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>-1.50</lat>
+      <lon>29.63</lon>
+      <name>Ruhengeri</name>
+    </location>
+    <location name="Kigali::Ville de Kigali::Rwanda">
+      <cdi>3.4000</cdi>
+      <nresp>14</nresp>
+      <dist>132</dist>
+      <lat>-1.94</lat>
+      <lon>30.06</lon>
+      <name>Kigali</name>
+    </location>
+    <location name="Kisoro::Western::Uganda">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>-1.28</lat>
+      <lon>29.68</lon>
+      <name>Kisoro</name>
+    </location>
+    <location name="Bujumbura::Bujumbura::Burundi">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>-3.37</lat>
+      <lon>29.35</lon>
+      <name>Bujumbura</name>
+    </location>
+    <location name="Bunia::Haut-Congo::Congo (Dem. Rep.)">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>436</dist>
+      <lat>1.56</lat>
+      <lon>30.24</lon>
+      <name>Bunia</name>
+    </location>
+    <location name="Goma::Nord-Kivu::Congo (Dem. Rep.)">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>63</dist>
+      <lat>-1.69</lat>
+      <lon>29.22</lon>
+      <name>Goma</name>
+    </location>
+    <location name="Bukavu::Sud-Kivu::Congo (Dem. Rep.)">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>-2.51</lat>
+      <lon>28.84</lon>
+      <name>Bukavu</name>
+    </location>
+  </cdi>
+</cdidata>

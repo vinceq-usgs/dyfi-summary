@@ -1,0 +1,211 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91107">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>34.1587906305</lat>
+      <lon>-118.087215897</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91790">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>34.0673397181</lat>
+      <lon>-117.93761607</lon>
+      <name>West Covina</name>
+      <state>CA</state>
+    </location>
+    <location name="92082">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>33.2538529897</lat>
+      <lon>-116.994477053</lon>
+      <name>Valley Center</name>
+      <state>CA</state>
+    </location>
+    <location name="92211">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>33.7642960411</lat>
+      <lon>-116.330157044</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92220">
+      <cdi>2.8026</cdi>
+      <nresp>6</nresp>
+      <dist>24</dist>
+      <lat>33.9415090234</lat>
+      <lon>-116.851737004</lon>
+      <name>Banning</name>
+      <state>CA</state>
+    </location>
+    <location name="92230">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>33.9105411941</lat>
+      <lon>-116.778451574</lon>
+      <name>Cabazon</name>
+      <state>CA</state>
+    </location>
+    <location name="92234">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>35</dist>
+      <lat>33.8157080121</lat>
+      <lon>-116.466479106</lon>
+      <name>Cathedral City</name>
+      <state>CA</state>
+    </location>
+    <location name="92240">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>20</dist>
+      <lat>33.9626342861</lat>
+      <lon>-116.529693934</lon>
+      <name>Desert Hot Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92256">
+      <cdi>2.3330</cdi>
+      <nresp>10</nresp>
+      <dist>12</dist>
+      <lat>34.0972343451</lat>
+      <lon>-116.595393156</lon>
+      <name>Morongo Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>50</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92262">
+      <cdi>2.2426</cdi>
+      <nresp>9</nresp>
+      <dist>27</dist>
+      <lat>33.8625160663</lat>
+      <lon>-116.56832194</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92264">
+      <cdi>2.3565</cdi>
+      <nresp>4</nresp>
+      <dist>40</dist>
+      <lat>33.7408622467</lat>
+      <lon>-116.535954528</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92284">
+      <cdi>2.2694</cdi>
+      <nresp>3</nresp>
+      <dist>24</dist>
+      <lat>34.1720242491</lat>
+      <lon>-116.468234152</lon>
+      <name>Yucca Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92314">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>33</dist>
+      <lat>34.2734445739</lat>
+      <lon>-116.914645906</lon>
+      <name>Big Bear City</name>
+      <state>CA</state>
+    </location>
+    <location name="92315">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>34.2483705249</lat>
+      <lon>-116.915145265</lon>
+      <name>Big Bear Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="92339">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>18</dist>
+      <lat>34.0897195285</lat>
+      <lon>-116.840332761</lon>
+      <name>Forest Falls</name>
+      <state>CA</state>
+    </location>
+    <location name="92530">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>33.607336889</lat>
+      <lon>-117.395832737</lon>
+      <name>Lake Elsinore</name>
+      <state>CA</state>
+    </location>
+    <location name="92544">
+      <cdi>2.2614</cdi>
+      <nresp>4</nresp>
+      <dist>52</dist>
+      <lat>33.6443840016</lat>
+      <lon>-116.898417469</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92549">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>33.7836411163</lat>
+      <lon>-116.777173608</lon>
+      <name>Idyllwild</name>
+      <state>CA</state>
+    </location>
+    <location name="92562">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>33.5488264059</lat>
+      <lon>-117.267643428</lon>
+      <name>Murrieta</name>
+      <state>CA</state>
+    </location>
+    <location name="92583">
+      <cdi>2.8638</cdi>
+      <nresp>6</nresp>
+      <dist>39</dist>
+      <lat>33.7928153426</lat>
+      <lon>-116.919476933</lon>
+      <name>San Jacinto</name>
+      <state>CA</state>
+    </location>
+    <location name="92587">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>33.6960232384</lat>
+      <lon>-117.25000173</lon>
+      <name>Sun City</name>
+      <state>CA</state>
+    </location>
+    <location name="92590">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>33.4790358909</lat>
+      <lon>-117.218646445</lon>
+      <name>Temecula</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

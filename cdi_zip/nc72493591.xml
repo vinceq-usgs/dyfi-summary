@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94010">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>37.567638575</lat>
+      <lon>-122.366305015</lon>
+      <name>Burlingame</name>
+      <state>CA</state>
+    </location>
+    <location name="94089">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.4246122205</lat>
+      <lon>-122.016134078</lon>
+      <name>Sunnyvale</name>
+      <state>CA</state>
+    </location>
+    <location name="94105">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>37.7885713861</lat>
+      <lon>-122.393818386</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95037">
+      <cdi>2.2712</cdi>
+      <nresp>23</nresp>
+      <dist>4</dist>
+      <lat>37.1634138038</lat>
+      <lon>-121.605115684</lon>
+      <name>Morgan Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+    <location name="95060">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>37.0592413896</lat>
+      <lon>-122.157700218</lon>
+      <name>Santa Cruz</name>
+      <state>CA</state>
+    </location>
+    <location name="95128">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>37.3162104971</lat>
+      <lon>-121.936547909</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95134">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>37.4293950999</lat>
+      <lon>-121.945839019</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89003">
+      <cdi>2.1052</cdi>
+      <nresp>3</nresp>
+      <dist>53</dist>
+      <lat>36.900726929</lat>
+      <lon>-116.77292692</lon>
+      <name>Beatty</name>
+      <state>NV</state>
+    </location>
+    <location name="89013">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>54</dist>
+      <lat>37.6057348608</lat>
+      <lon>-117.365569243</lon>
+      <name>Goldfield</name>
+      <state>NV</state>
+    </location>
+    <location name="89047">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>37.7171955489</lat>
+      <lon>-117.884386254</lon>
+      <name>Silverpeak</name>
+      <state>NV</state>
+    </location>
+    <location name="90015">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>356</dist>
+      <lat>34.0396124666</lat>
+      <lon>-118.266701508</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>379</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="92284">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>337</dist>
+      <lat>34.1720242491</lat>
+      <lon>-116.468234152</lon>
+      <name>Yucca Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92328">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>82</dist>
+      <lat>36.4233123925</lat>
+      <lon>-117.1304881</lon>
+      <name>Death Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="93012">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>361</dist>
+      <lat>34.2059191509</lat>
+      <lon>-118.992710194</lon>
+      <name>Camarillo</name>
+      <state>CA</state>
+    </location>
+    <location name="93277">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>36.2996150821</lat>
+      <lon>-119.381711853</lon>
+      <name>Visalia</name>
+      <state>CA</state>
+    </location>
+    <location name="93545">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>35.8317543131</lat>
+      <lon>-117.981662504</lon>
+      <name>Lone Pine</name>
+      <state>CA</state>
+    </location>
+    <location name="93550">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>304</dist>
+      <lat>34.4863249168</lat>
+      <lon>-118.074218856</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+    <location name="93555">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>35.6917311746</lat>
+      <lon>-117.449167256</lon>
+      <name>Ridgecrest</name>
+      <state>CA</state>
+    </location>
+    <location name="93705">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>232</dist>
+      <lat>36.786815672</lat>
+      <lon>-119.828351234</lon>
+      <name>Fresno</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

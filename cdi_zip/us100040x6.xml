@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chacao::Miranda::Venezuela">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>2398</dist>
+      <lat>10.50</lat>
+      <lon>-66.85</lon>
+      <name>Chacao</name>
+    </location>
+    <location name="Gualaceo::Azuay::Ecuador">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1317</dist>
+      <lat>-2.90</lat>
+      <lon>-78.78</lon>
+      <name>Gualaceo</name>
+    </location>
+    <location name="Quito::Pichincha::Ecuador">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>1499</dist>
+      <lat>-0.19</lat>
+      <lon>-78.50</lon>
+      <name>Quito</name>
+    </location>
+    <location name="Iquique::Tarapacá::Chile">
+      <cdi>3.9543</cdi>
+      <nresp>1</nresp>
+      <dist>1285</dist>
+      <lat>-20.23</lat>
+      <lon>-70.14</lon>
+      <name>Iquique</name>
+    </location>
+    <location name="Envigado::Antioquia::Colombia">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>1959</dist>
+      <lat>6.16</lat>
+      <lon>-75.56</lon>
+      <name>Envigado</name>
+    </location>
+    <location name="Calarcá::Quindió::Colombia">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>1799</dist>
+      <lat>4.54</lat>
+      <lon>-75.64</lon>
+      <name>Calarcá</name>
+    </location>
+    <location name="Mollendo::Arequipa::Peru">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>990</dist>
+      <lat>-17.02</lat>
+      <lon>-72.02</lon>
+      <name>Mollendo</name>
+    </location>
+    <location name="Huánuco::Huánuco::Peru">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>837</dist>
+      <lat>-9.92</lat>
+      <lon>-76.24</lon>
+      <name>Huánuco</name>
+    </location>
+    <location name="San Luis::Lima Provincias::Peru">
+      <cdi>3.3110</cdi>
+      <nresp>2</nresp>
+      <dist>922</dist>
+      <lat>-12.08</lat>
+      <lon>-77.00</lon>
+      <name>San Luis</name>
+    </location>
+    <location name="Pucallpa::Ucayali::Peru">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>745</dist>
+      <lat>-8.39</lat>
+      <lon>-74.53</lon>
+      <name>Pucallpa</name>
+    </location>
+  </cdi>
+</cdidata>

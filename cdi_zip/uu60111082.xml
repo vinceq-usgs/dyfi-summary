@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="59714">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>45.9962305133</lat>
+      <lon>-111.063975858</lon>
+      <name>Belgrade</name>
+      <state>MT</state>
+    </location>
+    <location name="82190">
+      <cdi>3.1909</cdi>
+      <nresp>6</nresp>
+      <dist>12</dist>
+      <lat>44.5808292979</lat>
+      <lon>-110.526406868</lon>
+      <name>Yellowstone National Park</name>
+      <state>WY</state>
+    </location>
+  </cdi>
+</cdidata>

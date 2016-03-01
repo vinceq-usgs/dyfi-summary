@@ -1,0 +1,535 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64484">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>454</dist>
+      <lat>39.5613490965</lat>
+      <lon>-95.0307716071</lon>
+      <name>Rushville</name>
+      <state>MO</state>
+    </location>
+    <location name="67002">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>193</dist>
+      <lat>37.6978785988</lat>
+      <lon>-97.1097897813</lon>
+      <name>Andover</name>
+      <state>KS</state>
+    </location>
+    <location name="67068">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>37.6025506169</lat>
+      <lon>-98.0596462589</lon>
+      <name>Kingman</name>
+      <state>KS</state>
+    </location>
+    <location name="67152">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>141</dist>
+      <lat>37.2574619357</lat>
+      <lon>-97.4015125998</lon>
+      <name>Wellington</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67203">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>37.7037979044</lat>
+      <lon>-97.364550356</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67206">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>192</dist>
+      <lat>37.7037441156</lat>
+      <lon>-97.2255351318</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>188</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>4.0696</cdi>
+      <nresp>2</nresp>
+      <dist>191</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67216">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>37.6082148038</lat>
+      <lon>-97.314056177</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67218">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>187</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67221">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>183</dist>
+      <lat>37.6249365618</lat>
+      <lon>-97.2632326114</lon>
+      <name>McConnell AFB</name>
+      <state>KS</state>
+    </location>
+    <location name="67501">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>222</dist>
+      <lat>37.9758810565</lat>
+      <lon>-97.931237911</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="72202">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>500</dist>
+      <lat>34.7435226238</lat>
+      <lon>-92.2673805845</lon>
+      <name>Little Rock</name>
+      <state>AR</state>
+    </location>
+    <location name="72756">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>321</dist>
+      <lat>36.3299215231</lat>
+      <lon>-94.0102860163</lon>
+      <name>Rogers</name>
+      <state>AR</state>
+    </location>
+    <location name="72758">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>36.3010788291</lat>
+      <lon>-94.1377932582</lon>
+      <name>Rogers</name>
+      <state>AR</state>
+    </location>
+    <location name="73010">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>35.0895334967</lat>
+      <lon>-97.6226215196</lon>
+      <name>Blanchard</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73014">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>35.5710081757</lat>
+      <lon>-98.1929563824</lon>
+      <name>Calumet</name>
+      <state>OK</state>
+    </location>
+    <location name="73028">
+      <cdi>5.3115</cdi>
+      <nresp>4</nresp>
+      <dist>5</dist>
+      <lat>35.9736322317</lat>
+      <lon>-97.5941537472</lon>
+      <name>Crescent</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73099">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>35.5251099208</lat>
+      <lon>-97.7584631196</lon>
+      <name>Yukon</name>
+      <state>OK</state>
+    </location>
+    <location name="73102">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>35.4714367683</lat>
+      <lon>-97.519123843</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73107">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>35.4822241552</lat>
+      <lon>-97.5745488944</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73109">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>35.4323609848</lat>
+      <lon>-97.5244478596</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73110">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>35.4599812871</lat>
+      <lon>-97.3970813939</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73114">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>35.579568444</lat>
+      <lon>-97.5180480544</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73118">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>35.5186748711</lat>
+      <lon>-97.5298794618</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73127">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>35.478786196</lat>
+      <lon>-97.6488560757</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>2.4868</cdi>
+      <nresp>3</nresp>
+      <dist>46</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73762">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>35.7722139186</lat>
+      <lon>-97.9132669616</lon>
+      <name>Okarche</name>
+      <state>OK</state>
+    </location>
+    <location name="74003">
+      <cdi>2.1718</cdi>
+      <nresp>3</nresp>
+      <dist>156</dist>
+      <lat>36.7412189362</lat>
+      <lon>-96.0844334228</lon>
+      <name>Bartlesville</name>
+      <state>OK</state>
+    </location>
+    <location name="74006">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>36.7104634151</lat>
+      <lon>-95.8836624984</lon>
+      <name>Bartlesville</name>
+      <state>OK</state>
+    </location>
+    <location name="74011">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>35.9844979881</lat>
+      <lon>-95.8098860351</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74014">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>36.0489735158</lat>
+      <lon>-95.688743227</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74026">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>35.7089657058</lat>
+      <lon>-96.7638321094</lon>
+      <name>Davenport</name>
+      <state>OK</state>
+    </location>
+    <location name="74037">
+      <cdi>3.0152</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>36.0015021664</lat>
+      <lon>-95.981016881</lon>
+      <name>Jenks</name>
+      <state>OK</state>
+    </location>
+    <location name="74039">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>35.8975629435</lat>
+      <lon>-96.2394512563</lon>
+      <name>Kellyville</name>
+      <state>OK</state>
+    </location>
+    <location name="74055">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>36.2761266346</lat>
+      <lon>-95.8175582945</lon>
+      <name>Owasso</name>
+      <state>OK</state>
+    </location>
+    <location name="74063">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>36.1018895691</lat>
+      <lon>-96.2093090001</lon>
+      <name>Sand Springs</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74114">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>36.1261559611</lat>
+      <lon>-95.9461925162</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74116">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>36.1848986441</lat>
+      <lon>-95.8325638899</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74128">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>36.1469379829</lat>
+      <lon>-95.850969085</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74134">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>36.1112685837</lat>
+      <lon>-95.7986242503</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74135">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>148</dist>
+      <lat>36.0971002866</lat>
+      <lon>-95.9223153955</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74136">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>146</dist>
+      <lat>36.0617672231</lat>
+      <lon>-95.9409568667</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74137">
+      <cdi>4.4193</cdi>
+      <nresp>2</nresp>
+      <dist>147</dist>
+      <lat>36.0208833454</lat>
+      <lon>-95.92912403</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74145">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>36.0971666331</lat>
+      <lon>-95.8865384194</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74146">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>154</dist>
+      <lat>36.0971977458</lat>
+      <lon>-95.8509222701</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74401">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>194</dist>
+      <lat>35.7197952537</lat>
+      <lon>-95.4332433137</lon>
+      <name>Muskogee</name>
+      <state>OK</state>
+    </location>
+    <location name="74447">
+      <cdi>3.8249</cdi>
+      <nresp>3</nresp>
+      <dist>143</dist>
+      <lat>35.6437227585</lat>
+      <lon>-96.0354113646</lon>
+      <name>Okmulgee</name>
+      <state>OK</state>
+    </location>
+    <location name="74464">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>234</dist>
+      <lat>35.9669206467</lat>
+      <lon>-94.9655453124</lon>
+      <name>Tahlequah</name>
+      <state>OK</state>
+    </location>
+    <location name="74467">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>196</dist>
+      <lat>35.9736911861</lat>
+      <lon>-95.3866439599</lon>
+      <name>Wagoner</name>
+      <state>OK</state>
+    </location>
+    <location name="74631">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>36.8068603427</lat>
+      <lon>-97.3055655473</lon>
+      <name>Blackwell</name>
+      <state>OK</state>
+    </location>
+    <location name="76941">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>606</dist>
+      <lat>31.320616658</lat>
+      <lon>-100.953102064</lon>
+      <name>Mertzon</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

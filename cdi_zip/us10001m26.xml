@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73007">
+      <cdi>2.2694</cdi>
+      <nresp>3</nresp>
+      <dist>10</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73012">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.0150</cdi>
+      <nresp>17</nresp>
+      <dist>8</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>4.0696</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73078">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>35.6694694816</lat>
+      <lon>-97.754049375</lon>
+      <name>Piedmont</name>
+      <state>OK</state>
+    </location>
+    <location name="73114">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>35.579568444</lat>
+      <lon>-97.5180480544</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73120">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

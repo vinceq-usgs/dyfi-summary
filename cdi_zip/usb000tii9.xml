@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>2.9841</cdi>
+      <nresp>5</nresp>
+      <dist>56</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="Penco::Bío Bío::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>-36.73</lat>
+      <lon>-73.00</lon>
+      <name>Penco</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93426">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>267</dist>
+      <lat>35.8644938228</lat>
+      <lon>-120.967725709</lon>
+      <name>Bradley</name>
+      <state>CA</state>
+    </location>
+    <location name="93546">
+      <cdi>3.3110</cdi>
+      <nresp>6</nresp>
+      <dist>9</dist>
+      <lat>37.6583157092</lat>
+      <lon>-118.898845011</lon>
+      <name>Mammoth Lakes</name>
+      <state>CA</state>
+    </location>
+    <location name="94062">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>298</dist>
+      <lat>37.4076638109</lat>
+      <lon>-122.303813288</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,212 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Belize::Belize::Belize">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>737</dist>
+      <lat>17.50</lat>
+      <lon>-88.19</lon>
+      <name>Belize</name>
+    </location>
+    <location name="Cobán::Alta Verapaz::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>541</dist>
+      <lat>15.47</lat>
+      <lon>-90.38</lon>
+      <name>Cobán</name>
+    </location>
+    <location name="Retalhuleu::Retalhuleu::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>470</dist>
+      <lat>14.54</lat>
+      <lon>-91.69</lon>
+      <name>Retalhuleu</name>
+    </location>
+    <location name="Carmen::Campeche::Mexico">
+      <cdi>2.1520</cdi>
+      <nresp>5</nresp>
+      <dist>395</dist>
+      <lat>18.63</lat>
+      <lon>-91.83</lon>
+      <name>Carmen</name>
+    </location>
+    <location name="Chiapa::Chiapas::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>246</dist>
+      <lat>16.71</lat>
+      <lon>-93.02</lon>
+      <name>Chiapa</name>
+    </location>
+    <location name="San Cristóbal de las Casas::Chiapas::Mexico">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>282</dist>
+      <lat>16.75</lat>
+      <lon>-92.63</lon>
+      <name>San Cristóbal de las Casas</name>
+    </location>
+    <location name="Tuxtla Gutiérrez::Chiapas::Mexico">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>235</dist>
+      <lat>16.75</lat>
+      <lon>-93.12</lon>
+      <name>Tuxtla Gutiérrez</name>
+    </location>
+    <location name="Mexico City::Distrito Federal::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>516</dist>
+      <lat>19.43</lat>
+      <lon>-99.14</lon>
+      <name>Mexico City</name>
+    </location>
+    <location name="Chiltepec::Oaxaca::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>17.95</lat>
+      <lon>-96.18</lon>
+      <name>Chiltepec</name>
+    </location>
+    <location name="Cuilápam::Oaxaca::Mexico">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>215</dist>
+      <lat>17.00</lat>
+      <lon>-96.77</lon>
+      <name>Cuilápam</name>
+    </location>
+    <location name="Huayapam::Oaxaca::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>206</dist>
+      <lat>17.10</lat>
+      <lon>-96.67</lon>
+      <name>Huayapam</name>
+    </location>
+    <location name="Loma Bonita::Oaxaca::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>18.12</lat>
+      <lon>-95.88</lon>
+      <name>Loma Bonita</name>
+    </location>
+    <location name="Matías Romero::Oaxaca::Mexico">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>113</dist>
+      <lat>16.88</lat>
+      <lon>-95.03</lon>
+      <name>Matías Romero</name>
+    </location>
+    <location name="Mitla::Oaxaca::Mexico">
+      <cdi>3.3637</cdi>
+      <nresp>2</nresp>
+      <dist>183</dist>
+      <lat>16.92</lat>
+      <lon>-96.40</lon>
+      <name>Mitla</name>
+    </location>
+    <location name="Oaxaca::Oaxaca::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>210</dist>
+      <lat>17.07</lat>
+      <lon>-96.72</lon>
+      <name>Oaxaca</name>
+    </location>
+    <location name="Pochutla::Oaxaca::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>242</dist>
+      <lat>15.73</lat>
+      <lon>-96.47</lon>
+      <name>Pochutla</name>
+    </location>
+    <location name="Puerto Escondido::Oaxaca::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>280</dist>
+      <lat>15.85</lat>
+      <lon>-97.07</lon>
+      <name>Puerto Escondido</name>
+    </location>
+    <location name="Santa Lucía del Camino::Oaxaca::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>210</dist>
+      <lat>17.05</lat>
+      <lon>-96.72</lon>
+      <name>Santa Lucía del Camino</name>
+    </location>
+    <location name="Villahermosa::Tabasco::Mexico">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>268</dist>
+      <lat>17.98</lat>
+      <lon>-92.92</lon>
+      <name>Villahermosa</name>
+    </location>
+    <location name="Coatzacoalcos::Veracruz::Mexico">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>172</dist>
+      <lat>18.14</lat>
+      <lon>-94.42</lon>
+      <name>Coatzacoalcos</name>
+    </location>
+    <location name="Fortín::Veracruz::Mexico">
+      <cdi>3.6956</cdi>
+      <nresp>2</nresp>
+      <dist>308</dist>
+      <lat>18.90</lat>
+      <lon>-97.00</lon>
+      <name>Fortín</name>
+    </location>
+    <location name="Ixtaczoquitlán::Veracruz::Mexico">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>18.85</lat>
+      <lon>-97.07</lon>
+      <name>Ixtaczoquitlán</name>
+    </location>
+    <location name="Minatitlán::Veracruz::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>17.98</lat>
+      <lon>-94.52</lon>
+      <name>Minatitlán</name>
+    </location>
+    <location name="Sayula::Veracruz::Mexico">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>17.87</lat>
+      <lon>-94.95</lon>
+      <name>Sayula</name>
+    </location>
+    <location name="Xalapa::Veracruz::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>351</dist>
+      <lat>19.53</lat>
+      <lon>-96.92</lon>
+      <name>Xalapa</name>
+    </location>
+    <location name="Corinto::Chinandega::Nicaragua">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>995</dist>
+      <lat>12.48</lat>
+      <lon>-87.18</lon>
+      <name>Corinto</name>
+    </location>
+  </cdi>
+</cdidata>

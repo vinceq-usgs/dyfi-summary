@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="75201">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>443</dist>
+      <lat>32.7872736111</lat>
+      <lon>-96.7990090562</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75204">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>442</dist>
+      <lat>32.802015297</lat>
+      <lon>-96.7890399543</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75220">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>433</dist>
+      <lat>32.8669930898</lat>
+      <lon>-96.8778633804</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>2.6051</cdi>
+      <nresp>1</nresp>
+      <dist>430</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76051">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>422</dist>
+      <lat>32.9422541327</lat>
+      <lon>-97.079811247</lon>
+      <name>Grapevine</name>
+      <state>TX</state>
+    </location>
+    <location name="76111">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>437</dist>
+      <lat>32.7805878053</lat>
+      <lon>-97.3016362166</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Thakurgaon::Thākurgāon::Bangladesh">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>342</dist>
+      <lat>26.03</lat>
+      <lon>88.46</lon>
+      <name>Thakurgaon</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>34</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>3.9249</cdi>
+      <nresp>3</nresp>
+      <dist>170</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>3.2346</cdi>
+      <nresp>5</nresp>
+      <dist>40</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>2.9763</cdi>
+      <nresp>6</nresp>
+      <dist>44</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+  </cdi>
+</cdidata>

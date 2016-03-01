@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Vieux Fort::Vieux Fort::Saint Lucia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>272</dist>
+      <lat>13.73</lat>
+      <lon>-60.95</lon>
+      <name>Vieux Fort</name>
+    </location>
+    <location name="Paramaribo::Paramaribo::Suriname">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>964</dist>
+      <lat>5.85</lat>
+      <lon>-55.20</lon>
+      <name>Paramaribo</name>
+    </location>
+    <location name="Oistins::Christ Church::Barbados">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>13.07</lat>
+      <lon>-59.55</lon>
+      <name>Oistins</name>
+    </location>
+    <location name="Holetown::Saint James::Barbados">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>13.18</lat>
+      <lon>-59.63</lon>
+      <name>Holetown</name>
+    </location>
+    <location name="Bridgetown::Saint Michael::Barbados">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>13.11</lat>
+      <lon>-59.61</lon>
+      <name>Bridgetown</name>
+    </location>
+    <location name="Hillaby::Saint Thomas::Barbados">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>149</dist>
+      <lat>13.20</lat>
+      <lon>-59.57</lon>
+      <name>Hillaby</name>
+    </location>
+  </cdi>
+</cdidata>

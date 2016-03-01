@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="76009">
+      <cdi>2.2128</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>32.4185305831</lat>
+      <lon>-97.2044749595</lon>
+      <name>Alvarado</name>
+      <state>TX</state>
+    </location>
+    <location name="76063">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>32.5724675729</lat>
+      <lon>-97.1380219893</lon>
+      <name>Mansfield</name>
+      <state>TX</state>
+    </location>
+    <location name="76084">
+      <cdi>2.0883</cdi>
+      <nresp>4</nresp>
+      <dist>9</dist>
+      <lat>32.4358033098</lat>
+      <lon>-97.0921615573</lon>
+      <name>Venus</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

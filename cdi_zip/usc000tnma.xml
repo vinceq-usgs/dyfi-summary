@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66610">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>275</dist>
+      <lat>38.9751205486</lat>
+      <lon>-95.8399870145</lon>
+      <name>Topeka</name>
+      <state>KS</state>
+    </location>
+    <location name="67003">
+      <cdi>4.7091</cdi>
+      <nresp>11</nresp>
+      <dist>10</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>82</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67052">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>37.6555956014</lat>
+      <lon>-97.5764084283</lon>
+      <name>Goddard</name>
+      <state>KS</state>
+    </location>
+    <location name="67060">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67101">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>37.7840123097</lat>
+      <lon>-97.4653089634</lon>
+      <name>Maize</name>
+      <state>KS</state>
+    </location>
+    <location name="67104">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>37.2606371884</lat>
+      <lon>-98.6266446204</lon>
+      <name>Medicine Lodge</name>
+      <state>KS</state>
+    </location>
+    <location name="67156">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>37.2468518161</lat>
+      <lon>-96.9651090421</lon>
+      <name>Winfield</name>
+      <state>KS</state>
+    </location>
+    <location name="67206">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>37.7037441156</lat>
+      <lon>-97.2255351318</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67230">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>37.6867337481</lat>
+      <lon>-97.1712736112</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="74006">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>197</dist>
+      <lat>36.7104634151</lat>
+      <lon>-95.8836624984</lon>
+      <name>Bartlesville</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

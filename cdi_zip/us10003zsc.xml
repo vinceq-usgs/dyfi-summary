@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66027">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>451</dist>
+      <lat>39.3619619143</lat>
+      <lon>-94.9195523897</lon>
+      <name>Fort Leavenworth</name>
+      <state>KS</state>
+    </location>
+    <location name="66757">
+      <cdi>3.8046</cdi>
+      <nresp>1</nresp>
+      <dist>282</dist>
+      <lat>37.4279923666</lat>
+      <lon>-95.6340577001</lon>
+      <name>Neodesha</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67220">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>37.7521280141</lat>
+      <lon>-97.2808050599</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

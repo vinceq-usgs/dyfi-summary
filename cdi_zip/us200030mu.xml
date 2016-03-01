@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64801">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>302</dist>
+      <lat>37.1101556959</lat>
+      <lon>-94.4983344253</lon>
+      <name>Joplin</name>
+      <state>MO</state>
+    </location>
+    <location name="72704">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>295</dist>
+      <lat>36.1026785372</lat>
+      <lon>-94.2979958256</lon>
+      <name>Fayetteville</name>
+      <state>AR</state>
+    </location>
+    <location name="73028">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>5</dist>
+      <lat>35.9736322317</lat>
+      <lon>-97.5941537472</lon>
+      <name>Crescent</name>
+      <state>OK</state>
+    </location>
+    <location name="73051">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>35.0291578533</lat>
+      <lon>-97.2405130345</lon>
+      <name>Lexington</name>
+      <state>OK</state>
+    </location>
+    <location name="73105">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>35.5185929186</lat>
+      <lon>-97.5032382431</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73742">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>36.0625780267</lat>
+      <lon>-97.8797525148</lon>
+      <name>Hennessey</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74014">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>36.0489735158</lat>
+      <lon>-95.688743227</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74063">
+      <cdi>3.5831</cdi>
+      <nresp>2</nresp>
+      <dist>124</dist>
+      <lat>36.1018895691</lat>
+      <lon>-96.2093090001</lon>
+      <name>Sand Springs</name>
+      <state>OK</state>
+    </location>
+    <location name="74136">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>36.0617672231</lat>
+      <lon>-95.9409568667</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74146">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>36.0971977458</lat>
+      <lon>-95.8509222701</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74361">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>206</dist>
+      <lat>36.2701952382</lat>
+      <lon>-95.3069733308</lon>
+      <name>Pryor</name>
+      <state>OK</state>
+    </location>
+    <location name="74426">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>193</dist>
+      <lat>35.4452641817</lat>
+      <lon>-95.5481696045</lon>
+      <name>Checotah</name>
+      <state>OK</state>
+    </location>
+    <location name="74462">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>238</dist>
+      <lat>35.2928476874</lat>
+      <lon>-95.0848766371</lon>
+      <name>Stigler</name>
+      <state>OK</state>
+    </location>
+    <location name="74859">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>129</dist>
+      <lat>35.4686688803</lat>
+      <lon>-96.2923572317</lon>
+      <name>Okemah</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

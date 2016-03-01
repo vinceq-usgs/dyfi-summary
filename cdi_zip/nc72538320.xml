@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94102">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>37.7795327685</lat>
+      <lon>-122.419606391</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>8</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94518">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>37.950837981</lat>
+      <lon>-122.022350281</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2</cdi>
+      <nresp>8</nresp>
+      <dist>7</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>7</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

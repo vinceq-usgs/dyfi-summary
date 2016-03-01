@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94506">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.1650</cdi>
+      <nresp>9</nresp>
+      <dist>9</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.4667</cdi>
+      <nresp>9</nresp>
+      <dist>9</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="96008">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>328</dist>
+      <lat>40.7400813868</lat>
+      <lon>-122.086221069</lon>
+      <name>Bella Vista</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,175 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67110">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>37.4656104721</lat>
+      <lon>-97.2199102898</lon>
+      <name>Mulvane</name>
+      <state>KS</state>
+    </location>
+    <location name="67133">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>37.5767304997</lat>
+      <lon>-97.1039969268</lon>
+      <name>Rose Hill</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2.8112</cdi>
+      <nresp>4</nresp>
+      <dist>105</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>105</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67211">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>37.6671074036</lat>
+      <lon>-97.3175664461</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67217">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>37.6147214594</lat>
+      <lon>-97.361317861</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67220">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>37.7521280141</lat>
+      <lon>-97.2808050599</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>116</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73078">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>35.6694694816</lat>
+      <lon>-97.754049375</lon>
+      <name>Piedmont</name>
+      <state>OK</state>
+    </location>
+    <location name="73099">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>35.5251099208</lat>
+      <lon>-97.7584631196</lon>
+      <name>Yukon</name>
+      <state>OK</state>
+    </location>
+    <location name="74063">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>36.1018895691</lat>
+      <lon>-96.2093090001</lon>
+      <name>Sand Springs</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74120">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>36.1500754484</lat>
+      <lon>-95.9765243594</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74631">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>36.8068603427</lat>
+      <lon>-97.3055655473</lon>
+      <name>Blackwell</name>
+      <state>OK</state>
+    </location>
+    <location name="74636">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>36.8035686426</lat>
+      <lon>-97.5074059603</lon>
+      <name>Deer Creek</name>
+      <state>OK</state>
+    </location>
+    <location name="74643">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>36.712900915</lat>
+      <lon>-97.5544861003</lon>
+      <name>Lamont</name>
+      <state>OK</state>
+    </location>
+    <location name="74646">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>36.8248349564</lat>
+      <lon>-97.4278661269</lon>
+      <name>Nardin</name>
+      <state>OK</state>
+    </location>
+    <location name="74653">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>36.6634158083</lat>
+      <lon>-97.3544163468</lon>
+      <name>Tonkawa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

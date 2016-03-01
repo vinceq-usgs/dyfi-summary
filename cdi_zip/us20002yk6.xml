@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="59736">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>306</dist>
+      <lat>45.3988905685</lat>
+      <lon>-113.453435412</lon>
+      <name>Jackson</name>
+      <state>MT</state>
+    </location>
+    <location name="83001">
+      <cdi>3.2186</cdi>
+      <nresp>30</nresp>
+      <dist>14</dist>
+      <lat>43.4349343854</lat>
+      <lon>-110.62342748</lon>
+      <name>Jackson</name>
+      <state>WY</state>
+    </location>
+  </cdi>
+</cdidata>

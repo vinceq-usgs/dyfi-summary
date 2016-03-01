@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="KljuÄi::KamÄatka::Russia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>413</dist>
+      <lat>56.30</lat>
+      <lon>160.85</lon>
+      <name>KljuÄi</name>
+    </location>
+    <location name="Mohovaja::KamÄatka::Russia">
+      <cdi>4.5117</cdi>
+      <nresp>3</nresp>
+      <dist>90</dist>
+      <lat>53.07</lat>
+      <lon>158.62</lon>
+      <name>Mohovaja</name>
+    </location>
+    <location name="Petropavlovsk-KamÄatskij::KamÄatka::Russia">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>88</dist>
+      <lat>53.02</lat>
+      <lon>158.65</lon>
+      <name>Petropavlovsk-KamÄatskij</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94523">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.9543225437</lat>
+      <lon>-122.07630293</lon>
+      <name>Pleasant Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>3.2031</cdi>
+      <nresp>2</nresp>
+      <dist>8</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94920">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>37.8877063373</lat>
+      <lon>-122.465337749</lon>
+      <name>Belvedere Tiburon</name>
+      <state>CA</state>
+    </location>
+    <location name="96114">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>291</dist>
+      <lat>40.1741150966</lat>
+      <lon>-120.576387624</lon>
+      <name>Janesville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91708">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>33.9535522763</lat>
+      <lon>-117.64727249</lon>
+      <name>Chino</name>
+      <state>CA</state>
+    </location>
+    <location name="92026">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>33.2142707741</lat>
+      <lon>-117.113675744</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92054">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>33.1940587868</lat>
+      <lon>-117.355547092</lon>
+      <name>Oceanside</name>
+      <state>CA</state>
+    </location>
+    <location name="92860">
+      <cdi>2.2534</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>33.9246632061</lat>
+      <lon>-117.55268765</lon>
+      <name>Norco</name>
+      <state>CA</state>
+    </location>
+    <location name="92879">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.8802003047</lat>
+      <lon>-117.537999658</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+    <location name="92880">
+      <cdi>2.1718</cdi>
+      <nresp>4</nresp>
+      <dist>8</dist>
+      <lat>33.9212642945</lat>
+      <lon>-117.611282855</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

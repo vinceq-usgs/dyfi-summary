@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74030">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>35.9828204849</lat>
+      <lon>-96.5564969222</lon>
+      <name>Drumright</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+    <location name="75019">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>368</dist>
+      <lat>32.961995568</lat>
+      <lon>-96.984356216</lon>
+      <name>Coppell</name>
+      <state>TX</state>
+    </location>
+    <location name="75039">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>376</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75234">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>373</dist>
+      <lat>32.9238373245</lat>
+      <lon>-96.8903418275</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

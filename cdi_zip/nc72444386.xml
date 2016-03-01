@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94510">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>272</dist>
+      <lat>38.0889049703</lat>
+      <lon>-122.122779438</lon>
+      <name>Benicia</name>
+      <state>CA</state>
+    </location>
+    <location name="94520">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>282</dist>
+      <lat>38.0188740799</lat>
+      <lon>-122.040302233</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>280</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94565">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>288</dist>
+      <lat>38.0179010375</lat>
+      <lon>-121.913733182</lon>
+      <name>Pittsburg</name>
+      <state>CA</state>
+    </location>
+    <location name="94707">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>283</dist>
+      <lat>37.8982127479</lat>
+      <lon>-122.279304332</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+    <location name="96002">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>136</dist>
+      <lat>40.5297199319</lat>
+      <lon>-122.318417183</lon>
+      <name>Redding</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

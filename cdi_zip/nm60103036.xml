@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="46077">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>39.9804509263</lat>
+      <lon>-86.2840016505</lon>
+      <name>Zionsville</name>
+      <state>IN</state>
+    </location>
+    <location name="46342">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>370</dist>
+      <lat>41.5193764245</lat>
+      <lon>-87.2412817505</lon>
+      <name>Hobart</name>
+      <state>IN</state>
+    </location>
+    <location name="47523">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>38.1759074872</lat>
+      <lon>-87.0219619498</lon>
+      <name>Dale</name>
+      <state>IN</state>
+    </location>
+    <location name="47710">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>38.0269781236</lat>
+      <lon>-87.5761452185</lon>
+      <name>Evansville</name>
+      <state>IN</state>
+    </location>
+    <location name="47711">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>38.0185407518</lat>
+      <lon>-87.5356665899</lon>
+      <name>Evansville</name>
+      <state>IN</state>
+    </location>
+    <location name="47712">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>37.9313843457</lat>
+      <lon>-87.6621152872</lon>
+      <name>Evansville</name>
+      <state>IN</state>
+    </location>
+    <location name="47713">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>37.9541030094</lat>
+      <lon>-87.5590600241</lon>
+      <name>Evansville</name>
+      <state>IN</state>
+    </location>
+    <location name="47714">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>37.9501390235</lat>
+      <lon>-87.5231541489</lon>
+      <name>Evansville</name>
+      <state>IN</state>
+    </location>
+    <location name="47715">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>37.9757247615</lat>
+      <lon>-87.4795433755</lon>
+      <name>Evansville</name>
+      <state>IN</state>
+    </location>
+    <location name="47725">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>19</dist>
+      <lat>38.1082947225</lat>
+      <lon>-87.5269746689</lon>
+      <name>Evansville</name>
+      <state>IN</state>
+    </location>
+    <location name="62450">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>38.7140068306</lat>
+      <lon>-88.089071526</lon>
+      <name>Olney</name>
+      <state>IL</state>
+    </location>
+  </cdi>
+</cdidata>

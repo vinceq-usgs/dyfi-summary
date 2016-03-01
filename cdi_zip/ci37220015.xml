@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91320">
+      <cdi>2.4414</cdi>
+      <nresp>6</nresp>
+      <dist>16</dist>
+      <lat>34.1416299359</lat>
+      <lon>-118.978888954</lon>
+      <name>Newbury Park</name>
+      <state>CA</state>
+    </location>
+    <location name="91360">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>34.2140411905</lat>
+      <lon>-118.880791506</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91361">
+      <cdi>2.0372</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>34.1460007715</lat>
+      <lon>-118.878229817</lon>
+      <name>Westlake Village</name>
+      <state>CA</state>
+    </location>
+    <location name="91362">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>34.1924686909</lat>
+      <lon>-118.819449981</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91801">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>34.0905640791</lat>
+      <lon>-118.12816441</lon>
+      <name>Alhambra</name>
+      <state>CA</state>
+    </location>
+    <location name="92620">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>33.7089974512</lat>
+      <lon>-117.756916143</lon>
+      <name>Irvine</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

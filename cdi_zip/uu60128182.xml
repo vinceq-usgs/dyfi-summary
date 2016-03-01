@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00071">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>39.857209246</lat>
+      <lon>-111.214982</lon>
+      <name>Uinta NTL Forest</name>
+      <state>UT</state>
+    </location>
+    <location name="84045">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>40.3506016915</lat>
+      <lon>-111.919145634</lon>
+      <name>Saratoga Springs</name>
+      <state>UT</state>
+    </location>
+    <location name="84058">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>40.2767177974</lat>
+      <lon>-111.721224942</lon>
+      <name>Orem</name>
+      <state>UT</state>
+    </location>
+    <location name="84062">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>40.3878684159</lat>
+      <lon>-111.724101534</lon>
+      <name>Pleasant Grove</name>
+      <state>UT</state>
+    </location>
+    <location name="84082">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>40.3966999025</lat>
+      <lon>-111.461564798</lon>
+      <name>Wallsburg</name>
+      <state>UT</state>
+    </location>
+    <location name="84111">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>40.7557010988</lat>
+      <lon>-111.883931735</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84118">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>40.655229236</lat>
+      <lon>-112.017959085</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84601">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>40.2275874963</lat>
+      <lon>-111.695051992</lon>
+      <name>Provo</name>
+      <state>UT</state>
+    </location>
+    <location name="84604">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>40.3363360464</lat>
+      <lon>-111.594955237</lon>
+      <name>Provo</name>
+      <state>UT</state>
+    </location>
+    <location name="84651">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>16</dist>
+      <lat>40.0203479596</lat>
+      <lon>-111.728913257</lon>
+      <name>Payson</name>
+      <state>UT</state>
+    </location>
+    <location name="84653">
+      <cdi>2.4786</cdi>
+      <nresp>11</nresp>
+      <dist>9</dist>
+      <lat>40.0268979425</lat>
+      <lon>-111.643565569</lon>
+      <name>Salem</name>
+      <state>UT</state>
+    </location>
+    <location name="84660">
+      <cdi>2.3477</cdi>
+      <nresp>14</nresp>
+      <dist>7</dist>
+      <lat>40.0612405565</lat>
+      <lon>-111.634372295</lon>
+      <name>Spanish Fork</name>
+      <state>UT</state>
+    </location>
+    <location name="84663">
+      <cdi>2</cdi>
+      <nresp>17</nresp>
+      <dist>16</dist>
+      <lat>40.2185634384</lat>
+      <lon>-111.476473932</lon>
+      <name>Springville</name>
+      <state>UT</state>
+    </location>
+    <location name="84664">
+      <cdi>2.1758</cdi>
+      <nresp>21</nresp>
+      <dist>5</dist>
+      <lat>40.1192043741</lat>
+      <lon>-111.577225171</lon>
+      <name>Mapleton</name>
+      <state>UT</state>
+    </location>
+  </cdi>
+</cdidata>

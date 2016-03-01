@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Hiroshima::Hiroshima::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>194</dist>
+      <lat>34.39</lat>
+      <lon>132.44</lon>
+      <name>Hiroshima</name>
+    </location>
+    <location name="Itami::HyÅgo::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>34.78</lat>
+      <lon>135.42</lon>
+      <name>Itami</name>
+    </location>
+    <location name="Okayama::Okayama::Japan">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>34.67</lat>
+      <lon>133.92</lon>
+      <name>Okayama</name>
+    </location>
+    <location name="Kamojima::Tokushima::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>34.07</lat>
+      <lon>134.35</lon>
+      <name>Kamojima</name>
+    </location>
+    <location name="Tokushima::Tokushima::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>34.07</lat>
+      <lon>134.55</lon>
+      <name>Tokushima</name>
+    </location>
+    <location name="Izumi::ÅŒsaka::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>34.48</lat>
+      <lon>135.42</lon>
+      <name>Izumi</name>
+    </location>
+    <location name="Sakai::ÅŒsaka::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>34.57</lat>
+      <lon>135.48</lon>
+      <name>Sakai</name>
+    </location>
+    <location name="Suita::Osaka::Japan">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>34.75</lat>
+      <lon>135.52</lon>
+      <name>Suita</name>
+    </location>
+    <location name="ÅŒsaka::ÅŒsaka::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>34.68</lat>
+      <lon>135.50</lon>
+      <name>ÅŒsaka</name>
+    </location>
+  </cdi>
+</cdidata>

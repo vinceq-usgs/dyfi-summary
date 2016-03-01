@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67156">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>37.2468518161</lat>
+      <lon>-96.9651090421</lon>
+      <name>Winfield</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73020">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>35.456075286</lat>
+      <lon>-97.2632650514</lon>
+      <name>Choctaw</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>4</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="73750">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>35.9137282463</lat>
+      <lon>-98.0227422978</lon>
+      <name>Kingfisher</name>
+      <state>OK</state>
+    </location>
+    <location name="74133">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>36.0413422515</lat>
+      <lon>-95.8789406288</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74873">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>35.2221551875</lat>
+      <lon>-97.0062607977</lon>
+      <name>Tecumseh</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

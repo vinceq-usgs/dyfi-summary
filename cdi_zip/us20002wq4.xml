@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67005">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>37.065145113</lat>
+      <lon>-96.9858253723</lon>
+      <name>Arkansas City</name>
+      <state>KS</state>
+    </location>
+    <location name="67025">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>37.6317979716</lat>
+      <lon>-97.7606812407</lon>
+      <name>Cheney</name>
+      <state>KS</state>
+    </location>
+    <location name="73730">
+      <cdi>3.7738</cdi>
+      <nresp>4</nresp>
+      <dist>7</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

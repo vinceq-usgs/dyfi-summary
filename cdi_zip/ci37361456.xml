@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90012">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>34.065853328</lat>
+      <lon>-118.238609901</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90744">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>33.7824033445</lat>
+      <lon>-118.261132223</lon>
+      <name>Wilmington</name>
+      <state>CA</state>
+    </location>
+    <location name="91104">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>34.1680360725</lat>
+      <lon>-118.123457459</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91342">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>34.3502679015</lat>
+      <lon>-118.300760788</lon>
+      <name>Sylmar</name>
+      <state>CA</state>
+    </location>
+    <location name="91362">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>187</dist>
+      <lat>34.1924686909</lat>
+      <lon>-118.819449981</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="92069">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>33.1754164396</lat>
+      <lon>-117.157534283</lon>
+      <name>San Marcos</name>
+      <state>CA</state>
+    </location>
+    <location name="92220">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>33.9415090234</lat>
+      <lon>-116.851737004</lon>
+      <name>Banning</name>
+      <state>CA</state>
+    </location>
+    <location name="92223">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>33.9174616495</lat>
+      <lon>-116.992829949</lon>
+      <name>Beaumont</name>
+      <state>CA</state>
+    </location>
+    <location name="92234">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>33.8157080121</lat>
+      <lon>-116.466479106</lon>
+      <name>Cathedral City</name>
+      <state>CA</state>
+    </location>
+    <location name="92399">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>34.0384658442</lat>
+      <lon>-117.007660214</lon>
+      <name>Yucaipa</name>
+      <state>CA</state>
+    </location>
+    <location name="92549">
+      <cdi>2.4718</cdi>
+      <nresp>5</nresp>
+      <dist>26</dist>
+      <lat>33.7836411163</lat>
+      <lon>-116.777173608</lon>
+      <name>Idyllwild</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

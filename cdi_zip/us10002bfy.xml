@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Barddhaman::Bangla::India">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>479</dist>
+      <lat>23.24</lat>
+      <lon>87.86</lon>
+      <name>Barddhaman</name>
+    </location>
+    <location name="Navadwīp::Bangla::India">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>481</dist>
+      <lat>23.42</lat>
+      <lon>88.37</lon>
+      <name>Navadwīp</name>
+    </location>
+    <location name="Jhūsi::Uttar Pradesh::India">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>477</dist>
+      <lat>25.43</lat>
+      <lon>81.93</lon>
+      <name>Jhūsi</name>
+    </location>
+  </cdi>
+</cdidata>

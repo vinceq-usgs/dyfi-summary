@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="86001">
+      <cdi>2.8710</cdi>
+      <nresp>37</nresp>
+      <dist>54</dist>
+      <lat>35.49396176</lat>
+      <lon>-111.725284689</lon>
+      <name>Flagstaff</name>
+      <state>AZ</state>
+    </location>
+    <location name="86303">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>34.4891689053</lat>
+      <lon>-112.437245332</lon>
+      <name>Prescott</name>
+      <state>AZ</state>
+    </location>
+  </cdi>
+</cdidata>

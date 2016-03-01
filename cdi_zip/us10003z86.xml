@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67010">
+      <cdi>4.1673</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>37.6594194979</lat>
+      <lon>-96.9652711107</lon>
+      <name>Augusta</name>
+      <state>KS</state>
+    </location>
+    <location name="73063">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>36.0483977142</lat>
+      <lon>-97.4320352821</lon>
+      <name>Mulhall</name>
+      <state>OK</state>
+    </location>
+    <location name="73720">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>36.1916431979</lat>
+      <lon>-97.8744284101</lon>
+      <name>Bison</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74114">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>36.1261559611</lat>
+      <lon>-95.9461925162</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74120">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>36.1500754484</lat>
+      <lon>-95.9765243594</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

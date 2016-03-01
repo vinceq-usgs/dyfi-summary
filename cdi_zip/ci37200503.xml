@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91335">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>194</dist>
+      <lat>34.2013216277</lat>
+      <lon>-118.540688744</lon>
+      <name>Reseda</name>
+      <state>CA</state>
+    </location>
+    <location name="91722">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>252</dist>
+      <lat>34.0972231844</lat>
+      <lon>-117.905832109</lon>
+      <name>Covina</name>
+      <state>CA</state>
+    </location>
+    <location name="93012">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>34.2059191509</lat>
+      <lon>-118.992710194</lon>
+      <name>Camarillo</name>
+      <state>CA</state>
+    </location>
+    <location name="93063">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>34.2882593211</lat>
+      <lon>-118.688958163</lon>
+      <name>Simi Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="93657">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>321</dist>
+      <lat>36.8134237005</lat>
+      <lon>-119.413224411</lon>
+      <name>Sanger</name>
+      <state>CA</state>
+    </location>
+    <location name="93721">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>303</dist>
+      <lat>36.7328712563</lat>
+      <lon>-119.783726361</lon>
+      <name>Fresno</name>
+      <state>CA</state>
+    </location>
+    <location name="93932">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>35.9917036456</lat>
+      <lon>-121.234379022</lon>
+      <name>Lockwood</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

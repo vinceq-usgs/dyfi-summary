@@ -1,0 +1,12 @@
+<cdidata>
+  <cdi type="city">
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>3.6540</cdi>
+      <nresp>7</nresp>
+      <dist>25</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89415">
+      <cdi>2.6912</cdi>
+      <nresp>7</nresp>
+      <dist>17</dist>
+      <lat>38.5770178182</lat>
+      <lon>-118.638388263</lon>
+      <name>Hawthorne</name>
+      <state>NV</state>
+    </location>
+    <location name="90024">
+      <cdi>2.3799</cdi>
+      <nresp>1</nresp>
+      <dist>486</dist>
+      <lat>34.0653110033</lat>
+      <lon>-118.435043099</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="91335">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>471</dist>
+      <lat>34.2013216277</lat>
+      <lon>-118.540688744</lon>
+      <name>Reseda</name>
+      <state>CA</state>
+    </location>
+    <location name="91403">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>477</dist>
+      <lat>34.1466900029</lat>
+      <lon>-118.462998968</lon>
+      <name>Sherman Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91505">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>474</dist>
+      <lat>34.1770027701</lat>
+      <lon>-118.347870619</lon>
+      <name>Burbank</name>
+      <state>CA</state>
+    </location>
+    <location name="93036">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>468</dist>
+      <lat>34.2377206345</lat>
+      <lon>-119.173465601</lon>
+      <name>Oxnard</name>
+      <state>CA</state>
+    </location>
+    <location name="94542">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>302</dist>
+      <lat>37.6562925513</lat>
+      <lon>-122.032589888</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>290</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>295</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

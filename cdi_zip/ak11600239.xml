@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00006">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>62.5762146922</lat>
+      <lon>-149.401776269</lon>
+      <name>Matanuska-Sustina Bor</name>
+      <state>AK</state>
+    </location>
+    <location name="99503">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>90</dist>
+      <lat>61.1880996048</lat>
+      <lon>-149.889156419</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99507">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>96</dist>
+      <lat>61.151181701</lat>
+      <lon>-149.77914819</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99508">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>90</dist>
+      <lat>61.2041909265</lat>
+      <lon>-149.812690714</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99515">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>61.1145748641</lat>
+      <lon>-149.893146119</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99517">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>61.1899261926</lat>
+      <lon>-149.936096257</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99567">
+      <cdi>2.2854</cdi>
+      <nresp>6</nresp>
+      <dist>81</dist>
+      <lat>61.4609962815</lat>
+      <lon>-149.330150001</lon>
+      <name>Chugiak</name>
+      <state>AK</state>
+    </location>
+    <location name="99577">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>101</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+    <location name="99645">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>61.6828083589</lat>
+      <lon>-148.01052815</lon>
+      <name>Palmer</name>
+      <state>AK</state>
+    </location>
+    <location name="99654">
+      <cdi>2.3799</cdi>
+      <nresp>7</nresp>
+      <dist>61</dist>
+      <lat>61.5022894283</lat>
+      <lon>-149.796287978</lon>
+      <name>Wasilla</name>
+      <state>AK</state>
+    </location>
+    <location name="99676">
+      <cdi>3.1581</cdi>
+      <nresp>9</nresp>
+      <dist>42</dist>
+      <lat>62.1797503902</lat>
+      <lon>-149.889641836</lon>
+      <name>Talkeetna</name>
+      <state>AK</state>
+    </location>
+    <location name="99688">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>43</dist>
+      <lat>61.5775256877</lat>
+      <lon>-150.312380005</lon>
+      <name>Willow</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

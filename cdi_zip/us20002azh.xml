@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kaohsiung::Kaohsiung Shih::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>272</dist>
+      <lat>22.63</lat>
+      <lon>120.27</lon>
+      <name>Kaohsiung</name>
+    </location>
+    <location name="Chungho::Taipei Hsien::Taiwan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>24.99</lat>
+      <lon>121.50</lon>
+      <name>Chungho</name>
+    </location>
+    <location name="Yungho::Taipei Hsien::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>146</dist>
+      <lat>25.02</lat>
+      <lon>121.51</lon>
+      <name>Yungho</name>
+    </location>
+    <location name="Urasoe::Okinawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>588</dist>
+      <lat>26.26</lat>
+      <lon>127.73</lon>
+      <name>Urasoe</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Turrialba::Cartago::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>9.91</lat>
+      <lon>-83.69</lon>
+      <name>Turrialba</name>
+    </location>
+    <location name="Siquirres::Limón::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>10.11</lat>
+      <lon>-83.51</lon>
+      <name>Siquirres</name>
+    </location>
+    <location name="Daniel Flores::San José::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>9.34</lat>
+      <lon>-83.67</lon>
+      <name>Daniel Flores</name>
+    </location>
+    <location name="San Isidro (San Isidro de El General)::San José::Costa Rica">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>9.37</lat>
+      <lon>-83.71</lon>
+      <name>San Isidro (San Isidro de El General)</name>
+    </location>
+  </cdi>
+</cdidata>

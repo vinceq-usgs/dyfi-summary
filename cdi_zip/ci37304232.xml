@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91101">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>34.146589543</lat>
+      <lon>-118.138902166</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="92004">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>33.2073330892</lat>
+      <lon>-116.282458881</lon>
+      <name>Borrego Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>33.1466607065</lat>
+      <lon>-117.31838967</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="92253">
+      <cdi>2.2233</cdi>
+      <nresp>8</nresp>
+      <dist>28</dist>
+      <lat>33.654505594</lat>
+      <lon>-116.281141058</lon>
+      <name>La Quinta</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92264">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>33.7408622467</lat>
+      <lon>-116.535954528</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92561">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>33.5873178055</lat>
+      <lon>-116.480354476</lon>
+      <name>Mountain Center</name>
+      <state>CA</state>
+    </location>
+    <location name="92591">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>33.5323376586</lat>
+      <lon>-117.110101788</lon>
+      <name>Temecula</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

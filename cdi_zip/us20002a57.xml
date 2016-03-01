@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="01040">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>42.2123019134</lat>
+      <lon>-72.6411118968</lon>
+      <name>Holyoke</name>
+      <state>MA</state>
+    </location>
+    <location name="03049">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>42.7496793491</lat>
+      <lon>-71.5836025263</lon>
+      <name>Hollis</name>
+      <state>NH</state>
+    </location>
+    <location name="03220">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>43.4661963547</lat>
+      <lon>-71.4743546827</lon>
+      <name>Belmont</name>
+      <state>NH</state>
+    </location>
+    <location name="03235">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>43.4484023615</lat>
+      <lon>-71.6712861674</lon>
+      <name>Franklin</name>
+      <state>NH</state>
+    </location>
+    <location name="03237">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>43.4316481782</lat>
+      <lon>-71.3809539041</lon>
+      <name>Gilmanton</name>
+      <state>NH</state>
+    </location>
+    <location name="03269">
+      <cdi>3.1847</cdi>
+      <nresp>5</nresp>
+      <dist>7</dist>
+      <lat>43.5316343332</lat>
+      <lon>-71.6024173458</lon>
+      <name>Sanbornton</name>
+      <state>NH</state>
+    </location>
+    <location name="03276">
+      <cdi>2.5701</cdi>
+      <nresp>5</nresp>
+      <dist>8</dist>
+      <lat>43.427388583</lat>
+      <lon>-71.5748458228</lon>
+      <name>Tilton</name>
+      <state>NH</state>
+    </location>
+    <location name="03844">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>42.9277713563</lat>
+      <lon>-70.8875221282</lon>
+      <name>Hampton Falls</name>
+      <state>NH</state>
+    </location>
+  </cdi>
+</cdidata>

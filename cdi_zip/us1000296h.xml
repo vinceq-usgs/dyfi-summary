@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="72687">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>368</dist>
+      <lat>36.2425039649</lat>
+      <lon>-92.7345956626</lon>
+      <name>Yellville</name>
+      <state>AR</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>5</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

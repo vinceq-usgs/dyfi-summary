@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="01701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>42.3215216646</lat>
+      <lon>-71.4377139917</lon>
+      <name>Framingham</name>
+      <state>MA</state>
+    </location>
+    <location name="01721">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>42.2569610031</lat>
+      <lon>-71.4684669012</lon>
+      <name>Ashland</name>
+      <state>MA</state>
+    </location>
+    <location name="01746">
+      <cdi>2.6912</cdi>
+      <nresp>8</nresp>
+      <dist>5</dist>
+      <lat>42.1977561157</lat>
+      <lon>-71.4447149015</lon>
+      <name>Holliston</name>
+      <state>MA</state>
+    </location>
+    <location name="01748">
+      <cdi>2.4261</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>42.2253903796</lat>
+      <lon>-71.537968632</lon>
+      <name>Hopkinton</name>
+      <state>MA</state>
+    </location>
+    <location name="01757">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>42.1576424162</lat>
+      <lon>-71.5209988241</lon>
+      <name>Milford</name>
+      <state>MA</state>
+    </location>
+    <location name="02038">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>42.0859059156</lat>
+      <lon>-71.4113198308</lon>
+      <name>Franklin</name>
+      <state>MA</state>
+    </location>
+    <location name="02052">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>42.184863918</lat>
+      <lon>-71.3048739743</lon>
+      <name>Medfield</name>
+      <state>MA</state>
+    </location>
+    <location name="02053">
+      <cdi>2.7525</cdi>
+      <nresp>10</nresp>
+      <dist>7</dist>
+      <lat>42.1532594368</lat>
+      <lon>-71.4292776926</lon>
+      <name>Medway</name>
+      <state>MA</state>
+    </location>
+    <location name="02054">
+      <cdi>2.3330</cdi>
+      <nresp>3</nresp>
+      <dist>6</dist>
+      <lat>42.1692300553</lat>
+      <lon>-71.3625181139</lon>
+      <name>Millis</name>
+      <state>MA</state>
+    </location>
+    <location name="02081">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>42.1473790483</lat>
+      <lon>-71.2603496702</lon>
+      <name>Walpole</name>
+      <state>MA</state>
+    </location>
+    <location name="03281">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>102</dist>
+      <lat>43.0823506728</lat>
+      <lon>-71.7225974693</lon>
+      <name>Weare</name>
+      <state>NH</state>
+    </location>
+    <location name="04635">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>326</dist>
+      <lat>44.1139688982</lat>
+      <lon>-68.3546265345</lon>
+      <name>Frenchboro</name>
+      <state>ME</state>
+    </location>
+    <location name="19390">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>456</dist>
+      <lat>39.8351070611</lat>
+      <lon>-75.8392152037</lon>
+      <name>West Grove</name>
+      <state>PA</state>
+    </location>
+  </cdi>
+</cdidata>

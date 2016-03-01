@@ -1,0 +1,228 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiayi::Chiayi Shih::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>210</dist>
+      <lat>23.48</lat>
+      <lon>120.43</lon>
+      <name>Chiayi</name>
+    </location>
+    <location name="Chupei::Hsinchu Hsien::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>154</dist>
+      <lat>24.85</lat>
+      <lon>121.00</lon>
+      <name>Chupei</name>
+    </location>
+    <location name="Hsinchu::Hsinchu Shih::Taiwan">
+      <cdi>3.4498</cdi>
+      <nresp>4</nresp>
+      <dist>154</dist>
+      <lat>24.82</lat>
+      <lon>120.98</lon>
+      <name>Hsinchu</name>
+    </location>
+    <location name="Kaohsiung::Kaohsiung Shih::Taiwan">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>273</dist>
+      <lat>22.63</lat>
+      <lon>120.27</lon>
+      <name>Kaohsiung</name>
+    </location>
+    <location name="Keelung::Keelung Shih::Taiwan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>25.13</lat>
+      <lon>121.73</lon>
+      <name>Keelung</name>
+    </location>
+    <location name="Miaoli::Miaoli::Taiwan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>24.57</lat>
+      <lon>120.81</lon>
+      <name>Miaoli</name>
+    </location>
+    <location name="Puli::Nantou::Taiwan">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>143</dist>
+      <lat>23.97</lat>
+      <lon>120.96</lon>
+      <name>Puli</name>
+    </location>
+    <location name="Pingtung::Pingtung::Taiwan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>253</dist>
+      <lat>22.68</lat>
+      <lon>120.48</lon>
+      <name>Pingtung</name>
+    </location>
+    <location name="Shalu::Taichung Hsien::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>24.24</lat>
+      <lon>120.55</lon>
+      <name>Shalu</name>
+    </location>
+    <location name="Hsinhua::Tainan Hsien::Taiwan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>244</dist>
+      <lat>23.04</lat>
+      <lon>120.30</lon>
+      <name>Hsinhua</name>
+    </location>
+    <location name="Tainan::Tainan Shih::Taiwan">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>256</dist>
+      <lat>23.00</lat>
+      <lon>120.19</lon>
+      <name>Tainan</name>
+    </location>
+    <location name="Chungho::Taipei Hsien::Taiwan">
+      <cdi>4.4065</cdi>
+      <nresp>2</nresp>
+      <dist>123</dist>
+      <lat>24.99</lat>
+      <lon>121.50</lon>
+      <name>Chungho</name>
+    </location>
+    <location name="Hsichih::Taipei Hsien::Taiwan">
+      <cdi>2.9446</cdi>
+      <nresp>7</nresp>
+      <dist>120</dist>
+      <lat>25.07</lat>
+      <lon>121.65</lon>
+      <name>Hsichih</name>
+    </location>
+    <location name="Hsinchuang::Taipei Hsien::Taiwan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>25.04</lat>
+      <lon>121.44</lon>
+      <name>Hsinchuang</name>
+    </location>
+    <location name="Hsintien::Taipei Hsien::Taiwan">
+      <cdi>3.8877</cdi>
+      <nresp>4</nresp>
+      <dist>119</dist>
+      <lat>24.96</lat>
+      <lon>121.53</lon>
+      <name>Hsintien</name>
+    </location>
+    <location name="Juifang::Taipei Hsien::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>25.11</lat>
+      <lon>121.81</lon>
+      <name>Juifang</name>
+    </location>
+    <location name="Luchou::Taipei Hsien::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>25.08</lat>
+      <lon>121.47</lon>
+      <name>Luchou</name>
+    </location>
+    <location name="Sanchung::Taipei Hsien::Taiwan">
+      <cdi>3.8016</cdi>
+      <nresp>7</nresp>
+      <dist>131</dist>
+      <lat>25.07</lat>
+      <lon>121.48</lon>
+      <name>Sanchung</name>
+    </location>
+    <location name="Sanhsia::Taipei Hsien::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>24.93</lat>
+      <lon>121.36</lon>
+      <name>Sanhsia</name>
+    </location>
+    <location name="Shulin::Taipei Hsien::Taiwan">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>129</dist>
+      <lat>25.00</lat>
+      <lon>121.42</lon>
+      <name>Shulin</name>
+    </location>
+    <location name="Taipei::Taipei Hsien::Taiwan">
+      <cdi>3.9980</cdi>
+      <nresp>2</nresp>
+      <dist>129</dist>
+      <lat>25.02</lat>
+      <lon>121.45</lon>
+      <name>Taipei</name>
+    </location>
+    <location name="Tanshui::Taipei Hsien::Taiwan">
+      <cdi>4.6538</cdi>
+      <nresp>2</nresp>
+      <dist>144</dist>
+      <lat>25.19</lat>
+      <lon>121.42</lon>
+      <name>Tanshui</name>
+    </location>
+    <location name="Yungho::Taipei Hsien::Taiwan">
+      <cdi>4.3993</cdi>
+      <nresp>28</nresp>
+      <dist>125</dist>
+      <lat>25.02</lat>
+      <lon>121.51</lon>
+      <name>Yungho</name>
+    </location>
+    <location name="Chungli::Taoyuan::Taiwan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>24.96</lat>
+      <lon>121.22</lon>
+      <name>Chungli</name>
+    </location>
+    <location name="Taoyuan::Taoyuan::Taiwan">
+      <cdi>4.0696</cdi>
+      <nresp>3</nresp>
+      <dist>137</dist>
+      <lat>25.00</lat>
+      <lon>121.31</lon>
+      <name>Taoyuan</name>
+    </location>
+    <location name="Touliu::Yunlin::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>23.71</lat>
+      <lon>120.53</lon>
+      <name>Touliu</name>
+    </location>
+    <location name="Xiamen::Fujian::China">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>431</dist>
+      <lat>24.45</lat>
+      <lon>118.08</lon>
+      <name>Xiamen</name>
+    </location>
+    <location name="Ningbo::Zhejiang::China">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>634</dist>
+      <lat>29.88</lat>
+      <lon>121.55</lon>
+      <name>Ningbo</name>
+    </location>
+  </cdi>
+</cdidata>

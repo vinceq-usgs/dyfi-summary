@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Picton::Marlborough::New Zealand">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>-41.30</lat>
+      <lon>174.02</lon>
+      <name>Picton</name>
+    </location>
+    <location name="Kapiti::Wellington::New Zealand">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>-40.91</lat>
+      <lon>175.02</lon>
+      <name>Kapiti</name>
+    </location>
+    <location name="Porirua::Wellington::New Zealand">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>-41.14</lat>
+      <lon>174.85</lon>
+      <name>Porirua</name>
+    </location>
+    <location name="Wellington::Wellington::New Zealand">
+      <cdi>3.9980</cdi>
+      <nresp>2</nresp>
+      <dist>64</dist>
+      <lat>-41.28</lat>
+      <lon>174.78</lon>
+      <name>Wellington</name>
+    </location>
+  </cdi>
+</cdidata>

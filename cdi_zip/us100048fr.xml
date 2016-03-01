@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67204">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>196</dist>
+      <lat>37.7778075354</lat>
+      <lon>-97.365258801</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73099">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>35.5251099208</lat>
+      <lon>-97.7584631196</lon>
+      <name>Yukon</name>
+      <state>OK</state>
+    </location>
+    <location name="73129">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>35.4334811354</lat>
+      <lon>-97.4859931612</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

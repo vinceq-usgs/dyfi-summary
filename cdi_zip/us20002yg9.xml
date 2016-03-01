@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Alcabideche::Lisboa e Vale do Tejo::Portugal">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>38.73</lat>
+      <lon>-9.41</lon>
+      <name>Alcabideche</name>
+    </location>
+    <location name="Algueirão-Mem Martins::Lisboa e Vale do Tejo::Portugal">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>38.80</lat>
+      <lon>-9.34</lon>
+      <name>Algueirão-Mem Martins</name>
+    </location>
+    <location name="Cascais::Lisboa e Vale do Tejo::Portugal">
+      <cdi>3.4724</cdi>
+      <nresp>4</nresp>
+      <dist>20</dist>
+      <lat>38.70</lat>
+      <lon>-9.43</lon>
+      <name>Cascais</name>
+    </location>
+    <location name="Estoril::Lisboa e Vale do Tejo::Portugal">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>38.71</lat>
+      <lon>-9.40</lon>
+      <name>Estoril</name>
+    </location>
+    <location name="Lisbon::Lisboa e Vale do Tejo::Portugal">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>38.72</lat>
+      <lon>-9.14</lon>
+      <name>Lisbon</name>
+    </location>
+    <location name="Pêro Pinheiro::Lisboa e Vale do Tejo::Portugal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>38.85</lat>
+      <lon>-9.32</lon>
+      <name>Pêro Pinheiro</name>
+    </location>
+    <location name="Sintra::Lisboa e Vale do Tejo::Portugal">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>38.80</lat>
+      <lon>-9.37</lon>
+      <name>Sintra</name>
+    </location>
+    <location name="São João Das Lampas::Lisboa e Vale do Tejo::Portugal">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>38.87</lat>
+      <lon>-9.39</lon>
+      <name>São João Das Lampas</name>
+    </location>
+    <location name="Terrugem::Lisboa e Vale do Tejo::Portugal">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>38.70</lat>
+      <lon>-9.27</lon>
+      <name>Terrugem</name>
+    </location>
+  </cdi>
+</cdidata>

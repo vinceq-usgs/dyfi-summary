@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89052">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>258</dist>
+      <lat>35.9789641734</lat>
+      <lon>-115.107787584</lon>
+      <name>Henderson</name>
+      <state>NV</state>
+    </location>
+    <location name="90025">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>34.0450097269</lat>
+      <lon>-118.446640587</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90041">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>34.1371166106</lat>
+      <lon>-118.207269033</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90066">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>34.0019600736</lat>
+      <lon>-118.431197505</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90301">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>33.9564411702</lat>
+      <lon>-118.35862517</lon>
+      <name>Inglewood</name>
+      <state>CA</state>
+    </location>
+    <location name="91311">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>34.2856213545</lat>
+      <lon>-118.604515487</lon>
+      <name>Chatsworth</name>
+      <state>CA</state>
+    </location>
+    <location name="91792">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>34.0254310699</lat>
+      <lon>-117.900052027</lon>
+      <name>West Covina</name>
+      <state>CA</state>
+    </location>
+    <location name="92057">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>33.2521805922</lat>
+      <lon>-117.290325245</lon>
+      <name>Oceanside</name>
+      <state>CA</state>
+    </location>
+    <location name="92314">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>34.2734445739</lat>
+      <lon>-116.914645906</lon>
+      <name>Big Bear City</name>
+      <state>CA</state>
+    </location>
+    <location name="92315">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>18</dist>
+      <lat>34.2483705249</lat>
+      <lon>-116.915145265</lon>
+      <name>Big Bear Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="92339">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>34.0897195285</lat>
+      <lon>-116.840332761</lon>
+      <name>Forest Falls</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

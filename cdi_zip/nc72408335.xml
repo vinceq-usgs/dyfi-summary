@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94508">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>38.5793622419</lat>
+      <lon>-122.447535241</lon>
+      <name>Angwin</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94610">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>37.8120934987</lat>
+      <lon>-122.240580761</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94702">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>37.8661564601</lat>
+      <lon>-122.286131717</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+    <location name="95425">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>38.7909586796</lat>
+      <lon>-123.034816655</lon>
+      <name>Cloverdale</name>
+      <state>CA</state>
+    </location>
+    <location name="95448">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>38.6242156485</lat>
+      <lon>-122.848151425</lon>
+      <name>Healdsburg</name>
+      <state>CA</state>
+    </location>
+    <location name="95449">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>38.9269030563</lat>
+      <lon>-123.106463927</lon>
+      <name>Hopland</name>
+      <state>CA</state>
+    </location>
+    <location name="95461">
+      <cdi>2.9633</cdi>
+      <nresp>4</nresp>
+      <dist>18</dist>
+      <lat>38.7666137401</lat>
+      <lon>-122.613153731</lon>
+      <name>Middletown</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

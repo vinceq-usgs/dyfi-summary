@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cesena::Emilia-Romagna::Italy">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>44.15</lat>
+      <lon>12.24</lon>
+      <name>Cesena</name>
+    </location>
+    <location name="Faenza::Emilia-Romagna::Italy">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>44.29</lat>
+      <lon>11.87</lon>
+      <name>Faenza</name>
+    </location>
+    <location name="Predappio::Emilia-Romagna::Italy">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>44.10</lat>
+      <lon>11.98</lon>
+      <name>Predappio</name>
+    </location>
+    <location name="Ravenna::Emilia-Romagna::Italy">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>44.42</lat>
+      <lon>12.21</lon>
+      <name>Ravenna</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiguayante::Bío Bío::Chile">
+      <cdi>3.6156</cdi>
+      <nresp>3</nresp>
+      <dist>35</dist>
+      <lat>-36.90</lat>
+      <lon>-73.04</lon>
+      <name>Chiguayante</name>
+    </location>
+    <location name="Chillán::Bío Bío::Chile">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>91</dist>
+      <lat>-36.60</lat>
+      <lon>-72.11</lon>
+      <name>Chillán</name>
+    </location>
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>3.5728</cdi>
+      <nresp>21</nresp>
+      <dist>36</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="Coronel::Bío Bío::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>41</dist>
+      <lat>-37.03</lat>
+      <lon>-73.16</lon>
+      <name>Coronel</name>
+    </location>
+    <location name="Los Angeles::Bío Bío::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>-37.46</lat>
+      <lon>-72.36</lon>
+      <name>Los Angeles</name>
+    </location>
+    <location name="Penco::Bío Bío::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>-36.73</lat>
+      <lon>-73.00</lon>
+      <name>Penco</name>
+    </location>
+    <location name="Tomé::Bío Bío::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>-36.61</lat>
+      <lon>-72.96</lon>
+      <name>Tomé</name>
+    </location>
+    <location name="Santa Cruz::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>292</dist>
+      <lat>-34.63</lat>
+      <lon>-71.37</lon>
+      <name>Santa Cruz</name>
+    </location>
+    <location name="Cauquenes::Maule::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>-35.96</lat>
+      <lon>-72.32</lon>
+      <name>Cauquenes</name>
+    </location>
+  </cdi>
+</cdidata>

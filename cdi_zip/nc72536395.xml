@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94118">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>37.7818712131</lat>
+      <lon>-122.461211306</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>8</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95682">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>38.6075720015</lat>
+      <lon>-120.964690152</lon>
+      <name>Shingle Springs</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

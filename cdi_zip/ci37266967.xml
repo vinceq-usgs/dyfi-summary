@@ -1,0 +1,949 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="85006">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>33.4658164689</lat>
+      <lon>-112.04765751</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85008">
+      <cdi>2.0372</cdi>
+      <nresp>2</nresp>
+      <dist>73</dist>
+      <lat>33.4647470616</lat>
+      <lon>-111.987242627</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85013">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>33.5093154598</lat>
+      <lon>-112.082487143</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85014">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>67</dist>
+      <lat>33.5091385401</lat>
+      <lon>-112.056298008</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85016">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>67</dist>
+      <lat>33.517430862</lat>
+      <lon>-112.025656253</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85017">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>33.5096506291</lat>
+      <lon>-112.123552455</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85018">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>33.4999043364</lat>
+      <lon>-111.981694197</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85020">
+      <cdi>2.9370</cdi>
+      <nresp>3</nresp>
+      <dist>61</dist>
+      <lat>33.567794768</lat>
+      <lon>-112.052825319</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85021">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>62</dist>
+      <lat>33.560911944</lat>
+      <lon>-112.094162426</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85022">
+      <cdi>2.8852</cdi>
+      <nresp>5</nresp>
+      <dist>55</dist>
+      <lat>33.6281007547</lat>
+      <lon>-112.052224963</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85023">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>33.6318205289</lat>
+      <lon>-112.094350385</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85024">
+      <cdi>3.0152</cdi>
+      <nresp>7</nresp>
+      <dist>48</dist>
+      <lat>33.6897535594</lat>
+      <lon>-112.046136893</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85027">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>49</dist>
+      <lat>33.6780214103</lat>
+      <lon>-112.10275322</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85028">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>61</dist>
+      <lat>33.5756539623</lat>
+      <lon>-112.007520927</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85029">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>58</dist>
+      <lat>33.5955145814</lat>
+      <lon>-112.110292046</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85031">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>33.4949949374</lat>
+      <lon>-112.169008512</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85032">
+      <cdi>3.0317</cdi>
+      <nresp>7</nresp>
+      <dist>56</dist>
+      <lat>33.6258146965</lat>
+      <lon>-112.004601341</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>33.4910482559</lat>
+      <lon>-112.267119647</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85041">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>33.3850036889</lat>
+      <lon>-112.105617345</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85042">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>33.3773663488</lat>
+      <lon>-112.03548107</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85043">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>33.4302454705</lat>
+      <lon>-112.193726063</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85044">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>87</dist>
+      <lat>33.3334596468</lat>
+      <lon>-111.989390882</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85048">
+      <cdi>2.4868</cdi>
+      <nresp>4</nresp>
+      <dist>87</dist>
+      <lat>33.3268912405</lat>
+      <lon>-112.059331999</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85050">
+      <cdi>3.2754</cdi>
+      <nresp>4</nresp>
+      <dist>49</dist>
+      <lat>33.691005886</lat>
+      <lon>-111.997417557</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85053">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>54</dist>
+      <lat>33.630315151</lat>
+      <lon>-112.131592313</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85054">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>33.682858412</lat>
+      <lon>-111.94725431</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85083">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>33.7270058457</lat>
+      <lon>-112.152522429</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85085">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>40</dist>
+      <lat>33.761817517</lat>
+      <lon>-112.110971114</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85086">
+      <cdi>2.8800</cdi>
+      <nresp>17</nresp>
+      <dist>31</dist>
+      <lat>33.8392990805</lat>
+      <lon>-112.107505027</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85087">
+      <cdi>3.5448</cdi>
+      <nresp>6</nresp>
+      <dist>22</dist>
+      <lat>33.9292765496</lat>
+      <lon>-112.145216867</lon>
+      <name>New River</name>
+      <state>AZ</state>
+    </location>
+    <location name="85201">
+      <cdi>2.9567</cdi>
+      <nresp>4</nresp>
+      <dist>79</dist>
+      <lat>33.4360097578</lat>
+      <lon>-111.849253223</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85202">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>84</dist>
+      <lat>33.3845890227</lat>
+      <lon>-111.873594991</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85203">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>33.4529713191</lat>
+      <lon>-111.804597794</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85205">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>33.4336749811</lat>
+      <lon>-111.718906636</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85206">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>33.397247832</lat>
+      <lon>-111.718407726</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85207">
+      <cdi>2.2226</cdi>
+      <nresp>5</nresp>
+      <dist>86</dist>
+      <lat>33.4537025758</lat>
+      <lon>-111.642258491</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85208">
+      <cdi>2.7053</cdi>
+      <nresp>3</nresp>
+      <dist>91</dist>
+      <lat>33.4038263994</lat>
+      <lon>-111.635185928</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85209">
+      <cdi>2.7613</cdi>
+      <nresp>5</nresp>
+      <dist>93</dist>
+      <lat>33.378795044</lat>
+      <lon>-111.634406037</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85210">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>33.390066161</lat>
+      <lon>-111.842629828</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85212">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>33.3303959361</lat>
+      <lon>-111.638413587</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85215">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>33.5227693496</lat>
+      <lon>-111.645975134</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85219">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>33.4090649524</lat>
+      <lon>-111.508962465</lon>
+      <name>Apache Junction</name>
+      <state>AZ</state>
+    </location>
+    <location name="85220">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>33.4167214478</lat>
+      <lon>-111.570899713</lon>
+      <name>Apache Junction</name>
+      <state>AZ</state>
+    </location>
+    <location name="85222">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>136</dist>
+      <lat>32.9279682855</lat>
+      <lon>-111.75853912</lon>
+      <name>Casa Grande</name>
+      <state>AZ</state>
+    </location>
+    <location name="85224">
+      <cdi>2.6051</cdi>
+      <nresp>5</nresp>
+      <dist>91</dist>
+      <lat>33.3242923171</lat>
+      <lon>-111.876421524</lon>
+      <name>Chandler</name>
+      <state>AZ</state>
+    </location>
+    <location name="85225">
+      <cdi>3.0398</cdi>
+      <nresp>9</nresp>
+      <dist>92</dist>
+      <lat>33.3180532467</lat>
+      <lon>-111.83194333</lon>
+      <name>Chandler</name>
+      <state>AZ</state>
+    </location>
+    <location name="85226">
+      <cdi>2.6051</cdi>
+      <nresp>7</nresp>
+      <dist>96</dist>
+      <lat>33.2620583971</lat>
+      <lon>-111.935348272</lon>
+      <name>Chandler</name>
+      <state>AZ</state>
+    </location>
+    <location name="85228">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>141</dist>
+      <lat>32.9464946797</lat>
+      <lon>-111.516273281</lon>
+      <name>Coolidge</name>
+      <state>AZ</state>
+    </location>
+    <location name="85233">
+      <cdi>3.2152</cdi>
+      <nresp>4</nresp>
+      <dist>89</dist>
+      <lat>33.3521613637</lat>
+      <lon>-111.811120295</lon>
+      <name>Gilbert</name>
+      <state>AZ</state>
+    </location>
+    <location name="85234">
+      <cdi>2.5465</cdi>
+      <nresp>9</nresp>
+      <dist>90</dist>
+      <lat>33.364618133</lat>
+      <lon>-111.739305036</lon>
+      <name>Gilbert</name>
+      <state>AZ</state>
+    </location>
+    <location name="85238">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>33.0203257655</lat>
+      <lon>-111.949555525</lon>
+      <name>Maricopa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85242">
+      <cdi>2.5168</cdi>
+      <nresp>4</nresp>
+      <dist>110</dist>
+      <lat>33.2097683633</lat>
+      <lon>-111.63348305</lon>
+      <name>Queen Creek</name>
+      <state>AZ</state>
+    </location>
+    <location name="85248">
+      <cdi>2.7578</cdi>
+      <nresp>8</nresp>
+      <dist>101</dist>
+      <lat>33.2289555928</lat>
+      <lon>-111.868219343</lon>
+      <name>Chandler</name>
+      <state>AZ</state>
+    </location>
+    <location name="85249">
+      <cdi>2.9841</cdi>
+      <nresp>5</nresp>
+      <dist>103</dist>
+      <lat>33.2258691162</lat>
+      <lon>-111.788307179</lon>
+      <name>Chandler</name>
+      <state>AZ</state>
+    </location>
+    <location name="85250">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>33.5243507689</lat>
+      <lon>-111.905771761</lon>
+      <name>Scottsdale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85251">
+      <cdi>2.6912</cdi>
+      <nresp>4</nresp>
+      <dist>71</dist>
+      <lat>33.4945613393</lat>
+      <lon>-111.920929149</lon>
+      <name>Scottsdale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85253">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>33.5454466839</lat>
+      <lon>-111.959223874</lon>
+      <name>Paradise Valley</name>
+      <state>AZ</state>
+    </location>
+    <location name="85254">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>58</dist>
+      <lat>33.6150056383</lat>
+      <lon>-111.952819658</lon>
+      <name>Scottsdale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85255">
+      <cdi>2.8455</cdi>
+      <nresp>7</nresp>
+      <dist>57</dist>
+      <lat>33.6766348456</lat>
+      <lon>-111.812094046</lon>
+      <name>Scottsdale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85256">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>72</dist>
+      <lat>33.5209280351</lat>
+      <lon>-111.800156307</lon>
+      <name>Scottsdale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85257">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>33.4646193151</lat>
+      <lon>-111.91641945</lon>
+      <name>Scottsdale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85258">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>65</dist>
+      <lat>33.5647414965</lat>
+      <lon>-111.897081669</lon>
+      <name>Scottsdale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85259">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>65</dist>
+      <lat>33.5891822492</lat>
+      <lon>-111.807914618</lon>
+      <name>Scottsdale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85260">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>60</dist>
+      <lat>33.6100099636</lat>
+      <lon>-111.892345547</lon>
+      <name>Scottsdale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85266">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>33.7665337045</lat>
+      <lon>-111.917378335</lon>
+      <name>Scottsdale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85268">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>33.6069230828</lat>
+      <lon>-111.739814484</lon>
+      <name>Fountain Hills</name>
+      <state>AZ</state>
+    </location>
+    <location name="85273">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>33.2695825895</lat>
+      <lon>-111.16876274</lon>
+      <name>Superior</name>
+      <state>AZ</state>
+    </location>
+    <location name="85281">
+      <cdi>2.6668</cdi>
+      <nresp>7</nresp>
+      <dist>78</dist>
+      <lat>33.4279860146</lat>
+      <lon>-111.932644658</lon>
+      <name>Tempe</name>
+      <state>AZ</state>
+    </location>
+    <location name="85282">
+      <cdi>2.5968</cdi>
+      <nresp>7</nresp>
+      <dist>82</dist>
+      <lat>33.3930678748</lat>
+      <lon>-111.931680038</lon>
+      <name>Tempe</name>
+      <state>AZ</state>
+    </location>
+    <location name="85283">
+      <cdi>2.8906</cdi>
+      <nresp>6</nresp>
+      <dist>85</dist>
+      <lat>33.363819351</lat>
+      <lon>-111.931640372</lon>
+      <name>Tempe</name>
+      <state>AZ</state>
+    </location>
+    <location name="85284">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>33.3368453903</lat>
+      <lon>-111.933920066</lon>
+      <name>Tempe</name>
+      <state>AZ</state>
+    </location>
+    <location name="85286">
+      <cdi>2.3747</cdi>
+      <nresp>9</nresp>
+      <dist>97</dist>
+      <lat>33.2713385141</lat>
+      <lon>-111.827706117</lon>
+      <name>Chandler</name>
+      <state>AZ</state>
+    </location>
+    <location name="85294">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>32.8954076406</lat>
+      <lon>-111.632447049</lon>
+      <name>Casa Grande</name>
+      <state>AZ</state>
+    </location>
+    <location name="85295">
+      <cdi>2.8732</cdi>
+      <nresp>5</nresp>
+      <dist>96</dist>
+      <lat>33.3066380221</lat>
+      <lon>-111.738163961</lon>
+      <name>Gilbert</name>
+      <state>AZ</state>
+    </location>
+    <location name="85296">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>33.336371092</lat>
+      <lon>-111.742555662</lon>
+      <name>Gilbert</name>
+      <state>AZ</state>
+    </location>
+    <location name="85297">
+      <cdi>2.6340</cdi>
+      <nresp>3</nresp>
+      <dist>99</dist>
+      <lat>33.2787435208</lat>
+      <lon>-111.733350393</lon>
+      <name>Gilbert</name>
+      <state>AZ</state>
+    </location>
+    <location name="85298">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>103</dist>
+      <lat>33.2435803511</lat>
+      <lon>-111.719154483</lon>
+      <name>Gilbert</name>
+      <state>AZ</state>
+    </location>
+    <location name="85302">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>33.5673149514</lat>
+      <lon>-112.17773664</lon>
+      <name>Glendale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85308">
+      <cdi>2.5465</cdi>
+      <nresp>4</nresp>
+      <dist>51</dist>
+      <lat>33.6608680143</lat>
+      <lon>-112.181725289</lon>
+      <name>Glendale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85310">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>46</dist>
+      <lat>33.7031304592</lat>
+      <lon>-112.174251227</lon>
+      <name>Glendale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85324">
+      <cdi>2.6912</cdi>
+      <nresp>4</nresp>
+      <dist>25</dist>
+      <lat>34.0962190728</lat>
+      <lon>-111.865791949</lon>
+      <name>Black Canyon City</name>
+      <state>AZ</state>
+    </location>
+    <location name="85331">
+      <cdi>3.1189</cdi>
+      <nresp>11</nresp>
+      <dist>36</dist>
+      <lat>33.8373150718</lat>
+      <lon>-111.936905385</lon>
+      <name>Cave Creek</name>
+      <state>AZ</state>
+    </location>
+    <location name="85338">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>33.3770726862</lat>
+      <lon>-112.405812769</lon>
+      <name>Goodyear</name>
+      <state>AZ</state>
+    </location>
+    <location name="85339">
+      <cdi>2.4414</cdi>
+      <nresp>3</nresp>
+      <dist>85</dist>
+      <lat>33.350967415</lat>
+      <lon>-112.189317071</lon>
+      <name>Laveen</name>
+      <state>AZ</state>
+    </location>
+    <location name="85340">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>33.5162864015</lat>
+      <lon>-112.407467699</lon>
+      <name>Litchfield Park</name>
+      <state>AZ</state>
+    </location>
+    <location name="85345">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>33.5713581363</lat>
+      <lon>-112.249024502</lon>
+      <name>Peoria</name>
+      <state>AZ</state>
+    </location>
+    <location name="85353">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>33.4168682325</lat>
+      <lon>-112.272930327</lon>
+      <name>Tolleson</name>
+      <state>AZ</state>
+    </location>
+    <location name="85354">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>33.4286275063</lat>
+      <lon>-112.981457727</lon>
+      <name>Tonopah</name>
+      <state>AZ</state>
+    </location>
+    <location name="85373">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>33.820230715</lat>
+      <lon>-112.360730195</lon>
+      <name>Sun City</name>
+      <state>AZ</state>
+    </location>
+    <location name="85379">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>33.6027964321</lat>
+      <lon>-112.381653305</lon>
+      <name>Surprise</name>
+      <state>AZ</state>
+    </location>
+    <location name="85382">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>33.6559809984</lat>
+      <lon>-112.246974108</lon>
+      <name>Peoria</name>
+      <state>AZ</state>
+    </location>
+    <location name="85383">
+      <cdi>3.5503</cdi>
+      <nresp>2</nresp>
+      <dist>42</dist>
+      <lat>33.7559477764</lat>
+      <lon>-112.268090863</lon>
+      <name>Peoria</name>
+      <state>AZ</state>
+    </location>
+    <location name="85390">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>33.8309781087</lat>
+      <lon>-112.991637509</lon>
+      <name>Wickenburg</name>
+      <state>AZ</state>
+    </location>
+    <location name="85396">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>33.5522705533</lat>
+      <lon>-112.58198851</lon>
+      <name>Buckeye</name>
+      <state>AZ</state>
+    </location>
+    <location name="85719">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>234</dist>
+      <lat>32.2470206025</lat>
+      <lon>-110.94821224</lon>
+      <name>Tucson</name>
+      <state>AZ</state>
+    </location>
+    <location name="85745">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>229</dist>
+      <lat>32.2527274517</lat>
+      <lon>-111.060952973</lon>
+      <name>Tucson</name>
+      <state>AZ</state>
+    </location>
+    <location name="86046">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>35.6126134459</lat>
+      <lon>-112.435057413</lon>
+      <name>Williams</name>
+      <state>AZ</state>
+    </location>
+    <location name="86301">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>34.6022897747</lat>
+      <lon>-112.418834366</lon>
+      <name>Prescott</name>
+      <state>AZ</state>
+    </location>
+    <location name="86303">
+      <cdi>2.9172</cdi>
+      <nresp>7</nresp>
+      <dist>51</dist>
+      <lat>34.4891689053</lat>
+      <lon>-112.437245332</lon>
+      <name>Prescott</name>
+      <state>AZ</state>
+    </location>
+    <location name="86322">
+      <cdi>3.0344</cdi>
+      <nresp>7</nresp>
+      <dist>52</dist>
+      <lat>34.5201203831</lat>
+      <lon>-111.862272467</lon>
+      <name>Camp Verde</name>
+      <state>AZ</state>
+    </location>
+    <location name="86326">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>34.6277512724</lat>
+      <lon>-112.080966048</lon>
+      <name>Cottonwood</name>
+      <state>AZ</state>
+    </location>
+    <location name="86327">
+      <cdi>2.1136</cdi>
+      <nresp>4</nresp>
+      <dist>44</dist>
+      <lat>34.4997989786</lat>
+      <lon>-112.203081965</lon>
+      <name>Dewey</name>
+      <state>AZ</state>
+    </location>
+    <location name="86333">
+      <cdi>3.1324</cdi>
+      <nresp>10</nresp>
+      <dist>28</dist>
+      <lat>34.3310715368</lat>
+      <lon>-111.997713649</lon>
+      <name>Mayer</name>
+      <state>AZ</state>
+    </location>
+    <location name="86334">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>34.9832437008</lat>
+      <lon>-112.537657055</lon>
+      <name>Paulden</name>
+      <state>AZ</state>
+    </location>
+    <location name="86336">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>34.6953686946</lat>
+      <lon>-111.292392829</lon>
+      <name>Sedona</name>
+      <state>AZ</state>
+    </location>
+  </cdi>
+</cdidata>

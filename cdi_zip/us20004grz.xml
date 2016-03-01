@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67005">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>37.065145113</lat>
+      <lon>-96.9858253723</lon>
+      <name>Arkansas City</name>
+      <state>KS</state>
+    </location>
+    <location name="73084">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>35.5264751791</lat>
+      <lon>-97.3432436184</lon>
+      <name>Spencer</name>
+      <state>OK</state>
+    </location>
+    <location name="74019">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>36.2821833601</lat>
+      <lon>-95.6050489434</lon>
+      <name>Claremore</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+    <location name="74644">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>36.5500488707</lat>
+      <lon>-97.0587219188</lon>
+      <name>Marland</name>
+      <state>OK</state>
+    </location>
+    <location name="74650">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>36.5041403998</lat>
+      <lon>-96.850186385</lon>
+      <name>Ralston</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

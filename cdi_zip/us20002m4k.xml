@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Lima::Lima Provincias::Peru">
+      <cdi>2.3518</cdi>
+      <nresp>5</nresp>
+      <dist>80</dist>
+      <lat>-12.07</lat>
+      <lon>-77.05</lon>
+      <name>Lima</name>
+    </location>
+    <location name="San Luis::Lima Provincias::Peru">
+      <cdi>2.4261</cdi>
+      <nresp>9</nresp>
+      <dist>84</dist>
+      <lat>-12.08</lat>
+      <lon>-77.00</lon>
+      <name>San Luis</name>
+    </location>
+    <location name="Santa María::Lima Provincias::Peru">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>-12.00</lat>
+      <lon>-76.90</lon>
+      <name>Santa María</name>
+    </location>
+  </cdi>
+</cdidata>

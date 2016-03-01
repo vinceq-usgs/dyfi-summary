@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Buenos Aires::Buenos Aires::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1175</dist>
+      <lat>-34.61</lat>
+      <lon>-58.37</lon>
+      <name>Buenos Aires</name>
+    </location>
+    <location name="Córdoba::Córdoba::Argentina">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>663</dist>
+      <lat>-31.40</lat>
+      <lon>-64.19</lon>
+      <name>Córdoba</name>
+    </location>
+    <location name="Jujuy::Jujuy::Argentina">
+      <cdi>3.2754</cdi>
+      <nresp>4</nresp>
+      <dist>161</dist>
+      <lat>-24.19</lat>
+      <lon>-65.30</lon>
+      <name>Jujuy</name>
+    </location>
+    <location name="Salta::Salta::Argentina">
+      <cdi>4.7914</cdi>
+      <nresp>10</nresp>
+      <dist>120</dist>
+      <lat>-24.79</lat>
+      <lon>-65.41</lon>
+      <name>Salta</name>
+    </location>
+    <location name="Santiago del Estero::Santiago del Estero::Argentina">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>264</dist>
+      <lat>-27.80</lat>
+      <lon>-64.28</lon>
+      <name>Santiago del Estero</name>
+    </location>
+    <location name="Antofagasta::Antofagasta::Chile">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>633</dist>
+      <lat>-23.65</lat>
+      <lon>-70.39</lon>
+      <name>Antofagasta</name>
+    </location>
+    <location name="Tucumán::Tucumán::Argentina">
+      <cdi>4.4498</cdi>
+      <nresp>12</nresp>
+      <dist>174</dist>
+      <lat>-26.83</lat>
+      <lon>-65.22</lon>
+      <name>Tucumán</name>
+    </location>
+    <location name="La Serena::Coquimbo::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>835</dist>
+      <lat>-29.90</lat>
+      <lon>-71.25</lon>
+      <name>La Serena</name>
+    </location>
+    <location name="Iquique::Tarapacá::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>819</dist>
+      <lat>-20.23</lat>
+      <lon>-70.14</lon>
+      <name>Iquique</name>
+    </location>
+    <location name="Fernando de la Mora::Central::Paraguay">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>690</dist>
+      <lat>-25.32</lat>
+      <lon>-57.59</lon>
+      <name>Fernando de la Mora</name>
+    </location>
+  </cdi>
+</cdidata>

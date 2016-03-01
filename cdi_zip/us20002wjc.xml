@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Boquete::Chiriquí::Panama">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>8.78</lat>
+      <lon>-82.44</lon>
+      <name>Boquete</name>
+    </location>
+    <location name="Potrerillos Arriba::Chiriquí::Panama">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>8.68</lat>
+      <lon>-82.50</lon>
+      <name>Potrerillos Arriba</name>
+    </location>
+    <location name="San Félix::Chiriquí::Panama">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>8.28</lat>
+      <lon>-81.87</lon>
+      <name>San Félix</name>
+    </location>
+    <location name="Volcán::Chiriquí::Panama">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>8.77</lat>
+      <lon>-82.63</lon>
+      <name>Volcán</name>
+    </location>
+    <location name="Golfito::Puntarenas::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>8.64</lat>
+      <lon>-83.17</lon>
+      <name>Golfito</name>
+    </location>
+    <location name="San Vito::Puntarenas::Costa Rica">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>8.84</lat>
+      <lon>-82.97</lon>
+      <name>San Vito</name>
+    </location>
+  </cdi>
+</cdidata>

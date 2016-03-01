@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90062">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>34.0033971037</lat>
+      <lon>-118.308837697</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="92264">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>33.7408622467</lat>
+      <lon>-116.535954528</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92648">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>33.6823958143</lat>
+      <lon>-118.012577203</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92649">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>33.7210990547</lat>
+      <lon>-118.044472241</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="93536">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>237</dist>
+      <lat>34.7552935944</lat>
+      <lon>-118.413608287</lon>
+      <name>Lancaster</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

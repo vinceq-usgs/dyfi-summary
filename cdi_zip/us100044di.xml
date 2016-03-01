@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73054">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>35.6691143696</lat>
+      <lon>-97.191976607</lon>
+      <name>Luther</name>
+      <state>OK</state>
+    </location>
+    <location name="74119">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>67</dist>
+      <lat>36.1416718329</lat>
+      <lon>-95.9891883481</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="75062">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>337</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

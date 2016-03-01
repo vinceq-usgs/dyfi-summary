@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="38305">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>753</dist>
+      <lat>35.6506310891</lat>
+      <lon>-88.788293992</lon>
+      <name>Jackson</name>
+      <state>TN</state>
+    </location>
+    <location name="67206">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>37.7037441156</lat>
+      <lon>-97.2255351318</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73112">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>35.5185814398</lat>
+      <lon>-97.5743746682</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

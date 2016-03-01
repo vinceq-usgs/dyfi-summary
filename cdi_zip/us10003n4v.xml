@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67749">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>471</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="73110">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>35.4599812871</lat>
+      <lon>-97.3970813939</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>70</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

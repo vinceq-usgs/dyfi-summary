@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ejido::Mérida::Venezuela">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>326</dist>
+      <lat>8.56</lat>
+      <lon>-71.23</lon>
+      <name>Ejido</name>
+    </location>
+    <location name="Táriba::Táchira::Venezuela">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>215</dist>
+      <lat>7.82</lat>
+      <lon>-72.24</lon>
+      <name>Táriba</name>
+    </location>
+    <location name="Itagüí::Antioquia::Colombia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>321</dist>
+      <lat>6.17</lat>
+      <lon>-75.62</lon>
+      <name>Itagüí</name>
+    </location>
+    <location name="La Estrella::Antioquia::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>324</dist>
+      <lat>6.17</lat>
+      <lon>-75.65</lon>
+      <name>La Estrella</name>
+    </location>
+    <location name="Medellín::Antioquia::Colombia">
+      <cdi>2.3140</cdi>
+      <nresp>5</nresp>
+      <dist>311</dist>
+      <lat>6.29</lat>
+      <lon>-75.54</lon>
+      <name>Medellín</name>
+    </location>
+    <location name="Sabaneta::Antioquia::Colombia">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>320</dist>
+      <lat>6.15</lat>
+      <lon>-75.60</lon>
+      <name>Sabaneta</name>
+    </location>
+    <location name="Sonsón::Antioquia::Colombia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>5.72</lat>
+      <lon>-75.32</lon>
+      <name>Sonsón</name>
+    </location>
+    <location name="Bogotá::Bogotá::Colombia">
+      <cdi>2</cdi>
+      <nresp>8</nresp>
+      <dist>304</dist>
+      <lat>4.63</lat>
+      <lon>-74.09</lon>
+      <name>Bogotá</name>
+    </location>
+    <location name="Tibaná::Boyacá::Colombia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>227</dist>
+      <lat>5.32</lat>
+      <lon>-73.40</lon>
+      <name>Tibaná</name>
+    </location>
+    <location name="Manizales::Caldas::Colombia">
+      <cdi>2.4868</cdi>
+      <nresp>3</nresp>
+      <dist>360</dist>
+      <lat>5.06</lat>
+      <lon>-75.52</lon>
+      <name>Manizales</name>
+    </location>
+    <location name="La Calera::Cundinamarca::Colombia">
+      <cdi>2.5612</cdi>
+      <nresp>6</nresp>
+      <dist>292</dist>
+      <lat>4.72</lat>
+      <lon>-73.97</lon>
+      <name>La Calera</name>
+    </location>
+    <location name="Ciénaga::Magdalena::Colombia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>504</dist>
+      <lat>11.01</lat>
+      <lon>-74.25</lon>
+      <name>Ciénaga</name>
+    </location>
+    <location name="Villavicencio::Meta::Colombia">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>336</dist>
+      <lat>4.15</lat>
+      <lon>-73.64</lon>
+      <name>Villavicencio</name>
+    </location>
+    <location name="Cúcuta::Norte de Santander::Colombia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>207</dist>
+      <lat>7.88</lat>
+      <lon>-72.51</lon>
+      <name>Cúcuta</name>
+    </location>
+    <location name="Armenia::Quindió::Colombia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>408</dist>
+      <lat>4.53</lat>
+      <lon>-75.69</lon>
+      <name>Armenia</name>
+    </location>
+    <location name="Bucaramanga::Santander::Colombia">
+      <cdi>2.7494</cdi>
+      <nresp>7</nresp>
+      <dist>158</dist>
+      <lat>7.13</lat>
+      <lon>-73.13</lon>
+      <name>Bucaramanga</name>
+    </location>
+    <location name="Floridablanca::Santander::Colombia">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>157</dist>
+      <lat>7.06</lat>
+      <lon>-73.09</lon>
+      <name>Floridablanca</name>
+    </location>
+    <location name="San Gil::Santander::Colombia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>6.56</lat>
+      <lon>-73.14</lon>
+      <name>San Gil</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bhalswa Jahangirpur::Delhi::India">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>897</dist>
+      <lat>28.74</lat>
+      <lon>77.17</lon>
+      <name>Bhalswa Jahangirpur</name>
+    </location>
+    <location name="Beri::Haryana::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>954</dist>
+      <lat>28.70</lat>
+      <lon>76.58</lon>
+      <name>Beri</name>
+    </location>
+    <location name="Gurgaon::Haryana::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>910</dist>
+      <lat>28.47</lat>
+      <lon>77.01</lon>
+      <name>Gurgaon</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>533</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Lakhnau Cantonment::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>529</dist>
+      <lat>26.81</lat>
+      <lon>80.97</lon>
+      <name>Lakhnau Cantonment</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>229</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Jaleswor::Mahottari::Nepal">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>26.65</lat>
+      <lon>85.79</lon>
+      <name>Jaleswor</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90620">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>413</dist>
+      <lat>33.8463139296</lat>
+      <lon>-118.011490876</lon>
+      <name>Buena Park</name>
+      <state>CA</state>
+    </location>
+    <location name="92860">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>413</dist>
+      <lat>33.9246632061</lat>
+      <lon>-117.55268765</lon>
+      <name>Norco</name>
+      <state>CA</state>
+    </location>
+    <location name="93514">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>37.4762712635</lat>
+      <lon>-118.400747511</lon>
+      <name>Bishop</name>
+      <state>CA</state>
+    </location>
+    <location name="93546">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>37.6583157092</lat>
+      <lon>-118.898845011</lon>
+      <name>Mammoth Lakes</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

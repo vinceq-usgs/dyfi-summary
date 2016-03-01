@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="PeristÃ©rion::AttikÃ­::Greece">
+      <cdi>3.4588</cdi>
+      <nresp>5</nresp>
+      <dist>12</dist>
+      <lat>38.02</lat>
+      <lon>23.70</lon>
+      <name>PeristÃ©rion</name>
+    </location>
+    <location name="ZogrÃ¡fos::AttikÃ­::Greece">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>37.98</lat>
+      <lon>23.77</lon>
+      <name>ZogrÃ¡fos</name>
+    </location>
+  </cdi>
+</cdidata>

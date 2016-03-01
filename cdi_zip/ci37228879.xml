@@ -1,0 +1,319 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="91203">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>34.152749524</lat>
+      <lon>-118.263970841</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91910">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>80</dist>
+      <lat>32.637931508</lat>
+      <lon>-117.055474752</lon>
+      <name>Chula Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="91911">
+      <cdi>3.3811</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>32.6072532718</lat>
+      <lon>-117.050385252</lon>
+      <name>Chula Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="91914">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>32.6594799618</lat>
+      <lon>-116.959873653</lon>
+      <name>Chula Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="91932">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>32.5792910279</lat>
+      <lon>-117.117642618</lon>
+      <name>Imperial Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91941">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>92</dist>
+      <lat>32.7612331769</lat>
+      <lon>-117.001733864</lon>
+      <name>La Mesa</name>
+      <state>CA</state>
+    </location>
+    <location name="91977">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>90</dist>
+      <lat>32.72408</lat>
+      <lon>-116.995600687</lon>
+      <name>Spring Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="91978">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>93</dist>
+      <lat>32.7041259289</lat>
+      <lon>-116.940859364</lon>
+      <name>Spring Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92019">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>102</dist>
+      <lat>32.7803689007</lat>
+      <lon>-116.879785016</lon>
+      <name>El Cajon</name>
+      <state>CA</state>
+    </location>
+    <location name="92020">
+      <cdi>2.0781</cdi>
+      <nresp>5</nresp>
+      <dist>97</dist>
+      <lat>32.7964990772</lat>
+      <lon>-116.97049349</lon>
+      <name>El Cajon</name>
+      <state>CA</state>
+    </location>
+    <location name="92037">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>86</dist>
+      <lat>32.8549927978</lat>
+      <lon>-117.249898329</lon>
+      <name>La Jolla</name>
+      <state>CA</state>
+    </location>
+    <location name="92040">
+      <cdi>2.6484</cdi>
+      <nresp>2</nresp>
+      <dist>112</dist>
+      <lat>32.9132430478</lat>
+      <lon>-116.882406668</lon>
+      <name>Lakeside</name>
+      <state>CA</state>
+    </location>
+    <location name="92064">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>110</dist>
+      <lat>32.9850686794</lat>
+      <lon>-117.020713724</lon>
+      <name>Poway</name>
+      <state>CA</state>
+    </location>
+    <location name="92071">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>100</dist>
+      <lat>32.865493358</lat>
+      <lon>-117.014425567</lon>
+      <name>Santee</name>
+      <state>CA</state>
+    </location>
+    <location name="92101">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>79</dist>
+      <lat>32.7233589585</lat>
+      <lon>-117.16928562</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92103">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>32.7473427343</lat>
+      <lon>-117.166839699</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92106">
+      <cdi>2.0713</cdi>
+      <nresp>3</nresp>
+      <dist>74</dist>
+      <lat>32.7090398932</lat>
+      <lon>-117.232217509</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92107">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>76</dist>
+      <lat>32.7416338748</lat>
+      <lon>-117.243409756</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92109">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>32.7913554996</lat>
+      <lon>-117.233551045</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92115">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>32.7611144173</lat>
+      <lon>-117.071620131</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92118">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>32.6680211709</lat>
+      <lon>-117.161121991</lon>
+      <name>Coronado</name>
+      <state>CA</state>
+    </location>
+    <location name="92119">
+      <cdi>2.5168</cdi>
+      <nresp>3</nresp>
+      <dist>94</dist>
+      <lat>32.8067000367</lat>
+      <lon>-117.030245038</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92120">
+      <cdi>2.4414</cdi>
+      <nresp>3</nresp>
+      <dist>90</dist>
+      <lat>32.7944838824</lat>
+      <lon>-117.072578184</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92121">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>32.8981065391</lat>
+      <lon>-117.201573296</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92122">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>88</dist>
+      <lat>32.8567616775</lat>
+      <lon>-117.210194898</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92127">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>33.02303349</lat>
+      <lon>-117.122244895</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92128">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>32.9965451015</lat>
+      <lon>-117.07283537</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92130">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>32.9492126979</lat>
+      <lon>-117.205557031</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92154">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>32.5675976914</lat>
+      <lon>-116.999975956</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92231">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>32.684622599</lat>
+      <lon>-115.546920786</lon>
+      <name>Calexico</name>
+      <state>CA</state>
+    </location>
+    <location name="92870">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>33.8808887078</lat>
+      <lon>-117.855285664</lon>
+      <name>Placentia</name>
+      <state>CA</state>
+    </location>
+    <location name="93551">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>271</dist>
+      <lat>34.5951350338</lat>
+      <lon>-118.222061274</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Ensenada::Baja California::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>31.87</lat>
+      <lon>-116.62</lon>
+      <name>Ensenada</name>
+    </location>
+    <location name="La Joya::Baja California::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>32.44</lat>
+      <lon>-117.01</lon>
+      <name>La Joya</name>
+    </location>
+  </cdi>
+</cdidata>

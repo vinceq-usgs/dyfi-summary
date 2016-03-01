@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dacca::Dhāka::Bangladesh">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>716</dist>
+      <lat>23.70</lat>
+      <lon>90.39</lon>
+      <name>Dacca</name>
+    </location>
+    <location name="Bettiah::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>26.81</lat>
+      <lon>84.50</lon>
+      <name>Bettiah</name>
+    </location>
+    <location name="Patna::Bihar::India">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>243</dist>
+      <lat>25.62</lat>
+      <lon>85.13</lon>
+      <name>Patna</name>
+    </location>
+    <location name="Faridabad::Haryana::India">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>747</dist>
+      <lat>28.38</lat>
+      <lon>77.30</lon>
+      <name>Faridabad</name>
+    </location>
+    <location name="Itaunja::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>399</dist>
+      <lat>27.08</lat>
+      <lon>80.92</lon>
+      <name>Itaunja</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>405</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Janakpur::Dhanusa::Nepal">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>26.73</lat>
+      <lon>85.92</lon>
+      <name>Janakpur</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>5.8062</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+  </cdi>
+</cdidata>

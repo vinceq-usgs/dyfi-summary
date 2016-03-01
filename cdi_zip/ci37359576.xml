@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92201">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>393</dist>
+      <lat>33.707623363</lat>
+      <lon>-116.234525355</lon>
+      <name>Indio</name>
+      <state>CA</state>
+    </location>
+    <location name="93271">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>36.4312648029</lat>
+      <lon>-118.742398175</lon>
+      <name>Three Rivers</name>
+      <state>CA</state>
+    </location>
+    <location name="93654">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>36.6663161272</lat>
+      <lon>-119.398218381</lon>
+      <name>Reedley</name>
+      <state>CA</state>
+    </location>
+    <location name="93950">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>307</dist>
+      <lat>36.6192274914</lat>
+      <lon>-121.925645778</lon>
+      <name>Pacific Grove</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>331</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95603">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>333</dist>
+      <lat>38.916044383</lat>
+      <lon>-121.079498732</lon>
+      <name>Auburn</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Illapel::Coquimbo::Chile">
+      <cdi>4.2084</cdi>
+      <nresp>2</nresp>
+      <dist>237</dist>
+      <lat>-31.63</lat>
+      <lon>-71.17</lon>
+      <name>Illapel</name>
+    </location>
+    <location name="MachalÃ­::Libertador General Bernardo OÊ¿Higgins::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>-34.18</lat>
+      <lon>-70.67</lon>
+      <name>MachalÃ­</name>
+    </location>
+    <location name="Rengo::Libertador General Bernardo OÊ¿Higgins::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>-34.41</lat>
+      <lon>-70.87</lon>
+      <name>Rengo</name>
+    </location>
+    <location name="Lampa::Metropolitana::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>-33.28</lat>
+      <lon>-70.90</lon>
+      <name>Lampa</name>
+    </location>
+    <location name="Melipilla::Metropolitana::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>-33.69</lat>
+      <lon>-71.22</lon>
+      <name>Melipilla</name>
+    </location>
+    <location name="Puente Alto::Metropolitana::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>-33.61</lat>
+      <lon>-70.57</lon>
+      <name>Puente Alto</name>
+    </location>
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>3.2873</cdi>
+      <nresp>3</nresp>
+      <dist>78</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.8551</cdi>
+      <nresp>45</nresp>
+      <dist>84</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="ViÃ±a del Mar::ValparaÃ­so::Chile">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>109</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>ViÃ±a del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

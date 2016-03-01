@@ -1,0 +1,167 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="23156">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>745</dist>
+      <lat>37.5445119484</lat>
+      <lon>-76.706191716</lon>
+      <name>Shacklefords</name>
+      <state>VA</state>
+    </location>
+    <location name="28127">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>407</dist>
+      <lat>35.4509550136</lat>
+      <lon>-80.1785801432</lon>
+      <name>New London</name>
+      <state>NC</state>
+    </location>
+    <location name="28715">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>177</dist>
+      <lat>35.5156344805</lat>
+      <lon>-82.7156731743</lon>
+      <name>Candler</name>
+      <state>NC</state>
+    </location>
+    <location name="28804">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>35.6489360043</lat>
+      <lon>-82.5617803016</lon>
+      <name>Asheville</name>
+      <state>NC</state>
+    </location>
+    <location name="30144">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>34.0371904769</lat>
+      <lon>-84.5919849061</lon>
+      <name>Kennesaw</name>
+      <state>GA</state>
+    </location>
+    <location name="30755">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>34.8638307764</lat>
+      <lon>-85.0421856085</lon>
+      <name>Tunnel Hill</name>
+      <state>GA</state>
+    </location>
+    <location name="35613">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>219</dist>
+      <lat>34.8211671375</lat>
+      <lon>-86.8831892656</lon>
+      <name>Athens</name>
+      <state>AL</state>
+    </location>
+    <location name="35758">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>213</dist>
+      <lat>34.7120498909</lat>
+      <lon>-86.7462535798</lon>
+      <name>Madison</name>
+      <state>AL</state>
+    </location>
+    <location name="37303">
+      <cdi>2.6960</cdi>
+      <nresp>15</nresp>
+      <dist>21</dist>
+      <lat>35.4391618359</lat>
+      <lon>-84.6428217115</lon>
+      <name>Athens</name>
+      <state>TN</state>
+    </location>
+    <location name="37323">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>35.0925169866</lat>
+      <lon>-84.8210009467</lon>
+      <name>Cleveland</name>
+      <state>TN</state>
+    </location>
+    <location name="37329">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>30</dist>
+      <lat>35.400920389</lat>
+      <lon>-84.4618871779</lon>
+      <name>Englewood</name>
+      <state>TN</state>
+    </location>
+    <location name="37354">
+      <cdi>2.3330</cdi>
+      <nresp>4</nresp>
+      <dist>33</dist>
+      <lat>35.4968559667</lat>
+      <lon>-84.3430352836</lon>
+      <name>Madisonville</name>
+      <state>TN</state>
+    </location>
+    <location name="37826">
+      <cdi>2.0372</cdi>
+      <nresp>4</nresp>
+      <dist>17</dist>
+      <lat>35.5619595184</lat>
+      <lon>-84.5943471242</lon>
+      <name>Niota</name>
+      <state>TN</state>
+    </location>
+    <location name="37862">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>35.7802278936</lat>
+      <lon>-83.6103007982</lon>
+      <name>Sevierville</name>
+      <state>TN</state>
+    </location>
+    <location name="37874">
+      <cdi>2.4868</cdi>
+      <nresp>3</nresp>
+      <dist>25</dist>
+      <lat>35.5948444801</lat>
+      <lon>-84.454699369</lon>
+      <name>Sweetwater</name>
+      <state>TN</state>
+    </location>
+    <location name="37880">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>35.6929643312</lat>
+      <lon>-84.6609732031</lon>
+      <name>Ten Mile</name>
+      <state>TN</state>
+    </location>
+    <location name="37934">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>35.8729251591</lat>
+      <lon>-84.1791122184</lon>
+      <name>Knoxville</name>
+      <state>TN</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Hamilton::Ontario::Canada">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>949</dist>
+      <lat>43.26</lat>
+      <lon>-79.85</lon>
+      <name>Hamilton</name>
+    </location>
+  </cdi>
+</cdidata>

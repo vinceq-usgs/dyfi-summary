@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67216">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>37.6082148038</lat>
+      <lon>-97.314056177</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73063">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>36.0483977142</lat>
+      <lon>-97.4320352821</lon>
+      <name>Mulhall</name>
+      <state>OK</state>
+    </location>
+    <location name="73110">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>35.4599812871</lat>
+      <lon>-97.3970813939</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>38</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="76209">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>316</dist>
+      <lat>33.2315890094</lat>
+      <lon>-97.1101272254</lon>
+      <name>Denton</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

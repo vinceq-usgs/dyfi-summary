@@ -1,0 +1,124 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cheonju::Chollabuk::Korea (South)">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>31</dist>
+      <lat>35.83</lat>
+      <lon>127.14</lon>
+      <name>Cheonju</name>
+    </location>
+    <location name="Iksan::Chollabuk::Korea (South)">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.94</lat>
+      <lon>126.95</lon>
+      <name>Iksan</name>
+    </location>
+    <location name="Kunsan::Chollabuk::Korea (South)">
+      <cdi>2.8396</cdi>
+      <nresp>7</nresp>
+      <dist>27</dist>
+      <lat>35.99</lat>
+      <lon>126.71</lon>
+      <name>Kunsan</name>
+    </location>
+    <location name="Puan::Chollabuk::Korea (South)">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>35.72</lat>
+      <lon>126.74</lon>
+      <name>Puan</name>
+    </location>
+    <location name="Chincheon::Chungchŏngbuk::Korea (South)">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>36.86</lat>
+      <lon>127.42</lon>
+      <name>Chincheon</name>
+    </location>
+    <location name="Ch'ungju::Chungchŏngbuk::Korea (South)">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>36.98</lat>
+      <lon>127.94</lon>
+      <name>Ch'ungju</name>
+    </location>
+    <location name="Kongju::Chungchŏngnam::Korea (South)">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>36.45</lat>
+      <lon>127.12</lon>
+      <name>Kongju</name>
+    </location>
+    <location name="Dangjin::Chungchŏngnam::Korea (South)">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>36.90</lat>
+      <lon>126.63</lon>
+      <name>Dangjin</name>
+    </location>
+    <location name="Hongcheon::Kangwŏn::Korea (South)">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>198</dist>
+      <lat>37.69</lat>
+      <lon>127.89</lon>
+      <name>Hongcheon</name>
+    </location>
+    <location name="Osan::Kyŏnggi::Korea (South)">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>37.15</lat>
+      <lon>127.07</lon>
+      <name>Osan</name>
+    </location>
+    <location name="Paengsong::Kyŏnggi::Korea (South)">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>100</dist>
+      <lat>36.96</lat>
+      <lon>127.04</lon>
+      <name>Paengsong</name>
+    </location>
+    <location name="P'yongt'aek::Kyŏnggi::Korea (South)">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>36.98</lat>
+      <lon>127.10</lon>
+      <name>P'yongt'aek</name>
+    </location>
+    <location name="Seoul::Sŏul::Korea (South)">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>37.56</lat>
+      <lon>126.99</lon>
+      <name>Seoul</name>
+    </location>
+    <location name="Hwawon::Taegu::Korea (South)">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>35.79</lat>
+      <lon>128.47</lon>
+      <name>Hwawon</name>
+    </location>
+    <location name="Daejeon::Taejŏn::Korea (South)">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>51</dist>
+      <lat>36.33</lat>
+      <lon>127.43</lon>
+      <name>Daejeon</name>
+    </location>
+  </cdi>
+</cdidata>

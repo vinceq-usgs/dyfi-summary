@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93001">
+      <cdi>2.9567</cdi>
+      <nresp>4</nresp>
+      <dist>436</dist>
+      <lat>34.3480055188</lat>
+      <lon>-119.326420083</lon>
+      <name>Ventura</name>
+      <state>CA</state>
+    </location>
+    <location name="93003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>424</dist>
+      <lat>34.2789920855</lat>
+      <lon>-119.218580733</lon>
+      <name>Ventura</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

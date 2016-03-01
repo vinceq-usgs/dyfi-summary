@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93923">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>36.4194862007</lat>
+      <lon>-121.827143358</lon>
+      <name>Carmel</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.5832</cdi>
+      <nresp>5</nresp>
+      <dist>8</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94577">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>37.7165921385</lat>
+      <lon>-122.164549051</lon>
+      <name>San Leandro</name>
+      <state>CA</state>
+    </location>
+    <location name="94578">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>37.7063627987</lat>
+      <lon>-122.125302829</lon>
+      <name>San Leandro</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>8</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94595">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.8714903106</lat>
+      <lon>-122.069041617</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94596">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.8884024161</lat>
+      <lon>-122.036464813</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

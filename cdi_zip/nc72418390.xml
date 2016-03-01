@@ -1,0 +1,157 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>328</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="92663">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>364</dist>
+      <lat>33.6229987</lat>
+      <lon>-117.930008457</lon>
+      <name>Newport Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="93210">
+      <cdi>3.2033</cdi>
+      <nresp>28</nresp>
+      <dist>12</dist>
+      <lat>36.198572789</lat>
+      <lon>-120.402676852</lon>
+      <name>Coalinga</name>
+      <state>CA</state>
+    </location>
+    <location name="93221">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>36.3090375041</lat>
+      <lon>-119.071993136</lon>
+      <name>Exeter</name>
+      <state>CA</state>
+    </location>
+    <location name="93230">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>36.2920907995</lat>
+      <lon>-119.621130729</lon>
+      <name>Hanford</name>
+      <state>CA</state>
+    </location>
+    <location name="93234">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>36.2878718893</lat>
+      <lon>-120.089623146</lon>
+      <name>Huron</name>
+      <state>CA</state>
+    </location>
+    <location name="93245">
+      <cdi>2.7543</cdi>
+      <nresp>8</nresp>
+      <dist>47</dist>
+      <lat>36.2883154192</lat>
+      <lon>-119.846725147</lon>
+      <name>Lemoore</name>
+      <state>CA</state>
+    </location>
+    <location name="93277">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>36.2996150821</lat>
+      <lon>-119.381711853</lon>
+      <name>Visalia</name>
+      <state>CA</state>
+    </location>
+    <location name="93286">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>36.5310398948</lat>
+      <lon>-119.034347417</lon>
+      <name>Woodlake</name>
+      <state>CA</state>
+    </location>
+    <location name="93291">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>36.3901316913</lat>
+      <lon>-119.369413997</lon>
+      <name>Visalia</name>
+      <state>CA</state>
+    </location>
+    <location name="93614">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>37.1993934772</lat>
+      <lon>-119.738284717</lon>
+      <name>Coarsegold</name>
+      <state>CA</state>
+    </location>
+    <location name="93930">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>36.2099928278</lat>
+      <lon>-121.063653651</lon>
+      <name>King City</name>
+      <state>CA</state>
+    </location>
+    <location name="94070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>221</dist>
+      <lat>37.4956177005</lat>
+      <lon>-122.270806784</lon>
+      <name>San Carlos</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>224</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95043">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>36.4869402111</lat>
+      <lon>-120.946780105</lon>
+      <name>Paicines</name>
+      <state>CA</state>
+    </location>
+    <location name="95404">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>313</dist>
+      <lat>38.3832370515</lat>
+      <lon>-122.640583489</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95971">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>412</dist>
+      <lat>39.9086719097</lat>
+      <lon>-121.017117002</lon>
+      <name>Quincy</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

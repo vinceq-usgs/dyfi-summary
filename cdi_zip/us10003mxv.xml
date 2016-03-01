@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Napier::Hawkeʿs Bay::New Zealand">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>-39.49</lat>
+      <lon>176.90</lon>
+      <name>Napier</name>
+    </location>
+    <location name="Pahiatua::Manawatu-Wanganui::New Zealand">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>-40.45</lat>
+      <lon>175.83</lon>
+      <name>Pahiatua</name>
+    </location>
+    <location name="Ratana::Manawatu-Wanganui::New Zealand">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>-40.05</lat>
+      <lon>175.18</lon>
+      <name>Ratana</name>
+    </location>
+    <location name="Wanganui::Manawatu-Wanganui::New Zealand">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>-39.93</lat>
+      <lon>175.03</lon>
+      <name>Wanganui</name>
+    </location>
+    <location name="Eltham::Taranaki::New Zealand">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>227</dist>
+      <lat>-39.43</lat>
+      <lon>174.30</lon>
+      <name>Eltham</name>
+    </location>
+    <location name="New Plymouth::Taranaki::New Zealand">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>268</dist>
+      <lat>-39.06</lat>
+      <lon>174.08</lon>
+      <name>New Plymouth</name>
+    </location>
+    <location name="Lower Hutt::Wellington::New Zealand">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>141</dist>
+      <lat>-41.20</lat>
+      <lon>174.93</lon>
+      <name>Lower Hutt</name>
+    </location>
+    <location name="Masterton::Wellington::New Zealand">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>-40.95</lat>
+      <lon>175.65</lon>
+      <name>Masterton</name>
+    </location>
+    <location name="Upper Hutt::Wellington::New Zealand">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>-41.14</lat>
+      <lon>175.03</lon>
+      <name>Upper Hutt</name>
+    </location>
+    <location name="Wellington::Wellington::New Zealand">
+      <cdi>2.6699</cdi>
+      <nresp>4</nresp>
+      <dist>156</dist>
+      <lat>-41.28</lat>
+      <lon>174.78</lon>
+      <name>Wellington</name>
+    </location>
+  </cdi>
+</cdidata>

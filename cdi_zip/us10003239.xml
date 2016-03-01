@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67045">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>214</dist>
+      <lat>37.8908809431</lat>
+      <lon>-96.3731469181</lon>
+      <name>Eureka</name>
+      <state>KS</state>
+    </location>
+    <location name="72002">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>455</dist>
+      <lat>34.664726859</lat>
+      <lon>-92.5335230992</lon>
+      <name>Alexander</name>
+      <state>AR</state>
+    </location>
+    <location name="73034">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.9284</cdi>
+      <nresp>13</nresp>
+      <dist>13</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.4911</cdi>
+      <nresp>7</nresp>
+      <dist>19</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74077">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>36.1228033078</lat>
+      <lon>-97.0706479473</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74078">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>36.1268891113</lat>
+      <lon>-97.0810412844</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74119">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>36.1416718329</lat>
+      <lon>-95.9891883481</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74869">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>35.6235812204</lat>
+      <lon>-96.8109914285</lon>
+      <name>Sparks</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

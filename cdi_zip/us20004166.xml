@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ljubljana::Osrednjeslovenska::Slovenia">
+      <cdi>2.7194</cdi>
+      <nresp>4</nresp>
+      <dist>81</dist>
+      <lat>46.06</lat>
+      <lon>14.51</lon>
+      <name>Ljubljana</name>
+    </location>
+    <location name="Vrhnika::Osrednjeslovenska::Slovenia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>45.97</lat>
+      <lon>14.29</lon>
+      <name>Vrhnika</name>
+    </location>
+    <location name="Celje::Savinjska::Slovenia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>46.24</lat>
+      <lon>15.27</lon>
+      <name>Celje</name>
+    </location>
+    <location name="Lokovica::Savinjska::Slovenia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>46.36</lat>
+      <lon>15.05</lon>
+      <name>Lokovica</name>
+    </location>
+    <location name="Velenje::Savinjska::Slovenia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>46.37</lat>
+      <lon>15.11</lon>
+      <name>Velenje</name>
+    </location>
+    <location name="Vojnik::Savinjska::Slovenia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>46.29</lat>
+      <lon>15.30</lon>
+      <name>Vojnik</name>
+    </location>
+    <location name="Brestanica::Spodnjeposavska::Slovenia">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>45.98</lat>
+      <lon>15.48</lon>
+      <name>Brestanica</name>
+    </location>
+    <location name="Brežice::Spodnjeposavska::Slovenia">
+      <cdi>4.2084</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>45.90</lat>
+      <lon>15.58</lon>
+      <name>Brežice</name>
+    </location>
+    <location name="Ježdovec::Grad Zagreb::Croatia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>45.78</lat>
+      <lon>15.85</lon>
+      <name>Ježdovec</name>
+    </location>
+    <location name="Zagreb::Grad Zagreb::Croatia">
+      <cdi>2.6340</cdi>
+      <nresp>3</nresp>
+      <dist>36</dist>
+      <lat>45.80</lat>
+      <lon>15.97</lon>
+      <name>Zagreb</name>
+    </location>
+    <location name="Ljubešćica::Varaždin::Croatia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>46.17</lat>
+      <lon>16.38</lon>
+      <name>Ljubešćica</name>
+    </location>
+    <location name="Domaslovec::Zagreb::Croatia">
+      <cdi>5.7201</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>45.80</lat>
+      <lon>15.75</lon>
+      <name>Domaslovec</name>
+    </location>
+    <location name="Dubrava::Zagreb::Croatia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>45.83</lat>
+      <lon>16.06</lon>
+      <name>Dubrava</name>
+    </location>
+  </cdi>
+</cdidata>

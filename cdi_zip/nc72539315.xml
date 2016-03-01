@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94117">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>37.7706446163</lat>
+      <lon>-122.443293351</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>37.7746713921</lat>
+      <lon>-122.275647073</lon>
+      <name>Alameda</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>8</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.7706</cdi>
+      <nresp>17</nresp>
+      <dist>7</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>2.4414</cdi>
+      <nresp>3</nresp>
+      <dist>10</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.3330</cdi>
+      <nresp>3</nresp>
+      <dist>8</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.0543</cdi>
+      <nresp>15</nresp>
+      <dist>6</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94596">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.8884024161</lat>
+      <lon>-122.036464813</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="95192">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>37.3359218342</lat>
+      <lon>-121.881742098</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

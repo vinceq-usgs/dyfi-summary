@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94025">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>37.4463637453</lat>
+      <lon>-122.186041488</lon>
+      <name>Menlo Park</name>
+      <state>CA</state>
+    </location>
+    <location name="94061">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>254</dist>
+      <lat>37.4617485074</lat>
+      <lon>-122.236471123</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+    <location name="94062">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>260</dist>
+      <lat>37.4076638109</lat>
+      <lon>-122.303813288</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

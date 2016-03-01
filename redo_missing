@@ -1,0 +1,19 @@
+#! /usr/bin/perl
+
+use strict;
+use warnings;
+
+my $ciimdir = "/home/shake/ciim3";
+my $cdidir = "/home/shake/PROJECTS/summary/cdi_zip";
+open IN,"missing_cdi.txt"; 
+while (<IN>) {
+  chomp; 
+  my $id=$_; 
+  print "$id:\n"; 
+  my $dest = "$cdidir/$id.xml";
+
+  system("cd $ciimdir; $ciimdir/ciimfast.pl event=$id; cp data/$id/cdi_zip.xml $dest");
+}
+
+  
+

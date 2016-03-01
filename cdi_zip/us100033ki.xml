@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="80112">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>273</dist>
+      <lat>39.5729774632</lat>
+      <lon>-104.857920113</lon>
+      <name>Englewood</name>
+      <state>CO</state>
+    </location>
+    <location name="80922">
+      <cdi>2.6051</cdi>
+      <nresp>1</nresp>
+      <dist>198</dist>
+      <lat>38.8899981261</lat>
+      <lon>-104.700978247</lon>
+      <name>Colorado Springs</name>
+      <state>CO</state>
+    </location>
+    <location name="81082">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>39</dist>
+      <lat>37.1874599954</lat>
+      <lon>-104.496957653</lon>
+      <name>Trinidad</name>
+      <state>CO</state>
+    </location>
+    <location name="81091">
+      <cdi>3.6956</cdi>
+      <nresp>4</nresp>
+      <dist>4</dist>
+      <lat>37.1433427951</lat>
+      <lon>-104.938209368</lon>
+      <name>Weston</name>
+      <state>CO</state>
+    </location>
+    <location name="87740">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>36.789845661</lat>
+      <lon>-104.453259174</lon>
+      <name>Raton</name>
+      <state>NM</state>
+    </location>
+  </cdi>
+</cdidata>

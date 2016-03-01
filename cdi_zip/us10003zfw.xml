@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Muzaffarpur::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>201</dist>
+      <lat>26.13</lat>
+      <lon>85.38</lon>
+      <name>Muzaffarpur</name>
+    </location>
+    <location name="Bhaktapur::Bhaktapur::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>37</dist>
+      <lat>27.67</lat>
+      <lon>85.43</lon>
+      <name>Bhaktapur</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>3.3897</cdi>
+      <nresp>8</nresp>
+      <dist>42</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Dhulikhet::Kavrepalanchok::Nepal">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>27.62</lat>
+      <lon>85.55</lon>
+      <name>Dhulikhet</name>
+    </location>
+    <location name="Panauti::Kavrepalanchok::Nepal">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>27.59</lat>
+      <lon>85.52</lon>
+      <name>Panauti</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>3.4156</cdi>
+      <nresp>4</nresp>
+      <dist>44</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+  </cdi>
+</cdidata>

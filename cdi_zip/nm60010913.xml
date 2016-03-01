@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="37826">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>444</dist>
+      <lat>35.5619595184</lat>
+      <lon>-84.5943471242</lon>
+      <name>Niota</name>
+      <state>TN</state>
+    </location>
+    <location name="38011">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>35.467414863</lat>
+      <lon>-89.7118092531</lon>
+      <name>Brighton</name>
+      <state>TN</state>
+    </location>
+    <location name="63780">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>37.1745565534</lat>
+      <lon>-89.5006892876</lon>
+      <name>Scott City</name>
+      <state>MO</state>
+    </location>
+    <location name="63845">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>36.7207364309</lat>
+      <lon>-89.30389416</lon>
+      <name>East Prairie</name>
+      <state>MO</state>
+    </location>
+    <location name="72717">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>449</dist>
+      <lat>35.8339474356</lat>
+      <lon>-94.4326724382</lon>
+      <name>Canehill</name>
+      <state>AR</state>
+    </location>
+  </cdi>
+</cdidata>

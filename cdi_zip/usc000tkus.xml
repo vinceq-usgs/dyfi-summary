@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="76102">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>491</dist>
+      <lat>32.7588000615</lat>
+      <lon>-97.3290723998</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+    <location name="78624">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>611</dist>
+      <lat>30.3111159803</lat>
+      <lon>-98.8954846565</lon>
+      <name>Fredericksburg</name>
+      <state>TX</state>
+    </location>
+    <location name="79068">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>35.4061331903</lat>
+      <lon>-101.465040808</lon>
+      <name>Panhandle</name>
+      <state>TX</state>
+    </location>
+    <location name="79101">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.2060668347</lat>
+      <lon>-101.839405692</lon>
+      <name>Amarillo</name>
+      <state>TX</state>
+    </location>
+    <location name="79103">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.1741309643</lat>
+      <lon>-101.799688847</lon>
+      <name>Amarillo</name>
+      <state>TX</state>
+    </location>
+    <location name="79104">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>35.2045726966</lat>
+      <lon>-101.784154259</lon>
+      <name>Amarillo</name>
+      <state>TX</state>
+    </location>
+    <location name="79108">
+      <cdi>2.8686</cdi>
+      <nresp>8</nresp>
+      <dist>12</dist>
+      <lat>35.3942957702</lat>
+      <lon>-101.739796316</lon>
+      <name>Amarillo</name>
+      <state>TX</state>
+    </location>
+    <location name="79109">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>35.1662451098</lat>
+      <lon>-101.886172147</lon>
+      <name>Amarillo</name>
+      <state>TX</state>
+    </location>
+    <location name="79111">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>35.2164995542</lat>
+      <lon>-101.688579455</lon>
+      <name>Amarillo</name>
+      <state>TX</state>
+    </location>
+    <location name="79124">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>35.3695498059</lat>
+      <lon>-102.04272284</lon>
+      <name>Amarillo</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

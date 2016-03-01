@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89431">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>39.539893159</lat>
+      <lon>-119.750896727</lon>
+      <name>Sparks</name>
+      <state>NV</state>
+    </location>
+    <location name="89503">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>39.5409651745</lat>
+      <lon>-119.839807904</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89509">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>39.4967358929</lat>
+      <lon>-119.827468458</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89511">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>12</dist>
+      <lat>39.4017977572</lat>
+      <lon>-119.87306756</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89519">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>39.4812247569</lat>
+      <lon>-119.858942136</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89521">
+      <cdi>2.3251</cdi>
+      <nresp>4</nresp>
+      <dist>12</dist>
+      <lat>39.3850735022</lat>
+      <lon>-119.686126294</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89523">
+      <cdi>2.5391</cdi>
+      <nresp>4</nresp>
+      <dist>20</dist>
+      <lat>39.5490517233</lat>
+      <lon>-119.942425913</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="95701">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>39.2411463041</lat>
+      <lon>-120.745244982</lon>
+      <name>Alta</name>
+      <state>CA</state>
+    </location>
+    <location name="95945">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>39.2138541316</lat>
+      <lon>-120.926496583</lon>
+      <name>Grass Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="96161">
+      <cdi>2.3954</cdi>
+      <nresp>3</nresp>
+      <dist>38</dist>
+      <lat>39.331275754</lat>
+      <lon>-120.193978014</lon>
+      <name>Truckee</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

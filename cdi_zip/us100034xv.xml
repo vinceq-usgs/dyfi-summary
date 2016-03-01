@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73077">
+      <cdi>3.6692</cdi>
+      <nresp>3</nresp>
+      <dist>5</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="74055">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>36.2761266346</lat>
+      <lon>-95.8175582945</lon>
+      <name>Owasso</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

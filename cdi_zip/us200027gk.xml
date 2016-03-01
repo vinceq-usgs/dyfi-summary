@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bytom::Śląskie::Poland">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>50.35</lat>
+      <lon>18.91</lon>
+      <name>Bytom</name>
+    </location>
+    <location name="Katowice::Śląskie::Poland">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>50.26</lat>
+      <lon>19.02</lon>
+      <name>Katowice</name>
+    </location>
+    <location name="Ruda Śląska::Śląskie::Poland">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>50.30</lat>
+      <lon>18.88</lon>
+      <name>Ruda Śląska</name>
+    </location>
+    <location name="Tarnowskie Góry::Śląskie::Poland">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>50.46</lat>
+      <lon>18.86</lon>
+      <name>Tarnowskie Góry</name>
+    </location>
+    <location name="Świętochłowice::Śląskie::Poland">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>50.29</lat>
+      <lon>18.94</lon>
+      <name>Świętochłowice</name>
+    </location>
+  </cdi>
+</cdidata>

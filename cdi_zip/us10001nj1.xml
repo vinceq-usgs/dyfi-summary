@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Uruguaiana::Rio Grande do Sul::Brazil">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1698</dist>
+      <lat>-29.77</lat>
+      <lon>-57.09</lon>
+      <name>Uruguaiana</name>
+    </location>
+    <location name="Coihaique::Aisén::Chile">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>1060</dist>
+      <lat>-45.57</lat>
+      <lon>-72.07</lon>
+      <name>Coihaique</name>
+    </location>
+    <location name="Angol::Araucanía::Chile">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>205</dist>
+      <lat>-37.79</lat>
+      <lon>-72.71</lon>
+      <name>Angol</name>
+    </location>
+    <location name="Temuco::Araucanía::Chile">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>306</dist>
+      <lat>-38.73</lat>
+      <lon>-72.58</lon>
+      <name>Temuco</name>
+    </location>
+    <location name="Arauco::Bío Bío::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>-37.25</lat>
+      <lon>-73.32</lon>
+      <name>Arauco</name>
+    </location>
+    <location name="Cabrero::Bío Bío::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>-37.04</lat>
+      <lon>-72.41</lon>
+      <name>Cabrero</name>
+    </location>
+    <location name="Chiguayante::Bío Bío::Chile">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>103</dist>
+      <lat>-36.90</lat>
+      <lon>-73.04</lon>
+      <name>Chiguayante</name>
+    </location>
+    <location name="Chillán::Bío Bío::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>4</nresp>
+      <dist>147</dist>
+      <lat>-36.60</lat>
+      <lon>-72.11</lon>
+      <name>Chillán</name>
+    </location>
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>3.7715</cdi>
+      <nresp>31</nresp>
+      <dist>96</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="Penco::Bío Bío::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>-36.73</lat>
+      <lon>-73.00</lon>
+      <name>Penco</name>
+    </location>
+    <location name="Talcahuano::Bío Bío::Chile">
+      <cdi>3.8853</cdi>
+      <nresp>7</nresp>
+      <dist>84</dist>
+      <lat>-36.74</lat>
+      <lon>-73.13</lon>
+      <name>Talcahuano</name>
+    </location>
+    <location name="Graneros::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>347</dist>
+      <lat>-34.07</lat>
+      <lon>-70.72</lon>
+      <name>Graneros</name>
+    </location>
+    <location name="Cauquenes::Maule::Chile">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>119</dist>
+      <lat>-35.96</lat>
+      <lon>-72.32</lon>
+      <name>Cauquenes</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>400</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

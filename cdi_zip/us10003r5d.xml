@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67156">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>37.2468518161</lat>
+      <lon>-96.9651090421</lon>
+      <name>Winfield</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73072">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>35.2154624134</lat>
+      <lon>-97.4942440373</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="74017">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>36.3934747275</lat>
+      <lon>-95.5741682638</lon>
+      <name>Claremore</name>
+      <state>OK</state>
+    </location>
+    <location name="74020">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>36.2409919596</lat>
+      <lon>-96.4652056739</lon>
+      <name>Cleveland</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

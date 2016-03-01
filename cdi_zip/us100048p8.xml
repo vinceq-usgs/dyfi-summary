@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Tarakan::Kalimantan Timur::Indonesia">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>31</dist>
+      <lat>3.28</lat>
+      <lon>117.62</lon>
+      <name>Tarakan</name>
+    </location>
+    <location name="Tawau::Sabah::Malaysia">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>83</dist>
+      <lat>4.26</lat>
+      <lon>117.88</lon>
+      <name>Tawau</name>
+    </location>
+  </cdi>
+</cdidata>

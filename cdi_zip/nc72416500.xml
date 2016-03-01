@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93514">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>37.4762712635</lat>
+      <lon>-118.400747511</lon>
+      <name>Bishop</name>
+      <state>CA</state>
+    </location>
+    <location name="93546">
+      <cdi>3.0916</cdi>
+      <nresp>21</nresp>
+      <dist>5</dist>
+      <lat>37.6583157092</lat>
+      <lon>-118.898845011</lon>
+      <name>Mammoth Lakes</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>269</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95006">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>289</dist>
+      <lat>37.1708196502</lat>
+      <lon>-122.150500522</lon>
+      <name>Boulder Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="95033">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>273</dist>
+      <lat>37.1494113728</lat>
+      <lon>-121.96286758</lon>
+      <name>Los Gatos</name>
+      <state>CA</state>
+    </location>
+    <location name="95624">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>224</dist>
+      <lat>38.4398676521</lat>
+      <lon>-121.298438199</lon>
+      <name>Elk Grove</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

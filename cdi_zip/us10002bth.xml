@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Acapulco::Guerrero::Mexico">
+      <cdi>3.9690</cdi>
+      <nresp>4</nresp>
+      <dist>60</dist>
+      <lat>16.85</lat>
+      <lon>-99.92</lon>
+      <name>Acapulco</name>
+    </location>
+    <location name="Coatepec (San Bartolomé Coatepec)::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>267</dist>
+      <lat>19.39</lat>
+      <lon>-99.31</lon>
+      <name>Coatepec (San Bartolomé Coatepec)</name>
+    </location>
+    <location name="Naucalpan::México::Mexico">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>278</dist>
+      <lat>19.48</lat>
+      <lon>-99.23</lon>
+      <name>Naucalpan</name>
+    </location>
+  </cdi>
+</cdidata>

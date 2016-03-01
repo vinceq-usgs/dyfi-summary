@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94043">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>37.4186501185</lat>
+      <lon>-122.076805997</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94121">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.7798657144</lat>
+      <lon>-122.494688449</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94520">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>38.0188740799</lat>
+      <lon>-122.040302233</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94597">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.9181539053</lat>
+      <lon>-122.071327156</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94598">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>37.9057818419</lat>
+      <lon>-122.003612069</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

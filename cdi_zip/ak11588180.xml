@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99577">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+    <location name="99686">
+      <cdi>2.8299</cdi>
+      <nresp>7</nresp>
+      <dist>49</dist>
+      <lat>61.1344805164</lat>
+      <lon>-146.855877507</lon>
+      <name>Valdez</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

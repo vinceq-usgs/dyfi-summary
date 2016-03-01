@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98019">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>47.7383688224</lat>
+      <lon>-121.793995905</lon>
+      <name>Duvall</name>
+      <state>WA</state>
+    </location>
+    <location name="98045">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>47.4516538059</lat>
+      <lon>-121.604044606</lon>
+      <name>North Bend</name>
+      <state>WA</state>
+    </location>
+    <location name="98119">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>47.6388850773</lat>
+      <lon>-122.368991303</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98125">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>47.7168864011</lat>
+      <lon>-122.303535509</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98178">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>47.4964308247</lat>
+      <lon>-122.250881271</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98252">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>48.0476821412</lat>
+      <lon>-121.699701314</lon>
+      <name>Granite Falls</name>
+      <state>WA</state>
+    </location>
+    <location name="98260">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>48.0290125947</lat>
+      <lon>-122.447159264</lon>
+      <name>Langley</name>
+      <state>WA</state>
+    </location>
+    <location name="98272">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>20</dist>
+      <lat>47.8507669496</lat>
+      <lon>-121.888920286</lon>
+      <name>Monroe</name>
+      <state>WA</state>
+    </location>
+    <location name="98294">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>34</dist>
+      <lat>47.875835406</lat>
+      <lon>-121.452270172</lon>
+      <name>Sultan</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

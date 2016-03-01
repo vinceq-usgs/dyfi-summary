@@ -1,0 +1,59 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91980">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>32.587148665</lat>
+      <lon>-116.660721601</lon>
+      <name>Tecate</name>
+      <state>CA</state>
+    </location>
+    <location name="92020">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>32.7964990772</lat>
+      <lon>-116.97049349</lon>
+      <name>El Cajon</name>
+      <state>CA</state>
+    </location>
+    <location name="92040">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>32.9132430478</lat>
+      <lon>-116.882406668</lon>
+      <name>Lakeside</name>
+      <state>CA</state>
+    </location>
+    <location name="92121">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>32.8981065391</lat>
+      <lon>-117.201573296</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92590">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>33.4790358909</lat>
+      <lon>-117.218646445</lon>
+      <name>Temecula</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="La Joya::Baja California::Mexico">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>32.44</lat>
+      <lon>-117.01</lon>
+      <name>La Joya</name>
+    </location>
+  </cdi>
+</cdidata>

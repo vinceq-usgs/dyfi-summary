@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Narita::Chiba::Japan">
+      <cdi>3.3345</cdi>
+      <nresp>3</nresp>
+      <dist>490</dist>
+      <lat>35.79</lat>
+      <lon>140.32</lon>
+      <name>Narita</name>
+    </location>
+    <location name="Iwaki::Fukushima::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>348</dist>
+      <lat>37.05</lat>
+      <lon>140.88</lon>
+      <name>Iwaki</name>
+    </location>
+    <location name="Kōriyama::Fukushima::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>351</dist>
+      <lat>37.41</lat>
+      <lon>140.38</lon>
+      <name>Kōriyama</name>
+    </location>
+    <location name="Hitachi::Ibaraki::Japan">
+      <cdi>4.2084</cdi>
+      <nresp>2</nresp>
+      <dist>400</dist>
+      <lat>36.59</lat>
+      <lon>140.66</lon>
+      <name>Hitachi</name>
+    </location>
+    <location name="Ishioka::Ibaraki::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>456</dist>
+      <lat>36.19</lat>
+      <lon>140.28</lon>
+      <name>Ishioka</name>
+    </location>
+    <location name="Kasama::Ibaraki::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>441</dist>
+      <lat>36.38</lat>
+      <lon>140.25</lon>
+      <name>Kasama</name>
+    </location>
+    <location name="Mito::Ibaraki::Japan">
+      <cdi>4.2084</cdi>
+      <nresp>2</nresp>
+      <dist>429</dist>
+      <lat>36.38</lat>
+      <lon>140.47</lon>
+      <name>Mito</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>3.9617</cdi>
+      <nresp>8</nresp>
+      <dist>469</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Tsukuba::Ibaraki::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>465</dist>
+      <lat>36.21</lat>
+      <lon>140.09</lon>
+      <name>Tsukuba</name>
+    </location>
+    <location name="Morioka::Iwate::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>39.70</lat>
+      <lon>141.15</lon>
+      <name>Morioka</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>5</nresp>
+      <dist>448</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+  </cdi>
+</cdidata>

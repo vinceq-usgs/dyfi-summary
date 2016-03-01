@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94080">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>37.65477424</lat>
+      <lon>-122.422257321</lon>
+      <name>South San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94109">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>37.7930720881</lat>
+      <lon>-122.421238911</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94115">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>37.7858951001</lat>
+      <lon>-122.437453444</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94507">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>37.8529789211</lat>
+      <lon>-122.00597462</lon>
+      <name>Alamo</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.7394</cdi>
+      <nresp>7</nresp>
+      <dist>9</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94528">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>37.8407215059</lat>
+      <lon>-121.959886078</lon>
+      <name>Diablo</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94577">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>37.7165921385</lat>
+      <lon>-122.164549051</lon>
+      <name>San Leandro</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>11</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.3980</cdi>
+      <nresp>30</nresp>
+      <dist>10</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94588">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>37.6895558211</lat>
+      <lon>-121.896794754</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="95054">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>37.3933177105</lat>
+      <lon>-121.96494896</lon>
+      <name>Santa Clara</name>
+      <state>CA</state>
+    </location>
+    <location name="95112">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>37.3449260065</lat>
+      <lon>-121.883622921</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

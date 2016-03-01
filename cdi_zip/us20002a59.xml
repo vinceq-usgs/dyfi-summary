@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Barabazar::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>655</dist>
+      <lat>22.57</lat>
+      <lon>88.35</lon>
+      <name>Barabazar</name>
+    </location>
+    <location name="Nangloi Jat::Delhi::India">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>824</dist>
+      <lat>28.68</lat>
+      <lon>77.07</lon>
+      <name>Nangloi Jat</name>
+    </location>
+    <location name="Tigri::Delhi::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>808</dist>
+      <lat>28.50</lat>
+      <lon>77.22</lon>
+      <name>Tigri</name>
+    </location>
+    <location name="Ghughuli::Uttar Pradesh::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>27.05</lat>
+      <lon>83.72</lon>
+      <name>Ghughuli</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>459</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Lalitpur::Uttar Pradesh::India">
+      <cdi>3.2213</cdi>
+      <nresp>1</nresp>
+      <dist>782</dist>
+      <lat>24.70</lat>
+      <lon>78.41</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Nepālgānj::Banke::Nepal">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>374</dist>
+      <lat>28.07</lat>
+      <lon>81.62</lon>
+      <name>Nepālgānj</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>2.7935</cdi>
+      <nresp>9</nresp>
+      <dist>18</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2.8163</cdi>
+      <nresp>6</nresp>
+      <dist>21</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>3.2873</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Banepa::Kavrepalanchok::Nepal">
+      <cdi>6.0521</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>27.63</lat>
+      <lon>85.52</lon>
+      <name>Banepa</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>2.6051</cdi>
+      <nresp>10</nresp>
+      <dist>24</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Biratnagar::Morang::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>240</dist>
+      <lat>26.46</lat>
+      <lon>87.28</lon>
+      <name>Biratnagar</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67218">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73034">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73069">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>35.2483008817</lat>
+      <lon>-97.462346545</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73077">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="73112">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>35.5185814398</lat>
+      <lon>-97.5743746682</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>4</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+    <location name="75039">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>379</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>3.6156</cdi>
+      <nresp>1</nresp>
+      <dist>380</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

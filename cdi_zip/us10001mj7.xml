@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Almaty::Almaty::Kazakhstan">
+      <cdi>3.4121</cdi>
+      <nresp>23</nresp>
+      <dist>37</dist>
+      <lat>43.32</lat>
+      <lon>76.92</lon>
+      <name>Almaty</name>
+    </location>
+    <location name="Boralday::Almaty::Kazakhstan">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>38</dist>
+      <lat>43.33</lat>
+      <lon>76.83</lon>
+      <name>Boralday</name>
+    </location>
+    <location name="TalÄŸar::Almaty::Kazakhstan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>43.31</lat>
+      <lon>77.24</lon>
+      <name>TalÄŸar</name>
+    </location>
+    <location name="BiÅŸkek::BiÅŸkek::Kyrgyzstan">
+      <cdi>3.2394</cdi>
+      <nresp>2</nresp>
+      <dist>193</dist>
+      <lat>42.87</lat>
+      <lon>74.57</lon>
+      <name>BiÅŸkek</name>
+    </location>
+  </cdi>
+</cdidata>

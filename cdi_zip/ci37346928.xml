@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90056">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>33.9930841621</lat>
+      <lon>-118.373733934</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90720">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>33.7955870521</lat>
+      <lon>-118.063760537</lon>
+      <name>Los Alamitos</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>88</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="90805">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>33.8648577567</lat>
+      <lon>-118.180811967</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91106">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>34.1390483935</lat>
+      <lon>-118.127607218</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91326">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>34.2803763282</lat>
+      <lon>-118.556109263</lon>
+      <name>Porter Ranch</name>
+      <state>CA</state>
+    </location>
+    <location name="91354">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>34.4521642042</lat>
+      <lon>-118.552668811</lon>
+      <name>Valencia</name>
+      <state>CA</state>
+    </location>
+    <location name="91355">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>34.4226337105</lat>
+      <lon>-118.60635349</lon>
+      <name>Valencia</name>
+      <state>CA</state>
+    </location>
+    <location name="91381">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>34.3679523558</lat>
+      <lon>-118.613157367</lon>
+      <name>Stevenson Ranch</name>
+      <state>CA</state>
+    </location>
+    <location name="91384">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>19</dist>
+      <lat>34.5546931053</lat>
+      <lon>-118.644418086</lon>
+      <name>Castaic</name>
+      <state>CA</state>
+    </location>
+    <location name="92780">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>33.7357343502</lat>
+      <lon>-117.819201202</lon>
+      <name>Tustin</name>
+      <state>CA</state>
+    </location>
+    <location name="92835">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>33.9020736449</lat>
+      <lon>-117.915301138</lon>
+      <name>Fullerton</name>
+      <state>CA</state>
+    </location>
+    <location name="93021">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>34.3089429465</lat>
+      <lon>-118.864533809</lon>
+      <name>Moorpark</name>
+      <state>CA</state>
+    </location>
+    <location name="93065">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>34.2835466325</lat>
+      <lon>-118.769317054</lon>
+      <name>Simi Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>466</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95030">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>422</dist>
+      <lat>37.2248970392</lat>
+      <lon>-121.991046295</lon>
+      <name>Los Gatos</name>
+      <state>CA</state>
+    </location>
+    <location name="95070">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>428</dist>
+      <lat>37.2553258487</lat>
+      <lon>-122.048765195</lon>
+      <name>Saratoga</name>
+      <state>CA</state>
+    </location>
+    <location name="95134">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>435</dist>
+      <lat>37.4293950999</lat>
+      <lon>-121.945839019</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

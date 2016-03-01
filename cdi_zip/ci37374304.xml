@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90034">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>34.0306792567</lat>
+      <lon>-118.399508404</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90045">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>33.9530946364</lat>
+      <lon>-118.401227411</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90232">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>34.0179145665</lat>
+      <lon>-118.391987459</lon>
+      <name>Culver City</name>
+      <state>CA</state>
+    </location>
+    <location name="90280">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>33.9444101031</lat>
+      <lon>-118.192014098</lon>
+      <name>South Gate</name>
+      <state>CA</state>
+    </location>
+    <location name="91739">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>34.135237188</lat>
+      <lon>-117.525563436</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="92284">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>34.1720242491</lat>
+      <lon>-116.468234152</lon>
+      <name>Yucca Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92315">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>34.2483705249</lat>
+      <lon>-116.915145265</lon>
+      <name>Big Bear Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="92536">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>33.4826564916</lat>
+      <lon>-116.808015903</lon>
+      <name>Aguanga</name>
+      <state>CA</state>
+    </location>
+    <location name="92672">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>33.3967264913</lat>
+      <lon>-117.553883921</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

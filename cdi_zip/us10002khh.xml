@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>203</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>4.2978</cdi>
+      <nresp>3</nresp>
+      <dist>279</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>281</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+  </cdi>
+</cdidata>

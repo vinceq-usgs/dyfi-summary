@@ -1,0 +1,184 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>237</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="91932">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>187</dist>
+      <lat>32.5792910279</lat>
+      <lon>-117.117642618</lon>
+      <name>Imperial Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92103">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>178</dist>
+      <lat>32.7473427343</lat>
+      <lon>-117.166839699</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92201">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>33.707623363</lat>
+      <lon>-116.234525355</lon>
+      <name>Indio</name>
+      <state>CA</state>
+    </location>
+    <location name="92203">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>51</dist>
+      <lat>33.7517583205</lat>
+      <lon>-116.241723548</lon>
+      <name>Indio</name>
+      <state>CA</state>
+    </location>
+    <location name="92211">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>59</dist>
+      <lat>33.7642960411</lat>
+      <lon>-116.330157044</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92234">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>33.8157080121</lat>
+      <lon>-116.466479106</lon>
+      <name>Cathedral City</name>
+      <state>CA</state>
+    </location>
+    <location name="92239">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>33</dist>
+      <lat>33.7797374549</lat>
+      <lon>-115.356006235</lon>
+      <name>Desert Center</name>
+      <state>CA</state>
+    </location>
+    <location name="92252">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>34.1566779859</lat>
+      <lon>-116.288023465</lon>
+      <name>Joshua Tree</name>
+      <state>CA</state>
+    </location>
+    <location name="92262">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>81</dist>
+      <lat>33.8625160663</lat>
+      <lon>-116.56832194</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92270">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>67</dist>
+      <lat>33.7671512149</lat>
+      <lon>-116.422775835</lon>
+      <name>Rancho Mirage</name>
+      <state>CA</state>
+    </location>
+    <location name="92277">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>48</dist>
+      <lat>34.1987854155</lat>
+      <lon>-115.76081204</lon>
+      <name>Twentynine Palms</name>
+      <state>CA</state>
+    </location>
+    <location name="92373">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>34.0045321458</lat>
+      <lon>-117.152819255</lon>
+      <name>Redlands</name>
+      <state>CA</state>
+    </location>
+    <location name="92407">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>34.1726036158</lat>
+      <lon>-117.308551982</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92408">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>34.0845095549</lat>
+      <lon>-117.26370311</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92505">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>33.9341559414</lat>
+      <lon>-117.495019802</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92536">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>33.4826564916</lat>
+      <lon>-116.808015903</lon>
+      <name>Aguanga</name>
+      <state>CA</state>
+    </location>
+    <location name="92545">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>33.732725009</lat>
+      <lon>-117.043277134</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="93003">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>329</dist>
+      <lat>34.2789920855</lat>
+      <lon>-119.218580733</lon>
+      <name>Ventura</name>
+      <state>CA</state>
+    </location>
+    <location name="93657">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>477</dist>
+      <lat>36.8134237005</lat>
+      <lon>-119.413224411</lon>
+      <name>Sanger</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

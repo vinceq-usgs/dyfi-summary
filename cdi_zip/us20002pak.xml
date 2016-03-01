@@ -1,0 +1,63 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96799">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>298</dist>
+      <lat>-14.31</lat>
+      <lon>-170.70</lon>
+      <name>AMERICAN SAMOA</name>
+      <state>AS</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Apia::Apia Urban Area::Samoa">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>251</dist>
+      <lat>-13.83</lat>
+      <lon>-171.76</lon>
+      <name>Apia</name>
+    </location>
+    <location name="Talimatau::North West Upolu::Samoa">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>249</dist>
+      <lat>-13.83</lat>
+      <lon>-171.79</lon>
+      <name>Talimatau</name>
+    </location>
+    <location name="Puapua::Savaii::Samoa">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>253</dist>
+      <lat>-13.58</lat>
+      <lon>-172.22</lon>
+      <name>Puapua</name>
+    </location>
+    <location name="Neiafu::Vavaʿu::Tonga">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>344</dist>
+      <lat>-18.64</lat>
+      <lon>-173.99</lon>
+      <name>Neiafu</name>
+    </location>
+    <location name="Lauliʿi::Eastern::American Samoa">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>302</dist>
+      <lat>-14.31</lat>
+      <lon>-170.66</lon>
+      <name>Lauliʿi</name>
+    </location>
+    <location name="Alofi::_no region::Niue">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>501</dist>
+      <lat>-19.05</lat>
+      <lon>-169.92</lon>
+      <name>Alofi</name>
+    </location>
+  </cdi>
+</cdidata>

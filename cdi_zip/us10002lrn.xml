@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73007">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>11</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>4.6491</cdi>
+      <nresp>9</nresp>
+      <dist>8</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>4.5529</cdi>
+      <nresp>5</nresp>
+      <dist>14</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73049">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>21</dist>
+      <lat>35.5848257111</lat>
+      <lon>-97.2955576644</lon>
+      <name>Jones</name>
+      <state>OK</state>
+    </location>
+    <location name="73054">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>35.6691143696</lat>
+      <lon>-97.191976607</lon>
+      <name>Luther</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74055">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>153</dist>
+      <lat>36.2761266346</lat>
+      <lon>-95.8175582945</lon>
+      <name>Owasso</name>
+      <state>OK</state>
+    </location>
+    <location name="74112">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>141</dist>
+      <lat>36.1467733009</lat>
+      <lon>-95.9042716241</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

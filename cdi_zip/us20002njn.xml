@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Narita::Chiba::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>74</dist>
+      <lat>35.79</lat>
+      <lon>140.32</lon>
+      <name>Narita</name>
+    </location>
+    <location name="Yachiyo::Chiba::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>35.74</lat>
+      <lon>140.10</lon>
+      <name>Yachiyo</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>93</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+  </cdi>
+</cdidata>

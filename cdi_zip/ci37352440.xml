@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93240">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>19</dist>
+      <lat>35.6234517282</lat>
+      <lon>-118.423102127</lon>
+      <name>Lake Isabella</name>
+      <state>CA</state>
+    </location>
+    <location name="93255">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.6591843647</lat>
+      <lon>-118.118172137</lon>
+      <name>Onyx</name>
+      <state>CA</state>
+    </location>
+    <location name="93283">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>35.5004711689</lat>
+      <lon>-118.216893814</lon>
+      <name>Weldon</name>
+      <state>CA</state>
+    </location>
+    <location name="93285">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>32</dist>
+      <lat>35.6343940349</lat>
+      <lon>-118.590125358</lon>
+      <name>Wofford Heights</name>
+      <state>CA</state>
+    </location>
+    <location name="93555">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>74</dist>
+      <lat>35.6917311746</lat>
+      <lon>-117.449167256</lon>
+      <name>Ridgecrest</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

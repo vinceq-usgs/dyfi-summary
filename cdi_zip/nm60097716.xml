@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="38024">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>36.052983465</lat>
+      <lon>-89.4302167243</lon>
+      <name>Dyersburg</name>
+      <state>TN</state>
+    </location>
+    <location name="38103">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>169</dist>
+      <lat>35.1531300717</lat>
+      <lon>-90.0524322514</lon>
+      <name>Memphis</name>
+      <state>TN</state>
+    </location>
+    <location name="38242">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>36.3052947983</lat>
+      <lon>-88.3313468913</lon>
+      <name>Paris</name>
+      <state>TN</state>
+    </location>
+    <location name="47906">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>484</dist>
+      <lat>40.4856150822</lat>
+      <lon>-86.9842257616</lon>
+      <name>West Lafayette</name>
+      <state>IN</state>
+    </location>
+    <location name="63862">
+      <cdi>3.1847</cdi>
+      <nresp>4</nresp>
+      <dist>11</dist>
+      <lat>36.5917165848</lat>
+      <lon>-89.648795741</lon>
+      <name>Lilbourn</name>
+      <state>MO</state>
+    </location>
+    <location name="63867">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>36.7634876948</lat>
+      <lon>-89.554894432</lon>
+      <name>Matthews</name>
+      <state>MO</state>
+    </location>
+    <location name="63869">
+      <cdi>2.9801</cdi>
+      <nresp>7</nresp>
+      <dist>13</dist>
+      <lat>36.6282046896</lat>
+      <lon>-89.5028230406</lon>
+      <name>New Madrid</name>
+      <state>MO</state>
+    </location>
+  </cdi>
+</cdidata>

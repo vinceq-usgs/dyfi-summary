@@ -1,0 +1,124 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2.5391</cdi>
+      <nresp>4</nresp>
+      <dist>349</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>704</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="Coquimbo::Coquimbo::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>89</dist>
+      <lat>-29.96</lat>
+      <lon>-71.33</lon>
+      <name>Coquimbo</name>
+    </location>
+    <location name="Illapel::Coquimbo::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>-31.63</lat>
+      <lon>-71.17</lon>
+      <name>Illapel</name>
+    </location>
+    <location name="La Serena::Coquimbo::Chile">
+      <cdi>3.8122</cdi>
+      <nresp>4</nresp>
+      <dist>95</dist>
+      <lat>-29.90</lat>
+      <lon>-71.25</lon>
+      <name>La Serena</name>
+    </location>
+    <location name="Ovalle::Coquimbo::Chile">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>49</dist>
+      <lat>-30.59</lat>
+      <lon>-71.20</lon>
+      <name>Ovalle</name>
+    </location>
+    <location name="Vicuña::Coquimbo::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>-30.03</lat>
+      <lon>-70.74</lon>
+      <name>Vicuña</name>
+    </location>
+    <location name="Machalí::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>400</dist>
+      <lat>-34.18</lat>
+      <lon>-70.67</lon>
+      <name>Machalí</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>3.1488</cdi>
+      <nresp>9</nresp>
+      <dist>322</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Limache::Valparaíso::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>267</dist>
+      <lat>-33.02</lat>
+      <lon>-71.27</lon>
+      <name>Limache</name>
+    </location>
+    <location name="Los Andes::Valparaíso::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>257</dist>
+      <lat>-32.83</lat>
+      <lon>-70.60</lon>
+      <name>Los Andes</name>
+    </location>
+    <location name="San Felipe::Valparaíso::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>245</dist>
+      <lat>-32.75</lat>
+      <lon>-70.72</lon>
+      <name>San Felipe</name>
+    </location>
+    <location name="Valparaíso::Valparaíso::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>270</dist>
+      <lat>-33.04</lat>
+      <lon>-71.64</lon>
+      <name>Valparaíso</name>
+    </location>
+    <location name="Villa Alemana::Valparaíso::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>269</dist>
+      <lat>-33.04</lat>
+      <lon>-71.36</lon>
+      <name>Villa Alemana</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>266</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

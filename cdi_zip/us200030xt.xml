@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Machalí::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>-34.18</lat>
+      <lon>-70.67</lon>
+      <name>Machalí</name>
+    </location>
+    <location name="Rancagua::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>-34.17</lat>
+      <lon>-70.74</lon>
+      <name>Rancagua</name>
+    </location>
+    <location name="Rengo::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>-34.41</lat>
+      <lon>-70.87</lon>
+      <name>Rengo</name>
+    </location>
+    <location name="Curicó::Maule::Chile">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>67</dist>
+      <lat>-34.98</lat>
+      <lon>-71.24</lon>
+      <name>Curicó</name>
+    </location>
+    <location name="Talca::Maule::Chile">
+      <cdi>4.5936</cdi>
+      <nresp>2</nresp>
+      <dist>67</dist>
+      <lat>-35.42</lat>
+      <lon>-71.66</lon>
+      <name>Talca</name>
+    </location>
+    <location name="Lampa::Metropolitana::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>209</dist>
+      <lat>-33.28</lat>
+      <lon>-70.90</lon>
+      <name>Lampa</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.6699</cdi>
+      <nresp>8</nresp>
+      <dist>203</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95008">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>7</dist>
+      <lat>37.2799654858</lat>
+      <lon>-121.954633222</lon>
+      <name>Campbell</name>
+      <state>CA</state>
+    </location>
+    <location name="95014">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>37.3039888075</lat>
+      <lon>-122.094907446</lon>
+      <name>Cupertino</name>
+      <state>CA</state>
+    </location>
+    <location name="95030">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>37.2248970392</lat>
+      <lon>-121.991046295</lon>
+      <name>Los Gatos</name>
+      <state>CA</state>
+    </location>
+    <location name="95032">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>37.2152832761</lat>
+      <lon>-121.929411862</lon>
+      <name>Los Gatos</name>
+      <state>CA</state>
+    </location>
+    <location name="95070">
+      <cdi>2.8939</cdi>
+      <nresp>8</nresp>
+      <dist>7</dist>
+      <lat>37.2553258487</lat>
+      <lon>-122.048765195</lon>
+      <name>Saratoga</name>
+      <state>CA</state>
+    </location>
+    <location name="95129">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>8</dist>
+      <lat>37.3058892635</lat>
+      <lon>-122.00172322</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95130">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>7</dist>
+      <lat>37.2813311083</lat>
+      <lon>-121.977808985</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

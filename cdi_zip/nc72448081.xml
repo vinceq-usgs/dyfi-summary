@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94103">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>183</dist>
+      <lat>37.7731288064</lat>
+      <lon>-122.411274893</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94602">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>173</dist>
+      <lat>37.8041177031</lat>
+      <lon>-122.207451284</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95360">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>37.2933399001</lat>
+      <lon>-121.236192604</lon>
+      <name>Newman</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

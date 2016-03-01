@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67003">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>9</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="75287">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>477</dist>
+      <lat>33.000371384</lat>
+      <lon>-96.8411012061</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,193 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90036">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>34.0703685748</lat>
+      <lon>-118.350101858</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90650">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>101</dist>
+      <lat>33.9069637577</lat>
+      <lon>-118.082817796</lon>
+      <name>Norwalk</name>
+      <state>CA</state>
+    </location>
+    <location name="90806">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>33.8049302098</lat>
+      <lon>-118.189212697</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91304">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>34.2240325986</lat>
+      <lon>-118.63324204</lon>
+      <name>Canoga Park</name>
+      <state>CA</state>
+    </location>
+    <location name="91335">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>34.2013216277</lat>
+      <lon>-118.540688744</lon>
+      <name>Reseda</name>
+      <state>CA</state>
+    </location>
+    <location name="92003">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.2847089706</lat>
+      <lon>-117.199972079</lon>
+      <name>Bonsall</name>
+      <state>CA</state>
+    </location>
+    <location name="92025">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>33.0847126692</lat>
+      <lon>-117.025800674</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92027">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>33.1372772456</lat>
+      <lon>-116.984677345</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92028">
+      <cdi>2.8026</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>33.4048723722</lat>
+      <lon>-117.251406715</lon>
+      <name>Fallbrook</name>
+      <state>CA</state>
+    </location>
+    <location name="92029">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>31</dist>
+      <lat>33.0815006348</lat>
+      <lon>-117.132313979</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92036">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>32.9446829288</lat>
+      <lon>-116.378860094</lon>
+      <name>Julian</name>
+      <state>CA</state>
+    </location>
+    <location name="92056">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>33.2014758499</lat>
+      <lon>-117.289315772</lon>
+      <name>Oceanside</name>
+      <state>CA</state>
+    </location>
+    <location name="92057">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>33.2521805922</lat>
+      <lon>-117.290325245</lon>
+      <name>Oceanside</name>
+      <state>CA</state>
+    </location>
+    <location name="92069">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>33.1754164396</lat>
+      <lon>-117.157534283</lon>
+      <name>San Marcos</name>
+      <state>CA</state>
+    </location>
+    <location name="92126">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>32.9124891876</lat>
+      <lon>-117.143006881</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92127">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>33.02303349</lat>
+      <lon>-117.122244895</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92128">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>41</dist>
+      <lat>32.9965451015</lat>
+      <lon>-117.07283537</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92129">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>32.9681310703</lat>
+      <lon>-117.127669786</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92592">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>33.5072014251</lat>
+      <lon>-117.013060513</lon>
+      <name>Temecula</name>
+      <state>CA</state>
+    </location>
+    <location name="92672">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>33.3967264913</lat>
+      <lon>-117.553883921</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+    <location name="92677">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>33.5268306463</lat>
+      <lon>-117.704124458</lon>
+      <name>Laguna Niguel</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

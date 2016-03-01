@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="San Francisco de Macorís::Duarte::Dominican Republic">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>19.30</lat>
+      <lon>-70.25</lon>
+      <name>San Francisco de Macorís</name>
+    </location>
+    <location name="Don Juan::Monte Plata::Dominican Republic">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>18.83</lat>
+      <lon>-69.95</lon>
+      <name>Don Juan</name>
+    </location>
+    <location name="Samaná::Samaná::Dominican Republic">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>19.21</lat>
+      <lon>-69.33</lon>
+      <name>Samaná</name>
+    </location>
+    <location name="San Pedro de Macorís::San Pedro de Macorís::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>18.46</lat>
+      <lon>-69.31</lon>
+      <name>San Pedro de Macorís</name>
+    </location>
+    <location name="Santo Domingo::Santo Domingo::Dominican Republic">
+      <cdi>2.4761</cdi>
+      <nresp>15</nresp>
+      <dist>122</dist>
+      <lat>18.48</lat>
+      <lon>-69.91</lon>
+      <name>Santo Domingo</name>
+    </location>
+    <location name="Fantino::Sánchez Ramírez::Dominican Republic">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>19.12</lat>
+      <lon>-70.30</lon>
+      <name>Fantino</name>
+    </location>
+  </cdi>
+</cdidata>

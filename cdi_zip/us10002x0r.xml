@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Lanquín::Alta Verapaz::Guatemala">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>239</dist>
+      <lat>15.57</lat>
+      <lon>-89.97</lon>
+      <name>Lanquín</name>
+    </location>
+    <location name="Chinautla::Guatemala::Guatemala">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>14.70</lat>
+      <lon>-90.50</lon>
+      <name>Chinautla</name>
+    </location>
+    <location name="Guatemala::Guatemala::Guatemala">
+      <cdi>3.2962</cdi>
+      <nresp>11</nresp>
+      <dist>132</dist>
+      <lat>14.63</lat>
+      <lon>-90.55</lon>
+      <name>Guatemala</name>
+    </location>
+    <location name="Mixco::Guatemala::Guatemala">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>14.64</lat>
+      <lon>-90.60</lon>
+      <name>Mixco</name>
+    </location>
+    <location name="Santa Catarina Pinula::Guatemala::Guatemala">
+      <cdi>3.3888</cdi>
+      <nresp>10</nresp>
+      <dist>134</dist>
+      <lat>14.57</lat>
+      <lon>-90.50</lon>
+      <name>Santa Catarina Pinula</name>
+    </location>
+    <location name="Villa Nueva::Guatemala::Guatemala">
+      <cdi>3.3345</cdi>
+      <nresp>3</nresp>
+      <dist>124</dist>
+      <lat>14.53</lat>
+      <lon>-90.59</lon>
+      <name>Villa Nueva</name>
+    </location>
+    <location name="Olintepeque::Quezaltenango::Guatemala">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>14.83</lat>
+      <lon>-91.52</lon>
+      <name>Olintepeque</name>
+    </location>
+    <location name="Antigua Guatemala::Sacatepéquez::Guatemala">
+      <cdi>3.3926</cdi>
+      <nresp>9</nresp>
+      <dist>113</dist>
+      <lat>14.56</lat>
+      <lon>-90.74</lon>
+      <name>Antigua Guatemala</name>
+    </location>
+    <location name="Ciudad Vieja::Sacatepéquez::Guatemala">
+      <cdi>4.7710</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>14.52</lat>
+      <lon>-90.77</lon>
+      <name>Ciudad Vieja</name>
+    </location>
+    <location name="San Antonio Aguas Calientes::Sacatepéquez::Guatemala">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>14.54</lat>
+      <lon>-90.77</lon>
+      <name>San Antonio Aguas Calientes</name>
+    </location>
+    <location name="Panajachel::Sololá::Guatemala">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>99</dist>
+      <lat>14.73</lat>
+      <lon>-91.15</lon>
+      <name>Panajachel</name>
+    </location>
+    <location name="San Pablo la Laguna::Sololá::Guatemala">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>14.72</lat>
+      <lon>-91.27</lon>
+      <name>San Pablo la Laguna</name>
+    </location>
+    <location name="San Pedro la Laguna::Sololá::Guatemala">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>14.68</lat>
+      <lon>-91.27</lon>
+      <name>San Pedro la Laguna</name>
+    </location>
+    <location name="Mazatenango::Suchitepéquez::Guatemala">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>14.53</lat>
+      <lon>-91.51</lon>
+      <name>Mazatenango</name>
+    </location>
+  </cdi>
+</cdidata>

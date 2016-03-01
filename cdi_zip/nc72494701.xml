@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93402">
+      <cdi>2.4888</cdi>
+      <nresp>26</nresp>
+      <dist>15</dist>
+      <lat>35.2867781419</lat>
+      <lon>-120.828224515</lon>
+      <name>Los Osos</name>
+      <state>CA</state>
+    </location>
+    <location name="93422">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>35.461913417</lat>
+      <lon>-120.681063363</lon>
+      <name>Atascadero</name>
+      <state>CA</state>
+    </location>
+    <location name="93428">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>35.5833958464</lat>
+      <lon>-121.019668707</lon>
+      <name>Cambria</name>
+      <state>CA</state>
+    </location>
+    <location name="93442">
+      <cdi>3.2646</cdi>
+      <nresp>5</nresp>
+      <dist>20</dist>
+      <lat>35.4034865503</lat>
+      <lon>-120.800373375</lon>
+      <name>Morro Bay</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

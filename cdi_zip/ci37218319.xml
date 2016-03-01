@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92624">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>33.4590413155</lat>
+      <lon>-117.665961286</lon>
+      <name>Capistrano Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92629">
+      <cdi>3.4498</cdi>
+      <nresp>5</nresp>
+      <dist>13</dist>
+      <lat>33.4772374635</lat>
+      <lon>-117.704990098</lon>
+      <name>Dana Point</name>
+      <state>CA</state>
+    </location>
+    <location name="92653">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>33.5924974021</lat>
+      <lon>-117.698979129</lon>
+      <name>Laguna Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="92672">
+      <cdi>2.5465</cdi>
+      <nresp>5</nresp>
+      <dist>16</dist>
+      <lat>33.3967264913</lat>
+      <lon>-117.553883921</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+    <location name="92673">
+      <cdi>2.2854</cdi>
+      <nresp>6</nresp>
+      <dist>13</dist>
+      <lat>33.466341879</lat>
+      <lon>-117.61159134</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+    <location name="92675">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>33.5654728325</lat>
+      <lon>-117.545246342</lon>
+      <name>San Juan Capistrano</name>
+      <state>CA</state>
+    </location>
+    <location name="92677">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>33.5268306463</lat>
+      <lon>-117.704124458</lon>
+      <name>Laguna Niguel</name>
+      <state>CA</state>
+    </location>
+    <location name="92692">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>33.6099134265</lat>
+      <lon>-117.643124217</lon>
+      <name>Mission Viejo</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,139 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67401">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>294</dist>
+      <lat>38.8387587166</lat>
+      <lon>-97.6335856895</lon>
+      <name>Salina</name>
+      <state>KS</state>
+    </location>
+    <location name="73013">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="74006">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>36.7104634151</lat>
+      <lon>-95.8836624984</lon>
+      <name>Bartlesville</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74039">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>35.8975629435</lat>
+      <lon>-96.2394512563</lon>
+      <name>Kellyville</name>
+      <state>OK</state>
+    </location>
+    <location name="74041">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>35.9374093139</lat>
+      <lon>-96.0543354157</lon>
+      <name>Kiefer</name>
+      <state>OK</state>
+    </location>
+    <location name="74063">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>36.1018895691</lat>
+      <lon>-96.2093090001</lon>
+      <name>Sand Springs</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74120">
+      <cdi>2.9502</cdi>
+      <nresp>3</nresp>
+      <dist>135</dist>
+      <lat>36.1500754484</lat>
+      <lon>-95.9765243594</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74133">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>36.0413422515</lat>
+      <lon>-95.8789406288</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74136">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>36.0617672231</lat>
+      <lon>-95.9409568667</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

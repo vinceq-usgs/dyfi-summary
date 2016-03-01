@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96717">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>379</dist>
+      <lat>21.571722474</lat>
+      <lon>-157.91020622</lon>
+      <name>Hauula</name>
+      <state>HI</state>
+    </location>
+    <location name="96734">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>353</dist>
+      <lat>21.3883955492</lat>
+      <lon>-157.750912686</lon>
+      <name>Kailua</name>
+      <state>HI</state>
+    </location>
+    <location name="96744">
+      <cdi>2.3093</cdi>
+      <nresp>4</nresp>
+      <dist>363</dist>
+      <lat>21.4415317346</lat>
+      <lon>-157.832554065</lon>
+      <name>Kaneohe</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

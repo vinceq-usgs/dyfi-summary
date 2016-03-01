@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90740">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>431</dist>
+      <lat>33.7545406192</lat>
+      <lon>-118.07125351</lon>
+      <name>Seal Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="93601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>37.3797346559</lat>
+      <lon>-119.740886748</lon>
+      <name>Ahwahnee</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>252</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94611">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>254</dist>
+      <lat>37.8308833038</lat>
+      <lon>-122.215136936</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95125">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>224</dist>
+      <lat>37.2949823535</lat>
+      <lon>-121.893341858</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95695">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>255</dist>
+      <lat>38.6921573977</lat>
+      <lon>-121.855632552</lon>
+      <name>Woodland</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

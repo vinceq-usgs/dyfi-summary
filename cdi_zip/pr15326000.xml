@@ -1,0 +1,346 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00601">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>18.1796692485</lat>
+      <lon>-66.7540953053</lon>
+      <name>Adjuntas</name>
+      <state>PR</state>
+    </location>
+    <location name="00612">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>18.4061979827</lat>
+      <lon>-66.675316799</lon>
+      <name>Arecibo</name>
+      <state>PR</state>
+    </location>
+    <location name="00617">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>18.4342621794</lat>
+      <lon>-66.5600419186</lon>
+      <name>Barceloneta</name>
+      <state>PR</state>
+    </location>
+    <location name="00624">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>18.0610706643</lat>
+      <lon>-66.721154746</lon>
+      <name>Penuelas</name>
+      <state>PR</state>
+    </location>
+    <location name="00627">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>18.4189233736</lat>
+      <lon>-66.8600472083</lon>
+      <name>Camuy</name>
+      <state>PR</state>
+    </location>
+    <location name="00638">
+      <cdi>3.5503</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>18.2889050433</lat>
+      <lon>-66.5163697106</lon>
+      <name>Ciales</name>
+      <state>PR</state>
+    </location>
+    <location name="00641">
+      <cdi>2.3954</cdi>
+      <nresp>5</nresp>
+      <dist>21</dist>
+      <lat>18.2707670336</lat>
+      <lon>-66.7021720457</lon>
+      <name>Utuado</name>
+      <state>PR</state>
+    </location>
+    <location name="00650">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>18.3619157697</lat>
+      <lon>-66.5603319038</lon>
+      <name>Florida</name>
+      <state>PR</state>
+    </location>
+    <location name="00656">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>18.0408931916</lat>
+      <lon>-66.791469909</lon>
+      <name>Guayanilla</name>
+      <state>PR</state>
+    </location>
+    <location name="00664">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>18.2108602059</lat>
+      <lon>-66.5884724104</lon>
+      <name>Jayuya</name>
+      <state>PR</state>
+    </location>
+    <location name="00669">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>18.3018364611</lat>
+      <lon>-66.8664247433</lon>
+      <name>Lares</name>
+      <state>PR</state>
+    </location>
+    <location name="00670">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>41</dist>
+      <lat>18.2372533431</lat>
+      <lon>-66.9836283205</lon>
+      <name>Las Marias</name>
+      <state>PR</state>
+    </location>
+    <location name="00674">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>18.420415868</lat>
+      <lon>-66.4902176562</lon>
+      <name>Manati</name>
+      <state>PR</state>
+    </location>
+    <location name="00676">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>18.3781557254</lat>
+      <lon>-67.0807626381</lon>
+      <name>Moca</name>
+      <state>PR</state>
+    </location>
+    <location name="00677">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>18.335347221</lat>
+      <lon>-67.2314943601</lon>
+      <name>Rincon</name>
+      <state>PR</state>
+    </location>
+    <location name="00680">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>18.2067568953</lat>
+      <lon>-67.1009458832</lon>
+      <name>Mayaguez</name>
+      <state>PR</state>
+    </location>
+    <location name="00683">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>18.1112271076</lat>
+      <lon>-67.0384089212</lon>
+      <name>San German</name>
+      <state>PR</state>
+    </location>
+    <location name="00692">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>18.4091519613</lat>
+      <lon>-66.3371560151</lon>
+      <name>Vega Alta</name>
+      <state>PR</state>
+    </location>
+    <location name="00693">
+      <cdi>2.1883</cdi>
+      <nresp>2</nresp>
+      <dist>36</dist>
+      <lat>18.4281657842</lat>
+      <lon>-66.3979569889</lon>
+      <name>Vega Baja</name>
+      <state>PR</state>
+    </location>
+    <location name="00698">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>18.0796477318</lat>
+      <lon>-66.8587877646</lon>
+      <name>Yauco</name>
+      <state>PR</state>
+    </location>
+    <location name="00716">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>42</dist>
+      <lat>17.9631987148</lat>
+      <lon>-66.616081483</lon>
+      <name>Ponce</name>
+      <state>PR</state>
+    </location>
+    <location name="00718">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>18.230654056</lat>
+      <lon>-65.7543013342</lon>
+      <name>Naguabo</name>
+      <state>PR</state>
+    </location>
+    <location name="00725">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>18.1607126113</lat>
+      <lon>-66.0582950033</lon>
+      <name>Caguas</name>
+      <state>PR</state>
+    </location>
+    <location name="00730">
+      <cdi>2.3330</cdi>
+      <nresp>2</nresp>
+      <dist>35</dist>
+      <lat>18.0298557557</lat>
+      <lon>-66.6181988414</lon>
+      <name>Ponce</name>
+      <state>PR</state>
+    </location>
+    <location name="00731">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>18.1042045213</lat>
+      <lon>-66.6255667445</lon>
+      <name>Ponce</name>
+      <state>PR</state>
+    </location>
+    <location name="00778">
+      <cdi>3.0152</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>18.2663998679</lat>
+      <lon>-65.9789926099</lon>
+      <name>Gurabo</name>
+      <state>PR</state>
+    </location>
+    <location name="00780">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>33</dist>
+      <lat>18.0696413231</lat>
+      <lon>-66.5644068861</lon>
+      <name>Coto Laurel</name>
+      <state>PR</state>
+    </location>
+    <location name="00783">
+      <cdi>3.3462</cdi>
+      <nresp>4</nresp>
+      <dist>39</dist>
+      <lat>18.3041984622</lat>
+      <lon>-66.3281310116</lon>
+      <name>Corozal</name>
+      <state>PR</state>
+    </location>
+    <location name="00924">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>18.3971940581</lat>
+      <lon>-66.0100295485</lon>
+      <name>San Juan</name>
+      <state>PR</state>
+    </location>
+    <location name="00926">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>65</dist>
+      <lat>18.346948383</lat>
+      <lon>-66.0600355894</lon>
+      <name>San Juan</name>
+      <state>PR</state>
+    </location>
+    <location name="00927">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>18.3886182429</lat>
+      <lon>-66.0721750395</lon>
+      <name>San Juan</name>
+      <state>PR</state>
+    </location>
+    <location name="00949">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>18.431047366</lat>
+      <lon>-66.216024127</lon>
+      <name>Toa Baja</name>
+      <state>PR</state>
+    </location>
+    <location name="00956">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>18.3222476453</lat>
+      <lon>-66.1698318091</lon>
+      <name>Bayamon</name>
+      <state>PR</state>
+    </location>
+    <location name="00961">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>18.4109980454</lat>
+      <lon>-66.1592611273</lon>
+      <name>Bayamon</name>
+      <state>PR</state>
+    </location>
+    <location name="00965">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>18.4290647096</lat>
+      <lon>-66.1192121958</lon>
+      <name>Guaynabo</name>
+      <state>PR</state>
+    </location>
+    <location name="00966">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>18.3963867436</lat>
+      <lon>-66.1154262074</lon>
+      <name>Guaynabo</name>
+      <state>PR</state>
+    </location>
+    <location name="00969">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>18.3295220408</lat>
+      <lon>-66.1138816262</lon>
+      <name>Guaynabo</name>
+      <state>PR</state>
+    </location>
+    <location name="00976">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>18.3360917453</lat>
+      <lon>-65.9988087376</lon>
+      <name>Trujillo Alto</name>
+      <state>PR</state>
+    </location>
+  </cdi>
+</cdidata>

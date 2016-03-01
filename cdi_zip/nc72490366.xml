@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94015">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>37.6808059301</lat>
+      <lon>-122.480422578</lon>
+      <name>Daly City</name>
+      <state>CA</state>
+    </location>
+    <location name="94566">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>37.6457318049</lat>
+      <lon>-121.852881407</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94607">
+      <cdi>3.0152</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>37.808279628</lat>
+      <lon>-122.298285049</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95404">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>38.3832370515</lat>
+      <lon>-122.640583489</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95436">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>38.4927530343</lat>
+      <lon>-122.913172205</lon>
+      <name>Forestville</name>
+      <state>CA</state>
+    </location>
+    <location name="95461">
+      <cdi>2.0372</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>38.7666137401</lat>
+      <lon>-122.613153731</lon>
+      <name>Middletown</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

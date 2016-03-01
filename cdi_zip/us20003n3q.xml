@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chippenham::England::United Kingdom">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>169</dist>
+      <lat>51.47</lat>
+      <lon>-2.13</lon>
+      <name>Chippenham</name>
+    </location>
+    <location name="Oakham::England::United Kingdom">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>5</dist>
+      <lat>52.67</lat>
+      <lon>-0.72</lon>
+      <name>Oakham</name>
+    </location>
+    <location name="Oundle::England::United Kingdom">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>52.48</lat>
+      <lon>-0.47</lon>
+      <name>Oundle</name>
+    </location>
+    <location name="Peterborough::England::United Kingdom">
+      <cdi>3.2754</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>52.59</lat>
+      <lon>-0.25</lon>
+      <name>Peterborough</name>
+    </location>
+    <location name="Stamford::England::United Kingdom">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>52.66</lat>
+      <lon>-0.49</lon>
+      <name>Stamford</name>
+    </location>
+    <location name="Uppingham::England::United Kingdom">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>52.58</lat>
+      <lon>-0.72</lon>
+      <name>Uppingham</name>
+    </location>
+    <location name="Aberystwyth::Wales::United Kingdom">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>232</dist>
+      <lat>52.42</lat>
+      <lon>-4.09</lon>
+      <name>Aberystwyth</name>
+    </location>
+  </cdi>
+</cdidata>

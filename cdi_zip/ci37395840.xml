@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90035">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>34.0517930945</lat>
+      <lon>-118.383658114</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90043">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>33.9887240668</lat>
+      <lon>-118.335094215</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="92109">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>272</dist>
+      <lat>32.7913554996</lat>
+      <lon>-117.233551045</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="94520">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>464</dist>
+      <lat>38.0188740799</lat>
+      <lon>-122.040302233</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94549">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>461</dist>
+      <lat>37.9011071203</lat>
+      <lon>-122.117193174</lon>
+      <name>Lafayette</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

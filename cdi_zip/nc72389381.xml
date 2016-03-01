@@ -1,0 +1,229 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94015">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>335</dist>
+      <lat>37.6808059301</lat>
+      <lon>-122.480422578</lon>
+      <name>Daly City</name>
+      <state>CA</state>
+    </location>
+    <location name="94043">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>378</dist>
+      <lat>37.4186501185</lat>
+      <lon>-122.076805997</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94044">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>342</dist>
+      <lat>37.6045298737</lat>
+      <lon>-122.482164108</lon>
+      <name>Pacifica</name>
+      <state>CA</state>
+    </location>
+    <location name="94080">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>340</dist>
+      <lat>37.65477424</lat>
+      <lon>-122.422257321</lon>
+      <name>South San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94108">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>328</dist>
+      <lat>37.7917397401</lat>
+      <lon>-122.408525971</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94109">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>327</dist>
+      <lat>37.7930720881</lat>
+      <lon>-122.421238911</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94114">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>330</dist>
+      <lat>37.7580539375</lat>
+      <lon>-122.435742305</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94115">
+      <cdi>2.3954</cdi>
+      <nresp>4</nresp>
+      <dist>327</dist>
+      <lat>37.7858951001</lat>
+      <lon>-122.437453444</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94116">
+      <cdi>2.1791</cdi>
+      <nresp>14</nresp>
+      <dist>329</dist>
+      <lat>37.7446010014</lat>
+      <lon>-122.48655692</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94117">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>328</dist>
+      <lat>37.7706446163</lat>
+      <lon>-122.443293351</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94118">
+      <cdi>2.1470</cdi>
+      <nresp>8</nresp>
+      <dist>326</dist>
+      <lat>37.7818712131</lat>
+      <lon>-122.461211306</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94121">
+      <cdi>2.3954</cdi>
+      <nresp>8</nresp>
+      <dist>325</dist>
+      <lat>37.7798657144</lat>
+      <lon>-122.494688449</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94122">
+      <cdi>2.2630</cdi>
+      <nresp>10</nresp>
+      <dist>327</dist>
+      <lat>37.7628768326</lat>
+      <lon>-122.485058175</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94123">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>326</dist>
+      <lat>37.8007843899</lat>
+      <lon>-122.436373624</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94127">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>331</dist>
+      <lat>37.7353467968</lat>
+      <lon>-122.459866554</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94129">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>324</dist>
+      <lat>37.797382798</lat>
+      <lon>-122.466377464</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94131">
+      <cdi>2.4261</cdi>
+      <nresp>6</nresp>
+      <dist>330</dist>
+      <lat>37.7461749716</lat>
+      <lon>-122.443755472</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94132">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>331</dist>
+      <lat>37.7218737448</lat>
+      <lon>-122.486382201</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94133">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>326</dist>
+      <lat>37.8037830638</lat>
+      <lon>-122.411291997</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94134">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>334</dist>
+      <lat>37.7190494948</lat>
+      <lon>-122.411619072</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94403">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>356</dist>
+      <lat>37.5381557686</lat>
+      <lon>-122.304679264</lon>
+      <name>San Mateo</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>351</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94605">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>343</dist>
+      <lat>37.7602447192</lat>
+      <lon>-122.148766398</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94610">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>334</dist>
+      <lat>37.8120934987</lat>
+      <lon>-122.240580761</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94949">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>296</dist>
+      <lat>38.0651159903</lat>
+      <lon>-122.539965535</lon>
+      <name>Novato</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

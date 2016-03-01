@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Jalal Abad::Nangarhār::Afghanistan">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>331</dist>
+      <lat>34.44</lat>
+      <lon>70.44</lon>
+      <name>Jalal Abad</name>
+    </location>
+    <location name="Islamabad::Federal Capital Area::Pakistan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>425</dist>
+      <lat>33.72</lat>
+      <lon>73.06</lon>
+      <name>Islamabad</name>
+    </location>
+    <location name="Attock::Punjab::Pakistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>397</dist>
+      <lat>33.78</lat>
+      <lon>72.36</lon>
+      <name>Attock</name>
+    </location>
+    <location name="Wah::Punjab::Pakistan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>410</dist>
+      <lat>33.77</lat>
+      <lon>72.75</lon>
+      <name>Wah</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kashiwa::Chiba::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>35.87</lat>
+      <lon>139.97</lon>
+      <name>Kashiwa</name>
+    </location>
+    <location name="Isesaki::Gumma::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>36.32</lat>
+      <lon>139.20</lon>
+      <name>Isesaki</name>
+    </location>
+    <location name="Maebashi::Gumma::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>36.39</lat>
+      <lon>139.06</lon>
+      <name>Maebashi</name>
+    </location>
+    <location name="Toride::Ibaraki::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>35.90</lat>
+      <lon>140.07</lon>
+      <name>Toride</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>52</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Gyōda::Saitama::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>36.14</lat>
+      <lon>139.47</lon>
+      <name>Gyōda</name>
+    </location>
+    <location name="Kasukabe::Saitama::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>35.98</lat>
+      <lon>139.77</lon>
+      <name>Kasukabe</name>
+    </location>
+    <location name="Kawaguchi::Saitama::Japan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>56</dist>
+      <lat>35.81</lat>
+      <lon>139.73</lon>
+      <name>Kawaguchi</name>
+    </location>
+    <location name="Saitama::Saitama::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>35.87</lat>
+      <lon>139.64</lon>
+      <name>Saitama</name>
+    </location>
+    <location name="Toda::Saitama::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>35.82</lat>
+      <lon>139.68</lon>
+      <name>Toda</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>75</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+    <location name="Chōfu::Tokio::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>35.65</lat>
+      <lon>139.55</lon>
+      <name>Chōfu</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>64</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94533">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>85</dist>
+      <lat>38.2800278927</lat>
+      <lon>-122.014736855</lon>
+      <name>Fairfield</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94925">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>37.9228182129</lat>
+      <lon>-122.512545747</lon>
+      <name>Corte Madera</name>
+      <state>CA</state>
+    </location>
+    <location name="95472">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>38.3966316165</lat>
+      <lon>-122.867666863</lon>
+      <name>Sebastopol</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

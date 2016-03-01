@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92870">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>418</dist>
+      <lat>33.8808887078</lat>
+      <lon>-117.855285664</lon>
+      <name>Placentia</name>
+      <state>CA</state>
+    </location>
+    <location name="93514">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>37.4762712635</lat>
+      <lon>-118.400747511</lon>
+      <name>Bishop</name>
+      <state>CA</state>
+    </location>
+    <location name="93546">
+      <cdi>2.2128</cdi>
+      <nresp>4</nresp>
+      <dist>13</dist>
+      <lat>37.6583157092</lat>
+      <lon>-118.898845011</lon>
+      <name>Mammoth Lakes</name>
+      <state>CA</state>
+    </location>
+    <location name="94402">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>306</dist>
+      <lat>37.5154816701</lat>
+      <lon>-122.329756499</lon>
+      <name>San Mateo</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>277</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

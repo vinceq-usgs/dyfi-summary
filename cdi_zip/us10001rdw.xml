@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cairo::Kairo::Egypt">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>765</dist>
+      <lat>30.06</lat>
+      <lon>31.25</lon>
+      <name>Cairo</name>
+    </location>
+    <location name="Marsa Matruh, Matruh::Matrūh::Egypt">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>493</dist>
+      <lat>31.35</lat>
+      <lon>27.23</lon>
+      <name>Marsa Matruh, Matruh</name>
+    </location>
+    <location name="Kardámaina::Dodekánisos::Greece">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>36.78</lat>
+      <lon>27.14</lon>
+      <name>Kardámaina</name>
+    </location>
+    <location name="Lárdos::Dodekánisos::Greece">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>36.10</lat>
+      <lon>28.02</lon>
+      <name>Lárdos</name>
+    </location>
+    <location name="Ródos::Dodekánisos::Greece">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>36.44</lat>
+      <lon>28.22</lon>
+      <name>Ródos</name>
+    </location>
+    <location name="Réthimnon::Rethímni::Greece">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>35.36</lat>
+      <lon>24.47</lon>
+      <name>Réthimnon</name>
+    </location>
+  </cdi>
+</cdidata>

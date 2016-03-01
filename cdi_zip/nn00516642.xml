@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89423">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>39.0094510924</lat>
+      <lon>-119.562086354</lon>
+      <name>Minden</name>
+      <state>NV</state>
+    </location>
+    <location name="89701">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>39.1385469539</lat>
+      <lon>-119.660049201</lon>
+      <name>Carson City</name>
+      <state>NV</state>
+    </location>
+    <location name="89703">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>39.1519162257</lat>
+      <lon>-119.844046285</lon>
+      <name>Carson City</name>
+      <state>NV</state>
+    </location>
+    <location name="89706">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>39.1659952628</lat>
+      <lon>-119.547075036</lon>
+      <name>Carson City</name>
+      <state>NV</state>
+    </location>
+    <location name="95223">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>38.3924064649</lat>
+      <lon>-120.173258375</lon>
+      <name>Arnold</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

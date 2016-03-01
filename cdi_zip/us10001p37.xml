@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="81082">
+      <cdi>2.3954</cdi>
+      <nresp>3</nresp>
+      <dist>39</dist>
+      <lat>37.1874599954</lat>
+      <lon>-104.496957653</lon>
+      <name>Trinidad</name>
+      <state>CO</state>
+    </location>
+    <location name="87740">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>28</dist>
+      <lat>36.789845661</lat>
+      <lon>-104.453259174</lon>
+      <name>Raton</name>
+      <state>NM</state>
+    </location>
+  </cdi>
+</cdidata>

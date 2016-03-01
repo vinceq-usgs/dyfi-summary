@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chatan::Okinawa::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>60</dist>
+      <lat>26.30</lat>
+      <lon>127.76</lon>
+      <name>Chatan</name>
+    </location>
+    <location name="Ginowan::Okinawa::Japan">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>58</dist>
+      <lat>26.30</lat>
+      <lon>127.79</lon>
+      <name>Ginowan</name>
+    </location>
+    <location name="Haebaru::Okinawa::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>26.34</lat>
+      <lon>127.88</lon>
+      <name>Haebaru</name>
+    </location>
+    <location name="Okinawa::Okinawa::Japan">
+      <cdi>2.0372</cdi>
+      <nresp>3</nresp>
+      <dist>57</dist>
+      <lat>26.34</lat>
+      <lon>127.79</lon>
+      <name>Okinawa</name>
+    </location>
+    <location name="Yomitan::Okinawa::Japan">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>61</dist>
+      <lat>26.39</lat>
+      <lon>127.73</lon>
+      <name>Yomitan</name>
+    </location>
+  </cdi>
+</cdidata>

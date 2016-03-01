@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67216">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>37.6082148038</lat>
+      <lon>-97.314056177</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67349">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>37.5105124861</lat>
+      <lon>-96.2252791528</lon>
+      <name>Howard</name>
+      <state>KS</state>
+    </location>
+    <location name="73044">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

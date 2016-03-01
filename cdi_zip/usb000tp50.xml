@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="73128">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>35.4498148466</lat>
+      <lon>-97.6468981516</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+    <location name="74646">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>36.8248349564</lat>
+      <lon>-97.4278661269</lon>
+      <name>Nardin</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

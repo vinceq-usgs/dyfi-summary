@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96727">
+      <cdi>3.2754</cdi>
+      <nresp>4</nresp>
+      <dist>20</dist>
+      <lat>20.0606169257</lat>
+      <lon>-155.542666088</lon>
+      <name>Honokaa</name>
+      <state>HI</state>
+    </location>
+    <location name="96738">
+      <cdi>2.8392</cdi>
+      <nresp>12</nresp>
+      <dist>25</dist>
+      <lat>19.9278736268</lat>
+      <lon>-155.809803675</lon>
+      <name>Waikoloa</name>
+      <state>HI</state>
+    </location>
+    <location name="96740">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>19.7409901702</lat>
+      <lon>-155.898323017</lon>
+      <name>Kailua Kona</name>
+      <state>HI</state>
+    </location>
+    <location name="96743">
+      <cdi>2.6513</cdi>
+      <nresp>17</nresp>
+      <dist>21</dist>
+      <lat>19.931537941</lat>
+      <lon>-155.724082526</lon>
+      <name>Kamuela</name>
+      <state>HI</state>
+    </location>
+    <location name="96763">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>20.8350892538</lat>
+      <lon>-156.927103328</lon>
+      <name>Lanai City</name>
+      <state>HI</state>
+    </location>
+    <location name="96776">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>19.801926795</lat>
+      <lon>-155.525904156</lon>
+      <name>Paauilo</name>
+      <state>HI</state>
+    </location>
+    <location name="96786">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>296</dist>
+      <lat>21.508496516</lat>
+      <lon>-158.026119938</lon>
+      <name>Wahiawa</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

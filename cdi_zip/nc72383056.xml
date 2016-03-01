@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95066">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>355</dist>
+      <lat>37.0739284951</lat>
+      <lon>-122.01083177</lon>
+      <name>Scotts Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95901">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>39.189320091</lat>
+      <lon>-121.481230042</lon>
+      <name>Marysville</name>
+      <state>CA</state>
+    </location>
+    <location name="95947">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>40.1780003086</lat>
+      <lon>-120.887963583</lon>
+      <name>Greenville</name>
+      <state>CA</state>
+    </location>
+    <location name="96020">
+      <cdi>2.7334</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>40.2714139928</lat>
+      <lon>-121.292870802</lon>
+      <name>Chester</name>
+      <state>CA</state>
+    </location>
+    <location name="96114">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>40.1741150966</lat>
+      <lon>-120.576387624</lon>
+      <name>Janesville</name>
+      <state>CA</state>
+    </location>
+    <location name="96130">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>40.5309886595</lat>
+      <lon>-120.631579437</lon>
+      <name>Susanville</name>
+      <state>CA</state>
+    </location>
+    <location name="96137">
+      <cdi>2.7751</cdi>
+      <nresp>7</nresp>
+      <dist>11</dist>
+      <lat>40.2842914898</lat>
+      <lon>-121.088551847</lon>
+      <name>Westwood</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

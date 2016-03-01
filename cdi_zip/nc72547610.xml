@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94510">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>379</dist>
+      <lat>38.0889049703</lat>
+      <lon>-122.122779438</lon>
+      <name>Benicia</name>
+      <state>CA</state>
+    </location>
+    <location name="95501">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>116</dist>
+      <lat>40.7953313015</lat>
+      <lon>-124.153385167</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95503">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>40.7119988087</lat>
+      <lon>-124.097405236</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95521">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>127</dist>
+      <lat>40.8495303628</lat>
+      <lon>-124.03465378</lon>
+      <name>Arcata</name>
+      <state>CA</state>
+    </location>
+    <location name="95524">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>40.8177871597</lat>
+      <lon>-124.033303581</lon>
+      <name>Bayside</name>
+      <state>CA</state>
+    </location>
+    <location name="95536">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>98</dist>
+      <lat>40.4647699382</lat>
+      <lon>-124.250835346</lon>
+      <name>Ferndale</name>
+      <state>CA</state>
+    </location>
+    <location name="95542">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>40.1168241031</lat>
+      <lon>-123.868356562</lon>
+      <name>Garberville</name>
+      <state>CA</state>
+    </location>
+    <location name="95558">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>40.2881620643</lat>
+      <lon>-124.221826337</lon>
+      <name>Petrolia</name>
+      <state>CA</state>
+    </location>
+    <location name="95564">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>40.7928855156</lat>
+      <lon>-124.203746168</lon>
+      <name>Samoa</name>
+      <state>CA</state>
+    </location>
+    <location name="95569">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>40.3487497295</lat>
+      <lon>-123.880422284</lon>
+      <name>Redcrest</name>
+      <state>CA</state>
+    </location>
+    <location name="95589">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>125</dist>
+      <lat>40.0406855713</lat>
+      <lon>-123.994740274</lon>
+      <name>Whitethorn</name>
+      <state>CA</state>
+    </location>
+    <location name="95928">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>314</dist>
+      <lat>39.7083647369</lat>
+      <lon>-121.81537199</lon>
+      <name>Chico</name>
+      <state>CA</state>
+    </location>
+    <location name="96001">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>40.598019567</lat>
+      <lon>-122.46979591</lon>
+      <name>Redding</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="CopiapÃ³::Atacama::Chile">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>143</dist>
+      <lat>-27.36</lat>
+      <lon>-70.34</lon>
+      <name>CopiapÃ³</name>
+    </location>
+    <location name="Vallenar::Atacama::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>-28.57</lat>
+      <lon>-70.76</lon>
+      <name>Vallenar</name>
+    </location>
+    <location name="Calera::ValparaÃ­so::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>560</dist>
+      <lat>-32.79</lat>
+      <lon>-71.19</lon>
+      <name>Calera</name>
+    </location>
+    <location name="Villa Alemana::ValparaÃ­so::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>587</dist>
+      <lat>-33.04</lat>
+      <lon>-71.36</lon>
+      <name>Villa Alemana</name>
+    </location>
+  </cdi>
+</cdidata>

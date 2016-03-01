@@ -1,0 +1,184 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="97068">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>45.352157379</lat>
+      <lon>-122.668856893</lon>
+      <name>West Linn</name>
+      <state>OR</state>
+    </location>
+    <location name="97071">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>45.1371919145</lat>
+      <lon>-122.832058691</lon>
+      <name>Woodburn</name>
+      <state>OR</state>
+    </location>
+    <location name="97109">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>45.73775104</lat>
+      <lon>-123.205861746</lon>
+      <name>Buxton</name>
+      <state>OR</state>
+    </location>
+    <location name="97116">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>57</dist>
+      <lat>45.683484856</lat>
+      <lon>-123.272300488</lon>
+      <name>Forest Grove</name>
+      <state>OR</state>
+    </location>
+    <location name="97123">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>45.4423422024</lat>
+      <lon>-122.981528795</lon>
+      <name>Hillsboro</name>
+      <state>OR</state>
+    </location>
+    <location name="97124">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>65</dist>
+      <lat>45.5713571483</lat>
+      <lon>-122.946731352</lon>
+      <name>Hillsboro</name>
+      <state>OR</state>
+    </location>
+    <location name="97128">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>62</dist>
+      <lat>45.196304818</lat>
+      <lon>-123.263868131</lon>
+      <name>McMinnville</name>
+      <state>OR</state>
+    </location>
+    <location name="97140">
+      <cdi>2.5168</cdi>
+      <nresp>3</nresp>
+      <dist>70</dist>
+      <lat>45.3544009301</lat>
+      <lon>-122.864353846</lon>
+      <name>Sherwood</name>
+      <state>OR</state>
+    </location>
+    <location name="97141">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>45.4698209501</lat>
+      <lon>-123.668876425</lon>
+      <name>Tillamook</name>
+      <state>OR</state>
+    </location>
+    <location name="97144">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>45.742854698</lat>
+      <lon>-123.343891033</lon>
+      <name>Timber</name>
+      <state>OR</state>
+    </location>
+    <location name="97148">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>45.3601821769</lat>
+      <lon>-123.312026074</lon>
+      <name>Yamhill</name>
+      <state>OR</state>
+    </location>
+    <location name="97201">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>78</dist>
+      <lat>45.5076946703</lat>
+      <lon>-122.689844813</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97205">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>45.5176808111</lat>
+      <lon>-122.702422613</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97215">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>45.5140463841</lat>
+      <lon>-122.598939364</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97219">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>77</dist>
+      <lat>45.4538233839</lat>
+      <lon>-122.6999909</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97223">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>45.4404066139</lat>
+      <lon>-122.778227909</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97229">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>72</dist>
+      <lat>45.5524424332</lat>
+      <lon>-122.804513614</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97232">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>45.5289401988</lat>
+      <lon>-122.643659351</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="98607">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>45.6422585005</lat>
+      <lon>-122.383558951</lon>
+      <name>Camas</name>
+      <state>WA</state>
+    </location>
+    <location name="98671">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>45.6734578609</lat>
+      <lon>-122.198229487</lon>
+      <name>Washougal</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

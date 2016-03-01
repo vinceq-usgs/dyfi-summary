@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="92637">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>33.608307622</lat>
+      <lon>-117.729864769</lon>
+      <name>Laguna Woods</name>
+      <state>CA</state>
+    </location>
+    <location name="93205">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>35.5765635098</lat>
+      <lon>-118.491399265</lon>
+      <name>Bodfish</name>
+      <state>CA</state>
+    </location>
+    <location name="93240">
+      <cdi>2.7334</cdi>
+      <nresp>8</nresp>
+      <dist>16</dist>
+      <lat>35.6234517282</lat>
+      <lon>-118.423102127</lon>
+      <name>Lake Isabella</name>
+      <state>CA</state>
+    </location>
+    <location name="93283">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>35.5004711689</lat>
+      <lon>-118.216893814</lon>
+      <name>Weldon</name>
+      <state>CA</state>
+    </location>
+    <location name="93518">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>14</dist>
+      <lat>35.3593329864</lat>
+      <lon>-118.446845255</lon>
+      <name>Caliente</name>
+      <state>CA</state>
+    </location>
+    <location name="93551">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>34.5951350338</lat>
+      <lon>-118.222061274</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+    <location name="93561">
+      <cdi>2.6912</cdi>
+      <nresp>4</nresp>
+      <dist>37</dist>
+      <lat>35.1543335043</lat>
+      <lon>-118.504210742</lon>
+      <name>Tehachapi</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

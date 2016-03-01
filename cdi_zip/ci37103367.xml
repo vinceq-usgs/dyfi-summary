@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="85281">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>384</dist>
+      <lat>33.4279860146</lat>
+      <lon>-111.932644658</lon>
+      <name>Tempe</name>
+      <state>AZ</state>
+    </location>
+    <location name="90601">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>34.001435927</lat>
+      <lon>-118.02951616</lon>
+      <name>Whittier</name>
+      <state>CA</state>
+    </location>
+    <location name="90621">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>33.8749461731</lat>
+      <lon>-117.993215582</lon>
+      <name>Buena Park</name>
+      <state>CA</state>
+    </location>
+    <location name="91766">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>34.0416787651</lat>
+      <lon>-117.757154453</lon>
+      <name>Pomona</name>
+      <state>CA</state>
+    </location>
+    <location name="91775">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>34.1145965468</lat>
+      <lon>-118.089197046</lon>
+      <name>San Gabriel</name>
+      <state>CA</state>
+    </location>
+    <location name="92008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>33.1466607065</lat>
+      <lon>-117.31838967</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="92152">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>177</dist>
+      <lat>32.7016700112</lat>
+      <lon>-117.24618309</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92201">
+      <cdi>2.9271</cdi>
+      <nresp>8</nresp>
+      <dist>32</dist>
+      <lat>33.707623363</lat>
+      <lon>-116.234525355</lon>
+      <name>Indio</name>
+      <state>CA</state>
+    </location>
+    <location name="92203">
+      <cdi>2.8772</cdi>
+      <nresp>12</nresp>
+      <dist>28</dist>
+      <lat>33.7517583205</lat>
+      <lon>-116.241723548</lon>
+      <name>Indio</name>
+      <state>CA</state>
+    </location>
+    <location name="92210">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>33.7019709063</lat>
+      <lon>-116.33978307</lon>
+      <name>Indian Wells</name>
+      <state>CA</state>
+    </location>
+    <location name="92211">
+      <cdi>3.2515</cdi>
+      <nresp>8</nresp>
+      <dist>34</dist>
+      <lat>33.7642960411</lat>
+      <lon>-116.330157044</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92252">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>34.1566779859</lat>
+      <lon>-116.288023465</lon>
+      <name>Joshua Tree</name>
+      <state>CA</state>
+    </location>
+    <location name="92253">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>39</dist>
+      <lat>33.654505594</lat>
+      <lon>-116.281141058</lon>
+      <name>La Quinta</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>44</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92264">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>33.7408622467</lat>
+      <lon>-116.535954528</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92270">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>33.7671512149</lat>
+      <lon>-116.422775835</lon>
+      <name>Rancho Mirage</name>
+      <state>CA</state>
+    </location>
+    <location name="92277">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>38</dist>
+      <lat>34.1987854155</lat>
+      <lon>-115.76081204</lon>
+      <name>Twentynine Palms</name>
+      <state>CA</state>
+    </location>
+    <location name="92508">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>33.8922663294</lat>
+      <lon>-117.325067728</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

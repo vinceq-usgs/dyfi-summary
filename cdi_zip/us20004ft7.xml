@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dili::Dili::East Timor">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>655</dist>
+      <lat>-8.57</lat>
+      <lon>125.58</lon>
+      <name>Dili</name>
+    </location>
+    <location name="Amahai::Maluku::Indonesia">
+      <cdi>7.7409</cdi>
+      <nresp>3</nresp>
+      <dist>111</dist>
+      <lat>-3.34</lat>
+      <lon>128.92</lon>
+      <name>Amahai</name>
+    </location>
+    <location name="Ambon::Maluku::Indonesia">
+      <cdi>7.6433</cdi>
+      <nresp>3</nresp>
+      <dist>157</dist>
+      <lat>-3.70</lat>
+      <lon>128.16</lon>
+      <name>Ambon</name>
+    </location>
+    <location name="Sorong::Papua::Indonesia">
+      <cdi>5.5412</cdi>
+      <nresp>2</nresp>
+      <dist>414</dist>
+      <lat>-0.86</lat>
+      <lon>131.29</lon>
+      <name>Sorong</name>
+    </location>
+  </cdi>
+</cdidata>

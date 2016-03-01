@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="42348">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>996</dist>
+      <lat>37.8374834518</lat>
+      <lon>-86.7687889016</lon>
+      <name>Hawesville</name>
+      <state>KY</state>
+    </location>
+    <location name="66781">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>293</dist>
+      <lat>37.2850997194</lat>
+      <lon>-94.7199971621</lon>
+      <name>Weir</name>
+      <state>KS</state>
+    </location>
+    <location name="67003">
+      <cdi>2.7751</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67022">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>37.0959484612</lat>
+      <lon>-97.6546725248</lon>
+      <name>Caldwell</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67058">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>37.3066539451</lat>
+      <lon>-98.0003593977</lon>
+      <name>Harper</name>
+      <state>KS</state>
+    </location>
+    <location name="74053">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>223</dist>
+      <lat>36.4495602116</lat>
+      <lon>-95.7183243337</lon>
+      <name>Oologah</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

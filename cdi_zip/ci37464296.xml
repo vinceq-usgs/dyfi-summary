@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90280">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>33.9444101031</lat>
+      <lon>-118.192014098</lon>
+      <name>South Gate</name>
+      <state>CA</state>
+    </location>
+    <location name="90806">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>33.8049302098</lat>
+      <lon>-118.189212697</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90808">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>33.8237691701</lat>
+      <lon>-118.115130501</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91711">
+      <cdi>2.6063</cdi>
+      <nresp>9</nresp>
+      <dist>4</dist>
+      <lat>34.1266937325</lat>
+      <lon>-117.715509316</lon>
+      <name>Claremont</name>
+      <state>CA</state>
+    </location>
+    <location name="91784">
+      <cdi>2.6784</cdi>
+      <nresp>48</nresp>
+      <dist>3</dist>
+      <lat>34.1410423477</lat>
+      <lon>-117.659201919</lon>
+      <name>Upland</name>
+      <state>CA</state>
+    </location>
+    <location name="91786">
+      <cdi>2.5241</cdi>
+      <nresp>19</nresp>
+      <dist>4</dist>
+      <lat>34.1051873355</lat>
+      <lon>-117.662078667</lon>
+      <name>Upland</name>
+      <state>CA</state>
+    </location>
+    <location name="91941">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>32.7612331769</lat>
+      <lon>-117.001733864</lon>
+      <name>La Mesa</name>
+      <state>CA</state>
+    </location>
+    <location name="92630">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>33.6460770575</lat>
+      <lon>-117.685681724</lon>
+      <name>Lake Forest</name>
+      <state>CA</state>
+    </location>
+    <location name="92648">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>33.6823958143</lat>
+      <lon>-118.012577203</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

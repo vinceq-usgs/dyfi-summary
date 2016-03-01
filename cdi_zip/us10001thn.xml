@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="75006">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>32.9622609469</lat>
+      <lon>-96.8974400609</lon>
+      <name>Carrollton</name>
+      <state>TX</state>
+    </location>
+    <location name="75038">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75039">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>6</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75061">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>32.8260491449</lat>
+      <lon>-96.9647420181</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75062">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>6</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75063">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>32.9206335879</lat>
+      <lon>-96.9754663768</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75201">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>32.7872736111</lat>
+      <lon>-96.7990090562</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75209">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>32.8487972366</lat>
+      <lon>-96.8263010441</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75220">
+      <cdi>2.7334</cdi>
+      <nresp>5</nresp>
+      <dist>6</dist>
+      <lat>32.8669930898</lat>
+      <lon>-96.8778633804</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>7</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76021">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>32.8523666415</lat>
+      <lon>-97.1315214587</lon>
+      <name>Bedford</name>
+      <state>TX</state>
+    </location>
+    <location name="76092">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>32.9492084761</lat>
+      <lon>-97.1478510676</lon>
+      <name>Southlake</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

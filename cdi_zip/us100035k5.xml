@@ -1,0 +1,56 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="04424">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>45.5379889882</lat>
+      <lon>-67.8850691723</lon>
+      <name>Danforth</name>
+      <state>ME</state>
+    </location>
+    <location name="04760">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>46.325901029</lat>
+      <lon>-67.8451616063</lon>
+      <name>Monticello</name>
+      <state>ME</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Fredericton::New Brunswick::Canada">
+      <cdi>2.7541</cdi>
+      <nresp>16</nresp>
+      <dist>28</dist>
+      <lat>45.96</lat>
+      <lon>-66.66</lon>
+      <name>Fredericton</name>
+    </location>
+    <location name="MacAdam::New Brunswick::Canada">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>45.58</lat>
+      <lon>-67.33</lon>
+      <name>MacAdam</name>
+    </location>
+    <location name="Nackawic::New Brunswick::Canada">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>46.00</lat>
+      <lon>-67.24</lon>
+      <name>Nackawic</name>
+    </location>
+    <location name="Oromocto::New Brunswick::Canada">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>45.85</lat>
+      <lon>-66.47</lon>
+      <name>Oromocto</name>
+    </location>
+  </cdi>
+</cdidata>

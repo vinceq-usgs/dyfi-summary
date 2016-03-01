@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67036">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67152">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>37.2574619357</lat>
+      <lon>-97.4015125998</lon>
+      <name>Wellington</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67218">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67230">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>37.6867337481</lat>
+      <lon>-97.1712736112</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73759">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>36.855793831</lat>
+      <lon>-97.6934025249</lon>
+      <name>Medford</name>
+      <state>OK</state>
+    </location>
+    <location name="73761">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>36.7154412504</lat>
+      <lon>-98.014218327</lon>
+      <name>Nash</name>
+      <state>OK</state>
+    </location>
+    <location name="74041">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>233</dist>
+      <lat>35.9374093139</lat>
+      <lon>-96.0543354157</lon>
+      <name>Kiefer</name>
+      <state>OK</state>
+    </location>
+    <location name="74114">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>233</dist>
+      <lat>36.1261559611</lat>
+      <lon>-95.9461925162</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74119">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>229</dist>
+      <lat>36.1416718329</lat>
+      <lon>-95.9891883481</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74120">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>230</dist>
+      <lat>36.1500754484</lat>
+      <lon>-95.9765243594</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

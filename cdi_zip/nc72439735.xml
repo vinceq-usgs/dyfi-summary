@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94028">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>37.374434591</lat>
+      <lon>-122.216135576</lon>
+      <name>Portola Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94086">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>37.3715601924</lat>
+      <lon>-122.023814361</lon>
+      <name>Sunnyvale</name>
+      <state>CA</state>
+    </location>
+    <location name="94523">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.9543225437</lat>
+      <lon>-122.07630293</lon>
+      <name>Pleasant Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94546">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>37.7535145162</lat>
+      <lon>-122.097032395</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>17</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94556">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.8329277404</lat>
+      <lon>-122.111057261</lon>
+      <name>Moraga</name>
+      <state>CA</state>
+    </location>
+    <location name="94566">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>37.6457318049</lat>
+      <lon>-121.852881407</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94587">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>37.599599331</lat>
+      <lon>-122.045389358</lon>
+      <name>Union City</name>
+      <state>CA</state>
+    </location>
+    <location name="94596">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>37.8884024161</lat>
+      <lon>-122.036464813</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94613">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>37.7807184021</lat>
+      <lon>-122.183012185</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94704">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>37.8690688607</lat>
+      <lon>-122.244743009</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+    <location name="94803">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>37.9621021245</lat>
+      <lon>-122.281940007</lon>
+      <name>El Sobrante</name>
+      <state>CA</state>
+    </location>
+    <location name="95640">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>38.3310571004</lat>
+      <lon>-120.944807041</lon>
+      <name>Ione</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

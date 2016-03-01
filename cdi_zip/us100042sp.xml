@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67003">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="73110">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>35.4599812871</lat>
+      <lon>-97.3970813939</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73728">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>36.7610465168</lat>
+      <lon>-98.3690400836</lon>
+      <name>Cherokee</name>
+      <state>OK</state>
+    </location>
+    <location name="74447">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>241</dist>
+      <lat>35.6437227585</lat>
+      <lon>-96.0354113646</lon>
+      <name>Okmulgee</name>
+      <state>OK</state>
+    </location>
+    <location name="74868">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>35.2971131316</lat>
+      <lon>-96.6644856622</lon>
+      <name>Seminole</name>
+      <state>OK</state>
+    </location>
+    <location name="79070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>234</dist>
+      <lat>36.2782389803</lat>
+      <lon>-100.815681354</lon>
+      <name>Perryton</name>
+      <state>TX</state>
+    </location>
+    <location name="79605">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>506</dist>
+      <lat>32.4353670437</lat>
+      <lon>-99.7859780869</lon>
+      <name>Abilene</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

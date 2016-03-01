@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67202">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67213">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>37.6671791773</lat>
+      <lon>-97.36386853</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67337">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>204</dist>
+      <lat>37.0663877064</lat>
+      <lon>-95.5833762816</lon>
+      <name>Coffeyville</name>
+      <state>KS</state>
+    </location>
+    <location name="73701">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>197</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>177</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74114">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>36.1261559611</lat>
+      <lon>-95.9461925162</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74132">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>36.0489156898</lat>
+      <lon>-96.0154691678</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

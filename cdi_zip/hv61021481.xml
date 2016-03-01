@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96710">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>60</dist>
+      <lat>19.842982638</lat>
+      <lon>-155.232469491</lon>
+      <name>Hakalau</name>
+      <state>HI</state>
+    </location>
+    <location name="96720">
+      <cdi>2.5018</cdi>
+      <nresp>6</nresp>
+      <dist>42</dist>
+      <lat>19.6696050142</lat>
+      <lon>-155.307460679</lon>
+      <name>Hilo</name>
+      <state>HI</state>
+    </location>
+    <location name="96749">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>19.6195044849</lat>
+      <lon>-155.001476088</lon>
+      <name>Keaau</name>
+      <state>HI</state>
+    </location>
+    <location name="96760">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>19.5627940117</lat>
+      <lon>-155.031909027</lon>
+      <name>Kurtistown</name>
+      <state>HI</state>
+    </location>
+    <location name="96764">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>19.9386109147</lat>
+      <lon>-155.278546267</lon>
+      <name>Laupahoehoe</name>
+      <state>HI</state>
+    </location>
+    <location name="96771">
+      <cdi>2.5876</cdi>
+      <nresp>5</nresp>
+      <dist>30</dist>
+      <lat>19.5383157015</lat>
+      <lon>-155.087535972</lon>
+      <name>Mountain View</name>
+      <state>HI</state>
+    </location>
+    <location name="96778">
+      <cdi>2.6912</cdi>
+      <nresp>4</nresp>
+      <dist>27</dist>
+      <lat>19.4316020081</lat>
+      <lon>-155.011419042</lon>
+      <name>Pahoa</name>
+      <state>HI</state>
+    </location>
+    <location name="96785">
+      <cdi>2.0883</cdi>
+      <nresp>4</nresp>
+      <dist>23</dist>
+      <lat>19.4941740559</lat>
+      <lon>-155.209215778</lon>
+      <name>Volcano</name>
+      <state>HI</state>
+    </location>
+    <location name="96815">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>348</dist>
+      <lat>21.2713372034</lat>
+      <lon>-157.817391676</lon>
+      <name>Honolulu</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

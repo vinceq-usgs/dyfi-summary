@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91207">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>34.184651848</lat>
+      <lon>-118.258775598</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91320">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>34.1416299359</lat>
+      <lon>-118.978888954</lon>
+      <name>Newbury Park</name>
+      <state>CA</state>
+    </location>
+    <location name="91326">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>34.2803763282</lat>
+      <lon>-118.556109263</lon>
+      <name>Porter Ranch</name>
+      <state>CA</state>
+    </location>
+    <location name="93015">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>34.4166996489</lat>
+      <lon>-118.845730509</lon>
+      <name>Fillmore</name>
+      <state>CA</state>
+    </location>
+    <location name="93021">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>34.3089429465</lat>
+      <lon>-118.864533809</lon>
+      <name>Moorpark</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

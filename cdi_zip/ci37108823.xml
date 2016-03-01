@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90004">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>34.076243709</lat>
+      <lon>-118.311378679</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90254">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>33.8652373721</lat>
+      <lon>-118.396575558</lon>
+      <name>Hermosa Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92804">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>33.8186757055</lat>
+      <lon>-117.974628915</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="93001">
+      <cdi>2.9948</cdi>
+      <nresp>55</nresp>
+      <dist>6</dist>
+      <lat>34.3480055188</lat>
+      <lon>-119.326420083</lon>
+      <name>Ventura</name>
+      <state>CA</state>
+    </location>
+    <location name="93003">
+      <cdi>2.4319</cdi>
+      <nresp>32</nresp>
+      <dist>6</dist>
+      <lat>34.2789920855</lat>
+      <lon>-119.218580733</lon>
+      <name>Ventura</name>
+      <state>CA</state>
+    </location>
+    <location name="93022">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.4038838026</lat>
+      <lon>-119.298293118</lon>
+      <name>Oak View</name>
+      <state>CA</state>
+    </location>
+    <location name="93023">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>34.5183973471</lat>
+      <lon>-119.271537599</lon>
+      <name>Ojai</name>
+      <state>CA</state>
+    </location>
+    <location name="93030">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.2073730061</lat>
+      <lon>-119.180036437</lon>
+      <name>Oxnard</name>
+      <state>CA</state>
+    </location>
+    <location name="93035">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.1839578068</lat>
+      <lon>-119.223909912</lon>
+      <name>Oxnard</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

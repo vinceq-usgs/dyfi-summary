@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="91730">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>34.0996175563</lat>
+      <lon>-117.579542111</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91739">
+      <cdi>2.3954</cdi>
+      <nresp>3</nresp>
+      <dist>12</dist>
+      <lat>34.135237188</lat>
+      <lon>-117.525563436</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="63379">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>635</dist>
+      <lat>39.0006261139</lat>
+      <lon>-90.9855231951</lon>
+      <name>Troy</name>
+      <state>MO</state>
+    </location>
+    <location name="73068">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>35.135561318</lat>
+      <lon>-97.2773576321</lon>
+      <name>Noble</name>
+      <state>OK</state>
+    </location>
+    <location name="73109">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>35.4323609848</lat>
+      <lon>-97.5244478596</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73717">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>169</dist>
+      <lat>36.8636011675</lat>
+      <lon>-98.750839081</lon>
+      <name>Alva</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.6095</cdi>
+      <nresp>11</nresp>
+      <dist>7</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>17</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74105">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>36.097220527</lat>
+      <lon>-95.9631988411</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74136">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>36.0617672231</lat>
+      <lon>-95.9409568667</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

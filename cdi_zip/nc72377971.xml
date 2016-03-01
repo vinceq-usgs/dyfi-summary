@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94526">
+      <cdi>3.0152</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94541">
+      <cdi>2.1938</cdi>
+      <nresp>9</nresp>
+      <dist>6</dist>
+      <lat>37.6745039472</lat>
+      <lon>-122.08434059</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94542">
+      <cdi>2.4989</cdi>
+      <nresp>5</nresp>
+      <dist>6</dist>
+      <lat>37.6562925513</lat>
+      <lon>-122.032589888</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94544">
+      <cdi>2.5193</cdi>
+      <nresp>17</nresp>
+      <dist>6</dist>
+      <lat>37.6330043297</lat>
+      <lon>-122.056890432</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94545">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>37.6321633726</lat>
+      <lon>-122.11840959</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94546">
+      <cdi>2.6484</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>37.7535145162</lat>
+      <lon>-122.097032395</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94552">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>9</dist>
+      <lat>37.7052675163</lat>
+      <lon>-122.007465818</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94555">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>37.5560370984</lat>
+      <lon>-122.080114292</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94578">
+      <cdi>2.3252</cdi>
+      <nresp>14</nresp>
+      <dist>9</dist>
+      <lat>37.7063627987</lat>
+      <lon>-122.125302829</lon>
+      <name>San Leandro</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94587">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>37.599599331</lat>
+      <lon>-122.045389358</lon>
+      <name>Union City</name>
+      <state>CA</state>
+    </location>
+    <location name="94601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>37.7769570111</lat>
+      <lon>-122.218009652</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67206">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>37.7037441156</lat>
+      <lon>-97.2255351318</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73077">
+      <cdi>3.8835</cdi>
+      <nresp>8</nresp>
+      <dist>8</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>133</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74032">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>36.2090916512</lat>
+      <lon>-96.9126312998</lon>
+      <name>Glencoe</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>25</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.3448</cdi>
+      <nresp>8</nresp>
+      <dist>21</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74804">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>35.4080338639</lat>
+      <lon>-96.8631224577</lon>
+      <name>Shawnee</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

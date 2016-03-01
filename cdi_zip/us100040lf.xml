@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="65747">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>420</dist>
+      <lat>36.6088623716</lat>
+      <lon>-93.5883615211</lon>
+      <name>Shell Knob</name>
+      <state>MO</state>
+    </location>
+    <location name="67005">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>37.065145113</lat>
+      <lon>-96.9858253723</lon>
+      <name>Arkansas City</name>
+      <state>KS</state>
+    </location>
+    <location name="67801">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>37.7120933667</lat>
+      <lon>-100.064093481</lon>
+      <name>Dodge City</name>
+      <state>KS</state>
+    </location>
+    <location name="73112">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>35.5185814398</lat>
+      <lon>-97.5743746682</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73728">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>36.7610465168</lat>
+      <lon>-98.3690400836</lon>
+      <name>Cherokee</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

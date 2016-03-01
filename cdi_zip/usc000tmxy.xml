@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Prizren::Kosovo and Metohija::Serbia and Montenegro">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>42.23</lat>
+      <lon>20.74</lon>
+      <name>Prizren</name>
+    </location>
+    <location name="PriÅ¡tina::Kosovo and Metohija::Serbia and Montenegro">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>42.65</lat>
+      <lon>21.17</lon>
+      <name>PriÅ¡tina</name>
+    </location>
+    <location name="ShkodÃ«r::ShkodÃ«r::Albania">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>42.07</lat>
+      <lon>19.51</lon>
+      <name>ShkodÃ«r</name>
+    </location>
+    <location name="Tirana::Tirana::Albania">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>41.33</lat>
+      <lon>19.82</lon>
+      <name>Tirana</name>
+    </location>
+    <location name="Skopje::Skopje::Macedonia">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>113</dist>
+      <lat>42.00</lat>
+      <lon>21.47</lon>
+      <name>Skopje</name>
+    </location>
+    <location name="Tetovo::Tetovo::Macedonia">
+      <cdi>2.5317</cdi>
+      <nresp>4</nresp>
+      <dist>74</dist>
+      <lat>42.01</lat>
+      <lon>20.97</lon>
+      <name>Tetovo</name>
+    </location>
+  </cdi>
+</cdidata>

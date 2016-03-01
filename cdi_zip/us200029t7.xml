@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cuenca::Azuay::Ecuador">
+      <cdi>3.3671</cdi>
+      <nresp>12</nresp>
+      <dist>149</dist>
+      <lat>-2.90</lat>
+      <lon>-79.01</lon>
+      <name>Cuenca</name>
+    </location>
+    <location name="Azogues::Cañar::Ecuador">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>-2.74</lat>
+      <lon>-78.84</lon>
+      <name>Azogues</name>
+    </location>
+    <location name="El Triunfo::Guayas::Ecuador">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>-1.93</lat>
+      <lon>-79.97</lon>
+      <name>El Triunfo</name>
+    </location>
+    <location name="Eloy Alfaro::Guayas::Ecuador">
+      <cdi>3.9323</cdi>
+      <nresp>11</nresp>
+      <dist>101</dist>
+      <lat>-2.17</lat>
+      <lon>-79.83</lon>
+      <name>Eloy Alfaro</name>
+    </location>
+    <location name="Guayaquil::Guayas::Ecuador">
+      <cdi>4.1460</cdi>
+      <nresp>20</nresp>
+      <dist>103</dist>
+      <lat>-2.21</lat>
+      <lon>-79.90</lon>
+      <name>Guayaquil</name>
+    </location>
+    <location name="Salinas::Guayas::Ecuador">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>-2.20</lat>
+      <lon>-80.98</lon>
+      <name>Salinas</name>
+    </location>
+    <location name="Santa Elena::Guayas::Ecuador">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>166</dist>
+      <lat>-2.20</lat>
+      <lon>-80.87</lon>
+      <name>Santa Elena</name>
+    </location>
+    <location name="Santa Lucía::Guayas::Ecuador">
+      <cdi>4.5835</cdi>
+      <nresp>8</nresp>
+      <dist>106</dist>
+      <lat>-2.18</lat>
+      <lon>-80.00</lon>
+      <name>Santa Lucía</name>
+    </location>
+    <location name="Yaguachi::Guayas::Ecuador">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>-2.12</lat>
+      <lon>-79.69</lon>
+      <name>Yaguachi</name>
+    </location>
+    <location name="Catamayo::Loja::Ecuador">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>-3.98</lat>
+      <lon>-79.36</lon>
+      <name>Catamayo</name>
+    </location>
+    <location name="Loja::Loja::Ecuador">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>232</dist>
+      <lat>-3.99</lat>
+      <lon>-79.21</lon>
+      <name>Loja</name>
+    </location>
+    <location name="Puebloviejo::Los Ríos::Ecuador">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>-3.73</lat>
+      <lon>-79.28</lon>
+      <name>Puebloviejo</name>
+    </location>
+    <location name="Ventanas::Los Ríos::Ecuador">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>-1.45</lat>
+      <lon>-79.47</lon>
+      <name>Ventanas</name>
+    </location>
+    <location name="Bahía de Caráquez::Manabí::Ecuador">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>216</dist>
+      <lat>-0.60</lat>
+      <lon>-80.44</lon>
+      <name>Bahía de Caráquez</name>
+    </location>
+    <location name="Quito::Pichincha::Ecuador">
+      <cdi>3.1755</cdi>
+      <nresp>4</nresp>
+      <dist>272</dist>
+      <lat>-0.19</lat>
+      <lon>-78.50</lon>
+      <name>Quito</name>
+    </location>
+    <location name="Sangolquí::Pichincha::Ecuador">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>263</dist>
+      <lat>-0.31</lat>
+      <lon>-78.46</lon>
+      <name>Sangolquí</name>
+    </location>
+    <location name="Zamora::Zamora Chinchipe::Ecuador">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>247</dist>
+      <lat>-4.07</lat>
+      <lon>-78.97</lon>
+      <name>Zamora</name>
+    </location>
+    <location name="Ricaurte::Nariño::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>398</dist>
+      <lat>1.11</lat>
+      <lon>-78.43</lon>
+      <name>Ricaurte</name>
+    </location>
+  </cdi>
+</cdidata>

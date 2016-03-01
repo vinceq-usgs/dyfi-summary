@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91362">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>264</dist>
+      <lat>34.1924686909</lat>
+      <lon>-118.819449981</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91791">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>341</dist>
+      <lat>34.0606629002</lat>
+      <lon>-117.893830543</lon>
+      <name>West Covina</name>
+      <state>CA</state>
+    </location>
+    <location name="92065">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>486</dist>
+      <lat>33.042819068</lat>
+      <lon>-116.848126526</lon>
+      <name>Ramona</name>
+      <state>CA</state>
+    </location>
+    <location name="93291">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>36.3901316913</lat>
+      <lon>-119.369413997</lon>
+      <name>Visalia</name>
+      <state>CA</state>
+    </location>
+    <location name="93420">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>35.1408941229</lat>
+      <lon>-120.414250835</lon>
+      <name>Arroyo Grande</name>
+      <state>CA</state>
+    </location>
+    <location name="93426">
+      <cdi>2.8772</cdi>
+      <nresp>4</nresp>
+      <dist>21</dist>
+      <lat>35.8644938228</lat>
+      <lon>-120.967725709</lon>
+      <name>Bradley</name>
+      <state>CA</state>
+    </location>
+    <location name="93428">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>35.5833958464</lat>
+      <lon>-121.019668707</lon>
+      <name>Cambria</name>
+      <state>CA</state>
+    </location>
+    <location name="93446">
+      <cdi>2.6484</cdi>
+      <nresp>2</nresp>
+      <dist>31</dist>
+      <lat>35.6535983591</lat>
+      <lon>-120.735081918</lon>
+      <name>Paso Robles</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>243</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94931">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>326</dist>
+      <lat>38.3240485004</lat>
+      <lon>-122.715553935</lon>
+      <name>Cotati</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94501">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>71</dist>
+      <lat>37.7746713921</lat>
+      <lon>-122.275647073</lon>
+      <name>Alameda</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94590">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>38.1003329591</lat>
+      <lon>-122.247859578</lon>
+      <name>Vallejo</name>
+      <state>CA</state>
+    </location>
+    <location name="94928">
+      <cdi>2.1081</cdi>
+      <nresp>15</nresp>
+      <dist>8</dist>
+      <lat>38.3460394877</lat>
+      <lon>-122.694982993</lon>
+      <name>Rohnert Park</name>
+      <state>CA</state>
+    </location>
+    <location name="94931">
+      <cdi>2.3330</cdi>
+      <nresp>4</nresp>
+      <dist>9</dist>
+      <lat>38.3240485004</lat>
+      <lon>-122.715553935</lon>
+      <name>Cotati</name>
+      <state>CA</state>
+    </location>
+    <location name="94951">
+      <cdi>2.4785</cdi>
+      <nresp>17</nresp>
+      <dist>6</dist>
+      <lat>38.3218513743</lat>
+      <lon>-122.644095055</lon>
+      <name>Penngrove</name>
+      <state>CA</state>
+    </location>
+    <location name="94952">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>38.2191104861</lat>
+      <lon>-122.775453144</lon>
+      <name>Petaluma</name>
+      <state>CA</state>
+    </location>
+    <location name="94954">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>38.225397908</lat>
+      <lon>-122.557485272</lon>
+      <name>Petaluma</name>
+      <state>CA</state>
+    </location>
+    <location name="95401">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>38.4514015217</lat>
+      <lon>-122.793254532</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95404">
+      <cdi>2.5168</cdi>
+      <nresp>5</nresp>
+      <dist>7</dist>
+      <lat>38.3832370515</lat>
+      <lon>-122.640583489</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95436">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>38.4927530343</lat>
+      <lon>-122.913172205</lon>
+      <name>Forestville</name>
+      <state>CA</state>
+    </location>
+    <location name="95476">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>38.2510840872</lat>
+      <lon>-122.453732438</lon>
+      <name>Sonoma</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

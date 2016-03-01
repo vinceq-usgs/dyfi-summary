@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95427">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>39.2773721545</lat>
+      <lon>-123.581897359</lon>
+      <name>Comptche</name>
+      <state>CA</state>
+    </location>
+    <location name="95432">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>39.1474242475</lat>
+      <lon>-123.683658723</lon>
+      <name>Elk</name>
+      <state>CA</state>
+    </location>
+    <location name="95437">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>39</dist>
+      <lat>39.4643563766</lat>
+      <lon>-123.69642113</lon>
+      <name>Fort Bragg</name>
+      <state>CA</state>
+    </location>
+    <location name="95459">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>39.006802054</lat>
+      <lon>-123.615600107</lon>
+      <name>Manchester</name>
+      <state>CA</state>
+    </location>
+    <location name="95466">
+      <cdi>2.9194</cdi>
+      <nresp>10</nresp>
+      <dist>8</dist>
+      <lat>39.091438635</lat>
+      <lon>-123.537817986</lon>
+      <name>Philo</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

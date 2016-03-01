@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dunedin::Otago::New Zealand">
+      <cdi>4.9533</cdi>
+      <nresp>4</nresp>
+      <dist>36</dist>
+      <lat>-45.88</lat>
+      <lon>170.48</lon>
+      <name>Dunedin</name>
+    </location>
+    <location name="Outram::Otago::New Zealand">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>-45.87</lat>
+      <lon>170.23</lon>
+      <name>Outram</name>
+    </location>
+    <location name="Warrington::Otago::New Zealand">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>-45.72</lat>
+      <lon>170.58</lon>
+      <name>Warrington</name>
+    </location>
+  </cdi>
+</cdidata>

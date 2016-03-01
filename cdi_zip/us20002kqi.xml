@@ -1,0 +1,228 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cilegon::Banten::Indonesia">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>356</dist>
+      <lat>-5.94</lat>
+      <lon>106.00</lon>
+      <name>Cilegon</name>
+    </location>
+    <location name="Labuhan::Banten::Indonesia">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>359</dist>
+      <lat>-6.37</lat>
+      <lon>105.83</lon>
+      <name>Labuhan</name>
+    </location>
+    <location name="Rangkasbitung::Banten::Indonesia">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>399</dist>
+      <lat>-6.36</lat>
+      <lon>106.24</lon>
+      <name>Rangkasbitung</name>
+    </location>
+    <location name="Serang::Banten::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>378</dist>
+      <lat>-6.11</lat>
+      <lon>106.15</lon>
+      <name>Serang</name>
+    </location>
+    <location name="Serpong::Banten::Indonesia">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>439</dist>
+      <lat>-6.32</lat>
+      <lon>106.66</lon>
+      <name>Serpong</name>
+    </location>
+    <location name="Tangerang::Banten::Indonesia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>430</dist>
+      <lat>-6.18</lat>
+      <lon>106.63</lon>
+      <name>Tangerang</name>
+    </location>
+    <location name="Bengkulu::Bengkulu::Indonesia">
+      <cdi>5.6318</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>-3.80</lat>
+      <lon>102.25</lon>
+      <name>Bengkulu</name>
+    </location>
+    <location name="Curup::Bengkulu::Indonesia">
+      <cdi>5.0476</cdi>
+      <nresp>2</nresp>
+      <dist>161</dist>
+      <lat>-3.46</lat>
+      <lon>102.52</lon>
+      <name>Curup</name>
+    </location>
+    <location name="Jakarta::Jakarta::Indonesia">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>451</dist>
+      <lat>-6.18</lat>
+      <lon>106.83</lon>
+      <name>Jakarta</name>
+    </location>
+    <location name="Sungaipenuh::Jambi::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>353</dist>
+      <lat>-2.06</lat>
+      <lon>101.39</lon>
+      <name>Sungaipenuh</name>
+    </location>
+    <location name="Bogor::Jawa Barat::Indonesia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>464</dist>
+      <lat>-6.58</lat>
+      <lon>106.79</lon>
+      <name>Bogor</name>
+    </location>
+    <location name="Cileungsi::Jawa Barat::Indonesia">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>472</dist>
+      <lat>-6.40</lat>
+      <lon>106.95</lon>
+      <name>Cileungsi</name>
+    </location>
+    <location name="Citeureup::Jawa Barat::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>466</dist>
+      <lat>-6.48</lat>
+      <lon>106.86</lon>
+      <name>Citeureup</name>
+    </location>
+    <location name="Pamulang::Jawa Barat::Indonesia">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>446</dist>
+      <lat>-6.31</lat>
+      <lon>106.73</lon>
+      <name>Pamulang</name>
+    </location>
+    <location name="Sukabumi::Jawa Barat::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>493</dist>
+      <lat>-6.92</lat>
+      <lon>106.92</lon>
+      <name>Sukabumi</name>
+    </location>
+    <location name="Pontianak::Kalimantan Barat::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>879</dist>
+      <lat>-0.02</lat>
+      <lon>109.34</lon>
+      <name>Pontianak</name>
+    </location>
+    <location name="Bandar Lampung::Lampung::Indonesia">
+      <cdi>2.5168</cdi>
+      <nresp>2</nresp>
+      <dist>263</dist>
+      <lat>-5.44</lat>
+      <lon>105.27</lon>
+      <name>Bandar Lampung</name>
+    </location>
+    <location name="Metro::Lampung::Indonesia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>261</dist>
+      <lat>-5.10</lat>
+      <lon>105.33</lon>
+      <name>Metro</name>
+    </location>
+    <location name="Pringsewu::Lampung::Indonesia">
+      <cdi>5.6318</cdi>
+      <nresp>1</nresp>
+      <dist>240</dist>
+      <lat>-5.36</lat>
+      <lon>105.08</lon>
+      <name>Pringsewu</name>
+    </location>
+    <location name="Terbanggi Besar::Lampung::Indonesia">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>246</dist>
+      <lat>-4.88</lat>
+      <lon>105.21</lon>
+      <name>Terbanggi Besar</name>
+    </location>
+    <location name="Selatpanjang::Riau::Indonesia">
+      <cdi>3.6479</cdi>
+      <nresp>3</nresp>
+      <dist>423</dist>
+      <lat>-0.99</lat>
+      <lon>102.70</lon>
+      <name>Selatpanjang</name>
+    </location>
+    <location name="Padang::Sumatera Barat::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>519</dist>
+      <lat>-0.95</lat>
+      <lon>100.35</lon>
+      <name>Padang</name>
+    </location>
+    <location name="Baturaja::Sumatera Selatan::Indonesia">
+      <cdi>4.7129</cdi>
+      <nresp>4</nresp>
+      <dist>152</dist>
+      <lat>-4.13</lat>
+      <lon>104.17</lon>
+      <name>Baturaja</name>
+    </location>
+    <location name="Lahat::Sumatera Selatan::Indonesia">
+      <cdi>5.8062</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>-3.79</lat>
+      <lon>103.54</lon>
+      <name>Lahat</name>
+    </location>
+    <location name="Lubuk Linggau::Sumatera Selatan::Indonesia">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>-3.29</lat>
+      <lon>102.85</lon>
+      <name>Lubuk Linggau</name>
+    </location>
+    <location name="Pagar Alam::Sumatera Selatan::Indonesia">
+      <cdi>5.4100</cdi>
+      <nresp>2</nresp>
+      <dist>98</dist>
+      <lat>-4.02</lat>
+      <lon>103.28</lon>
+      <name>Pagar Alam</name>
+    </location>
+    <location name="Palembang::Sumatera Selatan::Indonesia">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>279</dist>
+      <lat>-2.99</lat>
+      <lon>104.75</lon>
+      <name>Palembang</name>
+    </location>
+    <location name="Prabumulih::Sumatera Selatan::Indonesia">
+      <cdi>3.9543</cdi>
+      <nresp>1</nresp>
+      <dist>204</dist>
+      <lat>-3.44</lat>
+      <lon>104.23</lon>
+      <name>Prabumulih</name>
+    </location>
+  </cdi>
+</cdidata>

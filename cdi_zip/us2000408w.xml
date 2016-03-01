@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Karamürsel::Kocaeli::Turkey">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>40.69</lat>
+      <lon>29.61</lon>
+      <name>Karamürsel</name>
+    </location>
+    <location name="Tekirdağ::Tekirdağ::Turkey">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>40.98</lat>
+      <lon>27.52</lon>
+      <name>Tekirdağ</name>
+    </location>
+    <location name="Sultanbeyli::İstanbul::Turkey">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>40.92</lat>
+      <lon>29.30</lon>
+      <name>Sultanbeyli</name>
+    </location>
+    <location name="İstanbul::İstanbul::Turkey">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>109</dist>
+      <lat>41.10</lat>
+      <lon>29.00</lon>
+      <name>İstanbul</name>
+    </location>
+  </cdi>
+</cdidata>

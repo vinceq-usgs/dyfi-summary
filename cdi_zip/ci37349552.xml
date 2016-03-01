@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90505">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>33.8086917483</lat>
+      <lon>-118.348325088</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>75</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="91911">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>32.6072532718</lat>
+      <lon>-117.050385252</lon>
+      <name>Chula Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="92101">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>32.7233589585</lat>
+      <lon>-117.16928562</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92629">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>33.4772374635</lat>
+      <lon>-117.704990098</lon>
+      <name>Dana Point</name>
+      <state>CA</state>
+    </location>
+    <location name="92649">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>33.7210990547</lat>
+      <lon>-118.044472241</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92656">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>33.5748604027</lat>
+      <lon>-117.731392449</lon>
+      <name>Aliso Viejo</name>
+      <state>CA</state>
+    </location>
+    <location name="92672">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>33.3967264913</lat>
+      <lon>-117.553883921</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+    <location name="92673">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>33.466341879</lat>
+      <lon>-117.61159134</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+    <location name="92677">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>33.5268306463</lat>
+      <lon>-117.704124458</lon>
+      <name>Laguna Niguel</name>
+      <state>CA</state>
+    </location>
+    <location name="92691">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>33.610517845</lat>
+      <lon>-117.666154857</lon>
+      <name>Mission Viejo</name>
+      <state>CA</state>
+    </location>
+    <location name="92694">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>33.5524124602</lat>
+      <lon>-117.641804275</lon>
+      <name>Ladera Ranch</name>
+      <state>CA</state>
+    </location>
+    <location name="92802">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>33.8080753934</lat>
+      <lon>-117.923431126</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

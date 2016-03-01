@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93901">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>36.6610806988</lat>
+      <lon>-121.653922658</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>8</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.5465</cdi>
+      <nresp>4</nresp>
+      <dist>7</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94563">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>37.8701811099</lat>
+      <lon>-122.184883316</lon>
+      <name>Orinda</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>2.3799</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>9</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94705">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>37.859587706</lat>
+      <lon>-122.240676464</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+    <location name="95060">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>37.0592413896</lat>
+      <lon>-122.157700218</lon>
+      <name>Santa Cruz</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

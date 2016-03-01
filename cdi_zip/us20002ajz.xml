@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Katihār::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>25.55</lat>
+      <lon>87.57</lon>
+      <name>Katihār</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Banepa::Kavrepalanchok::Nepal">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>27.63</lat>
+      <lon>85.52</lon>
+      <name>Banepa</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>2.9502</cdi>
+      <nresp>4</nresp>
+      <dist>20</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Bidur::Nuwakot::Nepal">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>27.89</lat>
+      <lon>85.16</lon>
+      <name>Bidur</name>
+    </location>
+  </cdi>
+</cdidata>

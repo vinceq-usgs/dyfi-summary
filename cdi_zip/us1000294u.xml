@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2.8516</cdi>
+      <nresp>5</nresp>
+      <dist>70</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Dhulikhet::Kavrepalanchok::Nepal">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>27.62</lat>
+      <lon>85.55</lon>
+      <name>Dhulikhet</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>73</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Hetauda::Makwanpur::Nepal">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>27.41</lat>
+      <lon>85.02</lon>
+      <name>Hetauda</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98304">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>46.8008168361</lat>
+      <lon>-121.990988507</lon>
+      <name>Ashford</name>
+      <state>WA</state>
+    </location>
+    <location name="98377">
+      <cdi>3.6692</cdi>
+      <nresp>4</nresp>
+      <dist>49</dist>
+      <lat>46.5414679842</lat>
+      <lon>-121.698281349</lon>
+      <name>Randle</name>
+      <state>WA</state>
+    </location>
+    <location name="98533">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>46.6131612809</lat>
+      <lon>-122.535638991</lon>
+      <name>Cinebar</name>
+      <state>WA</state>
+    </location>
+    <location name="98570">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>46.5833150861</lat>
+      <lon>-122.69039472</lon>
+      <name>Onalaska</name>
+      <state>WA</state>
+    </location>
+    <location name="98577">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>46.6612485534</lat>
+      <lon>-123.598730531</lon>
+      <name>Raymond</name>
+      <state>WA</state>
+    </location>
+    <location name="98625">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>46.0464085502</lat>
+      <lon>-122.728859617</lon>
+      <name>Kalama</name>
+      <state>WA</state>
+    </location>
+    <location name="98674">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>45.9473173613</lat>
+      <lon>-122.6557392</lon>
+      <name>Woodland</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

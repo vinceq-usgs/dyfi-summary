@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Aomori::Aomori::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>139</dist>
+      <lat>40.83</lat>
+      <lon>140.74</lon>
+      <name>Aomori</name>
+    </location>
+    <location name="Hachinohe::Aomori::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>40.52</lat>
+      <lon>141.53</lon>
+      <name>Hachinohe</name>
+    </location>
+    <location name="Misawa::Aomori::Japan">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>119</dist>
+      <lat>40.68</lat>
+      <lon>141.34</lon>
+      <name>Misawa</name>
+    </location>
+    <location name="Sapporo::Hokkaido::Japan">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>184</dist>
+      <lat>43.06</lat>
+      <lon>141.34</lon>
+      <name>Sapporo</name>
+    </location>
+    <location name="Tsurugashima::Saitama::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>661</dist>
+      <lat>35.95</lat>
+      <lon>139.39</lon>
+      <name>Tsurugashima</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>680</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

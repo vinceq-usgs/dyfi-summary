@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90002">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>33.9490927981</lat>
+      <lon>-118.247016263</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>34.0090284247</lat>
+      <lon>-118.348152463</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90025">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>34.0450097269</lat>
+      <lon>-118.446640587</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="91311">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>34.2856213545</lat>
+      <lon>-118.604515487</lon>
+      <name>Chatsworth</name>
+      <state>CA</state>
+    </location>
+    <location name="91326">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>34.2803763282</lat>
+      <lon>-118.556109263</lon>
+      <name>Porter Ranch</name>
+      <state>CA</state>
+    </location>
+    <location name="91367">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>34.176389334</lat>
+      <lon>-118.61601363</lon>
+      <name>Woodland Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91384">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>11</dist>
+      <lat>34.5546931053</lat>
+      <lon>-118.644418086</lon>
+      <name>Castaic</name>
+      <state>CA</state>
+    </location>
+    <location name="91387">
+      <cdi>2.1387</cdi>
+      <nresp>3</nresp>
+      <dist>30</dist>
+      <lat>34.4232918094</lat>
+      <lon>-118.410193255</lon>
+      <name>Canyon Country</name>
+      <state>CA</state>
+    </location>
+    <location name="91390">
+      <cdi>2.1718</cdi>
+      <nresp>3</nresp>
+      <dist>25</dist>
+      <lat>34.5253294801</lat>
+      <lon>-118.394343428</lon>
+      <name>Santa Clarita</name>
+      <state>CA</state>
+    </location>
+    <location name="93065">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>34.2835466325</lat>
+      <lon>-118.769317054</lon>
+      <name>Simi Valley</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

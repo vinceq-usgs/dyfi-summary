@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="74075">
+      <cdi>3.1663</cdi>
+      <nresp>9</nresp>
+      <dist>5</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74077">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>36.1228033078</lat>
+      <lon>-97.0706479473</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

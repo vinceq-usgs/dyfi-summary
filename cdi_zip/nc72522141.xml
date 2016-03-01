@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94538">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>37.4995299957</lat>
+      <lon>-121.977885195</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94558">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>42</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94941">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>37.8934006252</lat>
+      <lon>-122.565192731</lon>
+      <name>Mill Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94954">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>5</dist>
+      <lat>38.225397908</lat>
+      <lon>-122.557485272</lon>
+      <name>Petaluma</name>
+      <state>CA</state>
+    </location>
+    <location name="94960">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.9915743558</lat>
+      <lon>-122.576297478</lon>
+      <name>San Anselmo</name>
+      <state>CA</state>
+    </location>
+    <location name="95688">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>38.4172016266</lat>
+      <lon>-122.025400727</lon>
+      <name>Vacaville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

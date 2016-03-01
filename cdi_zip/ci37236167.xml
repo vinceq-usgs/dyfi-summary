@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90024">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>34.0653110033</lat>
+      <lon>-118.435043099</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90201">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>33.9706389634</lat>
+      <lon>-118.170614058</lon>
+      <name>Bell</name>
+      <state>CA</state>
+    </location>
+    <location name="90220">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>33.8793758732</lat>
+      <lon>-118.23711278</lon>
+      <name>Compton</name>
+      <state>CA</state>
+    </location>
+    <location name="90242">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>33.9223457393</lat>
+      <lon>-118.141435039</lon>
+      <name>Downey</name>
+      <state>CA</state>
+    </location>
+    <location name="90247">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>33.8912563605</lat>
+      <lon>-118.297597956</lon>
+      <name>Gardena</name>
+      <state>CA</state>
+    </location>
+    <location name="90502">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>33.8351710249</lat>
+      <lon>-118.293012301</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90504">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>33.8695548249</lat>
+      <lon>-118.329907461</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90712">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>33.8491752911</lat>
+      <lon>-118.147029498</lon>
+      <name>Lakewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="91607">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>34.1664423502</lat>
+      <lon>-118.399895143</lon>
+      <name>Valley Village</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

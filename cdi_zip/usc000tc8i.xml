@@ -1,0 +1,247 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="75006">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>371</dist>
+      <lat>32.9622609469</lat>
+      <lon>-96.8974400609</lon>
+      <name>Carrollton</name>
+      <state>TX</state>
+    </location>
+    <location name="75007">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>371</dist>
+      <lat>33.0052695862</lat>
+      <lon>-96.8959213442</lon>
+      <name>Carrollton</name>
+      <state>TX</state>
+    </location>
+    <location name="75040">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>397</dist>
+      <lat>32.9285075059</lat>
+      <lon>-96.6199944134</lon>
+      <name>Garland</name>
+      <state>TX</state>
+    </location>
+    <location name="75061">
+      <cdi>3.5612</cdi>
+      <nresp>3</nresp>
+      <dist>365</dist>
+      <lat>32.8260491449</lat>
+      <lon>-96.9647420181</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75062">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>365</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75150">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>396</dist>
+      <lat>32.8158345565</lat>
+      <lon>-96.6294371131</lon>
+      <name>Mesquite</name>
+      <state>TX</state>
+    </location>
+    <location name="75202">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>380</dist>
+      <lat>32.7798236064</lat>
+      <lon>-96.8036799513</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75204">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>381</dist>
+      <lat>32.802015297</lat>
+      <lon>-96.7890399543</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75205">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>380</dist>
+      <lat>32.8366577456</lat>
+      <lon>-96.7958827715</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75206">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>383</dist>
+      <lat>32.8313497644</lat>
+      <lon>-96.7702890067</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75207">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>378</dist>
+      <lat>32.7840367711</lat>
+      <lon>-96.8212387923</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>374</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75230">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>381</dist>
+      <lat>32.9023498342</lat>
+      <lon>-96.7926991418</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75244">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>376</dist>
+      <lat>32.9252898793</lat>
+      <lon>-96.8364786842</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75261">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>358</dist>
+      <lat>32.8914944597</lat>
+      <lon>-97.0395727373</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76034">
+      <cdi>2.9106</cdi>
+      <nresp>3</nresp>
+      <dist>347</dist>
+      <lat>32.8908842934</lat>
+      <lon>-97.1474427737</lon>
+      <name>Colleyville</name>
+      <state>TX</state>
+    </location>
+    <location name="76051">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>354</dist>
+      <lat>32.9422541327</lat>
+      <lon>-97.079811247</lon>
+      <name>Grapevine</name>
+      <state>TX</state>
+    </location>
+    <location name="76053">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>345</dist>
+      <lat>32.8091636196</lat>
+      <lon>-97.1734959974</lon>
+      <name>Hurst</name>
+      <state>TX</state>
+    </location>
+    <location name="76118">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>343</dist>
+      <lat>32.792047265</lat>
+      <lon>-97.200310511</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+    <location name="76132">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>323</dist>
+      <lat>32.6673675674</lat>
+      <lon>-97.4181651498</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+    <location name="76180">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>341</dist>
+      <lat>32.8639912956</lat>
+      <lon>-97.2156923668</lon>
+      <name>North Richland Hills</name>
+      <state>TX</state>
+    </location>
+    <location name="76205">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>350</dist>
+      <lat>33.1901720018</lat>
+      <lon>-97.1290561428</lon>
+      <name>Denton</name>
+      <state>TX</state>
+    </location>
+    <location name="76262">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>341</dist>
+      <lat>33.0062709451</lat>
+      <lon>-97.2163001182</lon>
+      <name>Roanoke</name>
+      <state>TX</state>
+    </location>
+    <location name="79423">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>33.4506327802</lat>
+      <lon>-101.848559585</lon>
+      <name>Lubbock</name>
+      <state>TX</state>
+    </location>
+    <location name="79520">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>32.8793038697</lat>
+      <lon>-100.140699552</lon>
+      <name>Hamlin</name>
+      <state>TX</state>
+    </location>
+    <location name="79527">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>32.6058267451</lat>
+      <lon>-101.132131427</lon>
+      <name>Ira</name>
+      <state>TX</state>
+    </location>
+    <location name="79549">
+      <cdi>3.2431</cdi>
+      <nresp>19</nresp>
+      <dist>14</dist>
+      <lat>32.9954028324</lat>
+      <lon>-100.854484248</lon>
+      <name>Snyder</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

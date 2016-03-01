@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="62234">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>38.6849125599</lat>
+      <lon>-89.9781886105</lon>
+      <name>Collinsville</name>
+      <state>IL</state>
+    </location>
+    <location name="63038">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>204</dist>
+      <lat>38.5812820309</lat>
+      <lon>-90.6700186273</lon>
+      <name>Glencoe</name>
+      <state>MO</state>
+    </location>
+    <location name="63137">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>229</dist>
+      <lat>38.7505953258</lat>
+      <lon>-90.2160033138</lon>
+      <name>Saint Louis</name>
+      <state>MO</state>
+    </location>
+    <location name="63357">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>212</dist>
+      <lat>38.6524460661</lat>
+      <lon>-91.078566015</lon>
+      <name>Marthasville</name>
+      <state>MO</state>
+    </location>
+    <location name="63822">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>36.6719095954</lat>
+      <lon>-90.028585589</lon>
+      <name>Bernie</name>
+      <state>MO</state>
+    </location>
+    <location name="63901">
+      <cdi>2.0372</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>36.774012722</lat>
+      <lon>-90.4491847559</lon>
+      <name>Poplar Bluff</name>
+      <state>MO</state>
+    </location>
+    <location name="63931">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>36.6435095518</lat>
+      <lon>-90.9617623541</lon>
+      <name>Briar</name>
+      <state>MO</state>
+    </location>
+    <location name="63935">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>36.5541713259</lat>
+      <lon>-90.8850605067</lon>
+      <name>Doniphan</name>
+      <state>MO</state>
+    </location>
+    <location name="63943">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>36.8162717925</lat>
+      <lon>-90.7666955802</lon>
+      <name>Grandin</name>
+      <state>MO</state>
+    </location>
+    <location name="63953">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>36.5529914428</lat>
+      <lon>-90.63041929</lon>
+      <name>Naylor</name>
+      <state>MO</state>
+    </location>
+    <location name="63965">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>36.9646855247</lat>
+      <lon>-90.985832769</lon>
+      <name>Van Buren</name>
+      <state>MO</state>
+    </location>
+    <location name="65791">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>36.5587144089</lat>
+      <lon>-91.5339994476</lon>
+      <name>Thayer</name>
+      <state>MO</state>
+    </location>
+    <location name="65802">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>37.2107943536</lat>
+      <lon>-93.3530350427</lon>
+      <name>Springfield</name>
+      <state>MO</state>
+    </location>
+    <location name="72422">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>36.405400873</lat>
+      <lon>-90.569196791</lon>
+      <name>Corning</name>
+      <state>AR</state>
+    </location>
+    <location name="72444">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>36.4295214948</lat>
+      <lon>-90.8607924109</lon>
+      <name>Maynard</name>
+      <state>AR</state>
+    </location>
+    <location name="72455">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>52</dist>
+      <lat>36.3155916595</lat>
+      <lon>-91.0249400807</lon>
+      <name>Pocahontas</name>
+      <state>AR</state>
+    </location>
+  </cdi>
+</cdidata>

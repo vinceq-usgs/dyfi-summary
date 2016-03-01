@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Itagüí::Antioquia::Colombia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>292</dist>
+      <lat>6.17</lat>
+      <lon>-75.62</lon>
+      <name>Itagüí</name>
+    </location>
+    <location name="Risaralda::Caldas::Colombia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>203</dist>
+      <lat>5.17</lat>
+      <lon>-75.77</lon>
+      <name>Risaralda</name>
+    </location>
+    <location name="El Bordo::Cauca::Colombia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>258</dist>
+      <lat>2.12</lat>
+      <lon>-76.99</lon>
+      <name>El Bordo</name>
+    </location>
+    <location name="Cali::Valle del Cauca::Colombia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>3.44</lat>
+      <lon>-76.52</lon>
+      <name>Cali</name>
+    </location>
+    <location name="Jamundí::Valle del Cauca::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>3.26</lat>
+      <lon>-76.54</lon>
+      <name>Jamundí</name>
+    </location>
+    <location name="Yotoco::Valle del Cauca::Colombia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>141</dist>
+      <lat>3.87</lat>
+      <lon>-76.39</lon>
+      <name>Yotoco</name>
+    </location>
+  </cdi>
+</cdidata>

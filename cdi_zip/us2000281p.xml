@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Pilkhuwa::Uttar Pradesh::India">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>464</dist>
+      <lat>28.72</lat>
+      <lon>77.65</lon>
+      <name>Pilkhuwa</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>243</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Dailekh::Dailekh::Nepal">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>28.83</lat>
+      <lon>81.73</lon>
+      <name>Dailekh</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>315</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+  </cdi>
+</cdidata>

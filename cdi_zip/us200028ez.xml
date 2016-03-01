@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96708">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>62</dist>
+      <lat>20.8747284353</lat>
+      <lon>-156.263569015</lon>
+      <name>Haiku</name>
+      <state>HI</state>
+    </location>
+    <location name="96713">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>20.7417578811</lat>
+      <lon>-156.120010923</lon>
+      <name>Hana</name>
+      <state>HI</state>
+    </location>
+    <location name="96768">
+      <cdi>2.9257</cdi>
+      <nresp>7</nresp>
+      <dist>69</dist>
+      <lat>20.8416678721</lat>
+      <lon>-156.325461432</lon>
+      <name>Makawao</name>
+      <state>HI</state>
+    </location>
+    <location name="96790">
+      <cdi>3.0152</cdi>
+      <nresp>7</nresp>
+      <dist>85</dist>
+      <lat>20.66364411</lat>
+      <lon>-156.363085807</lon>
+      <name>Kula</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,100 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dauin::Central Visayas::Philippines">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>9.19</lat>
+      <lon>123.27</lon>
+      <name>Dauin</name>
+    </location>
+    <location name="Dumaguete::Central Visayas::Philippines">
+      <cdi>2.8570</cdi>
+      <nresp>4</nresp>
+      <dist>121</dist>
+      <lat>9.32</lat>
+      <lon>123.31</lon>
+      <name>Dumaguete</name>
+    </location>
+    <location name="Samboan::Central Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>9.53</lat>
+      <lon>123.31</lon>
+      <name>Samboan</name>
+    </location>
+    <location name="Sibulan::Central Visayas::Philippines">
+      <cdi>3.1847</cdi>
+      <nresp>2</nresp>
+      <dist>118</dist>
+      <lat>9.36</lat>
+      <lon>123.29</lon>
+      <name>Sibulan</name>
+    </location>
+    <location name="Zamboanguita::Central Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>9.11</lat>
+      <lon>123.20</lon>
+      <name>Zamboanguita</name>
+    </location>
+    <location name="Bacolod::Western Visayas::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>10.63</lat>
+      <lon>122.97</lon>
+      <name>Bacolod</name>
+    </location>
+    <location name="Camingawan::Western Visayas::Philippines">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>9.90</lat>
+      <lon>122.84</lon>
+      <name>Camingawan</name>
+    </location>
+    <location name="Carol-an::Western Visayas::Philippines">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>9.96</lat>
+      <lon>122.96</lon>
+      <name>Carol-an</name>
+    </location>
+    <location name="Mina::Western Visayas::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>10.93</lat>
+      <lon>122.58</lon>
+      <name>Mina</name>
+    </location>
+    <location name="Nabitasan::Western Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>136</dist>
+      <lat>10.72</lat>
+      <lon>122.57</lon>
+      <name>Nabitasan</name>
+    </location>
+    <location name="San Nicolas (Oton, Iloilo)::Western Visayas::Philippines">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>10.68</lat>
+      <lon>122.50</lon>
+      <name>San Nicolas (Oton, Iloilo)</name>
+    </location>
+    <location name="Ungka::Western Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>10.75</lat>
+      <lon>122.55</lon>
+      <name>Ungka</name>
+    </location>
+  </cdi>
+</cdidata>

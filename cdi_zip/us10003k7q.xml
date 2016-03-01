@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Arequipa::Arequipa::Peru">
+      <cdi>3.6463</cdi>
+      <nresp>9</nresp>
+      <dist>112</dist>
+      <lat>-16.39</lat>
+      <lon>-71.53</lon>
+      <name>Arequipa</name>
+    </location>
+    <location name="Lluta::Arequipa::Peru">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>-16.02</lat>
+      <lon>-72.02</lon>
+      <name>Lluta</name>
+    </location>
+  </cdi>
+</cdidata>

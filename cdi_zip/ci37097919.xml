@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90044">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>33.9530298128</lat>
+      <lon>-118.291495556</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90045">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>33.9530946364</lat>
+      <lon>-118.401227411</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90062">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.0033971037</lat>
+      <lon>-118.308837697</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90247">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>33.8912563605</lat>
+      <lon>-118.297597956</lon>
+      <name>Gardena</name>
+      <state>CA</state>
+    </location>
+    <location name="90249">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>33.9014686074</lat>
+      <lon>-118.317203907</lon>
+      <name>Gardena</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

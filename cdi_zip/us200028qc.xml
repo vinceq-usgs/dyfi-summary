@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cheviot::Canterbury::New Zealand">
+      <cdi>5.5412</cdi>
+      <nresp>2</nresp>
+      <dist>97</dist>
+      <lat>-42.82</lat>
+      <lon>173.27</lon>
+      <name>Cheviot</name>
+    </location>
+    <location name="Christchurch::Canterbury::New Zealand">
+      <cdi>3.2152</cdi>
+      <nresp>6</nresp>
+      <dist>171</dist>
+      <lat>-43.53</lat>
+      <lon>172.64</lon>
+      <name>Christchurch</name>
+    </location>
+    <location name="Kaiapoi::Canterbury::New Zealand">
+      <cdi>6.2066</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>-43.36</lat>
+      <lon>172.68</lon>
+      <name>Kaiapoi</name>
+    </location>
+    <location name="Blenheim::Marlborough::New Zealand">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>-41.53</lat>
+      <lon>173.96</lon>
+      <name>Blenheim</name>
+    </location>
+    <location name="Nelson::Nelson::New Zealand">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>-41.29</lat>
+      <lon>173.24</lon>
+      <name>Nelson</name>
+    </location>
+    <location name="Dunedin::Otago::New Zealand">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>472</dist>
+      <lat>-45.88</lat>
+      <lon>170.48</lon>
+      <name>Dunedin</name>
+    </location>
+    <location name="New Plymouth::Taranaki::New Zealand">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>351</dist>
+      <lat>-39.06</lat>
+      <lon>174.08</lon>
+      <name>New Plymouth</name>
+    </location>
+    <location name="Takaka::Tasman::New Zealand">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>-40.85</lat>
+      <lon>172.80</lon>
+      <name>Takaka</name>
+    </location>
+    <location name="Kapiti::Wellington::New Zealand">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>215</dist>
+      <lat>-40.91</lat>
+      <lon>175.02</lon>
+      <name>Kapiti</name>
+    </location>
+    <location name="Lower Hutt::Wellington::New Zealand">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>-41.20</lat>
+      <lon>174.93</lon>
+      <name>Lower Hutt</name>
+    </location>
+    <location name="Wellington::Wellington::New Zealand">
+      <cdi>3.6692</cdi>
+      <nresp>4</nresp>
+      <dist>176</dist>
+      <lat>-41.28</lat>
+      <lon>174.78</lon>
+      <name>Wellington</name>
+    </location>
+  </cdi>
+</cdidata>

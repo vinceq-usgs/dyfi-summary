@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Barabazar::Bangla::India">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>619</dist>
+      <lat>22.57</lat>
+      <lon>88.35</lon>
+      <name>Barabazar</name>
+    </location>
+    <location name="Colgong::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>299</dist>
+      <lat>25.27</lat>
+      <lon>87.22</lon>
+      <name>Colgong</name>
+    </location>
+    <location name="Dinapur::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>244</dist>
+      <lat>25.64</lat>
+      <lon>85.04</lon>
+      <name>Dinapur</name>
+    </location>
+    <location name="Phulwari::Bihar::India">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>245</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Samastīpur::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>25.85</lat>
+      <lon>85.78</lon>
+      <name>Samastīpur</name>
+    </location>
+    <location name="Sultanganj::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>284</dist>
+      <lat>25.24</lat>
+      <lon>86.73</lon>
+      <name>Sultanganj</name>
+    </location>
+    <location name="Gokalpur::Delhi::India">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>855</dist>
+      <lat>28.71</lat>
+      <lon>77.28</lon>
+      <name>Gokalpur</name>
+    </location>
+    <location name="Panipat::Haryana::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>896</dist>
+      <lat>29.39</lat>
+      <lon>76.96</lon>
+      <name>Panipat</name>
+    </location>
+    <location name="Gorakhpur::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>273</dist>
+      <lat>26.76</lat>
+      <lon>83.36</lon>
+      <name>Gorakhpur</name>
+    </location>
+    <location name="Harraiya::Uttar Pradesh::India">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>355</dist>
+      <lat>26.80</lat>
+      <lon>82.47</lon>
+      <name>Harraiya</name>
+    </location>
+    <location name="Kasganj::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>718</dist>
+      <lat>27.81</lat>
+      <lon>78.63</lon>
+      <name>Kasganj</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>503</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Sarai Mir::Uttar Pradesh::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>351</dist>
+      <lat>26.02</lat>
+      <lon>82.92</lon>
+      <name>Sarai Mir</name>
+    </location>
+  </cdi>
+</cdidata>

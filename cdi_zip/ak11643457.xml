@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99502">
+      <cdi>1</cdi>
+      <nresp>4</nresp>
+      <dist>256</dist>
+      <lat>61.158809373</lat>
+      <lon>-150.04667767</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99654">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>222</dist>
+      <lat>61.5022894283</lat>
+      <lon>-149.796287978</lon>
+      <name>Wasilla</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

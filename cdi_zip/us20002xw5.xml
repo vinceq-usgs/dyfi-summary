@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Choc::Castries::Saint Lucia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>268</dist>
+      <lat>14.03</lat>
+      <lon>-60.97</lon>
+      <name>Choc</name>
+    </location>
+    <location name="Port of Spain::Port of Spain::Trinidad and Tobago">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>485</dist>
+      <lat>10.66</lat>
+      <lon>-61.51</lon>
+      <name>Port of Spain</name>
+    </location>
+    <location name="Oistins::Christ Church::Barbados">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>146</dist>
+      <lat>13.07</lat>
+      <lon>-59.55</lon>
+      <name>Oistins</name>
+    </location>
+    <location name="Bulkeley::Saint George::Barbados">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>13.12</lat>
+      <lon>-59.54</lon>
+      <name>Bulkeley</name>
+    </location>
+    <location name="Holetown::Saint James::Barbados">
+      <cdi>2.7053</cdi>
+      <nresp>3</nresp>
+      <dist>146</dist>
+      <lat>13.18</lat>
+      <lon>-59.63</lon>
+      <name>Holetown</name>
+    </location>
+    <location name="Blackmans::Saint John::Barbados">
+      <cdi>2.0113</cdi>
+      <nresp>4</nresp>
+      <dist>137</dist>
+      <lat>13.19</lat>
+      <lon>-59.54</lon>
+      <name>Blackmans</name>
+    </location>
+    <location name="Crab Hill::Saint Lucy::Barbados">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>13.32</lat>
+      <lon>-59.62</lon>
+      <name>Crab Hill</name>
+    </location>
+    <location name="Bridgetown::Saint Michael::Barbados">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>149</dist>
+      <lat>13.11</lat>
+      <lon>-59.61</lon>
+      <name>Bridgetown</name>
+    </location>
+    <location name="Crane::Saint Philip::Barbados">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>13.11</lat>
+      <lon>-59.45</lon>
+      <name>Crane</name>
+    </location>
+    <location name="Gouyave::Saint John::Grenada">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>399</dist>
+      <lat>12.17</lat>
+      <lon>-61.73</lon>
+      <name>Gouyave</name>
+    </location>
+    <location name="Point-à-Pitre::Grande-Terre::Guadeloupe">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>419</dist>
+      <lat>16.25</lat>
+      <lon>-61.54</lon>
+      <name>Point-à-Pitre</name>
+    </location>
+    <location name="Georgetown::Demerara-Mahaica::Guyana">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>786</dist>
+      <lat>6.79</lat>
+      <lon>-58.16</lon>
+      <name>Georgetown</name>
+    </location>
+    <location name="Cul De Sac::Sint Maarten::Netherlands Antilles">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>670</dist>
+      <lat>18.03</lat>
+      <lon>-63.07</lon>
+      <name>Cul De Sac</name>
+    </location>
+  </cdi>
+</cdidata>

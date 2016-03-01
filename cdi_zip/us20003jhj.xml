@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96910">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>13.47</lat>
+      <lon>144.75</lon>
+      <name>HAGATNA</name>
+      <state>GU</state>
+    </location>
+    <location name="96911">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>107</dist>
+      <lat>13.51</lat>
+      <lon>144.81</lon>
+      <name>TAMUNING</name>
+      <state>GU</state>
+    </location>
+    <location name="96914">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>108</dist>
+      <lat>13.40</lat>
+      <lon>144.74</lon>
+      <name>YONA</name>
+      <state>GU</state>
+    </location>
+    <location name="96915">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>13.40</lat>
+      <lon>144.67</lon>
+      <name>SANTA RITA</name>
+      <state>GU</state>
+    </location>
+    <location name="96922">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>107</dist>
+      <lat>13.46</lat>
+      <lon>144.73</lon>
+      <name>ASAN</name>
+      <state>GU</state>
+    </location>
+    <location name="96927">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>13.47</lat>
+      <lon>144.77</lon>
+      <name>MONGMONG</name>
+      <state>GU</state>
+    </location>
+  </cdi>
+</cdidata>

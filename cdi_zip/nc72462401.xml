@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90065">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>397</dist>
+      <lat>34.1093745831</lat>
+      <lon>-118.22794427</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="92802">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>441</dist>
+      <lat>33.8080753934</lat>
+      <lon>-117.923431126</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="92804">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>437</dist>
+      <lat>33.8186757055</lat>
+      <lon>-117.974628915</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="93908">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>36.601467433</lat>
+      <lon>-121.587110997</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="93924">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>36.3982582949</lat>
+      <lon>-121.632213161</lon>
+      <name>Carmel Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="93926">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>36.5340636674</lat>
+      <lon>-121.407286646</lon>
+      <name>Gonzales</name>
+      <state>CA</state>
+    </location>
+    <location name="93960">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>36.4031672062</lat>
+      <lon>-121.345059267</lon>
+      <name>Soledad</name>
+      <state>CA</state>
+    </location>
+    <location name="94060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>37.1656582586</lat>
+      <lon>-122.330051018</lon>
+      <name>Pescadero</name>
+      <state>CA</state>
+    </location>
+    <location name="94109">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>37.7930720881</lat>
+      <lon>-122.421238911</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95023">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>36.8566762391</lat>
+      <lon>-121.249223359</lon>
+      <name>Hollister</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

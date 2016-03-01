@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67002">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>37.6978785988</lat>
+      <lon>-97.1097897813</lon>
+      <name>Andover</name>
+      <state>KS</state>
+    </location>
+    <location name="67022">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>5</dist>
+      <lat>37.0959484612</lat>
+      <lon>-97.6546725248</lon>
+      <name>Caldwell</name>
+      <state>KS</state>
+    </location>
+    <location name="67026">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>37.5122638106</lat>
+      <lon>-97.4881281076</lon>
+      <name>Clearwater</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67050">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>37.67264084</lat>
+      <lon>-97.6768303155</lon>
+      <name>Garden Plain</name>
+      <state>KS</state>
+    </location>
+    <location name="67140">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>37.0713001379</lat>
+      <lon>-97.3587944859</lon>
+      <name>South Haven</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>79</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67501">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>37.9758810565</lat>
+      <lon>-97.931237911</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="68333">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>389</dist>
+      <lat>40.6007476146</lat>
+      <lon>-96.9777028836</lon>
+      <name>Crete</name>
+      <state>NE</state>
+    </location>
+    <location name="68503">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>418</dist>
+      <lat>40.8239521408</lat>
+      <lon>-96.677268361</lon>
+      <name>Lincoln</name>
+      <state>NE</state>
+    </location>
+    <location name="73084">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>35.5264751791</lat>
+      <lon>-97.3432436184</lon>
+      <name>Spencer</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="74020">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>36.2409919596</lat>
+      <lon>-96.4652056739</lon>
+      <name>Cleveland</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

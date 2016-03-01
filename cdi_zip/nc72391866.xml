@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94015">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>177</dist>
+      <lat>37.6808059301</lat>
+      <lon>-122.480422578</lon>
+      <name>Daly City</name>
+      <state>CA</state>
+    </location>
+    <location name="94501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>37.7746713921</lat>
+      <lon>-122.275647073</lon>
+      <name>Alameda</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94610">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>37.8120934987</lat>
+      <lon>-122.240580761</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95401">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>38.4514015217</lat>
+      <lon>-122.793254532</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95482">
+      <cdi>2.6372</cdi>
+      <nresp>44</nresp>
+      <dist>9</dist>
+      <lat>39.1369495272</lat>
+      <lon>-123.224829878</lon>
+      <name>Ukiah</name>
+      <state>CA</state>
+    </location>
+    <location name="95490">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>39.4716278515</lat>
+      <lon>-123.365954363</lon>
+      <name>Willits</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

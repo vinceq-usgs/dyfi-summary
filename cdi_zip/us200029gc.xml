@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Naţor::Naţor::Bangladesh">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>477</dist>
+      <lat>24.41</lat>
+      <lon>88.98</lon>
+      <name>Naţor</name>
+    </location>
+    <location name="Phulwari::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>215</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Ni Dilli::Delhi::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>837</dist>
+      <lat>28.60</lat>
+      <lon>77.22</lon>
+      <name>Ni Dilli</name>
+    </location>
+    <location name="Gorakhpur::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>240</dist>
+      <lat>26.76</lat>
+      <lon>83.36</lon>
+      <name>Gorakhpur</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Dhulikhet::Kavrepalanchok::Nepal">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>27.62</lat>
+      <lon>85.55</lon>
+      <name>Dhulikhet</name>
+    </location>
+    <location name="Butwal::Rupandehi::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>27.71</lat>
+      <lon>83.45</lon>
+      <name>Butwal</name>
+    </location>
+  </cdi>
+</cdidata>

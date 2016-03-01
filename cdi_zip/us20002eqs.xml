@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Darbhanga::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>26.16</lat>
+      <lon>85.88</lon>
+      <name>Darbhanga</name>
+    </location>
+    <location name="Bhaktapur::Bhaktapur::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>27.67</lat>
+      <lon>85.43</lon>
+      <name>Bhaktapur</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>86</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+  </cdi>
+</cdidata>

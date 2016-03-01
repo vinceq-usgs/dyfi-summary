@@ -1,0 +1,310 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94014">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>43</dist>
+      <lat>37.6776116036</lat>
+      <lon>-122.438257004</lon>
+      <name>Daly City</name>
+      <state>CA</state>
+    </location>
+    <location name="94019">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>37.486937123</lat>
+      <lon>-122.414603654</lon>
+      <name>Half Moon Bay</name>
+      <state>CA</state>
+    </location>
+    <location name="94035">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.416529261</lat>
+      <lon>-122.050347743</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94080">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>37.65477424</lat>
+      <lon>-122.422257321</lon>
+      <name>South San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94085">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>37.3879625448</lat>
+      <lon>-122.015437762</lon>
+      <name>Sunnyvale</name>
+      <state>CA</state>
+    </location>
+    <location name="94087">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>37.3511799729</lat>
+      <lon>-122.036982745</lon>
+      <name>Sunnyvale</name>
+      <state>CA</state>
+    </location>
+    <location name="94112">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>37.7204624906</lat>
+      <lon>-122.443455038</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94118">
+      <cdi>2.4718</cdi>
+      <nresp>3</nresp>
+      <dist>49</dist>
+      <lat>37.7818712131</lat>
+      <lon>-122.461211306</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94536">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>37.5714118375</lat>
+      <lon>-121.985688461</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94539">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>37.5266513594</lat>
+      <lon>-121.911791132</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94541">
+      <cdi>3.0152</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>37.6745039472</lat>
+      <lon>-122.08434059</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94542">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>37.6562925513</lat>
+      <lon>-122.032589888</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94544">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>37.6330043297</lat>
+      <lon>-122.056890432</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94546">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.7535145162</lat>
+      <lon>-122.097032395</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94550">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>32</dist>
+      <lat>37.5189222377</lat>
+      <lon>-121.624336977</lon>
+      <name>Livermore</name>
+      <state>CA</state>
+    </location>
+    <location name="94552">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>37.7052675163</lat>
+      <lon>-122.007465818</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94555">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>37.5560370984</lat>
+      <lon>-122.080114292</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94560">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>37.5190599771</lat>
+      <lon>-122.046489982</lon>
+      <name>Newark</name>
+      <state>CA</state>
+    </location>
+    <location name="94564">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>37.9943624284</lat>
+      <lon>-122.285174153</lon>
+      <name>Pinole</name>
+      <state>CA</state>
+    </location>
+    <location name="94566">
+      <cdi>3.5503</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>37.6457318049</lat>
+      <lon>-121.852881407</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94579">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>37.6870406805</lat>
+      <lon>-122.157705842</lon>
+      <name>San Leandro</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94588">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>37.6895558211</lat>
+      <lon>-121.896794754</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="94612">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>37.8086513164</lat>
+      <lon>-122.267192618</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94710">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>37.8706652922</lat>
+      <lon>-122.303408913</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+    <location name="94930">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>37.963648832</lat>
+      <lon>-122.628676967</lon>
+      <name>Fairfax</name>
+      <state>CA</state>
+    </location>
+    <location name="94960">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>37.9915743558</lat>
+      <lon>-122.576297478</lon>
+      <name>San Anselmo</name>
+      <state>CA</state>
+    </location>
+    <location name="95033">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.1494113728</lat>
+      <lon>-121.96286758</lon>
+      <name>Los Gatos</name>
+      <state>CA</state>
+    </location>
+    <location name="95035">
+      <cdi>3.6156</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>37.4377791393</lat>
+      <lon>-121.817111415</lon>
+      <name>Milpitas</name>
+      <state>CA</state>
+    </location>
+    <location name="95050">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>37.3525643231</lat>
+      <lon>-121.952339333</lon>
+      <name>Santa Clara</name>
+      <state>CA</state>
+    </location>
+    <location name="95113">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>37.3336966412</lat>
+      <lon>-121.891424212</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95134">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>17</dist>
+      <lat>37.4293950999</lat>
+      <lon>-121.945839019</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95476">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>38.2510840872</lat>
+      <lon>-122.453732438</lon>
+      <name>Sonoma</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

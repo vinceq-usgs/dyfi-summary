@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Matsudo::Chiba::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>231</dist>
+      <lat>35.78</lat>
+      <lon>139.90</lon>
+      <name>Matsudo</name>
+    </location>
+    <location name="KÅriyama::Fukushima::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>37.41</lat>
+      <lon>140.38</lon>
+      <name>KÅriyama</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Daito::Iwate::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>39.01</lat>
+      <lon>141.40</lon>
+      <name>Daito</name>
+    </location>
+    <location name="Kokubunji::Tokio::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>263</dist>
+      <lat>35.70</lat>
+      <lon>139.48</lon>
+      <name>Kokubunji</name>
+    </location>
+  </cdi>
+</cdidata>

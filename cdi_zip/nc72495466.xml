@@ -1,0 +1,157 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94044">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>37.6045298737</lat>
+      <lon>-122.482164108</lon>
+      <name>Pacifica</name>
+      <state>CA</state>
+    </location>
+    <location name="94105">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>37.7885713861</lat>
+      <lon>-122.393818386</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94949">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>38.0651159903</lat>
+      <lon>-122.539965535</lon>
+      <name>Novato</name>
+      <state>CA</state>
+    </location>
+    <location name="95404">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>103</dist>
+      <lat>38.3832370515</lat>
+      <lon>-122.640583489</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95410">
+      <cdi>2.7418</cdi>
+      <nresp>5</nresp>
+      <dist>33</dist>
+      <lat>39.2061324774</lat>
+      <lon>-123.67720678</lon>
+      <name>Albion</name>
+      <state>CA</state>
+    </location>
+    <location name="95415">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>23</dist>
+      <lat>39.0136966551</lat>
+      <lon>-123.387559729</lon>
+      <name>Boonville</name>
+      <state>CA</state>
+    </location>
+    <location name="95427">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>39.2773721545</lat>
+      <lon>-123.581897359</lon>
+      <name>Comptche</name>
+      <state>CA</state>
+    </location>
+    <location name="95432">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>27</dist>
+      <lat>39.1474242475</lat>
+      <lon>-123.683658723</lon>
+      <name>Elk</name>
+      <state>CA</state>
+    </location>
+    <location name="95437">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>62</dist>
+      <lat>39.4643563766</lat>
+      <lon>-123.69642113</lon>
+      <name>Fort Bragg</name>
+      <state>CA</state>
+    </location>
+    <location name="95445">
+      <cdi>2.9633</cdi>
+      <nresp>6</nresp>
+      <dist>18</dist>
+      <lat>38.8367313039</lat>
+      <lon>-123.433501289</lon>
+      <name>Gualala</name>
+      <state>CA</state>
+    </location>
+    <location name="95459">
+      <cdi>2.8132</cdi>
+      <nresp>13</nresp>
+      <dist>12</dist>
+      <lat>39.006802054</lat>
+      <lon>-123.615600107</lon>
+      <name>Manchester</name>
+      <state>CA</state>
+    </location>
+    <location name="95460">
+      <cdi>2.3014</cdi>
+      <nresp>6</nresp>
+      <dist>45</dist>
+      <lat>39.3101880737</lat>
+      <lon>-123.718137663</lon>
+      <name>Mendocino</name>
+      <state>CA</state>
+    </location>
+    <location name="95466">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>22</dist>
+      <lat>39.091438635</lat>
+      <lon>-123.537817986</lon>
+      <name>Philo</name>
+      <state>CA</state>
+    </location>
+    <location name="95468">
+      <cdi>3.1416</cdi>
+      <nresp>7</nresp>
+      <dist>9</dist>
+      <lat>38.918345082</lat>
+      <lon>-123.530706912</lon>
+      <name>Point Arena</name>
+      <state>CA</state>
+    </location>
+    <location name="95490">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>39.4716278515</lat>
+      <lon>-123.365954363</lon>
+      <name>Willits</name>
+      <state>CA</state>
+    </location>
+    <location name="95494">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>38.9300851076</lat>
+      <lon>-123.303743689</lon>
+      <name>Yorkville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ţungī::Gazipur::Bangladesh">
+      <cdi>3.5787</cdi>
+      <nresp>5</nresp>
+      <dist>597</dist>
+      <lat>23.88</lat>
+      <lon>90.40</lon>
+      <name>Ţungī</name>
+    </location>
+    <location name="Bankra::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>606</dist>
+      <lat>22.58</lat>
+      <lon>88.31</lon>
+      <name>Bankra</name>
+    </location>
+    <location name="Darbhanga::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>26.16</lat>
+      <lon>85.88</lon>
+      <name>Darbhanga</name>
+    </location>
+    <location name="Ni Dilli::Delhi::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>889</dist>
+      <lat>28.60</lat>
+      <lon>77.22</lon>
+      <name>Ni Dilli</name>
+    </location>
+    <location name="Jamshedpur::Jharkhand::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>545</dist>
+      <lat>22.79</lat>
+      <lon>86.20</lon>
+      <name>Jamshedpur</name>
+    </location>
+    <location name="Allahābād Cantonment::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>505</dist>
+      <lat>25.45</lat>
+      <lon>81.81</lon>
+      <name>Allahābād Cantonment</name>
+    </location>
+    <location name="Lalitpur::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>848</dist>
+      <lat>24.70</lat>
+      <lon>78.41</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Noida::Uttar Pradesh::India">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>878</dist>
+      <lat>28.58</lat>
+      <lon>77.33</lon>
+      <name>Noida</name>
+    </location>
+    <location name="Shamsabad::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>803</dist>
+      <lat>27.02</lat>
+      <lon>78.13</lon>
+      <name>Shamsabad</name>
+    </location>
+  </cdi>
+</cdidata>

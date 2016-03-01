@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67132">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>155</dist>
+      <lat>37.7836851013</lat>
+      <lon>-96.597757472</lon>
+      <name>Rosalia</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73759">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>36.855793831</lat>
+      <lon>-97.6934025249</lon>
+      <name>Medford</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74868">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>35.2971131316</lat>
+      <lon>-96.6644856622</lon>
+      <name>Seminole</name>
+      <state>OK</state>
+    </location>
+    <location name="75062">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>427</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75205">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>430</dist>
+      <lat>32.8366577456</lat>
+      <lon>-96.7958827715</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75235">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>430</dist>
+      <lat>32.8315449377</lat>
+      <lon>-96.8479558357</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76010">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>439</dist>
+      <lat>32.7226587642</lat>
+      <lon>-97.0801912684</lon>
+      <name>Arlington</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

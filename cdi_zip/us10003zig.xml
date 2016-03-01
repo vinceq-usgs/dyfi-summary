@@ -1,0 +1,175 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64108">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>427</dist>
+      <lat>39.084135069</lat>
+      <lon>-94.5847898801</lon>
+      <name>Kansas City</name>
+      <state>MO</state>
+    </location>
+    <location name="64505">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>482</dist>
+      <lat>39.8277147845</lat>
+      <lon>-94.8430441156</lon>
+      <name>Saint Joseph</name>
+      <state>MO</state>
+    </location>
+    <location name="64735">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>424</dist>
+      <lat>38.3687637777</lat>
+      <lon>-93.779281503</lon>
+      <name>Clinton</name>
+      <state>MO</state>
+    </location>
+    <location name="66044">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>390</dist>
+      <lat>39.0347719918</lat>
+      <lon>-95.2117281523</lon>
+      <name>Lawrence</name>
+      <state>KS</state>
+    </location>
+    <location name="66612">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>370</dist>
+      <lat>39.0409662813</lat>
+      <lon>-95.6808677731</lon>
+      <name>Topeka</name>
+      <state>KS</state>
+    </location>
+    <location name="67002">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>37.6978785988</lat>
+      <lon>-97.1097897813</lon>
+      <name>Andover</name>
+      <state>KS</state>
+    </location>
+    <location name="67042">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>212</dist>
+      <lat>37.8636939248</lat>
+      <lon>-96.7648880507</lon>
+      <name>El Dorado</name>
+      <state>KS</state>
+    </location>
+    <location name="67114">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>38.0619508136</lat>
+      <lon>-97.2832822534</lon>
+      <name>Newton</name>
+      <state>KS</state>
+    </location>
+    <location name="67147">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>200</dist>
+      <lat>37.8628400574</lat>
+      <lon>-97.3052940713</lon>
+      <name>Valley Center</name>
+      <state>KS</state>
+    </location>
+    <location name="67206">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>37.7037441156</lat>
+      <lon>-97.2255351318</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67428">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>256</dist>
+      <lat>38.3728157286</lat>
+      <lon>-97.4209459652</lon>
+      <name>Canton</name>
+      <state>KS</state>
+    </location>
+    <location name="67501">
+      <cdi>2.7958</cdi>
+      <nresp>2</nresp>
+      <dist>213</dist>
+      <lat>37.9758810565</lat>
+      <lon>-97.931237911</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="67502">
+      <cdi>3.5612</cdi>
+      <nresp>3</nresp>
+      <dist>230</dist>
+      <lat>38.1280036149</lat>
+      <lon>-97.9208647034</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="67749">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>491</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="73012">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73028">
+      <cdi>3.6156</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>35.9736322317</lat>
+      <lon>-97.5941537472</lon>
+      <name>Crescent</name>
+      <state>OK</state>
+    </location>
+    <location name="73120">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73554">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>224</dist>
+      <lat>34.8479740137</lat>
+      <lon>-99.5629115439</lon>
+      <name>Mangum</name>
+      <state>OK</state>
+    </location>
+    <location name="74020">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>36.2409919596</lat>
+      <lon>-96.4652056739</lon>
+      <name>Cleveland</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

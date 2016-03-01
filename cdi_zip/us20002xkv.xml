@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Balčik::Dobrič::Bulgaria">
+      <cdi>3.2031</cdi>
+      <nresp>2</nresp>
+      <dist>38</dist>
+      <lat>43.41</lat>
+      <lon>28.17</lon>
+      <name>Balčik</name>
+    </location>
+    <location name="Cavarna::Dobrič::Bulgaria">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>43.44</lat>
+      <lon>28.34</lon>
+      <name>Cavarna</name>
+    </location>
+    <location name="Varna::Varna::Bulgaria">
+      <cdi>4.1535</cdi>
+      <nresp>2</nresp>
+      <dist>60</dist>
+      <lat>43.21</lat>
+      <lon>27.90</lon>
+      <name>Varna</name>
+    </location>
+  </cdi>
+</cdidata>

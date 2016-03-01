@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99507">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>61.151181701</lat>
+      <lon>-149.77914819</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99515">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>61.1145748641</lat>
+      <lon>-149.893146119</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99567">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>61.4609962815</lat>
+      <lon>-149.330150001</lon>
+      <name>Chugiak</name>
+      <state>AK</state>
+    </location>
+    <location name="99572">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>60.4562734219</lat>
+      <lon>-149.983779932</lon>
+      <name>Cooper Landing</name>
+      <state>AK</state>
+    </location>
+    <location name="99654">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>61.5022894283</lat>
+      <lon>-149.796287978</lon>
+      <name>Wasilla</name>
+      <state>AK</state>
+    </location>
+    <location name="99701">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>382</dist>
+      <lat>64.5124558489</lat>
+      <lon>-147.669565076</lon>
+      <name>Fairbanks</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

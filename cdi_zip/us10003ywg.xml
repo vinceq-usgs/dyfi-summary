@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cuenca::Azuay::Ecuador">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>116</dist>
+      <lat>-2.90</lat>
+      <lon>-79.01</lon>
+      <name>Cuenca</name>
+    </location>
+    <location name="Azogues::Cañar::Ecuador">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>-2.74</lat>
+      <lon>-78.84</lon>
+      <name>Azogues</name>
+    </location>
+    <location name="La Troncal::Cañar::Ecuador">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>-2.40</lat>
+      <lon>-79.33</lon>
+      <name>La Troncal</name>
+    </location>
+    <location name="Riobamba::Chimborazo::Ecuador">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>-1.67</lat>
+      <lon>-78.65</lon>
+      <name>Riobamba</name>
+    </location>
+    <location name="Eloy Alfaro::Guayas::Ecuador">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>-2.17</lat>
+      <lon>-79.83</lon>
+      <name>Eloy Alfaro</name>
+    </location>
+    <location name="Guayaquil::Guayas::Ecuador">
+      <cdi>3.4980</cdi>
+      <nresp>8</nresp>
+      <dist>114</dist>
+      <lat>-2.21</lat>
+      <lon>-79.90</lon>
+      <name>Guayaquil</name>
+    </location>
+    <location name="Milagro::Guayas::Ecuador">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>-2.18</lat>
+      <lon>-79.60</lon>
+      <name>Milagro</name>
+    </location>
+    <location name="Samborondón::Guayas::Ecuador">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>-1.95</lat>
+      <lon>-79.74</lon>
+      <name>Samborondón</name>
+    </location>
+    <location name="Santa Lucía::Guayas::Ecuador">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>-2.18</lat>
+      <lon>-80.00</lon>
+      <name>Santa Lucía</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Eškašem::Badaẖšan::Afghanistan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>192</dist>
+      <lat>36.72</lat>
+      <lon>71.56</lon>
+      <name>Eškašem</name>
+    </location>
+    <location name="Dushanbe::Dushanbe::Tajikistan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>360</dist>
+      <lat>38.57</lat>
+      <lon>68.78</lon>
+      <name>Dushanbe</name>
+    </location>
+    <location name="Kabul::Kabul::Afghanistan">
+      <cdi>2.8435</cdi>
+      <nresp>6</nresp>
+      <dist>361</dist>
+      <lat>34.53</lat>
+      <lon>69.17</lon>
+      <name>Kabul</name>
+    </location>
+    <location name="Mahmoud Raqui::Kāpīsā::Afghanistan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>320</dist>
+      <lat>35.02</lat>
+      <lon>69.32</lon>
+      <name>Mahmoud Raqui</name>
+    </location>
+    <location name="Jalal Abad::Nangarhār::Afghanistan">
+      <cdi>2.6912</cdi>
+      <nresp>5</nresp>
+      <dist>323</dist>
+      <lat>34.44</lat>
+      <lon>70.44</lon>
+      <name>Jalal Abad</name>
+    </location>
+    <location name="Kargil::Jammu and Kashmir::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>529</dist>
+      <lat>34.57</lat>
+      <lon>76.10</lon>
+      <name>Kargil</name>
+    </location>
+    <location name="Srīnagar::Jammu and Kashmir::India">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>468</dist>
+      <lat>34.09</lat>
+      <lon>74.79</lon>
+      <name>Srīnagar</name>
+    </location>
+    <location name="Islamabad::Federal Capital Area::Pakistan">
+      <cdi>3.1354</cdi>
+      <nresp>12</nresp>
+      <dist>412</dist>
+      <lat>33.72</lat>
+      <lon>73.06</lon>
+      <name>Islamabad</name>
+    </location>
+    <location name="Abottabad::North-West Frontier::Pakistan">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>380</dist>
+      <lat>34.15</lat>
+      <lon>73.20</lon>
+      <name>Abottabad</name>
+    </location>
+    <location name="Bat Khela::North-West Frontier::Pakistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>304</dist>
+      <lat>34.62</lat>
+      <lon>71.97</lon>
+      <name>Bat Khela</name>
+    </location>
+    <location name="Mingaora::North-West Frontier::Pakistan">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>300</dist>
+      <lat>34.78</lat>
+      <lon>72.36</lon>
+      <name>Mingaora</name>
+    </location>
+    <location name="Peshawar::North-West Frontier::Pakistan">
+      <cdi>2.8705</cdi>
+      <nresp>3</nresp>
+      <dist>353</dist>
+      <lat>34.01</lat>
+      <lon>71.54</lon>
+      <name>Peshawar</name>
+    </location>
+    <location name="Rawalpindi::Punjab::Pakistan">
+      <cdi>4.5936</cdi>
+      <nresp>4</nresp>
+      <dist>422</dist>
+      <lat>33.60</lat>
+      <lon>73.04</lon>
+      <name>Rawalpindi</name>
+    </location>
+    <location name="Taxila::Punjab::Pakistan">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>401</dist>
+      <lat>33.75</lat>
+      <lon>72.81</lon>
+      <name>Taxila</name>
+    </location>
+  </cdi>
+</cdidata>

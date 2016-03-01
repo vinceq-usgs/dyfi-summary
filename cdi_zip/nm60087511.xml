@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="38103">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>35.1531300717</lat>
+      <lon>-90.0524322514</lon>
+      <name>Memphis</name>
+      <state>TN</state>
+    </location>
+    <location name="63116">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>307</dist>
+      <lat>38.5813657619</lat>
+      <lon>-90.26426063</lon>
+      <name>Saint Louis</name>
+      <state>MO</state>
+    </location>
+    <location name="72442">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>8</dist>
+      <lat>35.833472649</lat>
+      <lon>-90.1898429078</lon>
+      <name>Manila</name>
+      <state>AR</state>
+    </location>
+  </cdi>
+</cdidata>

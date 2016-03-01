@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="La Rioja::La Rioja::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>466</dist>
+      <lat>-29.41</lat>
+      <lon>-66.85</lon>
+      <name>La Rioja</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>321</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="Coquimbo::Coquimbo::Chile">
+      <cdi>5.6318</cdi>
+      <nresp>3</nresp>
+      <dist>57</dist>
+      <lat>-29.96</lat>
+      <lon>-71.33</lon>
+      <name>Coquimbo</name>
+    </location>
+    <location name="Illapel::Coquimbo::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>-31.63</lat>
+      <lon>-71.17</lon>
+      <name>Illapel</name>
+    </location>
+    <location name="La Serena::Coquimbo::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>65</dist>
+      <lat>-29.90</lat>
+      <lon>-71.25</lon>
+      <name>La Serena</name>
+    </location>
+    <location name="Ovalle::Coquimbo::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>-30.59</lat>
+      <lon>-71.20</lon>
+      <name>Ovalle</name>
+    </location>
+    <location name="Vicuña::Coquimbo::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>-30.03</lat>
+      <lon>-70.74</lon>
+      <name>Vicuña</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>362</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="La Ligua::Valparaíso::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>244</dist>
+      <lat>-32.46</lat>
+      <lon>-71.24</lon>
+      <name>La Ligua</name>
+    </location>
+    <location name="Limache::Valparaíso::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>304</dist>
+      <lat>-33.02</lat>
+      <lon>-71.27</lon>
+      <name>Limache</name>
+    </location>
+    <location name="Villa Alemana::Valparaíso::Chile">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>306</dist>
+      <lat>-33.04</lat>
+      <lon>-71.36</lon>
+      <name>Villa Alemana</name>
+    </location>
+  </cdi>
+</cdidata>

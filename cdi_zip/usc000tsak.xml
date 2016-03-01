@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Manzanillo::Colima::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>269</dist>
+      <lat>19.05</lat>
+      <lon>-104.32</lon>
+      <name>Manzanillo</name>
+    </location>
+    <location name="Acapulco::Guerrero::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>761</dist>
+      <lat>16.85</lat>
+      <lon>-99.92</lon>
+      <name>Acapulco</name>
+    </location>
+    <location name="Las Juntas::Jalisco::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>240</dist>
+      <lat>19.42</lat>
+      <lon>-104.70</lon>
+      <name>Las Juntas</name>
+    </location>
+    <location name="Puerto Vallarta::Jalisco::Mexico">
+      <cdi>3.3287</cdi>
+      <nresp>4</nresp>
+      <dist>274</dist>
+      <lat>20.62</lat>
+      <lon>-105.23</lon>
+      <name>Puerto Vallarta</name>
+    </location>
+    <location name="Sayula::Jalisco::Mexico">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>364</dist>
+      <lat>19.87</lat>
+      <lon>-103.62</lon>
+      <name>Sayula</name>
+    </location>
+    <location name="TomatlÃ¡n::Jalisco::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>218</dist>
+      <lat>19.93</lat>
+      <lon>-105.25</lon>
+      <name>TomatlÃ¡n</name>
+    </location>
+    <location name="La PeÃ±ita de Jaltemba::Nayarit::Mexico">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>310</dist>
+      <lat>21.03</lat>
+      <lon>-105.25</lon>
+      <name>La PeÃ±ita de Jaltemba</name>
+    </location>
+  </cdi>
+</cdidata>

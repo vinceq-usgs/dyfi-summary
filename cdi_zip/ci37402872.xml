@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91709">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>11</dist>
+      <lat>33.9506356262</lat>
+      <lon>-117.725876809</lon>
+      <name>Chino Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="92276">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>33.8243534761</lat>
+      <lon>-116.379785656</lon>
+      <name>Thousand Palms</name>
+      <state>CA</state>
+    </location>
+    <location name="92530">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>33.607336889</lat>
+      <lon>-117.395832737</lon>
+      <name>Lake Elsinore</name>
+      <state>CA</state>
+    </location>
+    <location name="92808">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>33.8540046707</lat>
+      <lon>-117.736504362</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="92880">
+      <cdi>3.2484</cdi>
+      <nresp>6</nresp>
+      <dist>7</dist>
+      <lat>33.9212642945</lat>
+      <lon>-117.611282855</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+    <location name="92882">
+      <cdi>2.3235</cdi>
+      <nresp>10</nresp>
+      <dist>6</dist>
+      <lat>33.8417223767</lat>
+      <lon>-117.603890199</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+    <location name="92886">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>33.8966746216</lat>
+      <lon>-117.794755653</lon>
+      <name>Yorba Linda</name>
+      <state>CA</state>
+    </location>
+    <location name="92887">
+      <cdi>2.8973</cdi>
+      <nresp>5</nresp>
+      <dist>7</dist>
+      <lat>33.8838991479</lat>
+      <lon>-117.731763815</lon>
+      <name>Yorba Linda</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

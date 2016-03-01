@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Madang::Madang::Papua New Guinea">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>277</dist>
+      <lat>-5.23</lat>
+      <lon>145.79</lon>
+      <name>Madang</name>
+    </location>
+    <location name="Bulolo::Morobe::Papua New Guinea">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>323</dist>
+      <lat>-7.19</lat>
+      <lon>146.65</lon>
+      <name>Bulolo</name>
+    </location>
+    <location name="Lae::Morobe::Papua New Guinea">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>294</dist>
+      <lat>-6.72</lat>
+      <lon>146.99</lon>
+      <name>Lae</name>
+    </location>
+  </cdi>
+</cdidata>

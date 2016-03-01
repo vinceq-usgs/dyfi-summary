@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92116">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>449</dist>
+      <lat>32.7649498308</lat>
+      <lon>-117.123211061</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="93422">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>8</dist>
+      <lat>35.461913417</lat>
+      <lon>-120.681063363</lon>
+      <name>Atascadero</name>
+      <state>CA</state>
+    </location>
+    <location name="93428">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>35.5833958464</lat>
+      <lon>-121.019668707</lon>
+      <name>Cambria</name>
+      <state>CA</state>
+    </location>
+    <location name="93465">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>35.5339456121</lat>
+      <lon>-120.713341263</lon>
+      <name>Templeton</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

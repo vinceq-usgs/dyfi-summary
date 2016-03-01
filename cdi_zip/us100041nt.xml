@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Āīzawl::Mizoram::India">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>261</dist>
+      <lat>23.71</lat>
+      <lon>92.71</lon>
+      <name>Āīzawl</name>
+    </location>
+    <location name="Chauk::Magway::Myanmar">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>20.90</lat>
+      <lon>94.82</lon>
+      <name>Chauk</name>
+    </location>
+    <location name="Mandalay::Mandalay::Myanmar">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>145</dist>
+      <lat>21.98</lat>
+      <lon>96.09</lon>
+      <name>Mandalay</name>
+    </location>
+    <location name="Myingyan::Mandalay::Myanmar">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>21.46</lat>
+      <lon>95.39</lon>
+      <name>Myingyan</name>
+    </location>
+  </cdi>
+</cdidata>

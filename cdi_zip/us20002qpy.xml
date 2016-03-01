@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bhimeshwar::Dolakha::Nepal">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>27.67</lat>
+      <lon>86.03</lon>
+      <name>Bhimeshwar</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>3.1478</cdi>
+      <nresp>4</nresp>
+      <dist>39</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Banepa::Kavrepalanchok::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>27.63</lat>
+      <lon>85.52</lon>
+      <name>Banepa</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+  </cdi>
+</cdidata>

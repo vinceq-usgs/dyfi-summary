@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99501">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>46</dist>
+      <lat>61.2172381203</lat>
+      <lon>-149.869068212</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99502">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>61.158809373</lat>
+      <lon>-150.04667767</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99503">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>61.1880996048</lat>
+      <lon>-149.889156419</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99504">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>61.2040802623</lat>
+      <lon>-149.742978801</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99507">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>61.151181701</lat>
+      <lon>-149.77914819</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99508">
+      <cdi>2.9958</cdi>
+      <nresp>5</nresp>
+      <dist>48</dist>
+      <lat>61.2041909265</lat>
+      <lon>-149.812690714</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99515">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>51</dist>
+      <lat>61.1145748641</lat>
+      <lon>-149.893146119</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99516">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>61.0726161718</lat>
+      <lon>-149.715124965</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99517">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>61.1899261926</lat>
+      <lon>-149.936096257</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99518">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>49</dist>
+      <lat>61.1591909995</lat>
+      <lon>-149.884408774</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99567">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>59</dist>
+      <lat>61.4609962815</lat>
+      <lon>-149.330150001</lon>
+      <name>Chugiak</name>
+      <state>AK</state>
+    </location>
+    <location name="99577">
+      <cdi>2.1953</cdi>
+      <nresp>8</nresp>
+      <dist>61</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+    <location name="99654">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>47</dist>
+      <lat>61.5022894283</lat>
+      <lon>-149.796287978</lon>
+      <name>Wasilla</name>
+      <state>AK</state>
+    </location>
+    <location name="99701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>373</dist>
+      <lat>64.5124558489</lat>
+      <lon>-147.669565076</lon>
+      <name>Fairbanks</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

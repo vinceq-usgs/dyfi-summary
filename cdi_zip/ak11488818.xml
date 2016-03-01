@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>61.2172381203</lat>
+      <lon>-149.869068212</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99503">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>61.1880996048</lat>
+      <lon>-149.889156419</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99505">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>61.2716069287</lat>
+      <lon>-149.648334062</lon>
+      <name>Fort Richardson</name>
+      <state>AK</state>
+    </location>
+    <location name="99508">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>61.2041909265</lat>
+      <lon>-149.812690714</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99577">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+    <location name="99645">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>61.6828083589</lat>
+      <lon>-148.01052815</lon>
+      <name>Palmer</name>
+      <state>AK</state>
+    </location>
+    <location name="99676">
+      <cdi>2.9958</cdi>
+      <nresp>4</nresp>
+      <dist>36</dist>
+      <lat>62.1797503902</lat>
+      <lon>-149.889641836</lon>
+      <name>Talkeetna</name>
+      <state>AK</state>
+    </location>
+    <location name="99688">
+      <cdi>3.4156</cdi>
+      <nresp>2</nresp>
+      <dist>70</dist>
+      <lat>61.5775256877</lat>
+      <lon>-150.312380005</lon>
+      <name>Willow</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

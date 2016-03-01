@@ -1,0 +1,202 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="60616">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1023</dist>
+      <lat>41.8445307409</lat>
+      <lon>-87.6280149842</lon>
+      <name>Chicago</name>
+      <state>IL</state>
+    </location>
+    <location name="65721">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>419</dist>
+      <lat>36.9668831717</lat>
+      <lon>-93.1998481348</lon>
+      <name>Ozark</name>
+      <state>MO</state>
+    </location>
+    <location name="66045">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>303</dist>
+      <lat>38.956286394</lat>
+      <lon>-95.2520770496</lon>
+      <name>Lawrence</name>
+      <state>KS</state>
+    </location>
+    <location name="67003">
+      <cdi>3.2031</cdi>
+      <nresp>5</nresp>
+      <dist>17</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67004">
+      <cdi>2.5759</cdi>
+      <nresp>3</nresp>
+      <dist>21</dist>
+      <lat>37.2943035664</lat>
+      <lon>-97.7322661219</lon>
+      <name>Argonia</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>4.7710</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67049">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>37.1830286968</lat>
+      <lon>-97.8572620826</lon>
+      <name>Freeport</name>
+      <state>KS</state>
+    </location>
+    <location name="67058">
+      <cdi>2.4718</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>37.3066539451</lat>
+      <lon>-98.0003593977</lon>
+      <name>Harper</name>
+      <state>KS</state>
+    </location>
+    <location name="67060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67068">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.6025506169</lat>
+      <lon>-98.0596462589</lon>
+      <name>Kingman</name>
+      <state>KS</state>
+    </location>
+    <location name="67147">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>37.8628400574</lat>
+      <lon>-97.3052940713</lon>
+      <name>Valley Center</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67218">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67230">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>37.6867337481</lat>
+      <lon>-97.1712736112</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67349">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>37.5105124861</lat>
+      <lon>-96.2252791528</lon>
+      <name>Howard</name>
+      <state>KS</state>
+    </location>
+    <location name="67556">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>38.6312308126</lat>
+      <lon>-99.4814909769</lon>
+      <name>MC Cracken</name>
+      <state>KS</state>
+    </location>
+    <location name="67570">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>37.7831379546</lat>
+      <lon>-97.9713907509</lon>
+      <name>Pretty Prairie</name>
+      <state>KS</state>
+    </location>
+    <location name="74059">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>35.9797187465</lat>
+      <lon>-97.0916283661</lon>
+      <name>Perkins</name>
+      <state>OK</state>
+    </location>
+    <location name="74632">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>36.9433376764</lat>
+      <lon>-97.3377689146</lon>
+      <name>Braman</name>
+      <state>OK</state>
+    </location>
+    <location name="79901">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>992</dist>
+      <lat>31.7603541009</lat>
+      <lon>-106.479921292</lon>
+      <name>El Paso</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

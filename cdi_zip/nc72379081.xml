@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94530">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>37.9229540734</lat>
+      <lon>-122.292315771</lon>
+      <name>El Cerrito</name>
+      <state>CA</state>
+    </location>
+    <location name="94565">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>38.0179010375</lat>
+      <lon>-121.913733182</lon>
+      <name>Pittsburg</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94591">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>38.1137083826</lat>
+      <lon>-122.199613148</lon>
+      <name>Vallejo</name>
+      <state>CA</state>
+    </location>
+    <location name="94592">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>38.1226722615</lat>
+      <lon>-122.309090842</lon>
+      <name>Vallejo</name>
+      <state>CA</state>
+    </location>
+    <location name="95207">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>38.0022422575</lat>
+      <lon>-121.324992989</lon>
+      <name>Stockton</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

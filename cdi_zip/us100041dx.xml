@@ -1,0 +1,132 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Azua::Azua::Dominican Republic">
+      <cdi>2.4261</cdi>
+      <nresp>3</nresp>
+      <dist>31</dist>
+      <lat>18.46</lat>
+      <lon>-70.74</lon>
+      <name>Azua</name>
+    </location>
+    <location name="Las Charcas::Azua::Dominican Republic">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>18.45</lat>
+      <lon>-70.62</lon>
+      <name>Las Charcas</name>
+    </location>
+    <location name="Padre las Casas::Azua::Dominican Republic">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>18.73</lat>
+      <lon>-70.93</lon>
+      <name>Padre las Casas</name>
+    </location>
+    <location name="Palmar de Ocoa::Azua::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>18.30</lat>
+      <lon>-70.58</lon>
+      <name>Palmar de Ocoa</name>
+    </location>
+    <location name="Barahona::Barahona::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>18.21</lat>
+      <lon>-71.10</lon>
+      <name>Barahona</name>
+    </location>
+    <location name="San Francisco de Macorís::Duarte::Dominican Republic">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>19.30</lat>
+      <lon>-70.25</lon>
+      <name>San Francisco de Macorís</name>
+    </location>
+    <location name="Jarabacoa::La Vega::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>81</dist>
+      <lat>19.12</lat>
+      <lon>-70.64</lon>
+      <name>Jarabacoa</name>
+    </location>
+    <location name="Bonao::Monseñor Nouel::Dominican Republic">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>61</dist>
+      <lat>18.95</lat>
+      <lon>-70.41</lon>
+      <name>Bonao</name>
+    </location>
+    <location name="Matanzas::Peravia::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>18.23</lat>
+      <lon>-70.42</lon>
+      <name>Matanzas</name>
+    </location>
+    <location name="Sabana Buey::Peravia::Dominican Republic">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>18.27</lat>
+      <lon>-70.53</lon>
+      <name>Sabana Buey</name>
+    </location>
+    <location name="Cambita Garabitos::San Cristóbal::Dominican Republic">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>18.45</lat>
+      <lon>-70.20</lon>
+      <name>Cambita Garabitos</name>
+    </location>
+    <location name="El Carril::San Cristóbal::Dominican Republic">
+      <cdi>2.9257</cdi>
+      <nresp>9</nresp>
+      <dist>47</dist>
+      <lat>18.45</lat>
+      <lon>-70.02</lon>
+      <name>El Carril</name>
+    </location>
+    <location name="San Cristóbal::San Cristóbal::Dominican Republic">
+      <cdi>3.9543</cdi>
+      <nresp>3</nresp>
+      <dist>38</dist>
+      <lat>18.42</lat>
+      <lon>-70.11</lon>
+      <name>San Cristóbal</name>
+    </location>
+    <location name="San José de Ocoa::San José de Ocoa::Dominican Republic">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>18.55</lat>
+      <lon>-70.50</lon>
+      <name>San José de Ocoa</name>
+    </location>
+    <location name="Santiago::Santiago::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>19.48</lat>
+      <lon>-70.69</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Santo Domingo::Santo Domingo::Dominican Republic">
+      <cdi>2.9087</cdi>
+      <nresp>21</nresp>
+      <dist>59</dist>
+      <lat>18.48</lat>
+      <lon>-69.91</lon>
+      <name>Santo Domingo</name>
+    </location>
+  </cdi>
+</cdidata>

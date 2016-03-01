@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94110">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>37.7497940107</lat>
+      <lon>-122.415347766</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94928">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>38.3460394877</lat>
+      <lon>-122.694982993</lon>
+      <name>Rohnert Park</name>
+      <state>CA</state>
+    </location>
+    <location name="95422">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>38.9761110501</lat>
+      <lon>-122.543494727</lon>
+      <name>Clearlake</name>
+      <state>CA</state>
+    </location>
+    <location name="95448">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>38.6242156485</lat>
+      <lon>-122.848151425</lon>
+      <name>Healdsburg</name>
+      <state>CA</state>
+    </location>
+    <location name="95461">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>38.7666137401</lat>
+      <lon>-122.613153731</lon>
+      <name>Middletown</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

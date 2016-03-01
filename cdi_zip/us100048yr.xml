@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67361">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>37.158750341</lat>
+      <lon>-96.1587575273</lon>
+      <name>Sedan</name>
+      <state>KS</state>
+    </location>
+    <location name="67548">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>221</dist>
+      <lat>38.5313103728</lat>
+      <lon>-99.3642350231</lon>
+      <name>La Crosse</name>
+      <state>KS</state>
+    </location>
+    <location name="73129">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>35.4334811354</lat>
+      <lon>-97.4859931612</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

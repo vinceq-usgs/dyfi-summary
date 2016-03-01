@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="03221">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>43.2360166111</lat>
+      <lon>-71.9643779369</lon>
+      <name>Bradford</name>
+      <state>NH</state>
+    </location>
+    <location name="03229">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>43.1979635357</lat>
+      <lon>-71.6952720276</lon>
+      <name>Contoocook</name>
+      <state>NH</state>
+    </location>
+    <location name="03278">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>43.3135208277</lat>
+      <lon>-71.8512445139</lon>
+      <name>Warner</name>
+      <state>NH</state>
+    </location>
+    <location name="03303">
+      <cdi>2.8973</cdi>
+      <nresp>3</nresp>
+      <dist>9</dist>
+      <lat>43.2990651223</lat>
+      <lon>-71.6745411872</lon>
+      <name>Concord</name>
+      <state>NH</state>
+    </location>
+    <location name="05660">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>44.2528179861</lat>
+      <lon>-72.7524683296</lon>
+      <name>Moretown</name>
+      <state>VT</state>
+    </location>
+  </cdi>
+</cdidata>

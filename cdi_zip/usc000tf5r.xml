@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Barahona::Barahona::Dominican Republic">
+      <cdi>4.1165</cdi>
+      <nresp>3</nresp>
+      <dist>30</dist>
+      <lat>18.21</lat>
+      <lon>-71.10</lon>
+      <name>Barahona</name>
+    </location>
+    <location name="Cabral::Barahona::Dominican Republic">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>18.25</lat>
+      <lon>-71.22</lon>
+      <name>Cabral</name>
+    </location>
+    <location name="Santo Domingo::Santo Domingo::Dominican Republic">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>18.48</lat>
+      <lon>-69.91</lon>
+      <name>Santo Domingo</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="02740">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>41.6363082833</lat>
+      <lon>-70.9399830577</lon>
+      <name>New Bedford</name>
+      <state>MA</state>
+    </location>
+    <location name="02832">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>41.511780801</lat>
+      <lon>-71.7380167568</lon>
+      <name>Hope Valley</name>
+      <state>RI</state>
+    </location>
+    <location name="02905">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>41.7866157013</lat>
+      <lon>-71.4012298189</lon>
+      <name>Providence</name>
+      <state>RI</state>
+    </location>
+    <location name="06234">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>6</dist>
+      <lat>41.7864410589</lat>
+      <lon>-71.9534599328</lon>
+      <name>Brooklyn</name>
+      <state>CT</state>
+    </location>
+    <location name="06241">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>41.8573111223</lat>
+      <lon>-71.8493372026</lon>
+      <name>Dayville</name>
+      <state>CT</state>
+    </location>
+    <location name="06354">
+      <cdi>3.5503</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>41.7000507036</lat>
+      <lon>-71.8512458772</lon>
+      <name>Moosup</name>
+      <state>CT</state>
+    </location>
+    <location name="06371">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>41.3650749408</lat>
+      <lon>-72.3264942966</lon>
+      <name>Old Lyme</name>
+      <state>CT</state>
+    </location>
+    <location name="06374">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>8</dist>
+      <lat>41.680478525</lat>
+      <lon>-71.9143822285</lon>
+      <name>Plainfield</name>
+      <state>CT</state>
+    </location>
+    <location name="06512">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>41.2815714724</lat>
+      <lon>-72.8721675616</lon>
+      <name>East Haven</name>
+      <state>CT</state>
+    </location>
+    <location name="06854">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>41.0920546161</lat>
+      <lon>-73.4300884157</lon>
+      <name>Norwalk</name>
+      <state>CT</state>
+    </location>
+    <location name="17314">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>433</dist>
+      <lat>39.7536930743</lat>
+      <lon>-76.3291418707</lon>
+      <name>Delta</name>
+      <state>PA</state>
+    </location>
+  </cdi>
+</cdidata>

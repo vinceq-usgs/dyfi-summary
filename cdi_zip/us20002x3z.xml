@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="75038">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75039">
+      <cdi>3.0280</cdi>
+      <nresp>6</nresp>
+      <dist>10</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75062">
+      <cdi>2.8973</cdi>
+      <nresp>4</nresp>
+      <dist>11</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75202">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>32.7798236064</lat>
+      <lon>-96.8036799513</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75206">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>32.8313497644</lat>
+      <lon>-96.7702890067</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75209">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>32.8487972366</lat>
+      <lon>-96.8263010441</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75219">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>32.8108181032</lat>
+      <lon>-96.8131670043</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75234">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>32.9238373245</lat>
+      <lon>-96.8903418275</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76259">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>33.2007470051</lat>
+      <lon>-97.3056702212</lon>
+      <name>Ponder</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

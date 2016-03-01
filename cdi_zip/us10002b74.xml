@@ -1,0 +1,41 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99801">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>177</dist>
+      <lat>58.4664469596</lat>
+      <lon>-134.152275105</lon>
+      <name>Juneau</name>
+      <state>AK</state>
+    </location>
+    <location name="99824">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>183</dist>
+      <lat>58.2732995137</lat>
+      <lon>-134.39908258</lon>
+      <name>Douglas</name>
+      <state>AK</state>
+    </location>
+    <location name="99827">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>71</dist>
+      <lat>59.1322459297</lat>
+      <lon>-135.503955347</lon>
+      <name>Haines</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Whitehorse::Yukon::Canada">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>60.73</lat>
+      <lon>-135.05</lon>
+      <name>Whitehorse</name>
+    </location>
+  </cdi>
+</cdidata>

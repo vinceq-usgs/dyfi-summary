@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93101">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>426</dist>
+      <lat>34.4191407254</lat>
+      <lon>-119.707077041</lon>
+      <name>Santa Barbara</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2.0224</cdi>
+      <nresp>7</nresp>
+      <dist>9</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94517">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.8871865959</lat>
+      <lon>-121.891196525</lon>
+      <name>Clayton</name>
+      <state>CA</state>
+    </location>
+    <location name="94523">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>37.9543225437</lat>
+      <lon>-122.07630293</lon>
+      <name>Pleasant Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.4947</cdi>
+      <nresp>9</nresp>
+      <dist>8</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94549">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>37.9011071203</lat>
+      <lon>-122.117193174</lon>
+      <name>Lafayette</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.7992</cdi>
+      <nresp>8</nresp>
+      <dist>10</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.7053</cdi>
+      <nresp>12</nresp>
+      <dist>9</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95407">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>38.3945264359</lat>
+      <lon>-122.742813614</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

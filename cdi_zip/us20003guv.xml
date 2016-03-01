@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="63052">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>643</dist>
+      <lat>38.3891660392</lat>
+      <lon>-90.4346522675</lon>
+      <name>Imperial</name>
+      <state>MO</state>
+    </location>
+    <location name="67013">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>37.3907583526</lat>
+      <lon>-97.30073702</lon>
+      <name>Belle Plaine</name>
+      <state>KS</state>
+    </location>
+    <location name="67022">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>37.0959484612</lat>
+      <lon>-97.6546725248</lon>
+      <name>Caldwell</name>
+      <state>KS</state>
+    </location>
+    <location name="67104">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>37.2606371884</lat>
+      <lon>-98.6266446204</lon>
+      <name>Medicine Lodge</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

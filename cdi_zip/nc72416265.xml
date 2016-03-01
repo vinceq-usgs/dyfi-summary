@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94089">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>37.4246122205</lat>
+      <lon>-122.016134078</lon>
+      <name>Sunnyvale</name>
+      <state>CA</state>
+    </location>
+    <location name="94306">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.4155871746</lat>
+      <lon>-122.129213588</lon>
+      <name>Palo Alto</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95008">
+      <cdi>2.3330</cdi>
+      <nresp>3</nresp>
+      <dist>28</dist>
+      <lat>37.2799654858</lat>
+      <lon>-121.954633222</lon>
+      <name>Campbell</name>
+      <state>CA</state>
+    </location>
+    <location name="95032">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>37.2152832761</lat>
+      <lon>-121.929411862</lon>
+      <name>Los Gatos</name>
+      <state>CA</state>
+    </location>
+    <location name="95037">
+      <cdi>2.8973</cdi>
+      <nresp>3</nresp>
+      <dist>12</dist>
+      <lat>37.1634138038</lat>
+      <lon>-121.605115684</lon>
+      <name>Morgan Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="95117">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>37.311538125</lat>
+      <lon>-121.962131392</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95124">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>37.2566587072</lat>
+      <lon>-121.922919551</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95125">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.2949823535</lat>
+      <lon>-121.893341858</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95128">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>37.3162104971</lat>
+      <lon>-121.936547909</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95129">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>37.3058892635</lat>
+      <lon>-122.00172322</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95135">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>37.2832817723</lat>
+      <lon>-121.710295543</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95138">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>11</dist>
+      <lat>37.2477925948</lat>
+      <lon>-121.738204824</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95148">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>37.3350690573</lat>
+      <lon>-121.776125193</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

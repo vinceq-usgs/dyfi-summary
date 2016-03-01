@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Göteborg::Västra Götaland::Sweden">
+      <cdi>3.1071</cdi>
+      <nresp>26</nresp>
+      <dist>17</dist>
+      <lat>57.72</lat>
+      <lon>12.01</lon>
+      <name>Göteborg</name>
+    </location>
+    <location name="Kungsbacka::Västra Götaland::Sweden">
+      <cdi>2.3892</cdi>
+      <nresp>5</nresp>
+      <dist>35</dist>
+      <lat>57.51</lat>
+      <lon>12.10</lon>
+      <name>Kungsbacka</name>
+    </location>
+    <location name="Kungälv::Västra Götaland::Sweden">
+      <cdi>2.2534</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>57.87</lat>
+      <lon>11.99</lon>
+      <name>Kungälv</name>
+    </location>
+  </cdi>
+</cdidata>

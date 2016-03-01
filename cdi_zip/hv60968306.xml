@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96720">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>41</dist>
+      <lat>19.6696050142</lat>
+      <lon>-155.307460679</lon>
+      <name>Hilo</name>
+      <state>HI</state>
+    </location>
+    <location name="96727">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>20.0606169257</lat>
+      <lon>-155.542666088</lon>
+      <name>Honokaa</name>
+      <state>HI</state>
+    </location>
+    <location name="96743">
+      <cdi>2.6484</cdi>
+      <nresp>2</nresp>
+      <dist>88</dist>
+      <lat>19.931537941</lat>
+      <lon>-155.724082526</lon>
+      <name>Kamuela</name>
+      <state>HI</state>
+    </location>
+    <location name="96749">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>19.6195044849</lat>
+      <lon>-155.001476088</lon>
+      <name>Keaau</name>
+      <state>HI</state>
+    </location>
+    <location name="96772">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>19.0812641122</lat>
+      <lon>-155.68553121</lon>
+      <name>Naalehu</name>
+      <state>HI</state>
+    </location>
+    <location name="96777">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>19.3047605678</lat>
+      <lon>-155.53670851</lon>
+      <name>Pahala</name>
+      <state>HI</state>
+    </location>
+    <location name="96778">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>19.4316020081</lat>
+      <lon>-155.011419042</lon>
+      <name>Pahoa</name>
+      <state>HI</state>
+    </location>
+    <location name="96785">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>19.4941740559</lat>
+      <lon>-155.209215778</lon>
+      <name>Volcano</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

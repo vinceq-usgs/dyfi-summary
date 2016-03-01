@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73766">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>36.6449772352</lat>
+      <lon>-97.8293452875</lon>
+      <name>Pond Creek</name>
+      <state>OK</state>
+    </location>
+    <location name="75038">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>428</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75050">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>439</dist>
+      <lat>32.7738615288</lat>
+      <lon>-97.0035318416</lon>
+      <name>Grand Prairie</name>
+      <state>TX</state>
+    </location>
+    <location name="75204">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>439</dist>
+      <lat>32.802015297</lat>
+      <lon>-96.7890399543</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75218">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>436</dist>
+      <lat>32.8414651641</lat>
+      <lon>-96.7035024471</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75261">
+      <cdi>3.4611</cdi>
+      <nresp>3</nresp>
+      <dist>425</dist>
+      <lat>32.8914944597</lat>
+      <lon>-97.0395727373</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76179">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>420</dist>
+      <lat>32.9101452175</lat>
+      <lon>-97.4356745067</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

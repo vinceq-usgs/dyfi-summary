@@ -1,0 +1,247 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90021">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>34.0292231184</lat>
+      <lon>-118.238808216</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90024">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>34.0653110033</lat>
+      <lon>-118.435043099</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90034">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>34.0306792567</lat>
+      <lon>-118.399508404</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90232">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>34.0179145665</lat>
+      <lon>-118.391987459</lon>
+      <name>Culver City</name>
+      <state>CA</state>
+    </location>
+    <location name="90254">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>33.8652373721</lat>
+      <lon>-118.396575558</lon>
+      <name>Hermosa Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90265">
+      <cdi>2.3731</cdi>
+      <nresp>19</nresp>
+      <dist>14</dist>
+      <lat>34.0655705594</lat>
+      <lon>-118.816415475</lon>
+      <name>Malibu</name>
+      <state>CA</state>
+    </location>
+    <location name="90274">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>33.7704196459</lat>
+      <lon>-118.372052005</lon>
+      <name>Palos Verdes Peninsula</name>
+      <state>CA</state>
+    </location>
+    <location name="90290">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>34.1018510004</lat>
+      <lon>-118.611557369</lon>
+      <name>Topanga</name>
+      <state>CA</state>
+    </location>
+    <location name="90292">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>33.9712908882</lat>
+      <lon>-118.445270979</lon>
+      <name>Marina del Rey</name>
+      <state>CA</state>
+    </location>
+    <location name="90402">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>34.0350384699</lat>
+      <lon>-118.503422688</lon>
+      <name>Santa Monica</name>
+      <state>CA</state>
+    </location>
+    <location name="90623">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>33.8504803622</lat>
+      <lon>-118.040965967</lon>
+      <name>La Palma</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="90802">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>33.7546211793</lat>
+      <lon>-118.21110738</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91301">
+      <cdi>3.1403</cdi>
+      <nresp>10</nresp>
+      <dist>18</dist>
+      <lat>34.1361998919</lat>
+      <lon>-118.756948731</lon>
+      <name>Agoura Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91302">
+      <cdi>2.2094</cdi>
+      <nresp>7</nresp>
+      <dist>18</dist>
+      <lat>34.1246741688</lat>
+      <lon>-118.673621553</lon>
+      <name>Calabasas</name>
+      <state>CA</state>
+    </location>
+    <location name="91307">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>34.2051664726</lat>
+      <lon>-118.678626044</lon>
+      <name>West Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91335">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>34.2013216277</lat>
+      <lon>-118.540688744</lon>
+      <name>Reseda</name>
+      <state>CA</state>
+    </location>
+    <location name="91352">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>34.2303053601</lat>
+      <lon>-118.354355711</lon>
+      <name>Sun Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="91360">
+      <cdi>2.1813</cdi>
+      <nresp>8</nresp>
+      <dist>28</dist>
+      <lat>34.2140411905</lat>
+      <lon>-118.880791506</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91361">
+      <cdi>2.2318</cdi>
+      <nresp>12</nresp>
+      <dist>22</dist>
+      <lat>34.1460007715</lat>
+      <lon>-118.878229817</lon>
+      <name>Westlake Village</name>
+      <state>CA</state>
+    </location>
+    <location name="91362">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>24</dist>
+      <lat>34.1924686909</lat>
+      <lon>-118.819449981</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91367">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>34.176389334</lat>
+      <lon>-118.61601363</lon>
+      <name>Woodland Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91761">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>34.0345221452</lat>
+      <lon>-117.592677765</lon>
+      <name>Ontario</name>
+      <state>CA</state>
+    </location>
+    <location name="92653">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>33.5924974021</lat>
+      <lon>-117.698979129</lon>
+      <name>Laguna Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="92861">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>33.8173330286</lat>
+      <lon>-117.81014267</lon>
+      <name>Villa Park</name>
+      <state>CA</state>
+    </location>
+    <location name="93060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>34.379815241</lat>
+      <lon>-119.104200228</lon>
+      <name>Santa Paula</name>
+      <state>CA</state>
+    </location>
+    <location name="93551">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>34.5951350338</lat>
+      <lon>-118.222061274</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

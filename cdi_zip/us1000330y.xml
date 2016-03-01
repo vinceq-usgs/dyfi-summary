@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="39046">
+      <cdi>2.1052</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>32.6326772271</lat>
+      <lon>-89.9922581977</lon>
+      <name>Canton</name>
+      <state>MS</state>
+    </location>
+    <location name="39110">
+      <cdi>2.8973</cdi>
+      <nresp>3</nresp>
+      <dist>6</dist>
+      <lat>32.5021313703</lat>
+      <lon>-90.1293151174</lon>
+      <name>Madison</name>
+      <state>MS</state>
+    </location>
+    <location name="39232">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>32.3207785313</lat>
+      <lon>-90.0978478008</lon>
+      <name>Flowood</name>
+      <state>MS</state>
+    </location>
+  </cdi>
+</cdidata>

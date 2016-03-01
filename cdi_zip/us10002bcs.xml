@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Logon::Central Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>11.33</lat>
+      <lon>124.12</lon>
+      <name>Logon</name>
+    </location>
+    <location name="Mandawa::Central Visayas::Philippines">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>10.32</lat>
+      <lon>123.92</lon>
+      <name>Mandawa</name>
+    </location>
+    <location name="Balaquid::Eastern Visayas::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>11.47</lat>
+      <lon>124.51</lon>
+      <name>Balaquid</name>
+    </location>
+    <location name="Caraycaray::Eastern Visayas::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>11.56</lat>
+      <lon>124.42</lon>
+      <name>Caraycaray</name>
+    </location>
+    <location name="San Antonio (Basey, Samar)::Eastern Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>11.28</lat>
+      <lon>125.01</lon>
+      <name>San Antonio (Basey, Samar)</name>
+    </location>
+    <location name="Tabango::Eastern Visayas::Philippines">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>11.31</lat>
+      <lon>124.37</lon>
+      <name>Tabango</name>
+    </location>
+  </cdi>
+</cdidata>

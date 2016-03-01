@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bulnes::Bío Bío::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>-36.74</lat>
+      <lon>-72.30</lon>
+      <name>Bulnes</name>
+    </location>
+    <location name="Cabrero::Bío Bío::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>-37.04</lat>
+      <lon>-72.41</lon>
+      <name>Cabrero</name>
+    </location>
+    <location name="Chiguayante::Bío Bío::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>-36.90</lat>
+      <lon>-73.04</lon>
+      <name>Chiguayante</name>
+    </location>
+    <location name="Chillán::Bío Bío::Chile">
+      <cdi>2.7958</cdi>
+      <nresp>4</nresp>
+      <dist>79</dist>
+      <lat>-36.60</lat>
+      <lon>-72.11</lon>
+      <name>Chillán</name>
+    </location>
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>3.2394</cdi>
+      <nresp>7</nresp>
+      <dist>58</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+  </cdi>
+</cdidata>

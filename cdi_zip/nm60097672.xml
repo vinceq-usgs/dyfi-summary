@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="42056">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>37.1022657565</lat>
+      <lon>-88.982960648</lon>
+      <name>La Center</name>
+      <state>KY</state>
+    </location>
+    <location name="42087">
+      <cdi>2.7194</cdi>
+      <nresp>3</nresp>
+      <dist>9</dist>
+      <lat>36.9704624059</lat>
+      <lon>-88.9974030772</lon>
+      <name>Wickliffe</name>
+      <state>KY</state>
+    </location>
+  </cdi>
+</cdidata>

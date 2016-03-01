@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98107">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>47.6682113569</lat>
+      <lon>-122.377232272</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98816">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>47.7805802822</lat>
+      <lon>-120.139980982</lon>
+      <name>Chelan</name>
+      <state>WA</state>
+    </location>
+    <location name="98822">
+      <cdi>2.8973</cdi>
+      <nresp>11</nresp>
+      <dist>23</dist>
+      <lat>47.8630472143</lat>
+      <lon>-120.460683233</lon>
+      <name>Entiat</name>
+      <state>WA</state>
+    </location>
+    <location name="98843">
+      <cdi>3.5171</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>47.7561254646</lat>
+      <lon>-120.055833006</lon>
+      <name>Orondo</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

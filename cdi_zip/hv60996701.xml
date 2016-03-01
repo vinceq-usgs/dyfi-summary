@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96738">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>33</dist>
+      <lat>19.9278736268</lat>
+      <lon>-155.809803675</lon>
+      <name>Waikoloa</name>
+      <state>HI</state>
+    </location>
+    <location name="96743">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>39</dist>
+      <lat>19.931537941</lat>
+      <lon>-155.724082526</lon>
+      <name>Kamuela</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

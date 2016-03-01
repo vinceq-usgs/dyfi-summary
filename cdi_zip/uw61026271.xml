@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98011">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>47.7530421628</lat>
+      <lon>-122.201309174</lon>
+      <name>Bothell</name>
+      <state>WA</state>
+    </location>
+    <location name="98107">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>47.6682113569</lat>
+      <lon>-122.377232272</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98119">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>47.6388850773</lat>
+      <lon>-122.368991303</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98223">
+      <cdi>2.2047</cdi>
+      <nresp>3</nresp>
+      <dist>19</dist>
+      <lat>48.2072560911</lat>
+      <lon>-121.949170135</lon>
+      <name>Arlington</name>
+      <state>WA</state>
+    </location>
+    <location name="98270">
+      <cdi>2.5465</cdi>
+      <nresp>4</nresp>
+      <dist>31</dist>
+      <lat>48.0598869791</lat>
+      <lon>-122.150372373</lon>
+      <name>Marysville</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

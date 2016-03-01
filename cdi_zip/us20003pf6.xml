@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Coonawarra::Northern Territory::Australia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>592</dist>
+      <lat>-12.38</lat>
+      <lon>130.88</lon>
+      <name>Coonawarra</name>
+    </location>
+    <location name="Darwin::Northern Territory::Australia">
+      <cdi>2.8299</cdi>
+      <nresp>4</nresp>
+      <dist>597</dist>
+      <lat>-12.43</lat>
+      <lon>130.85</lon>
+      <name>Darwin</name>
+    </location>
+  </cdi>
+</cdidata>

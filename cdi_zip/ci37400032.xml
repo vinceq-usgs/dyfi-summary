@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>219</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="91335">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>34.2013216277</lat>
+      <lon>-118.540688744</lon>
+      <name>Reseda</name>
+      <state>CA</state>
+    </location>
+    <location name="91942">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>330</dist>
+      <lat>32.7832726591</lat>
+      <lon>-117.016761918</lon>
+      <name>La Mesa</name>
+      <state>CA</state>
+    </location>
+    <location name="92344">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>34.3912903882</lat>
+      <lon>-117.405087704</lon>
+      <name>Hesperia</name>
+      <state>CA</state>
+    </location>
+    <location name="92630">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>230</dist>
+      <lat>33.6460770575</lat>
+      <lon>-117.685681724</lon>
+      <name>Lake Forest</name>
+      <state>CA</state>
+    </location>
+    <location name="93527">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>35.7073738918</lat>
+      <lon>-117.929379267</lon>
+      <name>Inyokern</name>
+      <state>CA</state>
+    </location>
+    <location name="93555">
+      <cdi>2.5847</cdi>
+      <nresp>47</nresp>
+      <dist>16</dist>
+      <lat>35.6917311746</lat>
+      <lon>-117.449167256</lon>
+      <name>Ridgecrest</name>
+      <state>CA</state>
+    </location>
+    <location name="93562">
+      <cdi>3.0408</cdi>
+      <nresp>3</nresp>
+      <dist>24</dist>
+      <lat>35.6726058531</lat>
+      <lon>-117.356896537</lon>
+      <name>Trona</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

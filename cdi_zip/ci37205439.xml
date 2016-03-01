@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91740">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>34.1185404722</lat>
+      <lon>-117.853681417</lon>
+      <name>Glendora</name>
+      <state>CA</state>
+    </location>
+    <location name="93015">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>34.4166996489</lat>
+      <lon>-118.845730509</lon>
+      <name>Fillmore</name>
+      <state>CA</state>
+    </location>
+    <location name="94586">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>437</dist>
+      <lat>37.5617179945</lat>
+      <lon>-121.873674489</lon>
+      <name>Sunol</name>
+      <state>CA</state>
+    </location>
+    <location name="95035">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>423</dist>
+      <lat>37.4377791393</lat>
+      <lon>-121.817111415</lon>
+      <name>Milpitas</name>
+      <state>CA</state>
+    </location>
+    <location name="95127">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>416</dist>
+      <lat>37.3754477437</lat>
+      <lon>-121.794143031</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

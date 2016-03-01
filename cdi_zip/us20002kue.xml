@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cabo San Lucas::Baja California Sur::Mexico">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>22.88</lat>
+      <lon>-109.90</lon>
+      <name>Cabo San Lucas</name>
+    </location>
+    <location name="La Paz::Baja California Sur::Mexico">
+      <cdi>2.6051</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>24.14</lat>
+      <lon>-110.32</lon>
+      <name>La Paz</name>
+    </location>
+    <location name="Los Cabos::Baja California Sur::Mexico">
+      <cdi>2.8401</cdi>
+      <nresp>4</nresp>
+      <dist>126</dist>
+      <lat>23.16</lat>
+      <lon>-109.73</lon>
+      <name>Los Cabos</name>
+    </location>
+    <location name="Todos Santos::Baja California Sur::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>157</dist>
+      <lat>23.45</lat>
+      <lon>-110.22</lon>
+      <name>Todos Santos</name>
+    </location>
+  </cdi>
+</cdidata>

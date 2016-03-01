@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Biao::Southern Mindanao::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>7.16</lat>
+      <lon>125.52</lon>
+      <name>Biao</name>
+    </location>
+    <location name="Canocotan::Southern Mindanao::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>7.40</lat>
+      <lon>125.77</lon>
+      <name>Canocotan</name>
+    </location>
+    <location name="Dacudao::Southern Mindanao::Philippines">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>7.22</lat>
+      <lon>125.47</lon>
+      <name>Dacudao</name>
+    </location>
+    <location name="Davao::Southern Mindanao::Philippines">
+      <cdi>3.4583</cdi>
+      <nresp>4</nresp>
+      <dist>34</dist>
+      <lat>7.11</lat>
+      <lon>125.63</lon>
+      <name>Davao</name>
+    </location>
+    <location name="Inawayan::Southern Mindanao::Philippines">
+      <cdi>4.2355</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>6.96</lat>
+      <lon>125.47</lon>
+      <name>Inawayan</name>
+    </location>
+    <location name="Lacson::Southern Mindanao::Philippines">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>7.21</lat>
+      <lon>125.44</lon>
+      <name>Lacson</name>
+    </location>
+    <location name="Pundaguitan::Southern Mindanao::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>6.36</lat>
+      <lon>126.18</lon>
+      <name>Pundaguitan</name>
+    </location>
+    <location name="Ula::Southern Mindanao::Philippines">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>7.13</lat>
+      <lon>125.49</lon>
+      <name>Ula</name>
+    </location>
+  </cdi>
+</cdidata>

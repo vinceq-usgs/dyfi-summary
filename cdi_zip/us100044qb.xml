@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kashiwa::Chiba::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>35.87</lat>
+      <lon>139.97</lon>
+      <name>Kashiwa</name>
+    </location>
+    <location name="Hitachi::Ibaraki::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>36.59</lat>
+      <lon>140.66</lon>
+      <name>Hitachi</name>
+    </location>
+    <location name="Hitachinaka::Ibaraki::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>36.40</lat>
+      <lon>140.52</lon>
+      <name>Hitachinaka</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>71</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Tsukuba::Ibaraki::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>36.21</lat>
+      <lon>140.09</lon>
+      <name>Tsukuba</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>114</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="85310">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>33.7031304592</lat>
+      <lon>-112.174251227</lon>
+      <name>Glendale</name>
+      <state>AZ</state>
+    </location>
+    <location name="85351">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>33.604856029</lat>
+      <lon>-112.283600869</lon>
+      <name>Sun City</name>
+      <state>AZ</state>
+    </location>
+    <location name="86001">
+      <cdi>2.2833</cdi>
+      <nresp>22</nresp>
+      <dist>60</dist>
+      <lat>35.49396176</lat>
+      <lon>-111.725284689</lon>
+      <name>Flagstaff</name>
+      <state>AZ</state>
+    </location>
+    <location name="86314">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>34.6574908458</lat>
+      <lon>-112.311319942</lon>
+      <name>Prescott Valley</name>
+      <state>AZ</state>
+    </location>
+    <location name="86325">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>27</dist>
+      <lat>34.7395701188</lat>
+      <lon>-111.903138452</lon>
+      <name>Cornville</name>
+      <state>AZ</state>
+    </location>
+    <location name="86336">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>51</dist>
+      <lat>34.6953686946</lat>
+      <lon>-111.292392829</lon>
+      <name>Sedona</name>
+      <state>AZ</state>
+    </location>
+  </cdi>
+</cdidata>

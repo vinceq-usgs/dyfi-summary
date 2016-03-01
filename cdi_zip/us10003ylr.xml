@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66223">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>448</dist>
+      <lat>38.8619304144</lat>
+      <lon>-94.6678127337</lon>
+      <name>Overland Park</name>
+      <state>KS</state>
+    </location>
+    <location name="67035">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>37.6434815446</lat>
+      <lon>-98.4073286798</lon>
+      <name>Cunningham</name>
+      <state>KS</state>
+    </location>
+    <location name="74036">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>290</dist>
+      <lat>36.1651113618</lat>
+      <lon>-95.5148752878</lon>
+      <name>Inola</name>
+      <state>OK</state>
+    </location>
+    <location name="75062">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>429</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>428</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

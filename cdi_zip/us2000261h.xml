@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bariloche::Río Negro::Argentina">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>233</dist>
+      <lat>-41.14</lat>
+      <lon>-71.32</lon>
+      <name>Bariloche</name>
+    </location>
+    <location name="Río Bueno::Los Lagos::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>-40.34</lat>
+      <lon>-72.96</lon>
+      <name>Río Bueno</name>
+    </location>
+    <location name="Valdivia::Los Lagos::Chile">
+      <cdi>2.9152</cdi>
+      <nresp>23</nresp>
+      <dist>62</dist>
+      <lat>-39.82</lat>
+      <lon>-73.23</lon>
+      <name>Valdivia</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67004">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>37.2943035664</lat>
+      <lon>-97.7322661219</lon>
+      <name>Argonia</name>
+      <state>KS</state>
+    </location>
+    <location name="73120">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>140</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74133">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>231</dist>
+      <lat>36.0413422515</lat>
+      <lon>-95.8789406288</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

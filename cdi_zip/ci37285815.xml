@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91906">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>32.6963449382</lat>
+      <lon>-116.516757429</lon>
+      <name>Campo</name>
+      <state>CA</state>
+    </location>
+    <location name="92008">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>33.1466607065</lat>
+      <lon>-117.31838967</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="92121">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>32.8981065391</lat>
+      <lon>-117.201573296</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92211">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>33.7642960411</lat>
+      <lon>-116.330157044</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92257">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.3535865326</lat>
+      <lon>-115.676326202</lon>
+      <name>Niland</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

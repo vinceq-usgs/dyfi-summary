@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67210">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>37.6332691731</lat>
+      <lon>-97.2435551436</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73007">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>74</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>65</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="74644">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>36.5500488707</lat>
+      <lon>-97.0587219188</lon>
+      <name>Marland</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

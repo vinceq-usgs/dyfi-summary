@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67133">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>37.5767304997</lat>
+      <lon>-97.1039969268</lon>
+      <name>Rose Hill</name>
+      <state>KS</state>
+    </location>
+    <location name="73726">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>36.5952202687</lat>
+      <lon>-98.4585467157</lon>
+      <name>Carmen</name>
+      <state>OK</state>
+    </location>
+    <location name="74032">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>36.2090916512</lat>
+      <lon>-96.9126312998</lon>
+      <name>Glencoe</name>
+      <state>OK</state>
+    </location>
+    <location name="74033">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>35.9417995052</lat>
+      <lon>-96.0044757526</lon>
+      <name>Glenpool</name>
+      <state>OK</state>
+    </location>
+    <location name="74105">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>222</dist>
+      <lat>36.097220527</lat>
+      <lon>-95.9631988411</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

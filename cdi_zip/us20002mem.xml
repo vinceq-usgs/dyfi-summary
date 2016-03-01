@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73012">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.1348</cdi>
+      <nresp>17</nresp>
+      <dist>15</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.5204</cdi>
+      <nresp>10</nresp>
+      <dist>8</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74077">
+      <cdi>3.3637</cdi>
+      <nresp>4</nresp>
+      <dist>10</dist>
+      <lat>36.1228033078</lat>
+      <lon>-97.0706479473</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

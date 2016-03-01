@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67337">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>210</dist>
+      <lat>37.0663877064</lat>
+      <lon>-95.5833762816</lon>
+      <name>Coffeyville</name>
+      <state>KS</state>
+    </location>
+    <location name="73034">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>33</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73170">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>35.3273748202</lat>
+      <lon>-97.55027554</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74008">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>35.9148562447</lat>
+      <lon>-95.8381122962</lon>
+      <name>Bixby</name>
+      <state>OK</state>
+    </location>
+    <location name="74011">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>35.9844979881</lat>
+      <lon>-95.8098860351</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74014">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>165</dist>
+      <lat>36.0489735158</lat>
+      <lon>-95.688743227</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74036">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>36.1651113618</lat>
+      <lon>-95.5148752878</lon>
+      <name>Inola</name>
+      <state>OK</state>
+    </location>
+    <location name="74127">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>134</dist>
+      <lat>36.1716076469</lat>
+      <lon>-96.045630502</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74135">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>36.0971002866</lat>
+      <lon>-95.9223153955</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74136">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>142</dist>
+      <lat>36.0617672231</lat>
+      <lon>-95.9409568667</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74137">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>143</dist>
+      <lat>36.0208833454</lat>
+      <lon>-95.92912403</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74145">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>36.0971666331</lat>
+      <lon>-95.8865384194</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74429">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>35.9667101244</lat>
+      <lon>-95.6168258577</lon>
+      <name>Coweta</name>
+      <state>OK</state>
+    </location>
+    <location name="74447">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>35.6437227585</lat>
+      <lon>-96.0354113646</lon>
+      <name>Okmulgee</name>
+      <state>OK</state>
+    </location>
+    <location name="74561">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>207</dist>
+      <lat>35.1199484815</lat>
+      <lon>-95.4947643817</lon>
+      <name>Quinton</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

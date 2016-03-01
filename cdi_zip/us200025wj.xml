@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Nitta::Gumma::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>36.30</lat>
+      <lon>139.31</lon>
+      <name>Nitta</name>
+    </location>
+    <location name="Ōta::Gumma::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>36.30</lat>
+      <lon>139.38</lon>
+      <name>Ōta</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>195</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Yokohama::Kanagawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>194</dist>
+      <lat>35.47</lat>
+      <lon>139.62</lon>
+      <name>Yokohama</name>
+    </location>
+    <location name="Yokosuka::Kanagawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>208</dist>
+      <lat>35.27</lat>
+      <lon>139.67</lon>
+      <name>Yokosuka</name>
+    </location>
+    <location name="Chōfu::Tokio::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>35.65</lat>
+      <lon>139.55</lon>
+      <name>Chōfu</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>189</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Barabazar::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>704</dist>
+      <lat>22.57</lat>
+      <lon>88.35</lon>
+      <name>Barabazar</name>
+    </location>
+    <location name="Dilli Cantonment::Delhi::India">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>743</dist>
+      <lat>28.57</lat>
+      <lon>77.16</lon>
+      <name>Dilli Cantonment</name>
+    </location>
+    <location name="Sidhi::Madhya Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>486</dist>
+      <lat>24.42</lat>
+      <lon>81.88</lon>
+      <name>Sidhi</name>
+    </location>
+    <location name="Bansgaon::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>209</dist>
+      <lat>26.55</lat>
+      <lon>83.35</lon>
+      <name>Bansgaon</name>
+    </location>
+    <location name="Tanda::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>259</dist>
+      <lat>26.55</lat>
+      <lon>82.65</lon>
+      <name>Tanda</name>
+    </location>
+  </cdi>
+</cdidata>

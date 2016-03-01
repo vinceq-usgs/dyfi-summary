@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66762">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>263</dist>
+      <lat>37.3931133972</lat>
+      <lon>-94.7060186584</lon>
+      <name>Pittsburg</name>
+      <state>KS</state>
+    </location>
+    <location name="67801">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>232</dist>
+      <lat>37.7120933667</lat>
+      <lon>-100.064093481</lon>
+      <name>Dodge City</name>
+      <state>KS</state>
+    </location>
+    <location name="73129">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>169</dist>
+      <lat>35.4334811354</lat>
+      <lon>-97.4859931612</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73737">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>115</dist>
+      <lat>36.2867246137</lat>
+      <lon>-98.6108810692</lon>
+      <name>Fairview</name>
+      <state>OK</state>
+    </location>
+    <location name="74104">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>173</dist>
+      <lat>36.1464564342</lat>
+      <lon>-95.9537921812</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

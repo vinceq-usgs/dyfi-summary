@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64124">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>412</dist>
+      <lat>39.1067948412</lat>
+      <lon>-94.5400185598</lon>
+      <name>Kansas City</name>
+      <state>MO</state>
+    </location>
+    <location name="67037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67060">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>37.0220357008</lat>
+      <lon>-98.4945206523</lon>
+      <name>Kiowa</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67502">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>38.1280036149</lat>
+      <lon>-97.9208647034</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="67601">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>243</dist>
+      <lat>38.8489261752</lat>
+      <lon>-99.3486277542</lon>
+      <name>Hays</name>
+      <state>KS</state>
+    </location>
+    <location name="73008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>35.5138038925</lat>
+      <lon>-97.6432316553</lon>
+      <name>Bethany</name>
+      <state>OK</state>
+    </location>
+    <location name="73102">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>35.4714367683</lat>
+      <lon>-97.519123843</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73728">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>36.7610465168</lat>
+      <lon>-98.3690400836</lon>
+      <name>Cherokee</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>216</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,157 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89436">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>501</dist>
+      <lat>39.6022820496</lat>
+      <lon>-119.707274422</lon>
+      <name>Sparks</name>
+      <state>NV</state>
+    </location>
+    <location name="94020">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>495</dist>
+      <lat>37.2936293599</lat>
+      <lon>-122.246103474</lon>
+      <name>La Honda</name>
+      <state>CA</state>
+    </location>
+    <location name="94122">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>439</dist>
+      <lat>37.7628768326</lat>
+      <lon>-122.485058175</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94132">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>443</dist>
+      <lat>37.7218737448</lat>
+      <lon>-122.486382201</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="95501">
+      <cdi>2</cdi>
+      <nresp>8</nresp>
+      <dist>101</dist>
+      <lat>40.7953313015</lat>
+      <lon>-124.153385167</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95503">
+      <cdi>2</cdi>
+      <nresp>18</nresp>
+      <dist>109</dist>
+      <lat>40.7119988087</lat>
+      <lon>-124.097405236</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95519">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>40.9515606458</lat>
+      <lon>-124.03879277</lon>
+      <name>McKinleyville</name>
+      <state>CA</state>
+    </location>
+    <location name="95521">
+      <cdi>2.2194</cdi>
+      <nresp>30</nresp>
+      <dist>109</dist>
+      <lat>40.8495303628</lat>
+      <lon>-124.03465378</lon>
+      <name>Arcata</name>
+      <state>CA</state>
+    </location>
+    <location name="95531">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>41.7745510499</lat>
+      <lon>-123.9970815</lon>
+      <name>Crescent City</name>
+      <state>CA</state>
+    </location>
+    <location name="95536">
+      <cdi>2.5391</cdi>
+      <nresp>5</nresp>
+      <dist>111</dist>
+      <lat>40.4647699382</lat>
+      <lon>-124.250835346</lon>
+      <name>Ferndale</name>
+      <state>CA</state>
+    </location>
+    <location name="95551">
+      <cdi>2.6912</cdi>
+      <nresp>4</nresp>
+      <dist>100</dist>
+      <lat>40.6620732404</lat>
+      <lon>-124.246703351</lon>
+      <name>Loleta</name>
+      <state>CA</state>
+    </location>
+    <location name="95554">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>40.2218035354</lat>
+      <lon>-123.891541994</lon>
+      <name>Myers Flat</name>
+      <state>CA</state>
+    </location>
+    <location name="95562">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>117</dist>
+      <lat>40.4799439242</lat>
+      <lon>-124.14320836</lon>
+      <name>Rio Dell</name>
+      <state>CA</state>
+    </location>
+    <location name="95564">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>40.7928855156</lat>
+      <lon>-124.203746168</lon>
+      <name>Samoa</name>
+      <state>CA</state>
+    </location>
+    <location name="95565">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>40.4452805485</lat>
+      <lon>-124.030606023</lon>
+      <name>Scotia</name>
+      <state>CA</state>
+    </location>
+    <location name="95570">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>105</dist>
+      <lat>41.1325638843</lat>
+      <lon>-124.054737392</lon>
+      <name>Trinidad</name>
+      <state>CA</state>
+    </location>
+    <location name="95589">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>40.0406855713</lat>
+      <lon>-123.994740274</lon>
+      <name>Whitethorn</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

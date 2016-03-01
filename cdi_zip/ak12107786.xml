@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99501">
+      <cdi>2.7357</cdi>
+      <nresp>12</nresp>
+      <dist>153</dist>
+      <lat>61.2172381203</lat>
+      <lon>-149.869068212</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99502">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>61.158809373</lat>
+      <lon>-150.04667767</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99503">
+      <cdi>2.4261</cdi>
+      <nresp>2</nresp>
+      <dist>155</dist>
+      <lat>61.1880996048</lat>
+      <lon>-149.889156419</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99504">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>147</dist>
+      <lat>61.2040802623</lat>
+      <lon>-149.742978801</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99506">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>147</dist>
+      <lat>61.2644150792</lat>
+      <lon>-149.799820601</lon>
+      <name>Elmendorf AFB</name>
+      <state>AK</state>
+    </location>
+    <location name="99507">
+      <cdi>2.4868</cdi>
+      <nresp>3</nresp>
+      <dist>151</dist>
+      <lat>61.151181701</lat>
+      <lon>-149.77914819</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99508">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>150</dist>
+      <lat>61.2041909265</lat>
+      <lon>-149.812690714</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99515">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>61.1145748641</lat>
+      <lon>-149.893146119</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99516">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>152</dist>
+      <lat>61.0726161718</lat>
+      <lon>-149.715124965</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99517">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>157</dist>
+      <lat>61.1899261926</lat>
+      <lon>-149.936096257</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99518">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>61.1591909995</lat>
+      <lon>-149.884408774</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99540">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>61.0006165913</lat>
+      <lon>-149.530064588</lon>
+      <name>Indian</name>
+      <state>AK</state>
+    </location>
+    <location name="99567">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>118</dist>
+      <lat>61.4609962815</lat>
+      <lon>-149.330150001</lon>
+      <name>Chugiak</name>
+      <state>AK</state>
+    </location>
+    <location name="99577">
+      <cdi>2.9567</cdi>
+      <nresp>5</nresp>
+      <dist>126</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+    <location name="99588">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>71</dist>
+      <lat>62.048860826</lat>
+      <lon>-146.364211702</lon>
+      <name>Glennallen</name>
+      <state>AK</state>
+    </location>
+    <location name="99645">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>61.6828083589</lat>
+      <lon>-148.01052815</lon>
+      <name>Palmer</name>
+      <state>AK</state>
+    </location>
+    <location name="99654">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>140</dist>
+      <lat>61.5022894283</lat>
+      <lon>-149.796287978</lon>
+      <name>Wasilla</name>
+      <state>AK</state>
+    </location>
+    <location name="99686">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>61.1344805164</lat>
+      <lon>-146.855877507</lon>
+      <name>Valdez</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73010">
+      <cdi>3.4980</cdi>
+      <nresp>7</nresp>
+      <dist>14</dist>
+      <lat>35.0895334967</lat>
+      <lon>-97.6226215196</lon>
+      <name>Blanchard</name>
+      <state>OK</state>
+    </location>
+    <location name="73018">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>34.9959419922</lat>
+      <lon>-97.9741509071</lon>
+      <name>Chickasha</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73068">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>35.135561318</lat>
+      <lon>-97.2773576321</lon>
+      <name>Noble</name>
+      <state>OK</state>
+    </location>
+    <location name="73080">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>34.9860427348</lat>
+      <lon>-97.4813167363</lon>
+      <name>Purcell</name>
+      <state>OK</state>
+    </location>
+    <location name="75048">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>244</dist>
+      <lat>32.9698221807</lat>
+      <lon>-96.5792051927</lon>
+      <name>Sachse</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="01534">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>42.1409537793</lat>
+      <lon>-71.6429108251</lon>
+      <name>Northbridge</name>
+      <state>MA</state>
+    </location>
+    <location name="01821">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>42.5504853589</lat>
+      <lon>-71.2520648792</lon>
+      <name>Billerica</name>
+      <state>MA</state>
+    </location>
+    <location name="06239">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>7</dist>
+      <lat>41.7920428568</lat>
+      <lon>-71.8574117441</lon>
+      <name>Danielson</name>
+      <state>CT</state>
+    </location>
+    <location name="06241">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>41.8573111223</lat>
+      <lon>-71.8493372026</lon>
+      <name>Dayville</name>
+      <state>CT</state>
+    </location>
+    <location name="06354">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>5</dist>
+      <lat>41.7000507036</lat>
+      <lon>-71.8512458772</lon>
+      <name>Moosup</name>
+      <state>CT</state>
+    </location>
+    <location name="06374">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>41.680478525</lat>
+      <lon>-71.9143822285</lon>
+      <name>Plainfield</name>
+      <state>CT</state>
+    </location>
+    <location name="06410">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>41.51140109</lat>
+      <lon>-72.9035703483</lon>
+      <name>Cheshire</name>
+      <state>CT</state>
+    </location>
+  </cdi>
+</cdidata>

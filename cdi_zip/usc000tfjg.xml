@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Xian::Shaanxi::China">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>767</dist>
+      <lat>34.27</lat>
+      <lon>108.90</lon>
+      <name>Xian</name>
+    </location>
+    <location name="Chengdu::Sichuan::China">
+      <cdi>2.6268</cdi>
+      <nresp>8</nresp>
+      <dist>168</dist>
+      <lat>30.67</lat>
+      <lon>104.07</lon>
+      <name>Chengdu</name>
+    </location>
+    <location name="Guihu::Sichuan::China">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>30.84</lat>
+      <lon>104.15</lon>
+      <name>Guihu</name>
+    </location>
+    <location name="Huayang::Sichuan::China">
+      <cdi>2.0372</cdi>
+      <nresp>2</nresp>
+      <dist>153</dist>
+      <lat>30.58</lat>
+      <lon>103.92</lon>
+      <name>Huayang</name>
+    </location>
+  </cdi>
+</cdidata>

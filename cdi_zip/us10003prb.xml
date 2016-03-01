@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="63539">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>543</dist>
+      <lat>39.9189397793</lat>
+      <lon>-92.7590663893</lon>
+      <name>Ethel</name>
+      <state>MO</state>
+    </location>
+    <location name="67147">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>37.8628400574</lat>
+      <lon>-97.3052940713</lon>
+      <name>Valley Center</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67749">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>411</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="73107">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>35.4822241552</lat>
+      <lon>-97.5745488944</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73159">
+      <cdi>3.6156</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>35.3856819937</lat>
+      <lon>-97.5789240222</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="75681">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>617</dist>
+      <lat>31.9166273877</lat>
+      <lon>-94.6510091807</lon>
+      <name>Mount Enterprise</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94503">
+      <cdi>2.4997</cdi>
+      <nresp>7</nresp>
+      <dist>12</dist>
+      <lat>38.1933015059</lat>
+      <lon>-122.228210427</lon>
+      <name>American Canyon</name>
+      <state>CA</state>
+    </location>
+    <location name="94534">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>38.2413237878</lat>
+      <lon>-122.121790816</lon>
+      <name>Fairfield</name>
+      <state>CA</state>
+    </location>
+    <location name="94546">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>37.7535145162</lat>
+      <lon>-122.097032395</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94558">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>34</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94559">
+      <cdi>2.6699</cdi>
+      <nresp>4</nresp>
+      <dist>10</dist>
+      <lat>38.2394047273</lat>
+      <lon>-122.330669802</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94585">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>38.1538884022</lat>
+      <lon>-121.958516649</lon>
+      <name>Suisun City</name>
+      <state>CA</state>
+    </location>
+    <location name="94589">
+      <cdi>3.8502</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>38.1408765464</lat>
+      <lon>-122.248056096</lon>
+      <name>Vallejo</name>
+      <state>CA</state>
+    </location>
+    <location name="94590">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>38.1003329591</lat>
+      <lon>-122.247859578</lon>
+      <name>Vallejo</name>
+      <state>CA</state>
+    </location>
+    <location name="95436">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>38.4927530343</lat>
+      <lon>-122.913172205</lon>
+      <name>Forestville</name>
+      <state>CA</state>
+    </location>
+    <location name="95476">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>38.2510840872</lat>
+      <lon>-122.453732438</lon>
+      <name>Sonoma</name>
+      <state>CA</state>
+    </location>
+    <location name="95490">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>39.4716278515</lat>
+      <lon>-123.365954363</lon>
+      <name>Willits</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

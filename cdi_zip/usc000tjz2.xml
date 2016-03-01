@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67022">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>5</dist>
+      <lat>37.0959484612</lat>
+      <lon>-97.6546725248</lon>
+      <name>Caldwell</name>
+      <state>KS</state>
+    </location>
+    <location name="67060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67147">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>37.8628400574</lat>
+      <lon>-97.3052940713</lon>
+      <name>Valley Center</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

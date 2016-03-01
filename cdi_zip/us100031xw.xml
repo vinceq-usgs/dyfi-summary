@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Suao::Ilan::Taiwan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>24.60</lat>
+      <lon>121.84</lon>
+      <name>Suao</name>
+    </location>
+    <location name="Keelung::Keelung Shih::Taiwan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>25.13</lat>
+      <lon>121.73</lon>
+      <name>Keelung</name>
+    </location>
+    <location name="Taichung::Taichung Shih::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>24.15</lat>
+      <lon>120.68</lon>
+      <name>Taichung</name>
+    </location>
+    <location name="Hsichih::Taipei Hsien::Taiwan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>25.07</lat>
+      <lon>121.65</lon>
+      <name>Hsichih</name>
+    </location>
+    <location name="Hsinchuang::Taipei Hsien::Taiwan">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>25.04</lat>
+      <lon>121.44</lon>
+      <name>Hsinchuang</name>
+    </location>
+    <location name="Sanchung::Taipei Hsien::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>25.07</lat>
+      <lon>121.48</lon>
+      <name>Sanchung</name>
+    </location>
+    <location name="Yungho::Taipei Hsien::Taiwan">
+      <cdi>2.8469</cdi>
+      <nresp>8</nresp>
+      <dist>155</dist>
+      <lat>25.02</lat>
+      <lon>121.51</lon>
+      <name>Yungho</name>
+    </location>
+    <location name="Taoyuan::Taoyuan::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>25.00</lat>
+      <lon>121.31</lon>
+      <name>Taoyuan</name>
+    </location>
+  </cdi>
+</cdidata>

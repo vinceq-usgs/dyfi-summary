@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94518">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>62</dist>
+      <lat>37.950837981</lat>
+      <lon>-122.022350281</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="95035">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>2</dist>
+      <lat>37.4377791393</lat>
+      <lon>-121.817111415</lon>
+      <name>Milpitas</name>
+      <state>CA</state>
+    </location>
+    <location name="95112">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>37.3449260065</lat>
+      <lon>-121.883622921</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95127">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>4</dist>
+      <lat>37.3754477437</lat>
+      <lon>-121.794143031</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95132">
+      <cdi>2.6340</cdi>
+      <nresp>4</nresp>
+      <dist>1</dist>
+      <lat>37.4104901077</lat>
+      <lon>-121.828623944</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

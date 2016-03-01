@@ -1,0 +1,50 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98106">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>47.5415558714</lat>
+      <lon>-122.353012768</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98119">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>47.6388850773</lat>
+      <lon>-122.368991303</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98223">
+      <cdi>2.9370</cdi>
+      <nresp>7</nresp>
+      <dist>13</dist>
+      <lat>48.2072560911</lat>
+      <lon>-121.949170135</lon>
+      <name>Arlington</name>
+      <state>WA</state>
+    </location>
+    <location name="98241">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>48.1641380081</lat>
+      <lon>-121.29965921</lon>
+      <name>Darrington</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Walnut Grove::British Columbia::Canada">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>49.19</lat>
+      <lon>-122.62</lon>
+      <name>Walnut Grove</name>
+    </location>
+  </cdi>
+</cdidata>

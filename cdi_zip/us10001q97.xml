@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66045">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>294</dist>
+      <lat>38.956286394</lat>
+      <lon>-95.2520770496</lon>
+      <name>Lawrence</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>4.5936</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>63</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67050">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>37.67264084</lat>
+      <lon>-97.6768303155</lon>
+      <name>Garden Plain</name>
+      <state>KS</state>
+    </location>
+    <location name="67063">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>141</dist>
+      <lat>38.3411619654</lat>
+      <lon>-97.2422020205</lon>
+      <name>Hillsboro</name>
+      <state>KS</state>
+    </location>
+    <location name="67101">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>37.7840123097</lat>
+      <lon>-97.4653089634</lon>
+      <name>Maize</name>
+      <state>KS</state>
+    </location>
+    <location name="67114">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>38.0619508136</lat>
+      <lon>-97.2832822534</lon>
+      <name>Newton</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>70</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67211">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>37.6671074036</lat>
+      <lon>-97.3175664461</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67801">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>224</dist>
+      <lat>37.7120933667</lat>
+      <lon>-100.064093481</lon>
+      <name>Dodge City</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

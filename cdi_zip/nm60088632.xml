@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="38016">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>35.1791840094</lat>
+      <lon>-89.7617764183</lon>
+      <name>Cordova</name>
+      <state>TN</state>
+    </location>
+    <location name="38024">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>36.052983465</lat>
+      <lon>-89.4302167243</lon>
+      <name>Dyersburg</name>
+      <state>TN</state>
+    </location>
+    <location name="38079">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>36.4114459281</lat>
+      <lon>-89.4444914959</lon>
+      <name>Tiptonville</name>
+      <state>TN</state>
+    </location>
+    <location name="38232">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>28</dist>
+      <lat>36.3367318089</lat>
+      <lon>-89.3362490189</lon>
+      <name>Hornbeak</name>
+      <state>TN</state>
+    </location>
+    <location name="40165">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>379</dist>
+      <lat>37.9782995684</lat>
+      <lon>-85.705547636</lon>
+      <name>Shepherdsville</name>
+      <state>KY</state>
+    </location>
+    <location name="63104">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>242</dist>
+      <lat>38.6119121847</lat>
+      <lon>-90.2145932462</lon>
+      <name>Saint Louis</name>
+      <state>MO</state>
+    </location>
+    <location name="63301">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>273</dist>
+      <lat>38.8514606032</lat>
+      <lon>-90.4712304802</lon>
+      <name>Saint Charles</name>
+      <state>MO</state>
+    </location>
+    <location name="63801">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>36.9240416072</lat>
+      <lon>-89.602605644</lon>
+      <name>Sikeston</name>
+      <state>MO</state>
+    </location>
+    <location name="63830">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>36.1439433089</lat>
+      <lon>-89.7068478792</lon>
+      <name>Caruthersville</name>
+      <state>MO</state>
+    </location>
+    <location name="63862">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>36.5917165848</lat>
+      <lon>-89.648795741</lon>
+      <name>Lilbourn</name>
+      <state>MO</state>
+    </location>
+    <location name="63869">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>36.6282046896</lat>
+      <lon>-89.5028230406</lon>
+      <name>New Madrid</name>
+      <state>MO</state>
+    </location>
+    <location name="63873">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>36.4243480611</lat>
+      <lon>-89.684000549</lon>
+      <name>Portageville</name>
+      <state>MO</state>
+    </location>
+  </cdi>
+</cdidata>

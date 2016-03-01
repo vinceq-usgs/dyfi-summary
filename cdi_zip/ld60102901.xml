@@ -1,0 +1,410 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="06040">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>41.7614968159</lat>
+      <lon>-72.5229540891</lon>
+      <name>Manchester</name>
+      <state>CT</state>
+    </location>
+    <location name="06903">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>41.1358476724</lat>
+      <lon>-73.5733653241</lon>
+      <name>Stamford</name>
+      <state>CT</state>
+    </location>
+    <location name="07456">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>149</dist>
+      <lat>41.1075509161</lat>
+      <lon>-74.2746427831</lon>
+      <name>Ringwood</name>
+      <state>NJ</state>
+    </location>
+    <location name="12009">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>45</dist>
+      <lat>42.6989545389</lat>
+      <lon>-74.0365461793</lon>
+      <name>Altamont</name>
+      <state>NY</state>
+    </location>
+    <location name="12019">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>42.9327958564</lat>
+      <lon>-73.8400980052</lon>
+      <name>Ballston Lake</name>
+      <state>NY</state>
+    </location>
+    <location name="12020">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>43.0007908815</lat>
+      <lon>-73.8740677486</lon>
+      <name>Ballston Spa</name>
+      <state>NY</state>
+    </location>
+    <location name="12043">
+      <cdi>2.2047</cdi>
+      <nresp>3</nresp>
+      <dist>32</dist>
+      <lat>42.7038566044</lat>
+      <lon>-74.5238449087</lon>
+      <name>Cobleskill</name>
+      <state>NY</state>
+    </location>
+    <location name="12051">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>42.3473062983</lat>
+      <lon>-73.8482771149</lon>
+      <name>Coxsackie</name>
+      <state>NY</state>
+    </location>
+    <location name="12053">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>42.7531250653</lat>
+      <lon>-74.1909196594</lon>
+      <name>Delanson</name>
+      <state>NY</state>
+    </location>
+    <location name="12071">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>42.5608792733</lat>
+      <lon>-74.425650899</lon>
+      <name>Fultonham</name>
+      <state>NY</state>
+    </location>
+    <location name="12072">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>42.8854139261</lat>
+      <lon>-74.3635708914</lon>
+      <name>Fultonville</name>
+      <state>NY</state>
+    </location>
+    <location name="12074">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>43.0428537888</lat>
+      <lon>-74.040320235</lon>
+      <name>Galway</name>
+      <state>NY</state>
+    </location>
+    <location name="12076">
+      <cdi>3.2539</cdi>
+      <nresp>5</nresp>
+      <dist>14</dist>
+      <lat>42.410101878</lat>
+      <lon>-74.3904217363</lon>
+      <name>Gilboa</name>
+      <state>NY</state>
+    </location>
+    <location name="12092">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>42.7028648292</lat>
+      <lon>-74.3797191557</lon>
+      <name>Howes Cave</name>
+      <state>NY</state>
+    </location>
+    <location name="12122">
+      <cdi>3.0280</cdi>
+      <nresp>6</nresp>
+      <dist>20</dist>
+      <lat>42.5453003337</lat>
+      <lon>-74.3136279419</lon>
+      <name>Middleburgh</name>
+      <state>NY</state>
+    </location>
+    <location name="12155">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>42.5987880782</lat>
+      <lon>-74.8228431196</lon>
+      <name>Schenevus</name>
+      <state>NY</state>
+    </location>
+    <location name="12157">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>30</dist>
+      <lat>42.6646951367</lat>
+      <lon>-74.2985130306</lon>
+      <name>Schoharie</name>
+      <state>NY</state>
+    </location>
+    <location name="12160">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>42.763614352</lat>
+      <lon>-74.3746051842</lon>
+      <name>Sloansville</name>
+      <state>NY</state>
+    </location>
+    <location name="12167">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>19</dist>
+      <lat>42.4145777686</lat>
+      <lon>-74.5962960228</lon>
+      <name>Stamford</name>
+      <state>NY</state>
+    </location>
+    <location name="12306">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>54</dist>
+      <lat>42.8073276494</lat>
+      <lon>-74.0277115926</lon>
+      <name>Schenectady</name>
+      <state>NY</state>
+    </location>
+    <location name="12308">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>42.8221340598</lat>
+      <lon>-73.9208527257</lon>
+      <name>Schenectady</name>
+      <state>NY</state>
+    </location>
+    <location name="12401">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>41.8716952863</lat>
+      <lon>-74.0689669766</lon>
+      <name>Kingston</name>
+      <state>NY</state>
+    </location>
+    <location name="12418">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>42.3611323131</lat>
+      <lon>-74.1635463361</lon>
+      <name>Cornwallville</name>
+      <state>NY</state>
+    </location>
+    <location name="12431">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>38</dist>
+      <lat>42.3600178908</lat>
+      <lon>-74.0159715673</lon>
+      <name>Freehold</name>
+      <state>NY</state>
+    </location>
+    <location name="12469">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>42.4487446541</lat>
+      <lon>-74.2407217018</lon>
+      <name>Preston Hollow</name>
+      <state>NY</state>
+    </location>
+    <location name="12474">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>23</dist>
+      <lat>42.3013358233</lat>
+      <lon>-74.5593464045</lon>
+      <name>Roxbury</name>
+      <state>NY</state>
+    </location>
+    <location name="12850">
+      <cdi>2.6051</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>43.1091630773</lat>
+      <lon>-73.9857918135</lon>
+      <name>Middle Grove</name>
+      <state>NY</state>
+    </location>
+    <location name="12887">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>43.5571438332</lat>
+      <lon>-73.3898912832</lon>
+      <name>Whitehall</name>
+      <state>NY</state>
+    </location>
+    <location name="13090">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>43.1487398221</lat>
+      <lon>-76.2141026005</lon>
+      <name>Liverpool</name>
+      <state>NY</state>
+    </location>
+    <location name="13320">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>42.7756051515</lat>
+      <lon>-74.7349940386</lon>
+      <name>Cherry Valley</name>
+      <state>NY</state>
+    </location>
+    <location name="13324">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>43.4520968922</lat>
+      <lon>-74.9107127149</lon>
+      <name>Cold Brook</name>
+      <state>NY</state>
+    </location>
+    <location name="13460">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>42.6900765285</lat>
+      <lon>-75.455002275</lon>
+      <name>Sherburne</name>
+      <state>NY</state>
+    </location>
+    <location name="13480">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>42.9093194381</lat>
+      <lon>-75.3596579919</lon>
+      <name>Waterville</name>
+      <state>NY</state>
+    </location>
+    <location name="13751">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>42.453508868</lat>
+      <lon>-74.8757205365</lon>
+      <name>Davenport Center</name>
+      <state>NY</state>
+    </location>
+    <location name="13754">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>42.0939934449</lat>
+      <lon>-75.4447174099</lon>
+      <name>Deposit</name>
+      <state>NY</state>
+    </location>
+    <location name="13755">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>42.0743915345</lat>
+      <lon>-75.0280619161</lon>
+      <name>Downsville</name>
+      <state>NY</state>
+    </location>
+    <location name="13760">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>42.1375573813</lat>
+      <lon>-76.0803503554</lon>
+      <name>Endicott</name>
+      <state>NY</state>
+    </location>
+    <location name="13783">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>41.9847501029</lat>
+      <lon>-75.2605187684</lon>
+      <name>Hancock</name>
+      <state>NY</state>
+    </location>
+    <location name="13788">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>42.3459284185</lat>
+      <lon>-74.6640364712</lon>
+      <name>Hobart</name>
+      <state>NY</state>
+    </location>
+    <location name="13820">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>50</dist>
+      <lat>42.4750621536</lat>
+      <lon>-75.0319074909</lon>
+      <name>Oneonta</name>
+      <state>NY</state>
+    </location>
+    <location name="13856">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>69</dist>
+      <lat>42.1666067931</lat>
+      <lon>-75.1740986512</lon>
+      <name>Walton</name>
+      <state>NY</state>
+    </location>
+    <location name="17972">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>253</dist>
+      <lat>40.5908407413</lat>
+      <lon>-76.199445472</lon>
+      <name>Schuylkill Haven</name>
+      <state>PA</state>
+    </location>
+    <location name="18088">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>208</dist>
+      <lat>40.7654400116</lat>
+      <lon>-75.557351511</lon>
+      <name>Walnutport</name>
+      <state>PA</state>
+    </location>
+    <location name="18801">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>41.8430583055</lat>
+      <lon>-75.8964688542</lon>
+      <name>Montrose</name>
+      <state>PA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Sainte-Madeleine::Québec::Canada">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>474</dist>
+      <lat>46.60</lat>
+      <lon>-73.10</lon>
+      <name>Sainte-Madeleine</name>
+    </location>
+  </cdi>
+</cdidata>

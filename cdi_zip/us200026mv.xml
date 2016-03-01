@@ -1,0 +1,132 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Empa::Government controlled area::Cyprus">
+      <cdi>6.2317</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>34.81</lat>
+      <lon>32.43</lon>
+      <name>Empa</name>
+    </location>
+    <location name="Kissonerga::Government controlled area::Cyprus">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>34.83</lat>
+      <lon>32.40</lon>
+      <name>Kissonerga</name>
+    </location>
+    <location name="Koloni::Government controlled area::Cyprus">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>34.75</lat>
+      <lon>32.47</lon>
+      <name>Koloni</name>
+    </location>
+    <location name="Konia::Government controlled area::Cyprus">
+      <cdi>4.7129</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>34.78</lat>
+      <lon>32.46</lon>
+      <name>Konia</name>
+    </location>
+    <location name="Kouklia::Government controlled area::Cyprus">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>34.71</lat>
+      <lon>32.58</lon>
+      <name>Kouklia</name>
+    </location>
+    <location name="Lemesos::Government controlled area::Cyprus">
+      <cdi>3.0916</cdi>
+      <nresp>5</nresp>
+      <dist>71</dist>
+      <lat>34.68</lat>
+      <lon>33.05</lon>
+      <name>Lemesos</name>
+    </location>
+    <location name="Lempa::Government controlled area::Cyprus">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.81</lat>
+      <lon>32.42</lon>
+      <name>Lempa</name>
+    </location>
+    <location name="Nicosia::Government controlled area::Cyprus">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>103</dist>
+      <lat>35.16</lat>
+      <lon>33.38</lon>
+      <name>Nicosia</name>
+    </location>
+    <location name="Pafos::Government controlled area::Cyprus">
+      <cdi>4.5801</cdi>
+      <nresp>9</nresp>
+      <dist>17</dist>
+      <lat>34.77</lat>
+      <lon>32.41</lon>
+      <name>Pafos</name>
+    </location>
+    <location name="Pano Polemidia::Government controlled area::Cyprus">
+      <cdi>4.9397</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>34.70</lat>
+      <lon>33.00</lon>
+      <name>Pano Polemidia</name>
+    </location>
+    <location name="Pegeia::Government controlled area::Cyprus">
+      <cdi>5.7634</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>34.88</lat>
+      <lon>32.38</lon>
+      <name>Pegeia</name>
+    </location>
+    <location name="Perivolia::Government controlled area::Cyprus">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>34.83</lat>
+      <lon>33.58</lon>
+      <name>Perivolia</name>
+    </location>
+    <location name="Polis::Government controlled area::Cyprus">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>35.03</lat>
+      <lon>32.41</lon>
+      <name>Polis</name>
+    </location>
+    <location name="Timi::Government controlled area::Cyprus">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>34.73</lat>
+      <lon>32.52</lon>
+      <name>Timi</name>
+    </location>
+    <location name="Nicosia::Turkish controlled area::Cyprus">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>103</dist>
+      <lat>35.18</lat>
+      <lon>33.37</lon>
+      <name>Nicosia</name>
+    </location>
+    <location name="Apesia::Government controlled area::Cyprus">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>62</dist>
+      <lat>34.79</lat>
+      <lon>32.98</lon>
+      <name>Apesia</name>
+    </location>
+  </cdi>
+</cdidata>

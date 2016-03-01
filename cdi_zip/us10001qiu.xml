@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Obihiro::Hokkaido::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>42.92</lat>
+      <lon>143.19</lon>
+      <name>Obihiro</name>
+    </location>
+    <location name="Sapporo::Hokkaido::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>7</nresp>
+      <dist>175</dist>
+      <lat>43.06</lat>
+      <lon>141.34</lon>
+      <name>Sapporo</name>
+    </location>
+  </cdi>
+</cdidata>

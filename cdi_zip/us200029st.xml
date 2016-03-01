@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Naranjo::Alajuela::Costa Rica">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>10.10</lat>
+      <lon>-84.39</lon>
+      <name>Naranjo</name>
+    </location>
+    <location name="San Ramón::Alajuela::Costa Rica">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>81</dist>
+      <lat>10.09</lat>
+      <lon>-84.47</lon>
+      <name>San Ramón</name>
+    </location>
+    <location name="Concepción::Cartago::Costa Rica">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>9.91</lat>
+      <lon>-84.00</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="San Antonio::Heredia::Costa Rica">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>9.99</lat>
+      <lon>-84.18</lon>
+      <name>San Antonio</name>
+    </location>
+    <location name="San Francisco::Heredia::Costa Rica">
+      <cdi>4.7129</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>9.99</lat>
+      <lon>-84.13</lon>
+      <name>San Francisco</name>
+    </location>
+    <location name="Alajuelita::San José::Costa Rica">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>9.91</lat>
+      <lon>-84.10</lon>
+      <name>Alajuelita</name>
+    </location>
+    <location name="Colima::San José::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>9.95</lat>
+      <lon>-84.08</lon>
+      <name>Colima</name>
+    </location>
+    <location name="Copey::San José::Costa Rica">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>9.65</lat>
+      <lon>-83.92</lon>
+      <name>Copey</name>
+    </location>
+    <location name="Ipís::San José::Costa Rica">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>9.97</lat>
+      <lon>-84.02</lon>
+      <name>Ipís</name>
+    </location>
+    <location name="San José::San José::Costa Rica">
+      <cdi>3.1663</cdi>
+      <nresp>4</nresp>
+      <dist>107</dist>
+      <lat>9.93</lat>
+      <lon>-84.08</lon>
+      <name>San José</name>
+    </location>
+    <location name="San Rafael::San José::Costa Rica">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>9.93</lat>
+      <lon>-84.13</lon>
+      <name>San Rafael</name>
+    </location>
+  </cdi>
+</cdidata>

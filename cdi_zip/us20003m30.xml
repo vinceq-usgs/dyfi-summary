@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>338</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="Coquimbo::Coquimbo::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>-29.96</lat>
+      <lon>-71.33</lon>
+      <name>Coquimbo</name>
+    </location>
+    <location name="Illapel::Coquimbo::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>-31.63</lat>
+      <lon>-71.17</lon>
+      <name>Illapel</name>
+    </location>
+    <location name="Ovalle::Coquimbo::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>-30.59</lat>
+      <lon>-71.20</lon>
+      <name>Ovalle</name>
+    </location>
+    <location name="Lampa::Metropolitana::Chile">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>277</dist>
+      <lat>-33.28</lat>
+      <lon>-70.90</lon>
+      <name>Lampa</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>302</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Limache::Valparaíso::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>244</dist>
+      <lat>-33.02</lat>
+      <lon>-71.27</lon>
+      <name>Limache</name>
+    </location>
+    <location name="San Antonio::Valparaíso::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>307</dist>
+      <lat>-33.60</lat>
+      <lon>-71.61</lon>
+      <name>San Antonio</name>
+    </location>
+  </cdi>
+</cdidata>

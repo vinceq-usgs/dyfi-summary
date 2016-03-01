@@ -1,0 +1,175 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67010">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>37.6594194979</lat>
+      <lon>-96.9652711107</lon>
+      <name>Augusta</name>
+      <state>KS</state>
+    </location>
+    <location name="67022">
+      <cdi>4.9527</cdi>
+      <nresp>7</nresp>
+      <dist>6</dist>
+      <lat>37.0959484612</lat>
+      <lon>-97.6546725248</lon>
+      <name>Caldwell</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>60</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67152">
+      <cdi>3.3198</cdi>
+      <nresp>4</nresp>
+      <dist>24</dist>
+      <lat>37.2574619357</lat>
+      <lon>-97.4015125998</lon>
+      <name>Wellington</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>67</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67203">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>37.7037979044</lat>
+      <lon>-97.364550356</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67216">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>37.6082148038</lat>
+      <lon>-97.314056177</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67218">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>79</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67337">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>37.0663877064</lat>
+      <lon>-95.5833762816</lon>
+      <name>Coffeyville</name>
+      <state>KS</state>
+    </location>
+    <location name="67349">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>37.5105124861</lat>
+      <lon>-96.2252791528</lon>
+      <name>Howard</name>
+      <state>KS</state>
+    </location>
+    <location name="72761">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>301</dist>
+      <lat>36.1689572713</lat>
+      <lon>-94.4604536407</lon>
+      <name>Siloam Springs</name>
+      <state>AR</state>
+    </location>
+    <location name="74003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>36.7412189362</lat>
+      <lon>-96.0844334228</lon>
+      <name>Bartlesville</name>
+      <state>OK</state>
+    </location>
+    <location name="74105">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>36.097220527</lat>
+      <lon>-95.9631988411</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74119">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>36.1416718329</lat>
+      <lon>-95.9891883481</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74133">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>196</dist>
+      <lat>36.0413422515</lat>
+      <lon>-95.8789406288</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74135">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>36.0971002866</lat>
+      <lon>-95.9223153955</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74604">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>36.6894344421</lat>
+      <lon>-96.9613505909</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+    <location name="74637">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>36.5394774081</lat>
+      <lon>-96.6426474328</lon>
+      <name>Fairfax</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

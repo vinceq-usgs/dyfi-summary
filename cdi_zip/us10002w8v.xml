@@ -1,0 +1,140 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Brisbane::Queensland::Australia">
+      <cdi>2</cdi>
+      <nresp>9</nresp>
+      <dist>254</dist>
+      <lat>-27.46</lat>
+      <lon>153.02</lon>
+      <name>Brisbane</name>
+    </location>
+    <location name="Buderim::Queensland::Australia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>-26.68</lat>
+      <lon>153.05</lon>
+      <name>Buderim</name>
+    </location>
+    <location name="Bundaberg::Queensland::Australia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>198</dist>
+      <lat>-24.87</lat>
+      <lon>152.35</lon>
+      <name>Bundaberg</name>
+    </location>
+    <location name="Caboolture::Queensland::Australia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>-27.09</lat>
+      <lon>152.95</lon>
+      <name>Caboolture</name>
+    </location>
+    <location name="Caloundra::Queensland::Australia">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>187</dist>
+      <lat>-26.81</lat>
+      <lon>153.13</lon>
+      <name>Caloundra</name>
+    </location>
+    <location name="Coolum Beach::Queensland::Australia">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>165</dist>
+      <lat>-26.50</lat>
+      <lon>153.07</lon>
+      <name>Coolum Beach</name>
+    </location>
+    <location name="Deception Bay::Queensland::Australia">
+      <cdi>2.7834</cdi>
+      <nresp>5</nresp>
+      <dist>229</dist>
+      <lat>-27.20</lat>
+      <lon>153.02</lon>
+      <name>Deception Bay</name>
+    </location>
+    <location name="Gold Coast::Queensland::Australia">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>302</dist>
+      <lat>-28.07</lat>
+      <lon>153.44</lon>
+      <name>Gold Coast</name>
+    </location>
+    <location name="Gympie::Queensland::Australia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>-26.19</lat>
+      <lon>152.67</lon>
+      <name>Gympie</name>
+    </location>
+    <location name="Hervey Bay::Queensland::Australia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>-25.29</lat>
+      <lon>152.84</lon>
+      <name>Hervey Bay</name>
+    </location>
+    <location name="Kawana Waters::Queensland::Australia">
+      <cdi>3.3345</cdi>
+      <nresp>3</nresp>
+      <dist>183</dist>
+      <lat>-26.76</lat>
+      <lon>153.13</lon>
+      <name>Kawana Waters</name>
+    </location>
+    <location name="Maroochydore-Mooloolaba::Queensland::Australia">
+      <cdi>2.9053</cdi>
+      <nresp>5</nresp>
+      <dist>176</dist>
+      <lat>-26.68</lat>
+      <lon>153.12</lon>
+      <name>Maroochydore-Mooloolaba</name>
+    </location>
+    <location name="Maryborough::Queensland::Australia">
+      <cdi>4.4065</cdi>
+      <nresp>2</nresp>
+      <dist>151</dist>
+      <lat>-25.54</lat>
+      <lon>152.72</lon>
+      <name>Maryborough</name>
+    </location>
+    <location name="Nerang::Queensland::Australia">
+      <cdi>2.9238</cdi>
+      <nresp>3</nresp>
+      <dist>296</dist>
+      <lat>-27.99</lat>
+      <lon>153.33</lon>
+      <name>Nerang</name>
+    </location>
+    <location name="Tewantin-Noosa::Queensland::Australia">
+      <cdi>2.1052</cdi>
+      <nresp>3</nresp>
+      <dist>159</dist>
+      <lat>-26.39</lat>
+      <lon>153.03</lon>
+      <name>Tewantin-Noosa</name>
+    </location>
+    <location name="Victoria Point::Queensland::Australia">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>255</dist>
+      <lat>-27.58</lat>
+      <lon>153.30</lon>
+      <name>Victoria Point</name>
+    </location>
+    <location name="Torquay::Victoria::Australia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>-25.28</lat>
+      <lon>152.87</lon>
+      <name>Torquay</name>
+    </location>
+  </cdi>
+</cdidata>

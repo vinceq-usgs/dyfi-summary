@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96720">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>19.6696050142</lat>
+      <lon>-155.307460679</lon>
+      <name>Hilo</name>
+      <state>HI</state>
+    </location>
+    <location name="96768">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>20.8416678721</lat>
+      <lon>-156.325461432</lon>
+      <name>Makawao</name>
+      <state>HI</state>
+    </location>
+    <location name="96772">
+      <cdi>2.8105</cdi>
+      <nresp>8</nresp>
+      <dist>10</dist>
+      <lat>19.0812641122</lat>
+      <lon>-155.68553121</lon>
+      <name>Naalehu</name>
+      <state>HI</state>
+    </location>
+    <location name="96780">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>19.8965405484</lat>
+      <lon>-155.242800424</lon>
+      <name>Papaaloa</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="59601">
+      <cdi>2.9106</cdi>
+      <nresp>3</nresp>
+      <dist>20</dist>
+      <lat>46.5446807071</lat>
+      <lon>-112.177188693</lon>
+      <name>Helena</name>
+      <state>MT</state>
+    </location>
+    <location name="59602">
+      <cdi>3.0066</cdi>
+      <nresp>12</nresp>
+      <dist>5</dist>
+      <lat>46.6844690085</lat>
+      <lon>-111.983819735</lon>
+      <name>Helena</name>
+      <state>MT</state>
+    </location>
+  </cdi>
+</cdidata>

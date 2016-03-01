@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90003">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>33.9641186016</lat>
+      <lon>-118.273917809</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90011">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.0074820694</lat>
+      <lon>-118.258751087</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.0027460486</lat>
+      <lon>-118.287492057</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90249">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.9014686074</lat>
+      <lon>-118.317203907</lon>
+      <name>Gardena</name>
+      <state>CA</state>
+    </location>
+    <location name="90250">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.9144404688</lat>
+      <lon>-118.34912871</lon>
+      <name>Hawthorne</name>
+      <state>CA</state>
+    </location>
+    <location name="90266">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>33.8893870912</lat>
+      <lon>-118.397318684</lon>
+      <name>Manhattan Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90301">
+      <cdi>3.9543</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.9564411702</lat>
+      <lon>-118.35862517</lon>
+      <name>Inglewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90303">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.9363361594</lat>
+      <lon>-118.331057754</lon>
+      <name>Inglewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

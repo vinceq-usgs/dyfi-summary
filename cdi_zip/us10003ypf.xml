@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ankara::Ankara::Turkey">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>363</dist>
+      <lat>39.93</lat>
+      <lon>32.85</lon>
+      <name>Ankara</name>
+    </location>
+    <location name="Çınarcik::Yalova::Turkey">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>40.64</lat>
+      <lon>29.12</lon>
+      <name>Çınarcik</name>
+    </location>
+    <location name="Büyükçekmece::İstanbul::Turkey">
+      <cdi>2.8570</cdi>
+      <nresp>7</nresp>
+      <dist>16</dist>
+      <lat>41.00</lat>
+      <lon>28.78</lon>
+      <name>Büyükçekmece</name>
+    </location>
+    <location name="Esenyurt::İstanbul::Turkey">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>41.03</lat>
+      <lon>28.67</lon>
+      <name>Esenyurt</name>
+    </location>
+    <location name="İstanbul::İstanbul::Turkey">
+      <cdi>2.9340</cdi>
+      <nresp>13</nresp>
+      <dist>34</dist>
+      <lat>41.10</lat>
+      <lon>29.00</lon>
+      <name>İstanbul</name>
+    </location>
+  </cdi>
+</cdidata>

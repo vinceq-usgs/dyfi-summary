@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90032">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>34.0809575365</lat>
+      <lon>-118.178001889</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90069">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>34.0943207767</lat>
+      <lon>-118.381469996</lon>
+      <name>West Hollywood</name>
+      <state>CA</state>
+    </location>
+    <location name="90405">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>34.0114302378</lat>
+      <lon>-118.468886402</lon>
+      <name>Santa Monica</name>
+      <state>CA</state>
+    </location>
+    <location name="91024">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>34.1690653327</lat>
+      <lon>-118.049921528</lon>
+      <name>Sierra Madre</name>
+      <state>CA</state>
+    </location>
+    <location name="91335">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>34.2013216277</lat>
+      <lon>-118.540688744</lon>
+      <name>Reseda</name>
+      <state>CA</state>
+    </location>
+    <location name="91355">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>34.4226337105</lat>
+      <lon>-118.60635349</lon>
+      <name>Valencia</name>
+      <state>CA</state>
+    </location>
+    <location name="91384">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.5546931053</lat>
+      <lon>-118.644418086</lon>
+      <name>Castaic</name>
+      <state>CA</state>
+    </location>
+    <location name="91406">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>34.1988036961</lat>
+      <lon>-118.489654521</lon>
+      <name>Van Nuys</name>
+      <state>CA</state>
+    </location>
+    <location name="91776">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>34.089719675</lat>
+      <lon>-118.095537406</lon>
+      <name>San Gabriel</name>
+      <state>CA</state>
+    </location>
+    <location name="93063">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>34.2882593211</lat>
+      <lon>-118.688958163</lon>
+      <name>Simi Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="93561">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>35.1543335043</lat>
+      <lon>-118.504210742</lon>
+      <name>Tehachapi</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

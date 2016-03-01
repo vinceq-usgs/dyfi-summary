@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="84654">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>38.9345423174</lat>
+      <lon>-111.638708016</lon>
+      <name>Salina</name>
+      <state>UT</state>
+    </location>
+    <location name="84701">
+      <cdi>3.4797</cdi>
+      <nresp>49</nresp>
+      <dist>36</dist>
+      <lat>38.7087694867</lat>
+      <lon>-111.726791271</lon>
+      <name>Richfield</name>
+      <state>UT</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96704">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>30</dist>
+      <lat>19.3358149217</lat>
+      <lon>-155.811715146</lon>
+      <name>Captain Cook</name>
+      <state>HI</state>
+    </location>
+    <location name="96725">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>19.5631916651</lat>
+      <lon>-155.778428963</lon>
+      <name>Holualoa</name>
+      <state>HI</state>
+    </location>
+    <location name="96740">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>19.7409901702</lat>
+      <lon>-155.898323017</lon>
+      <name>Kailua Kona</name>
+      <state>HI</state>
+    </location>
+    <location name="96750">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>14</dist>
+      <lat>19.5222047477</lat>
+      <lon>-155.932870818</lon>
+      <name>Kealakekua</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

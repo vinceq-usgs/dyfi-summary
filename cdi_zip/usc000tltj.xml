@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67101">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>37.7840123097</lat>
+      <lon>-97.4653089634</lon>
+      <name>Maize</name>
+      <state>KS</state>
+    </location>
+    <location name="73007">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>121</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73771">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>36.8672796879</lat>
+      <lon>-97.9811769749</lon>
+      <name>Wakita</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94019">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>37.486937123</lat>
+      <lon>-122.414603654</lon>
+      <name>Half Moon Bay</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95136">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>192</dist>
+      <lat>37.2699248435</lat>
+      <lon>-121.85110455</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95425">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>38.7909586796</lat>
+      <lon>-123.034816655</lon>
+      <name>Cloverdale</name>
+      <state>CA</state>
+    </location>
+    <location name="95451">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>38.921044264</lat>
+      <lon>-122.79454376</lon>
+      <name>Kelseyville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

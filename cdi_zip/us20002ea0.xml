@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ciudad Sandino::Managua::Nicaragua">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>12.16</lat>
+      <lon>-86.34</lon>
+      <name>Ciudad Sandino</name>
+    </location>
+    <location name="El Crucero::Managua::Nicaragua">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>11.98</lat>
+      <lon>-86.32</lon>
+      <name>El Crucero</name>
+    </location>
+    <location name="Managua::Managua::Nicaragua">
+      <cdi>3.2187</cdi>
+      <nresp>7</nresp>
+      <dist>17</dist>
+      <lat>12.15</lat>
+      <lon>-86.27</lon>
+      <name>Managua</name>
+    </location>
+    <location name="Ticuantepe::Managua::Nicaragua">
+      <cdi>4.5529</cdi>
+      <nresp>4</nresp>
+      <dist>7</dist>
+      <lat>12.02</lat>
+      <lon>-86.20</lon>
+      <name>Ticuantepe</name>
+    </location>
+  </cdi>
+</cdidata>

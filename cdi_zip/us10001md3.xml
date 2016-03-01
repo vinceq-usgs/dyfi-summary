@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="28719">
+      <cdi>2.1718</cdi>
+      <nresp>3</nresp>
+      <dist>19</dist>
+      <lat>35.6154694366</lat>
+      <lon>-83.216955817</lon>
+      <name>Cherokee</name>
+      <state>NC</state>
+    </location>
+    <location name="28789">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>6</dist>
+      <lat>35.4310165211</lat>
+      <lon>-83.2796046478</lon>
+      <name>Whittier</name>
+      <state>NC</state>
+    </location>
+  </cdi>
+</cdidata>

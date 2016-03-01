@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Balibago::Central Luzon::Philippines">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>15.16</lat>
+      <lon>120.60</lon>
+      <name>Balibago</name>
+    </location>
+    <location name="Orani::Central Luzon::Philippines">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>203</dist>
+      <lat>14.80</lat>
+      <lon>120.54</lon>
+      <name>Orani</name>
+    </location>
+    <location name="Baguio::Cordillera::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>85</dist>
+      <lat>16.43</lat>
+      <lon>120.57</lon>
+      <name>Baguio</name>
+    </location>
+    <location name="Tuding::Cordillera::Philippines">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>92</dist>
+      <lat>16.41</lat>
+      <lon>120.64</lon>
+      <name>Tuding</name>
+    </location>
+    <location name="Paringao::Ilocos::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>16.57</lat>
+      <lon>120.32</lon>
+      <name>Paringao</name>
+    </location>
+    <location name="San Fernando::Ilocos::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>16.61</lat>
+      <lon>120.32</lon>
+      <name>San Fernando</name>
+    </location>
+    <location name="Butig::Muslim Mindanao::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1084</dist>
+      <lat>7.72</lat>
+      <lon>124.30</lon>
+      <name>Butig</name>
+    </location>
+    <location name="Manila::National Capital Region::Philippines">
+      <cdi>3.5503</cdi>
+      <nresp>6</nresp>
+      <dist>241</dist>
+      <lat>14.62</lat>
+      <lon>120.97</lon>
+      <name>Manila</name>
+    </location>
+    <location name="Cainta::Southern Tagalog::Philippines">
+      <cdi>3.0853</cdi>
+      <nresp>6</nresp>
+      <dist>253</dist>
+      <lat>14.58</lat>
+      <lon>121.12</lon>
+      <name>Cainta</name>
+    </location>
+    <location name="Niogan::Southern Tagalog::Philippines">
+      <cdi>3.9543</cdi>
+      <nresp>1</nresp>
+      <dist>237</dist>
+      <lat>14.66</lat>
+      <lon>120.96</lon>
+      <name>Niogan</name>
+    </location>
+  </cdi>
+</cdidata>

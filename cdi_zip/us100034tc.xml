@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Qishlaq::Semnān::Iran">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>35.22</lat>
+      <lon>52.33</lon>
+      <name>Qishlaq</name>
+    </location>
+    <location name="Qods::Teheran::Iran">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>35.73</lat>
+      <lon>51.18</lon>
+      <name>Qods</name>
+    </location>
+    <location name="Tehran::Teheran::Iran">
+      <cdi>2.0200</cdi>
+      <nresp>3</nresp>
+      <dist>106</dist>
+      <lat>35.67</lat>
+      <lon>51.43</lon>
+      <name>Tehran</name>
+    </location>
+  </cdi>
+</cdidata>

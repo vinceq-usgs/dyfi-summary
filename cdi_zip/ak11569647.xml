@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99501">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>36</dist>
+      <lat>61.2172381203</lat>
+      <lon>-149.869068212</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99502">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>61.158809373</lat>
+      <lon>-150.04667767</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99504">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>61.2040802623</lat>
+      <lon>-149.742978801</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99507">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>61.151181701</lat>
+      <lon>-149.77914819</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99508">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>37</dist>
+      <lat>61.2041909265</lat>
+      <lon>-149.812690714</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99577">
+      <cdi>2.1765</cdi>
+      <nresp>7</nresp>
+      <dist>44</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

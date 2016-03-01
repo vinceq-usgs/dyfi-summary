@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96718">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>19.3764529899</lat>
+      <lon>-155.361643368</lon>
+      <name>Hawaii National Park</name>
+      <state>HI</state>
+    </location>
+    <location name="96785">
+      <cdi>3.0663</cdi>
+      <nresp>18</nresp>
+      <dist>12</dist>
+      <lat>19.4941740559</lat>
+      <lon>-155.209215778</lon>
+      <name>Volcano</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

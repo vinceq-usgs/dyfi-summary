@@ -1,0 +1,124 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Alajuela::Alajuela::Costa Rica">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>10.02</lat>
+      <lon>-84.23</lon>
+      <name>Alajuela</name>
+    </location>
+    <location name="Carrillos::Alajuela::Costa Rica">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>10.03</lat>
+      <lon>-84.27</lon>
+      <name>Carrillos</name>
+    </location>
+    <location name="Sabanilla::Alajuela::Costa Rica">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>10.08</lat>
+      <lon>-84.22</lon>
+      <name>Sabanilla</name>
+    </location>
+    <location name="San Juan::Alajuela::Costa Rica">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>10.10</lat>
+      <lon>-84.32</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="Heredia::Heredia::Costa Rica">
+      <cdi>3.6479</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>10.00</lat>
+      <lon>-84.12</lon>
+      <name>Heredia</name>
+    </location>
+    <location name="Llorente::Heredia::Costa Rica">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>10.00</lat>
+      <lon>-84.15</lon>
+      <name>Llorente</name>
+    </location>
+    <location name="San Antonio::Heredia::Costa Rica">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>9.99</lat>
+      <lon>-84.18</lon>
+      <name>San Antonio</name>
+    </location>
+    <location name="Ángeles::Heredia::Costa Rica">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>10.00</lat>
+      <lon>-84.05</lon>
+      <name>Ángeles</name>
+    </location>
+    <location name="Cinco Esquinas::San José::Costa Rica">
+      <cdi>5.8062</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>10.10</lat>
+      <lon>-84.17</lon>
+      <name>Cinco Esquinas</name>
+    </location>
+    <location name="Daniel Flores::San José::Costa Rica">
+      <cdi>4.7129</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>9.34</lat>
+      <lon>-83.67</lon>
+      <name>Daniel Flores</name>
+    </location>
+    <location name="Escazú::San José::Costa Rica">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>9.92</lat>
+      <lon>-84.15</lon>
+      <name>Escazú</name>
+    </location>
+    <location name="San Antonio de Desamparados::San José::Costa Rica">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>9.90</lat>
+      <lon>-84.05</lon>
+      <name>San Antonio de Desamparados</name>
+    </location>
+    <location name="San José::San José::Costa Rica">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>9.93</lat>
+      <lon>-84.08</lon>
+      <name>San José</name>
+    </location>
+    <location name="San Rafael::San José::Costa Rica">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>9.93</lat>
+      <lon>-84.13</lon>
+      <name>San Rafael</name>
+    </location>
+    <location name="Santa Ana::San José::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>9.94</lat>
+      <lon>-84.18</lon>
+      <name>Santa Ana</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93514">
+      <cdi>3.0916</cdi>
+      <nresp>18</nresp>
+      <dist>23</dist>
+      <lat>37.4762712635</lat>
+      <lon>-118.400747511</lon>
+      <name>Bishop</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>320</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

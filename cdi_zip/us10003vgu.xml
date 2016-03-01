@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Caracas::Distrito Capital::Venezuela">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>539</dist>
+      <lat>10.54</lat>
+      <lon>-66.93</lon>
+      <name>Caracas</name>
+    </location>
+    <location name="Ejido::Mérida::Venezuela">
+      <cdi>2.7751</cdi>
+      <nresp>4</nresp>
+      <dist>25</dist>
+      <lat>8.56</lat>
+      <lon>-71.23</lon>
+      <name>Ejido</name>
+    </location>
+  </cdi>
+</cdidata>

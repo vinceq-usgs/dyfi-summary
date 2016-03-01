@@ -1,0 +1,59 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98812">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>48.2115729628</lat>
+      <lon>-119.827828235</lon>
+      <name>Brewster</name>
+      <state>WA</state>
+    </location>
+    <location name="99114">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>106</dist>
+      <lat>48.6542611561</lat>
+      <lon>-117.730800518</lon>
+      <name>Colville</name>
+      <state>WA</state>
+    </location>
+    <location name="99134">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>47.412096762</lat>
+      <lon>-118.338547244</lon>
+      <name>Harrington</name>
+      <state>WA</state>
+    </location>
+    <location name="99150">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>48.8163962294</lat>
+      <lon>-118.623861617</lon>
+      <name>Malo</name>
+      <state>WA</state>
+    </location>
+    <location name="99167">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>48.4132316575</lat>
+      <lon>-118.118540485</lon>
+      <name>Rice</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Grand Forks::British Columbia::Canada">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>49.05</lat>
+      <lon>-118.47</lon>
+      <name>Grand Forks</name>
+    </location>
+  </cdi>
+</cdidata>

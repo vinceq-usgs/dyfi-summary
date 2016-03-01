@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90035">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>404</dist>
+      <lat>34.0517930945</lat>
+      <lon>-118.383658114</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="92586">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>508</dist>
+      <lat>33.7070027055</lat>
+      <lon>-117.200214478</lon>
+      <name>Sun City</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>124</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95023">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>36.8566762391</lat>
+      <lon>-121.249223359</lon>
+      <name>Hollister</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

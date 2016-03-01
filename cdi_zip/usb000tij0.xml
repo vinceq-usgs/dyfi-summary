@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="52577">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>635</dist>
+      <lat>41.2691323554</lat>
+      <lon>-92.6609188504</lon>
+      <name>Oskaloosa</name>
+      <state>IA</state>
+    </location>
+    <location name="65802">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>384</dist>
+      <lat>37.2107943536</lat>
+      <lon>-93.3530350427</lon>
+      <name>Springfield</name>
+      <state>MO</state>
+    </location>
+    <location name="67005">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>37.065145113</lat>
+      <lon>-96.9858253723</lon>
+      <name>Arkansas City</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="75043">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>479</dist>
+      <lat>32.8567725117</lat>
+      <lon>-96.5807693538</lon>
+      <name>Garland</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

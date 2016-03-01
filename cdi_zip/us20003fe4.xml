@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Arica::Tarapacá::Chile">
+      <cdi>3.1042</cdi>
+      <nresp>3</nresp>
+      <dist>203</dist>
+      <lat>-18.49</lat>
+      <lon>-70.30</lon>
+      <name>Arica</name>
+    </location>
+    <location name="Iquique::Tarapacá::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>-20.23</lat>
+      <lon>-70.14</lon>
+      <name>Iquique</name>
+    </location>
+    <location name="Arequipa::Arequipa::Peru">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>455</dist>
+      <lat>-16.39</lat>
+      <lon>-71.53</lon>
+      <name>Arequipa</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,202 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83864">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>1228</dist>
+      <lat>48.3884295813</lat>
+      <lon>-116.473634745</lon>
+      <name>Sandpoint</name>
+      <state>ID</state>
+    </location>
+    <location name="93720">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>756</dist>
+      <lat>36.8592724007</lat>
+      <lon>-119.761492536</lon>
+      <name>Fresno</name>
+      <state>CA</state>
+    </location>
+    <location name="94014">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>510</dist>
+      <lat>37.6776116036</lat>
+      <lon>-122.438257004</lon>
+      <name>Daly City</name>
+      <state>CA</state>
+    </location>
+    <location name="94022">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>552</dist>
+      <lat>37.3667865561</lat>
+      <lon>-122.147837967</lon>
+      <name>Los Altos</name>
+      <state>CA</state>
+    </location>
+    <location name="94117">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>504</dist>
+      <lat>37.7706446163</lat>
+      <lon>-122.443293351</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94501">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>515</dist>
+      <lat>37.7746713921</lat>
+      <lon>-122.275647073</lon>
+      <name>Alameda</name>
+      <state>CA</state>
+    </location>
+    <location name="94545">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>536</dist>
+      <lat>37.6321633726</lat>
+      <lon>-122.11840959</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>536</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94618">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>513</dist>
+      <lat>37.8445345419</lat>
+      <lon>-122.238119356</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94904">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>484</dist>
+      <lat>37.9562884271</lat>
+      <lon>-122.542805486</lon>
+      <name>Greenbrae</name>
+      <state>CA</state>
+    </location>
+    <location name="94951">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>454</dist>
+      <lat>38.3218513743</lat>
+      <lon>-122.644095055</lon>
+      <name>Penngrove</name>
+      <state>CA</state>
+    </location>
+    <location name="94952">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>451</dist>
+      <lat>38.2191104861</lat>
+      <lon>-122.775453144</lon>
+      <name>Petaluma</name>
+      <state>CA</state>
+    </location>
+    <location name="95501">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>258</dist>
+      <lat>40.7953313015</lat>
+      <lon>-124.153385167</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95503">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>262</dist>
+      <lat>40.7119988087</lat>
+      <lon>-124.097405236</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95519">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>271</dist>
+      <lat>40.9515606458</lat>
+      <lon>-124.03879277</lon>
+      <name>McKinleyville</name>
+      <state>CA</state>
+    </location>
+    <location name="95521">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>269</dist>
+      <lat>40.8495303628</lat>
+      <lon>-124.03465378</lon>
+      <name>Arcata</name>
+      <state>CA</state>
+    </location>
+    <location name="95531">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>305</dist>
+      <lat>41.7745510499</lat>
+      <lon>-123.9970815</lon>
+      <name>Crescent City</name>
+      <state>CA</state>
+    </location>
+    <location name="95547">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>262</dist>
+      <lat>40.5508998727</lat>
+      <lon>-124.082776321</lon>
+      <name>Hydesville</name>
+      <state>CA</state>
+    </location>
+    <location name="95567">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>305</dist>
+      <lat>41.9522464125</lat>
+      <lon>-124.135348554</lon>
+      <name>Smith River</name>
+      <state>CA</state>
+    </location>
+    <location name="95661">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>541</dist>
+      <lat>38.740224929</lat>
+      <lon>-121.250351975</lon>
+      <name>Roseville</name>
+      <state>CA</state>
+    </location>
+    <location name="95864">
+      <cdi>3.2754</cdi>
+      <nresp>1</nresp>
+      <dist>538</dist>
+      <lat>38.585740223</lat>
+      <lon>-121.376990791</lon>
+      <name>Sacramento</name>
+      <state>CA</state>
+    </location>
+    <location name="97415">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>325</dist>
+      <lat>42.2160121032</lat>
+      <lon>-124.093338898</lon>
+      <name>Brookings</name>
+      <state>OR</state>
+    </location>
+  </cdi>
+</cdidata>

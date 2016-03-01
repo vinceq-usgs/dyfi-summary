@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Buenos Aires::Buenos Aires::Argentina">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>1338</dist>
+      <lat>-34.61</lat>
+      <lon>-58.37</lon>
+      <name>Buenos Aires</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>381</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>330</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="La Serena::Coquimbo::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>-29.90</lat>
+      <lon>-71.25</lon>
+      <name>La Serena</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.9633</cdi>
+      <nresp>5</nresp>
+      <dist>338</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

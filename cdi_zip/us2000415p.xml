@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Napier::Hawkeʿs Bay::New Zealand">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>-39.49</lat>
+      <lon>176.90</lon>
+      <name>Napier</name>
+    </location>
+    <location name="Nuhaka::Hawkeʿs Bay::New Zealand">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>-39.05</lat>
+      <lon>177.75</lon>
+      <name>Nuhaka</name>
+    </location>
+    <location name="Marton::Manawatu-Wanganui::New Zealand">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>-40.08</lat>
+      <lon>175.38</lon>
+      <name>Marton</name>
+    </location>
+    <location name="Ohakune::Manawatu-Wanganui::New Zealand">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>-39.42</lat>
+      <lon>175.42</lon>
+      <name>Ohakune</name>
+    </location>
+    <location name="Waiouru::Manawatu-Wanganui::New Zealand">
+      <cdi>5.4480</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>-39.48</lat>
+      <lon>175.67</lon>
+      <name>Waiouru</name>
+    </location>
+    <location name="Wanganui::Manawatu-Wanganui::New Zealand">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>-39.93</lat>
+      <lon>175.03</lon>
+      <name>Wanganui</name>
+    </location>
+    <location name="Turangi::Waikato::New Zealand">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>-39.00</lat>
+      <lon>175.93</lon>
+      <name>Turangi</name>
+    </location>
+    <location name="Lower Hutt::Wellington::New Zealand">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>-41.20</lat>
+      <lon>174.93</lon>
+      <name>Lower Hutt</name>
+    </location>
+    <location name="Wellington::Wellington::New Zealand">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>236</dist>
+      <lat>-41.28</lat>
+      <lon>174.78</lon>
+      <name>Wellington</name>
+    </location>
+  </cdi>
+</cdidata>

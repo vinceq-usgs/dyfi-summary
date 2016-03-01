@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73003">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>35.6683436545</lat>
+      <lon>-97.4969186829</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73007">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.5465</cdi>
+      <nresp>5</nresp>
+      <dist>5</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73118">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>35.5186748711</lat>
+      <lon>-97.5298794618</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74116">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>36.1848986441</lat>
+      <lon>-95.8325638899</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74133">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>36.0413422515</lat>
+      <lon>-95.8789406288</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

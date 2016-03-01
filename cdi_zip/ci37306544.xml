@@ -1,0 +1,139 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91761">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>34.0345221452</lat>
+      <lon>-117.592677765</lon>
+      <name>Ontario</name>
+      <state>CA</state>
+    </location>
+    <location name="91901">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>32.8065319752</lat>
+      <lon>-116.715227584</lon>
+      <name>Alpine</name>
+      <state>CA</state>
+    </location>
+    <location name="91941">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>32.7612331769</lat>
+      <lon>-117.001733864</lon>
+      <name>La Mesa</name>
+      <state>CA</state>
+    </location>
+    <location name="92004">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>33.2073330892</lat>
+      <lon>-116.282458881</lon>
+      <name>Borrego Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92026">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>33.2142707741</lat>
+      <lon>-117.113675744</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92040">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>32.9132430478</lat>
+      <lon>-116.882406668</lon>
+      <name>Lakeside</name>
+      <state>CA</state>
+    </location>
+    <location name="92065">
+      <cdi>2.4261</cdi>
+      <nresp>3</nresp>
+      <dist>59</dist>
+      <lat>33.042819068</lat>
+      <lon>-116.848126526</lon>
+      <name>Ramona</name>
+      <state>CA</state>
+    </location>
+    <location name="92084">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>83</dist>
+      <lat>33.2218296683</lat>
+      <lon>-117.205009505</lon>
+      <name>Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="92116">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>98</dist>
+      <lat>32.7649498308</lat>
+      <lon>-117.123211061</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92127">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>33.02303349</lat>
+      <lon>-117.122244895</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92264">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>33.7408622467</lat>
+      <lon>-116.535954528</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92270">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>33.7671512149</lat>
+      <lon>-116.422775835</lon>
+      <name>Rancho Mirage</name>
+      <state>CA</state>
+    </location>
+    <location name="92345">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>34.3857961061</lat>
+      <lon>-117.308080427</lon>
+      <name>Hesperia</name>
+      <state>CA</state>
+    </location>
+    <location name="92592">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>33.5072014251</lat>
+      <lon>-117.013060513</lon>
+      <name>Temecula</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

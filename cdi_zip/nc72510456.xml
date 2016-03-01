@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93267">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>36.1431428242</lat>
+      <lon>-119.087467946</lon>
+      <name>Strathmore</name>
+      <state>CA</state>
+    </location>
+    <location name="93514">
+      <cdi>3.2221</cdi>
+      <nresp>25</nresp>
+      <dist>37</dist>
+      <lat>37.4762712635</lat>
+      <lon>-118.400747511</lon>
+      <name>Bishop</name>
+      <state>CA</state>
+    </location>
+    <location name="93529">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>31</dist>
+      <lat>37.8139103806</lat>
+      <lon>-118.99650126</lon>
+      <name>June Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="93546">
+      <cdi>2.9139</cdi>
+      <nresp>29</nresp>
+      <dist>13</dist>
+      <lat>37.6583157092</lat>
+      <lon>-118.898845011</lon>
+      <name>Mammoth Lakes</name>
+      <state>CA</state>
+    </location>
+    <location name="93644">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>67</dist>
+      <lat>37.4189904764</lat>
+      <lon>-119.507793845</lon>
+      <name>Oakhurst</name>
+      <state>CA</state>
+    </location>
+    <location name="93664">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>37.1130771647</lat>
+      <lon>-119.068703102</lon>
+      <name>Shaver Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="94002">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>310</dist>
+      <lat>37.5135678529</lat>
+      <lon>-122.297842297</lon>
+      <name>Belmont</name>
+      <state>CA</state>
+    </location>
+    <location name="94040">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>292</dist>
+      <lat>37.3803257432</lat>
+      <lon>-122.085468091</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94305">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>299</dist>
+      <lat>37.4244355981</lat>
+      <lon>-122.166036396</lon>
+      <name>Stanford</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>283</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94590">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>38.1003329591</lat>
+      <lon>-122.247859578</lon>
+      <name>Vallejo</name>
+      <state>CA</state>
+    </location>
+    <location name="94941">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>334</dist>
+      <lat>37.8934006252</lat>
+      <lon>-122.565192731</lon>
+      <name>Mill Valley</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

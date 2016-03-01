@@ -1,0 +1,1255 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89113">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>36.0597377035</lat>
+      <lon>-115.261603428</lon>
+      <name>Las Vegas</name>
+      <state>NV</state>
+    </location>
+    <location name="90004">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>157</dist>
+      <lat>34.076243709</lat>
+      <lon>-118.311378679</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90005">
+      <cdi>2.3565</cdi>
+      <nresp>4</nresp>
+      <dist>159</dist>
+      <lat>34.0590483484</lat>
+      <lon>-118.308770853</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90006">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>34.0480263184</lat>
+      <lon>-118.294092518</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90008">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>165</dist>
+      <lat>34.0090284247</lat>
+      <lon>-118.348152463</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90012">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>34.065853328</lat>
+      <lon>-118.238609901</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90013">
+      <cdi>2.6627</cdi>
+      <nresp>3</nresp>
+      <dist>157</dist>
+      <lat>34.0443968587</lat>
+      <lon>-118.241709408</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90017">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>157</dist>
+      <lat>34.0530822979</lat>
+      <lon>-118.264662386</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90020">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>158</dist>
+      <lat>34.0663275389</lat>
+      <lon>-118.310345479</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90024">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>165</dist>
+      <lat>34.0653110033</lat>
+      <lon>-118.435043099</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90025">
+      <cdi>2.2372</cdi>
+      <nresp>4</nresp>
+      <dist>168</dist>
+      <lat>34.0450097269</lat>
+      <lon>-118.446640587</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90026">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>155</dist>
+      <lat>34.0787685886</lat>
+      <lon>-118.263775106</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90027">
+      <cdi>2.1813</cdi>
+      <nresp>7</nresp>
+      <dist>152</dist>
+      <lat>34.1250702411</lat>
+      <lon>-118.290629731</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90029">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>155</dist>
+      <lat>34.0897595767</lat>
+      <lon>-118.294573776</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90031">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>34.0795878045</lat>
+      <lon>-118.211430682</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90033">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>34.0502188723</lat>
+      <lon>-118.21085591</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90035">
+      <cdi>2.2372</cdi>
+      <nresp>4</nresp>
+      <dist>164</dist>
+      <lat>34.0517930945</lat>
+      <lon>-118.383658114</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90036">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>34.0703685748</lat>
+      <lon>-118.350101858</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90037">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>34.0027460486</lat>
+      <lon>-118.287492057</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90039">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>151</dist>
+      <lat>34.1123483555</lat>
+      <lon>-118.261198036</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90041">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>34.1371166106</lat>
+      <lon>-118.207269033</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90042">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>147</dist>
+      <lat>34.1151227076</lat>
+      <lon>-118.191954999</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90046">
+      <cdi>2.1387</cdi>
+      <nresp>5</nresp>
+      <dist>158</dist>
+      <lat>34.1072326039</lat>
+      <lon>-118.364759793</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90048">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>161</dist>
+      <lat>34.0730844039</lat>
+      <lon>-118.372804071</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90049">
+      <cdi>2.2534</cdi>
+      <nresp>3</nresp>
+      <dist>167</dist>
+      <lat>34.0868710988</lat>
+      <lon>-118.488186954</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90064">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>167</dist>
+      <lat>34.0371990413</lat>
+      <lon>-118.424244657</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90068">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>34.1280225097</lat>
+      <lon>-118.328765759</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90069">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>160</dist>
+      <lat>34.0943207767</lat>
+      <lon>-118.381469996</lon>
+      <name>West Hollywood</name>
+      <state>CA</state>
+    </location>
+    <location name="90077">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>163</dist>
+      <lat>34.1049784612</lat>
+      <lon>-118.455476122</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90210">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>34.1021895388</lat>
+      <lon>-118.414631614</lon>
+      <name>Beverly Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="90211">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>34.0648703009</lat>
+      <lon>-118.383172566</lon>
+      <name>Beverly Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="90212">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>34.0620709903</lat>
+      <lon>-118.401521678</lon>
+      <name>Beverly Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="90232">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>167</dist>
+      <lat>34.0179145665</lat>
+      <lon>-118.391987459</lon>
+      <name>Culver City</name>
+      <state>CA</state>
+    </location>
+    <location name="90265">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>34.0655705594</lat>
+      <lon>-118.816415475</lon>
+      <name>Malibu</name>
+      <state>CA</state>
+    </location>
+    <location name="90277">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>33.8304542479</lat>
+      <lon>-118.384029436</lon>
+      <name>Redondo Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90291">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>173</dist>
+      <lat>33.9939764023</lat>
+      <lon>-118.463740932</lon>
+      <name>Venice</name>
+      <state>CA</state>
+    </location>
+    <location name="90292">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>174</dist>
+      <lat>33.9712908882</lat>
+      <lon>-118.445270979</lon>
+      <name>Marina del Rey</name>
+      <state>CA</state>
+    </location>
+    <location name="90401">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>173</dist>
+      <lat>34.0149493467</lat>
+      <lon>-118.493037996</lon>
+      <name>Santa Monica</name>
+      <state>CA</state>
+    </location>
+    <location name="90403">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>34.0306581003</lat>
+      <lon>-118.490537842</lon>
+      <name>Santa Monica</name>
+      <state>CA</state>
+    </location>
+    <location name="90715">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>169</dist>
+      <lat>33.8405139674</lat>
+      <lon>-118.078829927</lon>
+      <name>Lakewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90802">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>183</dist>
+      <lat>33.7546211793</lat>
+      <lon>-118.21110738</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91001">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>34.1952197716</lat>
+      <lon>-118.138127411</lon>
+      <name>Altadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91007">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>139</dist>
+      <lat>34.128802319</lat>
+      <lon>-118.047898143</lon>
+      <name>Arcadia</name>
+      <state>CA</state>
+    </location>
+    <location name="91024">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>34.1690653327</lat>
+      <lon>-118.049921528</lon>
+      <name>Sierra Madre</name>
+      <state>CA</state>
+    </location>
+    <location name="91030">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>34.1104492953</lat>
+      <lon>-118.15723043</lon>
+      <name>South Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91040">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>143</dist>
+      <lat>34.2413269695</lat>
+      <lon>-118.31471899</lon>
+      <name>Sunland</name>
+      <state>CA</state>
+    </location>
+    <location name="91101">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>142</dist>
+      <lat>34.146589543</lat>
+      <lon>-118.138902166</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91105">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>144</dist>
+      <lat>34.1399011935</lat>
+      <lon>-118.168205313</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91106">
+      <cdi>2.0984</cdi>
+      <nresp>5</nresp>
+      <dist>142</dist>
+      <lat>34.1390483935</lat>
+      <lon>-118.127607218</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91201">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>34.1702785367</lat>
+      <lon>-118.289070935</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91202">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>147</dist>
+      <lat>34.1683004922</lat>
+      <lon>-118.267886261</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91204">
+      <cdi>2.2372</cdi>
+      <nresp>4</nresp>
+      <dist>149</dist>
+      <lat>34.1361927585</lat>
+      <lon>-118.26056052</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91205">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>34.1366183916</lat>
+      <lon>-118.243509227</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91206">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>145</dist>
+      <lat>34.160662043</lat>
+      <lon>-118.214488557</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91207">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>145</dist>
+      <lat>34.184651848</lat>
+      <lon>-118.258775598</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91208">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>34.1961333593</lat>
+      <lon>-118.240400232</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91304">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>165</dist>
+      <lat>34.2240325986</lat>
+      <lon>-118.63324204</lon>
+      <name>Canoga Park</name>
+      <state>CA</state>
+    </location>
+    <location name="91321">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>34.3579001289</lat>
+      <lon>-118.473819206</lon>
+      <name>Newhall</name>
+      <state>CA</state>
+    </location>
+    <location name="91324">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>34.2384504983</lat>
+      <lon>-118.550203148</lon>
+      <name>Northridge</name>
+      <state>CA</state>
+    </location>
+    <location name="91325">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>34.2368611976</lat>
+      <lon>-118.518193675</lon>
+      <name>Northridge</name>
+      <state>CA</state>
+    </location>
+    <location name="91342">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>133</dist>
+      <lat>34.3502679015</lat>
+      <lon>-118.300760788</lon>
+      <name>Sylmar</name>
+      <state>CA</state>
+    </location>
+    <location name="91343">
+      <cdi>2.3954</cdi>
+      <nresp>4</nresp>
+      <dist>154</dist>
+      <lat>34.2384236293</lat>
+      <lon>-118.480746304</lon>
+      <name>North Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91344">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>34.2915037907</lat>
+      <lon>-118.506153742</lon>
+      <name>Granada Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91350">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>142</dist>
+      <lat>34.4256747485</lat>
+      <lon>-118.514090796</lon>
+      <name>Santa Clarita</name>
+      <state>CA</state>
+    </location>
+    <location name="91351">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>138</dist>
+      <lat>34.4316498014</lat>
+      <lon>-118.464593125</lon>
+      <name>Canyon Country</name>
+      <state>CA</state>
+    </location>
+    <location name="91354">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>143</dist>
+      <lat>34.4521642042</lat>
+      <lon>-118.552668811</lon>
+      <name>Valencia</name>
+      <state>CA</state>
+    </location>
+    <location name="91355">
+      <cdi>2.1883</cdi>
+      <nresp>2</nresp>
+      <dist>149</dist>
+      <lat>34.4226337105</lat>
+      <lon>-118.60635349</lon>
+      <name>Valencia</name>
+      <state>CA</state>
+    </location>
+    <location name="91356">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>34.1538571902</lat>
+      <lon>-118.546732344</lon>
+      <name>Tarzana</name>
+      <state>CA</state>
+    </location>
+    <location name="91362">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>34.1924686909</lat>
+      <lon>-118.819449981</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91364">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>34.1550610547</lat>
+      <lon>-118.595389231</lon>
+      <name>Woodland Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91367">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>168</dist>
+      <lat>34.176389334</lat>
+      <lon>-118.61601363</lon>
+      <name>Woodland Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91387">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>34.4232918094</lat>
+      <lon>-118.410193255</lon>
+      <name>Canyon Country</name>
+      <state>CA</state>
+    </location>
+    <location name="91390">
+      <cdi>2.2786</cdi>
+      <nresp>7</nresp>
+      <dist>127</dist>
+      <lat>34.5253294801</lat>
+      <lon>-118.394343428</lon>
+      <name>Santa Clarita</name>
+      <state>CA</state>
+    </location>
+    <location name="91401">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>34.1780741414</lat>
+      <lon>-118.431515413</lon>
+      <name>Van Nuys</name>
+      <state>CA</state>
+    </location>
+    <location name="91402">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>34.224239197</lat>
+      <lon>-118.444657088</lon>
+      <name>Panorama City</name>
+      <state>CA</state>
+    </location>
+    <location name="91403">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>160</dist>
+      <lat>34.1466900029</lat>
+      <lon>-118.462998968</lon>
+      <name>Sherman Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91405">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>34.2011285092</lat>
+      <lon>-118.447918675</lon>
+      <name>Van Nuys</name>
+      <state>CA</state>
+    </location>
+    <location name="91406">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>158</dist>
+      <lat>34.1988036961</lat>
+      <lon>-118.489654521</lon>
+      <name>Van Nuys</name>
+      <state>CA</state>
+    </location>
+    <location name="91411">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>157</dist>
+      <lat>34.1778044905</lat>
+      <lon>-118.459105307</lon>
+      <name>Van Nuys</name>
+      <state>CA</state>
+    </location>
+    <location name="91423">
+      <cdi>2.2902</cdi>
+      <nresp>5</nresp>
+      <dist>158</dist>
+      <lat>34.1482353238</lat>
+      <lon>-118.432572496</lon>
+      <name>Sherman Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91501">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>146</dist>
+      <lat>34.2028982996</lat>
+      <lon>-118.29852627</lon>
+      <name>Burbank</name>
+      <state>CA</state>
+    </location>
+    <location name="91502">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>148</dist>
+      <lat>34.1768127608</lat>
+      <lon>-118.309210753</lon>
+      <name>Burbank</name>
+      <state>CA</state>
+    </location>
+    <location name="91504">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>34.2027816715</lat>
+      <lon>-118.328942469</lon>
+      <name>Burbank</name>
+      <state>CA</state>
+    </location>
+    <location name="91505">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>151</dist>
+      <lat>34.1770027701</lat>
+      <lon>-118.347870619</lon>
+      <name>Burbank</name>
+      <state>CA</state>
+    </location>
+    <location name="91601">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>153</dist>
+      <lat>34.168208787</lat>
+      <lon>-118.372059098</lon>
+      <name>North Hollywood</name>
+      <state>CA</state>
+    </location>
+    <location name="91602">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>154</dist>
+      <lat>34.1507240204</lat>
+      <lon>-118.365981114</lon>
+      <name>North Hollywood</name>
+      <state>CA</state>
+    </location>
+    <location name="91604">
+      <cdi>2.8299</cdi>
+      <nresp>6</nresp>
+      <dist>157</dist>
+      <lat>34.1395162352</lat>
+      <lon>-118.393133291</lon>
+      <name>Studio City</name>
+      <state>CA</state>
+    </location>
+    <location name="91606">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>34.1868313231</lat>
+      <lon>-118.389003082</lon>
+      <name>North Hollywood</name>
+      <state>CA</state>
+    </location>
+    <location name="91607">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>155</dist>
+      <lat>34.1664423502</lat>
+      <lon>-118.399895143</lon>
+      <name>Valley Village</name>
+      <state>CA</state>
+    </location>
+    <location name="91730">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>34.0996175563</lat>
+      <lon>-117.579542111</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91773">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>132</dist>
+      <lat>34.107197891</lat>
+      <lon>-117.808886066</lon>
+      <name>San Dimas</name>
+      <state>CA</state>
+    </location>
+    <location name="91775">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>34.1145965468</lat>
+      <lon>-118.089197046</lon>
+      <name>San Gabriel</name>
+      <state>CA</state>
+    </location>
+    <location name="92307">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>70</dist>
+      <lat>34.5924765354</lat>
+      <lon>-117.131271335</lon>
+      <name>Apple Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92310">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>35.3636155079</lat>
+      <lon>-116.644035943</lon>
+      <name>Fort Irwin</name>
+      <state>CA</state>
+    </location>
+    <location name="92311">
+      <cdi>2.6990</cdi>
+      <nresp>15</nresp>
+      <dist>46</dist>
+      <lat>34.8400535</lat>
+      <lon>-117.043139595</lon>
+      <name>Barstow</name>
+      <state>CA</state>
+    </location>
+    <location name="92314">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>34.2734445739</lat>
+      <lon>-116.914645906</lon>
+      <name>Big Bear City</name>
+      <state>CA</state>
+    </location>
+    <location name="92325">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>34.246238693</lat>
+      <lon>-117.292453158</lon>
+      <name>Crestline</name>
+      <state>CA</state>
+    </location>
+    <location name="92337">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>34.0491763581</lat>
+      <lon>-117.471344778</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92342">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>34.7755247034</lat>
+      <lon>-117.354415792</lon>
+      <name>Helendale</name>
+      <state>CA</state>
+    </location>
+    <location name="92345">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>34.3857961061</lat>
+      <lon>-117.308080427</lon>
+      <name>Hesperia</name>
+      <state>CA</state>
+    </location>
+    <location name="92346">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>121</dist>
+      <lat>34.1187046695</lat>
+      <lon>-117.178198622</lon>
+      <name>Highland</name>
+      <state>CA</state>
+    </location>
+    <location name="92347">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>35.0462486335</lat>
+      <lon>-117.303056209</lon>
+      <name>Hinkley</name>
+      <state>CA</state>
+    </location>
+    <location name="92354">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>34.049958427</lat>
+      <lon>-117.251386567</lon>
+      <name>Loma Linda</name>
+      <state>CA</state>
+    </location>
+    <location name="92365">
+      <cdi>2.7820</cdi>
+      <nresp>6</nresp>
+      <dist>66</dist>
+      <lat>34.8638538579</lat>
+      <lon>-116.69018585</lon>
+      <name>Newberry Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92373">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>34.0045321458</lat>
+      <lon>-117.152819255</lon>
+      <name>Redlands</name>
+      <state>CA</state>
+    </location>
+    <location name="92382">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>34.1954626133</lat>
+      <lon>-117.134294963</lon>
+      <name>Running Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92392">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>82</dist>
+      <lat>34.4796060546</lat>
+      <lon>-117.407519793</lon>
+      <name>Victorville</name>
+      <state>CA</state>
+    </location>
+    <location name="92394">
+      <cdi>3.1104</cdi>
+      <nresp>2</nresp>
+      <dist>72</dist>
+      <lat>34.5608247648</lat>
+      <lon>-117.334897503</lon>
+      <name>Victorville</name>
+      <state>CA</state>
+    </location>
+    <location name="92395">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>79</dist>
+      <lat>34.5029297011</lat>
+      <lon>-117.294071923</lon>
+      <name>Victorville</name>
+      <state>CA</state>
+    </location>
+    <location name="92397">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>34.3483161521</lat>
+      <lon>-117.587555226</lon>
+      <name>Wrightwood</name>
+      <state>CA</state>
+    </location>
+    <location name="92404">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>34.1771868051</lat>
+      <lon>-117.274202394</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92407">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>34.1726036158</lat>
+      <lon>-117.308551982</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92411">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>34.1221882933</lat>
+      <lon>-117.323812191</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92543">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>33.7022792679</lat>
+      <lon>-116.979163214</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92660">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>183</dist>
+      <lat>33.6326877321</lat>
+      <lon>-117.875784868</lon>
+      <name>Newport Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92806">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>33.838352873</lat>
+      <lon>-117.870242707</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="92831">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>158</dist>
+      <lat>33.8793264465</lat>
+      <lon>-117.896371762</lon>
+      <name>Fullerton</name>
+      <state>CA</state>
+    </location>
+    <location name="92840">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>169</dist>
+      <lat>33.7858743333</lat>
+      <lon>-117.931770417</lon>
+      <name>Garden Grove</name>
+      <state>CA</state>
+    </location>
+    <location name="92868">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>33.7878272262</lat>
+      <lon>-117.876379683</lon>
+      <name>Orange</name>
+      <state>CA</state>
+    </location>
+    <location name="93063">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>34.2882593211</lat>
+      <lon>-118.688958163</lon>
+      <name>Simi Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="93501">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>80</dist>
+      <lat>35.054180464</lat>
+      <lon>-118.143095513</lon>
+      <name>Mojave</name>
+      <state>CA</state>
+    </location>
+    <location name="93505">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>49</dist>
+      <lat>35.182178957</lat>
+      <lon>-117.824892483</lon>
+      <name>California City</name>
+      <state>CA</state>
+    </location>
+    <location name="93510">
+      <cdi>2.2630</cdi>
+      <nresp>5</nresp>
+      <dist>118</dist>
+      <lat>34.4555564273</lat>
+      <lon>-118.195448784</lon>
+      <name>Acton</name>
+      <state>CA</state>
+    </location>
+    <location name="93516">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>41</dist>
+      <lat>35.0122451925</lat>
+      <lon>-117.666037095</lon>
+      <name>Boron</name>
+      <state>CA</state>
+    </location>
+    <location name="93523">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>59</dist>
+      <lat>35.0194655613</lat>
+      <lon>-117.885851989</lon>
+      <name>Edwards</name>
+      <state>CA</state>
+    </location>
+    <location name="93524">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>34.9086302661</lat>
+      <lon>-117.650569642</lon>
+      <name>Edwards</name>
+      <state>CA</state>
+    </location>
+    <location name="93532">
+      <cdi>2.8973</cdi>
+      <nresp>3</nresp>
+      <dist>131</dist>
+      <lat>34.6855085658</lat>
+      <lon>-118.56625632</lon>
+      <name>Lake Hughes</name>
+      <state>CA</state>
+    </location>
+    <location name="93534">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>96</dist>
+      <lat>34.7201692346</lat>
+      <lon>-118.148498022</lon>
+      <name>Lancaster</name>
+      <state>CA</state>
+    </location>
+    <location name="93535">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>77</dist>
+      <lat>34.7336710749</lat>
+      <lon>-117.893857439</lon>
+      <name>Lancaster</name>
+      <state>CA</state>
+    </location>
+    <location name="93536">
+      <cdi>2</cdi>
+      <nresp>10</nresp>
+      <dist>115</dist>
+      <lat>34.7552935944</lat>
+      <lon>-118.413608287</lon>
+      <name>Lancaster</name>
+      <state>CA</state>
+    </location>
+    <location name="93543">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>98</dist>
+      <lat>34.5075443292</lat>
+      <lon>-117.937261883</lon>
+      <name>Littlerock</name>
+      <state>CA</state>
+    </location>
+    <location name="93550">
+      <cdi>2.0076</cdi>
+      <nresp>7</nresp>
+      <dist>108</dist>
+      <lat>34.4863249168</lat>
+      <lon>-118.074218856</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+    <location name="93551">
+      <cdi>2.4023</cdi>
+      <nresp>21</nresp>
+      <dist>110</dist>
+      <lat>34.5951350338</lat>
+      <lon>-118.222061274</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+    <location name="93552">
+      <cdi>2</cdi>
+      <nresp>8</nresp>
+      <dist>97</dist>
+      <lat>34.5788458187</lat>
+      <lon>-118.021652726</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+    <location name="93555">
+      <cdi>2.3532</cdi>
+      <nresp>21</nresp>
+      <dist>55</dist>
+      <lat>35.6917311746</lat>
+      <lon>-117.449167256</lon>
+      <name>Ridgecrest</name>
+      <state>CA</state>
+    </location>
+    <location name="93560">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>34.9188227328</lat>
+      <lon>-118.497588842</lon>
+      <name>Rosamond</name>
+      <state>CA</state>
+    </location>
+    <location name="93561">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>35.1543335043</lat>
+      <lon>-118.504210742</lon>
+      <name>Tehachapi</name>
+      <state>CA</state>
+    </location>
+    <location name="93563">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>115</dist>
+      <lat>34.2971232285</lat>
+      <lon>-117.864540371</lon>
+      <name>Valyermo</name>
+      <state>CA</state>
+    </location>
+    <location name="93591">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>34.6033261132</lat>
+      <lon>-117.813762</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

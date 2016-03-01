@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73007">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73012">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73027">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>35.8886780296</lat>
+      <lon>-97.2208866929</lon>
+      <name>Coyle</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>4.2776</cdi>
+      <nresp>7</nresp>
+      <dist>9</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73071">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>35.2411743327</lat>
+      <lon>-97.4121112581</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73120">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73134">
+      <cdi>3.6318</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>35.616130717</lat>
+      <lon>-97.5754984565</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="76132">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>348</dist>
+      <lat>32.6673675674</lat>
+      <lon>-97.4181651498</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

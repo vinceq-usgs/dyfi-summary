@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93436">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>265</dist>
+      <lat>34.604909261</lat>
+      <lon>-120.39336214</lon>
+      <name>Lompoc</name>
+      <state>CA</state>
+    </location>
+    <location name="93454">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>239</dist>
+      <lat>34.9297936153</lat>
+      <lon>-120.23666866</lon>
+      <name>Santa Maria</name>
+      <state>CA</state>
+    </location>
+    <location name="94043">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>37.4186501185</lat>
+      <lon>-122.076805997</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="95020">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.0188204369</lat>
+      <lon>-121.560718867</lon>
+      <name>Gilroy</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>2.2372</cdi>
+      <nresp>5</nresp>
+      <dist>5</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

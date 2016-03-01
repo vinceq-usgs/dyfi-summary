@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94518">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>37.950837981</lat>
+      <lon>-122.022350281</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94523">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>37.9543225437</lat>
+      <lon>-122.07630293</lon>
+      <name>Pleasant Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="94549">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>37.9011071203</lat>
+      <lon>-122.117193174</lon>
+      <name>Lafayette</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94555">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>37.5560370984</lat>
+      <lon>-122.080114292</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94595">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>12</dist>
+      <lat>37.8714903106</lat>
+      <lon>-122.069041617</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94596">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>37.8884024161</lat>
+      <lon>-122.036464813</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94597">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>37.9181539053</lat>
+      <lon>-122.071327156</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94598">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>13</dist>
+      <lat>37.9057818419</lat>
+      <lon>-122.003612069</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94618">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>37.8445345419</lat>
+      <lon>-122.238119356</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="61080">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>975</dist>
+      <lat>42.480761708</lat>
+      <lon>-89.0004460711</lon>
+      <name>South Beloit</name>
+      <state>IL</state>
+    </location>
+    <location name="66217">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>353</dist>
+      <lat>39.0172405332</lat>
+      <lon>-94.7784075166</lon>
+      <name>Shawnee</name>
+      <state>KS</state>
+    </location>
+    <location name="66535">
+      <cdi>3.6479</cdi>
+      <nresp>1</nresp>
+      <dist>284</dist>
+      <lat>39.25981135</lat>
+      <lon>-96.436789462</lon>
+      <name>Saint George</name>
+      <state>KS</state>
+    </location>
+    <location name="67060">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67140">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>37.0713001379</lat>
+      <lon>-97.3587944859</lon>
+      <name>South Haven</name>
+      <state>KS</state>
+    </location>
+    <location name="73013">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73084">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>163</dist>
+      <lat>35.5264751791</lat>
+      <lon>-97.3432436184</lon>
+      <name>Spencer</name>
+      <state>OK</state>
+    </location>
+    <location name="73173">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>35.3402175739</lat>
+      <lon>-97.6250877868</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73729">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>36.4206601556</lat>
+      <lon>-98.464175698</lon>
+      <name>Cleo Springs</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>206</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74014">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>216</dist>
+      <lat>36.0489735158</lat>
+      <lon>-95.688743227</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

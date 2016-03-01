@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Alanya::Antalya::Turkey">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>36.56</lat>
+      <lon>32.00</lon>
+      <name>Alanya</name>
+    </location>
+    <location name="Antalya::Antalya::Turkey">
+      <cdi>3.0803</cdi>
+      <nresp>13</nresp>
+      <dist>90</dist>
+      <lat>36.89</lat>
+      <lon>30.71</lon>
+      <name>Antalya</name>
+    </location>
+    <location name="Kaş::Antalya::Turkey">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>46</dist>
+      <lat>36.20</lat>
+      <lon>29.64</lon>
+      <name>Kaş</name>
+    </location>
+    <location name="Kumluca::Antalya::Turkey">
+      <cdi>3.8753</cdi>
+      <nresp>3</nresp>
+      <dist>22</dist>
+      <lat>36.37</lat>
+      <lon>30.28</lon>
+      <name>Kumluca</name>
+    </location>
+    <location name="Serik::Antalya::Turkey">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>115</dist>
+      <lat>36.92</lat>
+      <lon>31.10</lon>
+      <name>Serik</name>
+    </location>
+    <location name="Dalaman::Muğla::Turkey">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>36.77</lat>
+      <lon>28.80</lon>
+      <name>Dalaman</name>
+    </location>
+    <location name="Fethiye::Muğla::Turkey">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>102</dist>
+      <lat>36.62</lat>
+      <lon>29.11</lon>
+      <name>Fethiye</name>
+    </location>
+    <location name="Marmaris::Muğla::Turkey">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>36.86</lat>
+      <lon>28.26</lon>
+      <name>Marmaris</name>
+    </location>
+  </cdi>
+</cdidata>

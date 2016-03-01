@@ -1,0 +1,156 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiba::Chiba::Japan">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>117</dist>
+      <lat>35.61</lat>
+      <lon>140.11</lon>
+      <name>Chiba</name>
+    </location>
+    <location name="Ichikawa::Chiba::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>35.72</lat>
+      <lon>139.93</lon>
+      <name>Ichikawa</name>
+    </location>
+    <location name="Kashiwa::Chiba::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>35.87</lat>
+      <lon>139.97</lon>
+      <name>Kashiwa</name>
+    </location>
+    <location name="Narita::Chiba::Japan">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>91</dist>
+      <lat>35.79</lat>
+      <lon>140.32</lon>
+      <name>Narita</name>
+    </location>
+    <location name="Yachiyo::Chiba::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>35.74</lat>
+      <lon>140.10</lon>
+      <name>Yachiyo</name>
+    </location>
+    <location name="Iwaki::Fukushima::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>37.05</lat>
+      <lon>140.88</lon>
+      <name>Iwaki</name>
+    </location>
+    <location name="Kōriyama::Fukushima::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>37.41</lat>
+      <lon>140.38</lon>
+      <name>Kōriyama</name>
+    </location>
+    <location name="Hitachi::Ibaraki::Japan">
+      <cdi>3.2394</cdi>
+      <nresp>4</nresp>
+      <dist>48</dist>
+      <lat>36.59</lat>
+      <lon>140.66</lon>
+      <name>Hitachi</name>
+    </location>
+    <location name="Mito::Ibaraki::Japan">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>53</dist>
+      <lat>36.38</lat>
+      <lon>140.47</lon>
+      <name>Mito</name>
+    </location>
+    <location name="Naka::Ibaraki::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>83</dist>
+      <lat>36.05</lat>
+      <lon>140.17</lon>
+      <name>Naka</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>3.3926</cdi>
+      <nresp>6</nresp>
+      <dist>80</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Kawasaki::Kanagawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>35.53</lat>
+      <lon>139.70</lon>
+      <name>Kawasaki</name>
+    </location>
+    <location name="Kasukabe::Saitama::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>35.98</lat>
+      <lon>139.77</lon>
+      <name>Kasukabe</name>
+    </location>
+    <location name="Sōka::Saitama::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>35.82</lat>
+      <lon>139.79</lon>
+      <name>Sōka</name>
+    </location>
+    <location name="Mōka::Tochigi::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>36.44</lat>
+      <lon>140.01</lon>
+      <name>Mōka</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>100</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+    <location name="Kokubunji::Tokio::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>35.70</lat>
+      <lon>139.48</lon>
+      <name>Kokubunji</name>
+    </location>
+    <location name="Tachikawa::Tokio::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>35.70</lat>
+      <lon>139.41</lon>
+      <name>Tachikawa</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.3926</cdi>
+      <nresp>11</nresp>
+      <dist>134</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

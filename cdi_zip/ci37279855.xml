@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90723">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>33.8976337779</lat>
+      <lon>-118.164718803</lon>
+      <name>Paramount</name>
+      <state>CA</state>
+    </location>
+    <location name="91701">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>34.1379565788</lat>
+      <lon>-117.600749744</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91759">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>34.2238701489</lat>
+      <lon>-117.576058808</lon>
+      <name>Mt Baldy</name>
+      <state>CA</state>
+    </location>
+    <location name="92240">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>33.9626342861</lat>
+      <lon>-116.529693934</lon>
+      <name>Desert Hot Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92313">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>34.0313412289</lat>
+      <lon>-117.313467732</lon>
+      <name>Grand Terrace</name>
+      <state>CA</state>
+    </location>
+    <location name="92335">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.0869349564</lat>
+      <lon>-117.466361873</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92336">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.1352054936</lat>
+      <lon>-117.462098185</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92376">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>34.1106765881</lat>
+      <lon>-117.380207744</lon>
+      <name>Rialto</name>
+      <state>CA</state>
+    </location>
+    <location name="92405">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.1461626381</lat>
+      <lon>-117.304032925</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92407">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.1726036158</lat>
+      <lon>-117.308551982</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92539">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>33.5540401854</lat>
+      <lon>-116.696854421</lon>
+      <name>Anza</name>
+      <state>CA</state>
+    </location>
+    <location name="93030">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>34.2073730061</lat>
+      <lon>-119.180036437</lon>
+      <name>Oxnard</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

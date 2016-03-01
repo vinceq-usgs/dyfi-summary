@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Zagreb::Grad Zagreb::Croatia">
+      <cdi>3.2992</cdi>
+      <nresp>8</nresp>
+      <dist>4</dist>
+      <lat>45.80</lat>
+      <lon>15.97</lon>
+      <name>Zagreb</name>
+    </location>
+    <location name="Mičevec::Zagreb::Croatia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>45.75</lat>
+      <lon>16.07</lon>
+      <name>Mičevec</name>
+    </location>
+  </cdi>
+</cdidata>

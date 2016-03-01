@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94105">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>37.7885713861</lat>
+      <lon>-122.393818386</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>8</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.3014</cdi>
+      <nresp>6</nresp>
+      <dist>7</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94547">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>38.0059706221</lat>
+      <lon>-122.26023596</lon>
+      <name>Hercules</name>
+      <state>CA</state>
+    </location>
+    <location name="94549">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>37.9011071203</lat>
+      <lon>-122.117193174</lon>
+      <name>Lafayette</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.4581</cdi>
+      <nresp>5</nresp>
+      <dist>8</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>7</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94607">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>30</dist>
+      <lat>37.808279628</lat>
+      <lon>-122.298285049</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

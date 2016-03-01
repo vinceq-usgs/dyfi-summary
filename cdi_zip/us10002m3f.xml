@@ -1,0 +1,260 @@
+<cdidata>
+  <cdi type="city">
+    <location name="H̨aql::Tabūk::Saudi Arabia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>29.29</lat>
+      <lon>34.95</lon>
+      <name>H̨aql</name>
+    </location>
+    <location name="Tabūk::Tabūk::Saudi Arabia">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>199</dist>
+      <lat>28.39</lat>
+      <lon>36.57</lon>
+      <name>Tabūk</name>
+    </location>
+    <location name="al-Badʿ::Tabūk::Saudi Arabia">
+      <cdi>3.4156</cdi>
+      <nresp>5</nresp>
+      <dist>72</dist>
+      <lat>28.49</lat>
+      <lon>35.01</lon>
+      <name>al-Badʿ</name>
+    </location>
+    <location name="al-Madīnah::al-Madīnah::Saudi Arabia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>703</dist>
+      <lat>24.48</lat>
+      <lon>39.59</lon>
+      <name>al-Madīnah</name>
+    </location>
+    <location name="Asyut::Assiut::Egypt">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>401</dist>
+      <lat>27.19</lat>
+      <lon>31.18</lon>
+      <name>Asyut</name>
+    </location>
+    <location name="El Qoseyia::Assiut::Egypt">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>419</dist>
+      <lat>27.43</lat>
+      <lon>30.82</lon>
+      <name>El Qoseyia</name>
+    </location>
+    <location name="Port Said::Būr Saʿīd::Egypt">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>337</dist>
+      <lat>31.26</lat>
+      <lon>32.29</lon>
+      <name>Port Said</name>
+    </location>
+    <location name="Gizeh::Giseh::Egypt">
+      <cdi>3.1540</cdi>
+      <nresp>7</nresp>
+      <dist>353</dist>
+      <lat>30.01</lat>
+      <lon>31.21</lon>
+      <name>Gizeh</name>
+    </location>
+    <location name="El Hawamidiyah::Giseh::Egypt">
+      <cdi>2.7485</cdi>
+      <nresp>9</nresp>
+      <dist>346</dist>
+      <lat>29.90</lat>
+      <lon>31.25</lon>
+      <name>El Hawamidiyah</name>
+    </location>
+    <location name="Cairo::Kairo::Egypt">
+      <cdi>3.0884</cdi>
+      <nresp>16</nresp>
+      <dist>351</dist>
+      <lat>30.06</lat>
+      <lon>31.25</lon>
+      <name>Cairo</name>
+    </location>
+    <location name="El Tur::South Sinai::Egypt">
+      <cdi>3.7885</cdi>
+      <nresp>7</nresp>
+      <dist>138</dist>
+      <lat>28.24</lat>
+      <lon>33.62</lon>
+      <name>El Tur</name>
+    </location>
+    <location name="El Mansura::ad-Daqahlīyah::Egypt">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>388</dist>
+      <lat>31.04</lat>
+      <lon>31.38</lon>
+      <name>El Mansura</name>
+    </location>
+    <location name="Hurghada::al-Bah̨r-al-Ah̨mar::Egypt">
+      <cdi>2.3643</cdi>
+      <nresp>3</nresp>
+      <dist>218</dist>
+      <lat>27.23</lat>
+      <lon>33.83</lon>
+      <name>Hurghada</name>
+    </location>
+    <location name="Abo el Matamer::al-Buh̨ayrah::Egypt">
+      <cdi>2.6051</cdi>
+      <nresp>1</nresp>
+      <dist>482</dist>
+      <lat>30.92</lat>
+      <lon>30.18</lon>
+      <name>Abo el Matamer</name>
+    </location>
+    <location name="Shubra-El-Khema::al-Qalyūbiyah::Egypt">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>353</dist>
+      <lat>30.11</lat>
+      <lon>31.25</lon>
+      <name>Shubra-El-Khema</name>
+    </location>
+    <location name="Abū H̨ammād-al-Mah̨aţţah::aš-Šarqīyah::Egypt">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>334</dist>
+      <lat>30.53</lat>
+      <lon>31.68</lon>
+      <name>Abū H̨ammād-al-Mah̨aţţah</name>
+    </location>
+    <location name="El Asher men Ramadan::aš-Šarqīyah::Egypt">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>316</dist>
+      <lat>30.28</lat>
+      <lon>31.74</lon>
+      <name>El Asher men Ramadan</name>
+    </location>
+    <location name="El Zagazig::aš-Šarqīyah::Egypt">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>352</dist>
+      <lat>30.58</lat>
+      <lon>31.50</lon>
+      <name>El Zagazig</name>
+    </location>
+    <location name="Ashqelon::Hadarom::Israel">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>292</dist>
+      <lat>31.67</lat>
+      <lon>34.56</lon>
+      <name>Ashqelon</name>
+    </location>
+    <location name="Beʿer Sheva::Hadarom::Israel">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>245</dist>
+      <lat>31.25</lat>
+      <lon>34.80</lon>
+      <name>Beʿer Sheva</name>
+    </location>
+    <location name="Elat::Hadarom::Israel">
+      <cdi>2.0200</cdi>
+      <nresp>3</nresp>
+      <dist>66</dist>
+      <lat>29.56</lat>
+      <lon>34.95</lon>
+      <name>Elat</name>
+    </location>
+    <location name="Mizpe Ramon::Hadarom::Israel">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>30.61</lat>
+      <lon>34.80</lon>
+      <name>Mizpe Ramon</name>
+    </location>
+    <location name="Netanya::Hamerkaz::Israel">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>365</dist>
+      <lat>32.33</lat>
+      <lon>34.86</lon>
+      <name>Netanya</name>
+    </location>
+    <location name="Petaẖ Tiqwa::Hamerkaz::Israel">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>338</dist>
+      <lat>32.09</lat>
+      <lon>34.88</lon>
+      <name>Petaẖ Tiqwa</name>
+    </location>
+    <location name="Rishon LeẔiyyon::Hamerkaz::Israel">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>324</dist>
+      <lat>31.96</lat>
+      <lon>34.80</lon>
+      <name>Rishon LeẔiyyon</name>
+    </location>
+    <location name="Bet Shemesh::Jerusalem::Israel">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>302</dist>
+      <lat>31.75</lat>
+      <lon>34.98</lon>
+      <name>Bet Shemesh</name>
+    </location>
+    <location name="Jerusalem::Jerusalem::Israel">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>308</dist>
+      <lat>31.78</lat>
+      <lon>35.22</lon>
+      <name>Jerusalem</name>
+    </location>
+    <location name="Ramat Gan::Tel Aviv::Israel">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>337</dist>
+      <lat>32.08</lat>
+      <lon>34.80</lon>
+      <name>Ramat Gan</name>
+    </location>
+    <location name="Ramat HaSharon::Tel Aviv::Israel">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>345</dist>
+      <lat>32.15</lat>
+      <lon>34.84</lon>
+      <name>Ramat HaSharon</name>
+    </location>
+    <location name="Tel Aviv-Yafo::Tel Aviv::Israel">
+      <cdi>3.0440</cdi>
+      <nresp>4</nresp>
+      <dist>336</dist>
+      <lat>32.07</lat>
+      <lon>34.77</lon>
+      <name>Tel Aviv-Yafo</name>
+    </location>
+    <location name="Irbid::Irbid::Jordan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>404</dist>
+      <lat>32.55</lat>
+      <lon>35.85</lon>
+      <name>Irbid</name>
+    </location>
+    <location name="al-ʿAqabah::al-ʿAqabah::Jordan">
+      <cdi>3.6956</cdi>
+      <nresp>2</nresp>
+      <dist>65</dist>
+      <lat>29.53</lat>
+      <lon>35.00</lon>
+      <name>al-ʿAqabah</name>
+    </location>
+  </cdi>
+</cdidata>

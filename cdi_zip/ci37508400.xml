@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90005">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>34.0590483484</lat>
+      <lon>-118.308770853</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90025">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>34.0450097269</lat>
+      <lon>-118.446640587</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90274">
+      <cdi>2.3799</cdi>
+      <nresp>10</nresp>
+      <dist>8</dist>
+      <lat>33.7704196459</lat>
+      <lon>-118.372052005</lon>
+      <name>Palos Verdes Peninsula</name>
+      <state>CA</state>
+    </location>
+    <location name="90275">
+      <cdi>2.9552</cdi>
+      <nresp>24</nresp>
+      <dist>8</dist>
+      <lat>33.7552706318</lat>
+      <lon>-118.363098141</lon>
+      <name>Rancho Palos Verdes</name>
+      <state>CA</state>
+    </location>
+    <location name="90277">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>33.8304542479</lat>
+      <lon>-118.384029436</lon>
+      <name>Redondo Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90710">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>33.798138066</lat>
+      <lon>-118.299263469</lon>
+      <name>Harbor City</name>
+      <state>CA</state>
+    </location>
+    <location name="90731">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>33.7410836122</lat>
+      <lon>-118.284522752</lon>
+      <name>San Pedro</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="90804">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>33.7827735966</lat>
+      <lon>-118.149743621</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91203">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>34.152749524</lat>
+      <lon>-118.263970841</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

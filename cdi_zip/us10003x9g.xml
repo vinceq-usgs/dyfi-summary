@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="La Rioja::La Rioja::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>512</dist>
+      <lat>-29.41</lat>
+      <lon>-66.85</lon>
+      <name>La Rioja</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>492</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="San Rafael::Mendoza::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>673</dist>
+      <lat>-34.62</lat>
+      <lon>-68.34</lon>
+      <name>San Rafael</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>414</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="Copiapó::Atacama::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>292</dist>
+      <lat>-27.36</lat>
+      <lon>-70.34</lon>
+      <name>Copiapó</name>
+    </location>
+    <location name="Vallenar::Atacama::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>-28.57</lat>
+      <lon>-70.76</lon>
+      <name>Vallenar</name>
+    </location>
+    <location name="Coquimbo::Coquimbo::Chile">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>-29.96</lat>
+      <lon>-71.33</lon>
+      <name>Coquimbo</name>
+    </location>
+    <location name="Illapel::Coquimbo::Chile">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>256</dist>
+      <lat>-31.63</lat>
+      <lon>-71.17</lon>
+      <name>Illapel</name>
+    </location>
+    <location name="La Serena::Coquimbo::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>-29.90</lat>
+      <lon>-71.25</lon>
+      <name>La Serena</name>
+    </location>
+    <location name="Machalí::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>540</dist>
+      <lat>-34.18</lat>
+      <lon>-70.67</lon>
+      <name>Machalí</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.4566</cdi>
+      <nresp>9</nresp>
+      <dist>464</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="La Ligua::Valparaíso::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>342</dist>
+      <lat>-32.46</lat>
+      <lon>-71.24</lon>
+      <name>La Ligua</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>3.6479</cdi>
+      <nresp>1</nresp>
+      <dist>396</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

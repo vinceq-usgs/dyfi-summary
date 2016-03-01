@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98014">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>47.6597964065</lat>
+      <lon>-121.897333527</lon>
+      <name>Carnation</name>
+      <state>WA</state>
+    </location>
+    <location name="98121">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>47.6151349643</lat>
+      <lon>-122.346715449</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98204">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>47.901791499</lat>
+      <lon>-122.261075514</lon>
+      <name>Everett</name>
+      <state>WA</state>
+    </location>
+    <location name="98251">
+      <cdi>2.7916</cdi>
+      <nresp>26</nresp>
+      <dist>13</dist>
+      <lat>47.8168921993</lat>
+      <lon>-121.612138513</lon>
+      <name>Gold Bar</name>
+      <state>WA</state>
+    </location>
+    <location name="98272">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>47.8507669496</lat>
+      <lon>-121.888920286</lon>
+      <name>Monroe</name>
+      <state>WA</state>
+    </location>
+    <location name="98294">
+      <cdi>2.7381</cdi>
+      <nresp>9</nresp>
+      <dist>11</dist>
+      <lat>47.875835406</lat>
+      <lon>-121.452270172</lon>
+      <name>Sultan</name>
+      <state>WA</state>
+    </location>
+    <location name="98312">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>47.5697002435</lat>
+      <lon>-122.762834516</lon>
+      <name>Bremerton</name>
+      <state>WA</state>
+    </location>
+    <location name="98328">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>46.8694205731</lat>
+      <lon>-122.221594142</lon>
+      <name>Eatonville</name>
+      <state>WA</state>
+    </location>
+    <location name="98354">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>47.2505701529</lat>
+      <lon>-122.315364524</lon>
+      <name>Milton</name>
+      <state>WA</state>
+    </location>
+    <location name="98801">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>47.4308043295</lat>
+      <lon>-120.348997666</lon>
+      <name>Wenatchee</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

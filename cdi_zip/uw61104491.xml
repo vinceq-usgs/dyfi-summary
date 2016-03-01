@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98223">
+      <cdi>2.7751</cdi>
+      <nresp>6</nresp>
+      <dist>17</dist>
+      <lat>48.2072560911</lat>
+      <lon>-121.949170135</lon>
+      <name>Arlington</name>
+      <state>WA</state>
+    </location>
+    <location name="98225">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>48.7759601548</lat>
+      <lon>-122.522355499</lon>
+      <name>Bellingham</name>
+      <state>WA</state>
+    </location>
+    <location name="98241">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>37</dist>
+      <lat>48.1641380081</lat>
+      <lon>-121.29965921</lon>
+      <name>Darrington</name>
+      <state>WA</state>
+    </location>
+    <location name="98362">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>47.9840055647</lat>
+      <lon>-123.375463052</lon>
+      <name>Port Angeles</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

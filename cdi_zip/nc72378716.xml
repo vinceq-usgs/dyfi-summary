@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94530">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>37.9229540734</lat>
+      <lon>-122.292315771</lon>
+      <name>El Cerrito</name>
+      <state>CA</state>
+    </location>
+    <location name="94541">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>195</dist>
+      <lat>37.6745039472</lat>
+      <lon>-122.08434059</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95648">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>38.920757037</lat>
+      <lon>-121.314305491</lon>
+      <name>Lincoln</name>
+      <state>CA</state>
+    </location>
+    <location name="95661">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>38.740224929</lat>
+      <lon>-121.250351975</lon>
+      <name>Roseville</name>
+      <state>CA</state>
+    </location>
+    <location name="95831">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>38.495587119</lat>
+      <lon>-121.529159846</lon>
+      <name>Sacramento</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

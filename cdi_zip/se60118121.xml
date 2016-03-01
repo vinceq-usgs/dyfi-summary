@@ -1,0 +1,310 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="27311">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>550</dist>
+      <lat>36.4787787951</lat>
+      <lon>-79.4754188005</lon>
+      <name>Pelham</name>
+      <state>NC</state>
+    </location>
+    <location name="40014">
+      <cdi>2.0372</cdi>
+      <nresp>7</nresp>
+      <dist>16</dist>
+      <lat>38.3428593611</lat>
+      <lon>-85.4319326062</lon>
+      <name>Crestwood</name>
+      <state>KY</state>
+    </location>
+    <location name="40019">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>38.3790737155</lat>
+      <lon>-85.1763502452</lon>
+      <name>Eminence</name>
+      <state>KY</state>
+    </location>
+    <location name="40022">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>38.1573938301</lat>
+      <lon>-85.3380017264</lon>
+      <name>Finchville</name>
+      <state>KY</state>
+    </location>
+    <location name="40023">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>38.1634121483</lat>
+      <lon>-85.4236725151</lon>
+      <name>Fisherville</name>
+      <state>KY</state>
+    </location>
+    <location name="40031">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>19</dist>
+      <lat>38.424601295</lat>
+      <lon>-85.3903536113</lon>
+      <name>La Grange</name>
+      <state>KY</state>
+    </location>
+    <location name="40047">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>38</dist>
+      <lat>38.0411113171</lat>
+      <lon>-85.555947344</lon>
+      <name>Mount Washington</name>
+      <state>KY</state>
+    </location>
+    <location name="40056">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>38.307039639</lat>
+      <lon>-85.4886467182</lon>
+      <name>Pewee Valley</name>
+      <state>KY</state>
+    </location>
+    <location name="40065">
+      <cdi>2.7112</cdi>
+      <nresp>27</nresp>
+      <dist>10</dist>
+      <lat>38.2179097991</lat>
+      <lon>-85.2067453929</lon>
+      <name>Shelbyville</name>
+      <state>KY</state>
+    </location>
+    <location name="40067">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>38.2265624879</lat>
+      <lon>-85.3611147999</lon>
+      <name>Simpsonville</name>
+      <state>KY</state>
+    </location>
+    <location name="40068">
+      <cdi>3.1451</cdi>
+      <nresp>7</nresp>
+      <dist>12</dist>
+      <lat>38.3925694366</lat>
+      <lon>-85.2747561083</lon>
+      <name>Smithfield</name>
+      <state>KY</state>
+    </location>
+    <location name="40071">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>38.038766419</lat>
+      <lon>-85.3677840768</lon>
+      <name>Taylorsville</name>
+      <state>KY</state>
+    </location>
+    <location name="40076">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>38.109457593</lat>
+      <lon>-85.0945897761</lon>
+      <name>Waddy</name>
+      <state>KY</state>
+    </location>
+    <location name="40142">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>37.892901483</lat>
+      <lon>-86.2194168117</lon>
+      <name>Guston</name>
+      <state>KY</state>
+    </location>
+    <location name="40165">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>37.9782995684</lat>
+      <lon>-85.705547636</lon>
+      <name>Shepherdsville</name>
+      <state>KY</state>
+    </location>
+    <location name="40175">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>37.8325992977</lat>
+      <lon>-86.0788141612</lon>
+      <name>Vine Grove</name>
+      <state>KY</state>
+    </location>
+    <location name="40206">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>38.2577540635</lat>
+      <lon>-85.7024007458</lon>
+      <name>Louisville</name>
+      <state>KY</state>
+    </location>
+    <location name="40207">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>38.2636654804</lat>
+      <lon>-85.6559417512</lon>
+      <name>Louisville</name>
+      <state>KY</state>
+    </location>
+    <location name="40214">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>38.1510870178</lat>
+      <lon>-85.7851083808</lon>
+      <name>Louisville</name>
+      <state>KY</state>
+    </location>
+    <location name="40220">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>32</dist>
+      <lat>38.2152350361</lat>
+      <lon>-85.6180290884</lon>
+      <name>Louisville</name>
+      <state>KY</state>
+    </location>
+    <location name="40223">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>38.261456961</lat>
+      <lon>-85.5438585663</lon>
+      <name>Louisville</name>
+      <state>KY</state>
+    </location>
+    <location name="40241">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>38.3044443463</lat>
+      <lon>-85.5789491328</lon>
+      <name>Louisville</name>
+      <state>KY</state>
+    </location>
+    <location name="40242">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>38.2797776614</lat>
+      <lon>-85.5938086718</lon>
+      <name>Louisville</name>
+      <state>KY</state>
+    </location>
+    <location name="40245">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>38.2664193853</lat>
+      <lon>-85.4540581679</lon>
+      <name>Louisville</name>
+      <state>KY</state>
+    </location>
+    <location name="40272">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>56</dist>
+      <lat>38.0839329848</lat>
+      <lon>-85.8520998915</lon>
+      <name>Louisville</name>
+      <state>KY</state>
+    </location>
+    <location name="40601">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>38.2329502781</lat>
+      <lon>-84.8823447239</lon>
+      <name>Frankfort</name>
+      <state>KY</state>
+    </location>
+    <location name="41056">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>38.6008811047</lat>
+      <lon>-83.7861630096</lon>
+      <name>Maysville</name>
+      <state>KY</state>
+    </location>
+    <location name="41640">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>224</dist>
+      <lat>37.4789890945</lat>
+      <lon>-82.9225720015</lon>
+      <name>Hueysville</name>
+      <state>KY</state>
+    </location>
+    <location name="42141">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>36.9507611058</lat>
+      <lon>-85.9132167325</lon>
+      <name>Glasgow</name>
+      <state>KY</state>
+    </location>
+    <location name="42301">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>37.7365533478</lat>
+      <lon>-87.2432293836</lon>
+      <name>Owensboro</name>
+      <state>KY</state>
+    </location>
+    <location name="42544">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>143</dist>
+      <lat>37.0545789283</lat>
+      <lon>-84.7888410437</lon>
+      <name>Nancy</name>
+      <state>KY</state>
+    </location>
+    <location name="42718">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>37.3930657757</lat>
+      <lon>-85.3819133267</lon>
+      <name>Campbellsville</name>
+      <state>KY</state>
+    </location>
+    <location name="47150">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>38.2923957807</lat>
+      <lon>-85.8453555189</lon>
+      <name>New Albany</name>
+      <state>IN</state>
+    </location>
+    <location name="47172">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>38.3979375064</lat>
+      <lon>-85.76197669</lon>
+      <name>Sellersburg</name>
+      <state>IN</state>
+    </location>
+  </cdi>
+</cdidata>

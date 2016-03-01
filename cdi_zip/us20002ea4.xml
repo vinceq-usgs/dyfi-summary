@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chilca::Lima Provincias::Peru">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>-12.52</lat>
+      <lon>-76.74</lon>
+      <name>Chilca</name>
+    </location>
+    <location name="San Luis::Lima Provincias::Peru">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>77</dist>
+      <lat>-12.08</lat>
+      <lon>-77.00</lon>
+      <name>San Luis</name>
+    </location>
+    <location name="Santa María::Lima Provincias::Peru">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>82</dist>
+      <lat>-12.00</lat>
+      <lon>-76.90</lon>
+      <name>Santa María</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>304</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="Illapel::Coquimbo::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>-31.63</lat>
+      <lon>-71.17</lon>
+      <name>Illapel</name>
+    </location>
+    <location name="Vicuña::Coquimbo::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>214</dist>
+      <lat>-30.03</lat>
+      <lon>-70.74</lon>
+      <name>Vicuña</name>
+    </location>
+    <location name="El Monte::Metropolitana::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>-33.68</lat>
+      <lon>-71.02</lon>
+      <name>El Monte</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.5366</cdi>
+      <nresp>9</nresp>
+      <dist>219</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Quillota::Valparaíso::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>-32.88</lat>
+      <lon>-71.26</lon>
+      <name>Quillota</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>2.8973</cdi>
+      <nresp>3</nresp>
+      <dist>146</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

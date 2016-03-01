@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93291">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>403</dist>
+      <lat>36.3901316913</lat>
+      <lon>-119.369413997</lon>
+      <name>Visalia</name>
+      <state>CA</state>
+    </location>
+    <location name="94110">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>37.7497940107</lat>
+      <lon>-122.415347766</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94556">
+      <cdi>2.7334</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>37.8329277404</lat>
+      <lon>-122.111057261</lon>
+      <name>Moraga</name>
+      <state>CA</state>
+    </location>
+    <location name="94558">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94559">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>38.2394047273</lat>
+      <lon>-122.330669802</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94611">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>37.8308833038</lat>
+      <lon>-122.215136936</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95472">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>38.3966316165</lat>
+      <lon>-122.867666863</lon>
+      <name>Sebastopol</name>
+      <state>CA</state>
+    </location>
+    <location name="95694">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>38.561509696</lat>
+      <lon>-122.004528773</lon>
+      <name>Winters</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

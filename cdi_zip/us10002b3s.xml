@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Mucurapo::Diego Martín::Trinidad and Tobago">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>100</dist>
+      <lat>10.67</lat>
+      <lon>-61.54</lon>
+      <name>Mucurapo</name>
+    </location>
+    <location name="Port of Spain::Port of Spain::Trinidad and Tobago">
+      <cdi>2.6348</cdi>
+      <nresp>13</nresp>
+      <dist>102</dist>
+      <lat>10.66</lat>
+      <lon>-61.51</lon>
+      <name>Port of Spain</name>
+    </location>
+    <location name="Sangre Grande::Sangre Grande::Trinidad and Tobago">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>131</dist>
+      <lat>10.61</lat>
+      <lon>-61.12</lon>
+      <name>Sangre Grande</name>
+    </location>
+    <location name="Arouca::Tunapuna-Piarco::Trinidad and Tobago">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>10.65</lat>
+      <lon>-61.33</lon>
+      <name>Arouca</name>
+    </location>
+    <location name="Tunapuna::Tunapuna-Piarco::Trinidad and Tobago">
+      <cdi>2.5018</cdi>
+      <nresp>3</nresp>
+      <dist>110</dist>
+      <lat>10.65</lat>
+      <lon>-61.39</lon>
+      <name>Tunapuna</name>
+    </location>
+    <location name="Saint Georgeʿs::Saint George::Grenada">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>12.06</lat>
+      <lon>-61.74</lon>
+      <name>Saint Georgeʿs</name>
+    </location>
+  </cdi>
+</cdidata>

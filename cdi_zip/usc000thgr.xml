@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67022">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>37.0959484612</lat>
+      <lon>-97.6546725248</lon>
+      <name>Caldwell</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67203">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>37.7037979044</lat>
+      <lon>-97.364550356</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73759">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>36.855793831</lat>
+      <lon>-97.6934025249</lon>
+      <name>Medford</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74344">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>261</dist>
+      <lat>36.5766578996</lat>
+      <lon>-94.7224045508</lon>
+      <name>Grove</name>
+      <state>OK</state>
+    </location>
+    <location name="74646">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>36.8248349564</lat>
+      <lon>-97.4278661269</lon>
+      <name>Nardin</name>
+      <state>OK</state>
+    </location>
+    <location name="75062">
+      <cdi>3.2754</cdi>
+      <nresp>1</nresp>
+      <dist>458</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>454</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75230">
+      <cdi>3.5831</cdi>
+      <nresp>2</nresp>
+      <dist>454</dist>
+      <lat>32.9023498342</lat>
+      <lon>-96.7926991418</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75234">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>450</dist>
+      <lat>32.9238373245</lat>
+      <lon>-96.8903418275</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75235">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>461</dist>
+      <lat>32.8315449377</lat>
+      <lon>-96.8479558357</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

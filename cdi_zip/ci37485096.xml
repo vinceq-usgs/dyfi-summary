@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90630">
+      <cdi>2.8973</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>33.8180921939</lat>
+      <lon>-118.038118916</lon>
+      <name>Cypress</name>
+      <state>CA</state>
+    </location>
+    <location name="90680">
+      <cdi>2.5391</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>33.8011263413</lat>
+      <lon>-117.994887945</lon>
+      <name>Stanton</name>
+      <state>CA</state>
+    </location>
+    <location name="90720">
+      <cdi>2.2534</cdi>
+      <nresp>6</nresp>
+      <dist>14</dist>
+      <lat>33.7955870521</lat>
+      <lon>-118.063760537</lon>
+      <name>Los Alamitos</name>
+      <state>CA</state>
+    </location>
+    <location name="90740">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>33.7545406192</lat>
+      <lon>-118.07125351</lon>
+      <name>Seal Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90808">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>17</dist>
+      <lat>33.8237691701</lat>
+      <lon>-118.115130501</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92646">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>33.6650142157</lat>
+      <lon>-117.968173898</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92647">
+      <cdi>2.4658</cdi>
+      <nresp>24</nresp>
+      <dist>13</dist>
+      <lat>33.7236185378</lat>
+      <lon>-118.006628949</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92648">
+      <cdi>2.6784</cdi>
+      <nresp>5</nresp>
+      <dist>14</dist>
+      <lat>33.6823958143</lat>
+      <lon>-118.012577203</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92649">
+      <cdi>2.4385</cdi>
+      <nresp>23</nresp>
+      <dist>13</dist>
+      <lat>33.7210990547</lat>
+      <lon>-118.044472241</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92683">
+      <cdi>2.6770</cdi>
+      <nresp>9</nresp>
+      <dist>13</dist>
+      <lat>33.7525285522</lat>
+      <lon>-117.993950287</lon>
+      <name>Westminster</name>
+      <state>CA</state>
+    </location>
+    <location name="92804">
+      <cdi>3.3345</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>33.8186757055</lat>
+      <lon>-117.974628915</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="92840">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>33.7858743333</lat>
+      <lon>-117.931770417</lon>
+      <name>Garden Grove</name>
+      <state>CA</state>
+    </location>
+    <location name="92845">
+      <cdi>2.4728</cdi>
+      <nresp>10</nresp>
+      <dist>14</dist>
+      <lat>33.7831326172</lat>
+      <lon>-118.02664898</lon>
+      <name>Garden Grove</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

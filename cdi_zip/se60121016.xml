@@ -1,0 +1,364 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="19010">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>383</dist>
+      <lat>40.023606152</lat>
+      <lon>-75.3303217938</lon>
+      <name>Bryn Mawr</name>
+      <state>PA</state>
+    </location>
+    <location name="20186">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>38.6996140638</lat>
+      <lon>-77.8436145369</lon>
+      <name>Warrenton</name>
+      <state>VA</state>
+    </location>
+    <location name="20194">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>38.9798066202</lat>
+      <lon>-77.3435902805</lon>
+      <name>Reston</name>
+      <state>VA</state>
+    </location>
+    <location name="22901">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>38.090499986</lat>
+      <lon>-78.5546299178</lon>
+      <name>Charlottesville</name>
+      <state>VA</state>
+    </location>
+    <location name="22902">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>48</dist>
+      <lat>37.9976738137</lat>
+      <lon>-78.4694275056</lon>
+      <name>Charlottesville</name>
+      <state>VA</state>
+    </location>
+    <location name="22903">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>53</dist>
+      <lat>38.0158309506</lat>
+      <lon>-78.6009245001</lon>
+      <name>Charlottesville</name>
+      <state>VA</state>
+    </location>
+    <location name="22932">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>38.1454860957</lat>
+      <lon>-78.6947894686</lon>
+      <name>Crozet</name>
+      <state>VA</state>
+    </location>
+    <location name="22958">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>37.900760616</lat>
+      <lon>-78.8883260187</lon>
+      <name>Nellysford</name>
+      <state>VA</state>
+    </location>
+    <location name="22959">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>37.9344945373</lat>
+      <lon>-78.6460878043</lon>
+      <name>North Garden</name>
+      <state>VA</state>
+    </location>
+    <location name="22963">
+      <cdi>2.1553</cdi>
+      <nresp>11</nresp>
+      <dist>35</dist>
+      <lat>37.856887091</lat>
+      <lon>-78.2879708481</lon>
+      <name>Palmyra</name>
+      <state>VA</state>
+    </location>
+    <location name="22967">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>37.796294449</lat>
+      <lon>-79.0090076499</lon>
+      <name>Roseland</name>
+      <state>VA</state>
+    </location>
+    <location name="22968">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>38.2467630352</lat>
+      <lon>-78.3949451342</lon>
+      <name>Ruckersville</name>
+      <state>VA</state>
+    </location>
+    <location name="22969">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>35</dist>
+      <lat>37.7845465326</lat>
+      <lon>-78.7002133571</lon>
+      <name>Schuyler</name>
+      <state>VA</state>
+    </location>
+    <location name="22974">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.96269974</lat>
+      <lon>-78.2697692873</lon>
+      <name>Troy</name>
+      <state>VA</state>
+    </location>
+    <location name="23002">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>37.3477203318</lat>
+      <lon>-77.9599934753</lon>
+      <name>Amelia Court House</name>
+      <state>VA</state>
+    </location>
+    <location name="23004">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.6677833785</lat>
+      <lon>-78.4132202425</lon>
+      <name>Arvonia</name>
+      <state>VA</state>
+    </location>
+    <location name="23022">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>37.7363142539</lat>
+      <lon>-78.2667909999</lon>
+      <name>Bremo Bluff</name>
+      <state>VA</state>
+    </location>
+    <location name="23027">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>37.6326691259</lat>
+      <lon>-78.1410131033</lon>
+      <name>Cartersville</name>
+      <state>VA</state>
+    </location>
+    <location name="23038">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>37.7592327903</lat>
+      <lon>-78.1419502895</lon>
+      <name>Columbia</name>
+      <state>VA</state>
+    </location>
+    <location name="23040">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>18</dist>
+      <lat>37.5125877855</lat>
+      <lon>-78.2486719653</lon>
+      <name>Cumberland</name>
+      <state>VA</state>
+    </location>
+    <location name="23083">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>37.3224673592</lat>
+      <lon>-78.1099551898</lon>
+      <name>Jetersville</name>
+      <state>VA</state>
+    </location>
+    <location name="23093">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>38.0004107227</lat>
+      <lon>-78.0371685324</lon>
+      <name>Louisa</name>
+      <state>VA</state>
+    </location>
+    <location name="23123">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>17</dist>
+      <lat>37.6481348883</lat>
+      <lon>-78.2950724852</lon>
+      <name>New Canton</name>
+      <state>VA</state>
+    </location>
+    <location name="23139">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>44</dist>
+      <lat>37.5507534152</lat>
+      <lon>-77.9349234762</lon>
+      <name>Powhatan</name>
+      <state>VA</state>
+    </location>
+    <location name="23662">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>37.1316006562</lat>
+      <lon>-76.3581063894</lon>
+      <name>Poquoson</name>
+      <state>VA</state>
+    </location>
+    <location name="23837">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>36.7540437639</lat>
+      <lon>-77.1002708868</lon>
+      <name>Courtland</name>
+      <state>VA</state>
+    </location>
+    <location name="23901">
+      <cdi>2.3330</cdi>
+      <nresp>3</nresp>
+      <dist>27</dist>
+      <lat>37.3238861207</lat>
+      <lon>-78.4133432908</lon>
+      <name>Farmville</name>
+      <state>VA</state>
+    </location>
+    <location name="23921">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>18</dist>
+      <lat>37.5998669547</lat>
+      <lon>-78.616108323</lon>
+      <name>Buckingham</name>
+      <state>VA</state>
+    </location>
+    <location name="23930">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>37.1670320057</lat>
+      <lon>-78.0947020289</lon>
+      <name>Crewe</name>
+      <state>VA</state>
+    </location>
+    <location name="23936">
+      <cdi>2.9461</cdi>
+      <nresp>13</nresp>
+      <dist>9</dist>
+      <lat>37.5216636626</lat>
+      <lon>-78.4771602216</lon>
+      <name>Dillwyn</name>
+      <state>VA</state>
+    </location>
+    <location name="23966">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>37.2891086192</lat>
+      <lon>-78.2784957103</lon>
+      <name>Rice</name>
+      <state>VA</state>
+    </location>
+    <location name="24060">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>37.2559154217</lat>
+      <lon>-80.4198183076</lon>
+      <name>Blacksburg</name>
+      <state>VA</state>
+    </location>
+    <location name="24422">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>37.8315358759</lat>
+      <lon>-79.7497387669</lon>
+      <name>Clifton Forge</name>
+      <state>VA</state>
+    </location>
+    <location name="24502">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>37.3542205448</lat>
+      <lon>-79.218775012</lon>
+      <name>Lynchburg</name>
+      <state>VA</state>
+    </location>
+    <location name="24503">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>37.4539899298</lat>
+      <lon>-79.247054302</lon>
+      <name>Lynchburg</name>
+      <state>VA</state>
+    </location>
+    <location name="24521">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>37.629120979</lat>
+      <lon>-79.0837044326</lon>
+      <name>Amherst</name>
+      <state>VA</state>
+    </location>
+    <location name="24522">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>39</dist>
+      <lat>37.3634742723</lat>
+      <lon>-78.7908682878</lon>
+      <name>Appomattox</name>
+      <state>VA</state>
+    </location>
+    <location name="24590">
+      <cdi>2.5357</cdi>
+      <nresp>13</nresp>
+      <dist>26</dist>
+      <lat>37.7831514551</lat>
+      <lon>-78.4872212239</lon>
+      <name>Scottsville</name>
+      <state>VA</state>
+    </location>
+    <location name="28390">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>264</dist>
+      <lat>35.2237726561</lat>
+      <lon>-78.9654609865</lon>
+      <name>Spring Lake</name>
+      <state>NC</state>
+    </location>
+    <location name="43755">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>380</dist>
+      <lat>40.0559030009</lat>
+      <lon>-81.4342944276</lon>
+      <name>Lore City</name>
+      <state>OH</state>
+    </location>
+  </cdi>
+</cdidata>

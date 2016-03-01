@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67052">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>37.6555956014</lat>
+      <lon>-97.5764084283</lon>
+      <name>Goddard</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>133</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73108">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>35.4499840591</lat>
+      <lon>-97.5664580898</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73728">
+      <cdi>4.5117</cdi>
+      <nresp>3</nresp>
+      <dist>6</dist>
+      <lat>36.7610465168</lat>
+      <lon>-98.3690400836</lon>
+      <name>Cherokee</name>
+      <state>OK</state>
+    </location>
+    <location name="73749">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>36.7086874656</lat>
+      <lon>-98.1642211912</lon>
+      <name>Jet</name>
+      <state>OK</state>
+    </location>
+    <location name="74066">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>35.9886131945</lat>
+      <lon>-96.1598316867</lon>
+      <name>Sapulpa</name>
+      <state>OK</state>
+    </location>
+    <location name="74464">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>318</dist>
+      <lat>35.9669206467</lat>
+      <lon>-94.9655453124</lon>
+      <name>Tahlequah</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

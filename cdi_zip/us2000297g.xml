@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="South Dum Dum::Bangla::India">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>680</dist>
+      <lat>22.61</lat>
+      <lon>88.41</lon>
+      <name>South Dum Dum</name>
+    </location>
+    <location name="Patna::Bihar::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>299</dist>
+      <lat>25.62</lat>
+      <lon>85.13</lon>
+      <name>Patna</name>
+    </location>
+    <location name="Raj Nandgaon::Chhattisgarh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>926</dist>
+      <lat>21.10</lat>
+      <lon>81.04</lon>
+      <name>Raj Nandgaon</name>
+    </location>
+    <location name="Bansgaon::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>305</dist>
+      <lat>26.55</lat>
+      <lon>83.35</lon>
+      <name>Bansgaon</name>
+    </location>
+    <location name="Lakhnau Cantonment::Uttar Pradesh::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>501</dist>
+      <lat>26.81</lat>
+      <lon>80.97</lon>
+      <name>Lakhnau Cantonment</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>4.8844</cdi>
+      <nresp>2</nresp>
+      <dist>72</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+  </cdi>
+</cdidata>

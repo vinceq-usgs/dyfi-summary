@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Copiapó::Atacama::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>260</dist>
+      <lat>-27.36</lat>
+      <lon>-70.34</lon>
+      <name>Copiapó</name>
+    </location>
+    <location name="Coquimbo::Coquimbo::Chile">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>84</dist>
+      <lat>-29.96</lat>
+      <lon>-71.33</lon>
+      <name>Coquimbo</name>
+    </location>
+    <location name="La Serena::Coquimbo::Chile">
+      <cdi>3.6156</cdi>
+      <nresp>4</nresp>
+      <dist>82</dist>
+      <lat>-29.90</lat>
+      <lon>-71.25</lon>
+      <name>La Serena</name>
+    </location>
+    <location name="Vicuña::Coquimbo::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>-30.03</lat>
+      <lon>-70.74</lon>
+      <name>Vicuña</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>468</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

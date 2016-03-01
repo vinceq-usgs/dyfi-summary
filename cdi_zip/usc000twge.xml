@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Buhatan::Bicol::Philippines">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>12.97</lat>
+      <lon>124.05</lon>
+      <name>Buhatan</name>
+    </location>
+    <location name="Lajong::Bicol::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>12.83</lat>
+      <lon>123.97</lon>
+      <name>Lajong</name>
+    </location>
+    <location name="Libog::Bicol::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>13.24</lat>
+      <lon>123.78</lon>
+      <name>Libog</name>
+    </location>
+    <location name="Malabog::Bicol::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>13.17</lat>
+      <lon>123.68</lon>
+      <name>Malabog</name>
+    </location>
+    <location name="Sagpon::Bicol::Philippines">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>72</dist>
+      <lat>13.15</lat>
+      <lon>123.73</lon>
+      <name>Sagpon</name>
+    </location>
+    <location name="San Roque (Daraga, Albay)::Bicol::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>13.15</lat>
+      <lon>123.76</lon>
+      <name>San Roque (Daraga, Albay)</name>
+    </location>
+  </cdi>
+</cdidata>

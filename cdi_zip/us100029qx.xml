@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>3.3345</cdi>
+      <nresp>3</nresp>
+      <dist>130</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Quilpué::Valparaíso::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>-33.04</lat>
+      <lon>-71.50</lon>
+      <name>Quilpué</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>3.1042</cdi>
+      <nresp>3</nresp>
+      <dist>42</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

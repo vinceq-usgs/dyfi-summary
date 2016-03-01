@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="MachalÃ­::Libertador General Bernardo OÊ¿Higgins::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>-34.18</lat>
+      <lon>-70.67</lon>
+      <name>MachalÃ­</name>
+    </location>
+    <location name="Rancagua::Libertador General Bernardo OÊ¿Higgins::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>-34.17</lat>
+      <lon>-70.74</lon>
+      <name>Rancagua</name>
+    </location>
+    <location name="Santa Cruz::Libertador General Bernardo OÊ¿Higgins::Chile">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>61</dist>
+      <lat>-34.63</lat>
+      <lon>-71.37</lon>
+      <name>Santa Cruz</name>
+    </location>
+    <location name="Molina::Maule::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>-35.11</lat>
+      <lon>-71.28</lon>
+      <name>Molina</name>
+    </location>
+    <location name="San Clemente::Maule::Chile">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>-35.53</lat>
+      <lon>-71.49</lon>
+      <name>San Clemente</name>
+    </location>
+    <location name="Talca::Maule::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>-35.42</lat>
+      <lon>-71.66</lon>
+      <name>Talca</name>
+    </location>
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>169</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.7543</cdi>
+      <nresp>4</nresp>
+      <dist>185</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

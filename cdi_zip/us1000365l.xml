@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bagluri::Baglung::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>212</dist>
+      <lat>28.27</lat>
+      <lon>83.60</lon>
+      <name>Bagluri</name>
+    </location>
+    <location name="Bhaktapur::Bhaktapur::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>27.67</lat>
+      <lon>85.43</lon>
+      <name>Bhaktapur</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2.3799</cdi>
+      <nresp>4</nresp>
+      <dist>35</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Dhulikhet::Kavrepalanchok::Nepal">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>27.62</lat>
+      <lon>85.55</lon>
+      <name>Dhulikhet</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>33</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+  </cdi>
+</cdidata>

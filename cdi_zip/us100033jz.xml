@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Argostólion::Kefallinía::Greece">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>38.17</lat>
+      <lon>20.48</lon>
+      <name>Argostólion</name>
+    </location>
+    <location name="Lixoúrion::Kefallinía::Greece">
+      <cdi>3.2031</cdi>
+      <nresp>2</nresp>
+      <dist>47</dist>
+      <lat>38.20</lat>
+      <lon>20.43</lon>
+      <name>Lixoúrion</name>
+    </location>
+    <location name="Valsamáta::Kefallinía::Greece">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>51</dist>
+      <lat>38.17</lat>
+      <lon>20.60</lon>
+      <name>Valsamáta</name>
+    </location>
+  </cdi>
+</cdidata>

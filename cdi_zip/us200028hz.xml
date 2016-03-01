@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Oaxaca::Oaxaca::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>17.07</lat>
+      <lon>-96.72</lon>
+      <name>Oaxaca</name>
+    </location>
+    <location name="Puerto Escondido::Oaxaca::Mexico">
+      <cdi>3.8249</cdi>
+      <nresp>3</nresp>
+      <dist>29</dist>
+      <lat>15.85</lat>
+      <lon>-97.07</lon>
+      <name>Puerto Escondido</name>
+    </location>
+    <location name="Santa Lucía del Camino::Oaxaca::Mexico">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>132</dist>
+      <lat>17.05</lat>
+      <lon>-96.72</lon>
+      <name>Santa Lucía del Camino</name>
+    </location>
+    <location name="Xadani::Oaxaca::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>15.93</lat>
+      <lon>-96.07</lon>
+      <name>Xadani</name>
+    </location>
+  </cdi>
+</cdidata>

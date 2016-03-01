@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90503">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>33.8419954117</lat>
+      <lon>-118.351634592</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90638">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>33.9025675228</lat>
+      <lon>-118.009023689</lon>
+      <name>La Mirada</name>
+      <state>CA</state>
+    </location>
+    <location name="91607">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>34.1664423502</lat>
+      <lon>-118.399895143</lon>
+      <name>Valley Village</name>
+      <state>CA</state>
+    </location>
+    <location name="91737">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>34.1517080412</lat>
+      <lon>-117.582705701</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91764">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>34.075165207</lat>
+      <lon>-117.602485958</lon>
+      <name>Ontario</name>
+      <state>CA</state>
+    </location>
+    <location name="92122">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>32.8567616775</lat>
+      <lon>-117.210194898</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92335">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.0869349564</lat>
+      <lon>-117.466361873</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92374">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>34.0685420367</lat>
+      <lon>-117.171906902</lon>
+      <name>Redlands</name>
+      <state>CA</state>
+    </location>
+    <location name="92507">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>33.9529113701</lat>
+      <lon>-117.323004987</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92649">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>33.7210990547</lat>
+      <lon>-118.044472241</lon>
+      <name>Huntington Beach</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

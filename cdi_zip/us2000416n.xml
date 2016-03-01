@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kabul::Kabul::Afghanistan">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>324</dist>
+      <lat>34.53</lat>
+      <lon>69.17</lon>
+      <name>Kabul</name>
+    </location>
+    <location name="Carikar::Parwan::Afghanistan">
+      <cdi>2.2534</cdi>
+      <nresp>3</nresp>
+      <dist>290</dist>
+      <lat>35.02</lat>
+      <lon>69.17</lon>
+      <name>Carikar</name>
+    </location>
+  </cdi>
+</cdidata>

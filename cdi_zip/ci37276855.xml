@@ -1,0 +1,193 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90016">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.0284267953</lat>
+      <lon>-118.354165453</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90018">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.0280493437</lat>
+      <lon>-118.317711104</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90019">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>34.0486609967</lat>
+      <lon>-118.338626345</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90034">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.0306792567</lat>
+      <lon>-118.399508404</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90035">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.0517930945</lat>
+      <lon>-118.383658114</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90043">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>33.9887240668</lat>
+      <lon>-118.335094215</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90045">
+      <cdi>2.2210</cdi>
+      <nresp>7</nresp>
+      <dist>12</dist>
+      <lat>33.9530946364</lat>
+      <lon>-118.401227411</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90046">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.1072326039</lat>
+      <lon>-118.364759793</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90066">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>34.0019600736</lat>
+      <lon>-118.431197505</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90068">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>34.1280225097</lat>
+      <lon>-118.328765759</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90212">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>34.0620709903</lat>
+      <lon>-118.401521678</lon>
+      <name>Beverly Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="90232">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>34.0179145665</lat>
+      <lon>-118.391987459</lon>
+      <name>Culver City</name>
+      <state>CA</state>
+    </location>
+    <location name="90291">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>33.9939764023</lat>
+      <lon>-118.463740932</lon>
+      <name>Venice</name>
+      <state>CA</state>
+    </location>
+    <location name="90710">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>33.798138066</lat>
+      <lon>-118.299263469</lon>
+      <name>Harbor City</name>
+      <state>CA</state>
+    </location>
+    <location name="90712">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>33.8491752911</lat>
+      <lon>-118.147029498</lon>
+      <name>Lakewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="91740">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>34.1185404722</lat>
+      <lon>-117.853681417</lon>
+      <name>Glendora</name>
+      <state>CA</state>
+    </location>
+    <location name="91741">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>34.1542713891</lat>
+      <lon>-117.840891126</lon>
+      <name>Glendora</name>
+      <state>CA</state>
+    </location>
+    <location name="91754">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>34.0518827128</lat>
+      <lon>-118.145907815</lon>
+      <name>Monterey Park</name>
+      <state>CA</state>
+    </location>
+    <location name="91762">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>33.9939331753</lat>
+      <lon>-117.635306497</lon>
+      <name>Ontario</name>
+      <state>CA</state>
+    </location>
+    <location name="92069">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>33.1754164396</lat>
+      <lon>-117.157534283</lon>
+      <name>San Marcos</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

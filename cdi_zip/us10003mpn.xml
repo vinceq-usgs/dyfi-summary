@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67003">
+      <cdi>2.9633</cdi>
+      <nresp>5</nresp>
+      <dist>12</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67203">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>37.7037979044</lat>
+      <lon>-97.364550356</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67601">
+      <cdi>3.2754</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>38.8489261752</lat>
+      <lon>-99.3486277542</lon>
+      <name>Hays</name>
+      <state>KS</state>
+    </location>
+    <location name="67749">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>365</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

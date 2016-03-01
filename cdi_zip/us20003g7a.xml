@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Goris::Syunik::Armenia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>39.51</lat>
+      <lon>46.33</lon>
+      <name>Goris</name>
+    </location>
+    <location name="Shaki::Syunik::Armenia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>201</dist>
+      <lat>39.56</lat>
+      <lon>46.00</lon>
+      <name>Shaki</name>
+    </location>
+    <location name="Baku::Bakı::Azerbaijan">
+      <cdi>4.2890</cdi>
+      <nresp>2</nresp>
+      <dist>206</dist>
+      <lat>40.39</lat>
+      <lon>49.86</lon>
+      <name>Baku</name>
+    </location>
+    <location name="Şəki::Şəki::Azerbaijan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>41.20</lat>
+      <lon>47.17</lon>
+      <name>Şəki</name>
+    </location>
+    <location name="Samgori::Kvemo Kartli::Georgia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>234</dist>
+      <lat>41.70</lat>
+      <lon>44.93</lon>
+      <name>Samgori</name>
+    </location>
+    <location name="Tbilisi::Tiflis::Georgia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>245</dist>
+      <lat>41.72</lat>
+      <lon>44.79</lon>
+      <name>Tbilisi</name>
+    </location>
+  </cdi>
+</cdidata>

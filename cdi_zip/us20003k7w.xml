@@ -1,0 +1,196 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Buenos Aires::Buenos Aires::Argentina">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>1264</dist>
+      <lat>-34.61</lat>
+      <lon>-58.37</lon>
+      <name>Buenos Aires</name>
+    </location>
+    <location name="Luján::Buenos Aires::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1197</dist>
+      <lat>-34.58</lat>
+      <lon>-59.11</lon>
+      <name>Luján</name>
+    </location>
+    <location name="Catamarca::Catamarca::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>646</dist>
+      <lat>-28.47</lat>
+      <lon>-65.78</lon>
+      <name>Catamarca</name>
+    </location>
+    <location name="Córdoba::Córdoba::Argentina">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>689</dist>
+      <lat>-31.40</lat>
+      <lon>-64.19</lon>
+      <name>Córdoba</name>
+    </location>
+    <location name="La Rioja::La Rioja::Argentina">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>502</dist>
+      <lat>-29.41</lat>
+      <lon>-66.85</lon>
+      <name>La Rioja</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>3.6210</cdi>
+      <nresp>3</nresp>
+      <dist>286</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="San Rafael::Mendoza::Argentina">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>444</dist>
+      <lat>-34.62</lat>
+      <lon>-68.34</lon>
+      <name>San Rafael</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>4.4065</cdi>
+      <nresp>4</nresp>
+      <dist>277</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="Rosario::Santa Fé::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1025</dist>
+      <lat>-32.94</lat>
+      <lon>-60.67</lon>
+      <name>Rosario</name>
+    </location>
+    <location name="Victoria::Araucanía::Chile">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>743</dist>
+      <lat>-38.24</lat>
+      <lon>-72.34</lon>
+      <name>Victoria</name>
+    </location>
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>601</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="Illapel::Coquimbo::Chile">
+      <cdi>7.6101</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>-31.63</lat>
+      <lon>-71.17</lon>
+      <name>Illapel</name>
+    </location>
+    <location name="La Serena::Coquimbo::Chile">
+      <cdi>6.9501</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>-29.90</lat>
+      <lon>-71.25</lon>
+      <name>La Serena</name>
+    </location>
+    <location name="Valdivia::Los Lagos::Chile">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>928</dist>
+      <lat>-39.82</lat>
+      <lon>-73.23</lon>
+      <name>Valdivia</name>
+    </location>
+    <location name="Talca::Maule::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>426</dist>
+      <lat>-35.42</lat>
+      <lon>-71.66</lon>
+      <name>Talca</name>
+    </location>
+    <location name="Paine::Metropolitana::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>257</dist>
+      <lat>-33.82</lat>
+      <lon>-70.75</lon>
+      <name>Paine</name>
+    </location>
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>235</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>4.5040</cdi>
+      <nresp>16</nresp>
+      <dist>222</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Limache::Valparaíso::Chile">
+      <cdi>4.3417</cdi>
+      <nresp>2</nresp>
+      <dist>162</dist>
+      <lat>-33.02</lat>
+      <lon>-71.27</lon>
+      <name>Limache</name>
+    </location>
+    <location name="Llaillay::Valparaíso::Chile">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>-32.85</lat>
+      <lon>-70.95</lon>
+      <name>Llaillay</name>
+    </location>
+    <location name="Quilpué::Valparaíso::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>-33.04</lat>
+      <lon>-71.50</lon>
+      <name>Quilpué</name>
+    </location>
+    <location name="San Antonio::Valparaíso::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>225</dist>
+      <lat>-33.60</lat>
+      <lon>-71.61</lon>
+      <name>San Antonio</name>
+    </location>
+    <location name="Valparaíso::Valparaíso::Chile">
+      <cdi>6.0521</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>-33.04</lat>
+      <lon>-71.64</lon>
+      <name>Valparaíso</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>5.0476</cdi>
+      <nresp>2</nresp>
+      <dist>161</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

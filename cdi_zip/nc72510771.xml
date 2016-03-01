@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94583">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>200</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>275</dist>
+      <lat>37.1634138038</lat>
+      <lon>-121.605115684</lon>
+      <name>Morgan Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="95437">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>39.4643563766</lat>
+      <lon>-123.69642113</lon>
+      <name>Fort Bragg</name>
+      <state>CA</state>
+    </location>
+    <location name="95469">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>12</dist>
+      <lat>39.4015067309</lat>
+      <lon>-123.068836502</lon>
+      <name>Potter Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95470">
+      <cdi>2.2758</cdi>
+      <nresp>5</nresp>
+      <dist>17</dist>
+      <lat>39.2751318915</lat>
+      <lon>-123.329440439</lon>
+      <name>Redwood Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95482">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>39.1369495272</lat>
+      <lon>-123.224829878</lon>
+      <name>Ukiah</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

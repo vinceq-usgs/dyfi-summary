@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83815">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>47.7244907055</lat>
+      <lon>-116.785763515</lon>
+      <name>Coeur D Alene</name>
+      <state>ID</state>
+    </location>
+    <location name="83836">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>48.3267915519</lat>
+      <lon>-116.175802787</lon>
+      <name>Hope</name>
+      <state>ID</state>
+    </location>
+    <location name="83860">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>48.1954452017</lat>
+      <lon>-116.545587275</lon>
+      <name>Sagle</name>
+      <state>ID</state>
+    </location>
+    <location name="83864">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>48.3884295813</lat>
+      <lon>-116.473634745</lon>
+      <name>Sandpoint</name>
+      <state>ID</state>
+    </location>
+    <location name="83869">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>47.9596763134</lat>
+      <lon>-116.904803483</lon>
+      <name>Spirit Lake</name>
+      <state>ID</state>
+    </location>
+    <location name="99114">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>48.6542611561</lat>
+      <lon>-117.730800518</lon>
+      <name>Colville</name>
+      <state>WA</state>
+    </location>
+    <location name="99156">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>66</dist>
+      <lat>48.2214662318</lat>
+      <lon>-117.193279282</lon>
+      <name>Newport</name>
+      <state>WA</state>
+    </location>
+    <location name="99167">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>48.4132316575</lat>
+      <lon>-118.118540485</lon>
+      <name>Rice</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

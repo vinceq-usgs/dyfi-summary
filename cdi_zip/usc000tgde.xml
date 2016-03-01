@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cuenca::Azuay::Ecuador">
+      <cdi>2.8163</cdi>
+      <nresp>7</nresp>
+      <dist>143</dist>
+      <lat>-2.90</lat>
+      <lon>-79.01</lon>
+      <name>Cuenca</name>
+    </location>
+    <location name="Machala::El Oro::Ecuador">
+      <cdi>5.6318</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>-3.26</lat>
+      <lon>-79.96</lon>
+      <name>Machala</name>
+    </location>
+    <location name="Pasaje::El Oro::Ecuador">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>-3.32</lat>
+      <lon>-79.80</lon>
+      <name>Pasaje</name>
+    </location>
+    <location name="Guayaquil::Guayas::Ecuador">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>-2.21</lat>
+      <lon>-79.90</lon>
+      <name>Guayaquil</name>
+    </location>
+    <location name="Loja::Loja::Ecuador">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>-3.99</lat>
+      <lon>-79.21</lon>
+      <name>Loja</name>
+    </location>
+    <location name="Puebloviejo::Los RÃ­os::Ecuador">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>-3.73</lat>
+      <lon>-79.28</lon>
+      <name>Puebloviejo</name>
+    </location>
+    <location name="Quito::Pichincha::Ecuador">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>396</dist>
+      <lat>-0.19</lat>
+      <lon>-78.50</lon>
+      <name>Quito</name>
+    </location>
+  </cdi>
+</cdidata>

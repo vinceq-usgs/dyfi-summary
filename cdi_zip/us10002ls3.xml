@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67206">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>37.7037441156</lat>
+      <lon>-97.2255351318</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73003">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>35.6683436545</lat>
+      <lon>-97.4969186829</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73007">
+      <cdi>3.4469</cdi>
+      <nresp>8</nresp>
+      <dist>9</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73012">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>3.3660</cdi>
+      <nresp>8</nresp>
+      <dist>17</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>4.1218</cdi>
+      <nresp>20</nresp>
+      <dist>7</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>5.6615</cdi>
+      <nresp>6</nresp>
+      <dist>15</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73132">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>35.5513031039</lat>
+      <lon>-97.6345444976</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73142">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>35.6092863133</lat>
+      <lon>-97.6384003062</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74066">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>35.9886131945</lat>
+      <lon>-96.1598316867</lon>
+      <name>Sapulpa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

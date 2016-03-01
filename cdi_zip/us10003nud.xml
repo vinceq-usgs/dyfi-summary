@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cuenca::Azuay::Ecuador">
+      <cdi>3.5273</cdi>
+      <nresp>23</nresp>
+      <dist>117</dist>
+      <lat>-2.90</lat>
+      <lon>-79.01</lon>
+      <name>Cuenca</name>
+    </location>
+    <location name="Azogues::Cañar::Ecuador">
+      <cdi>6.0521</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>-2.74</lat>
+      <lon>-78.84</lon>
+      <name>Azogues</name>
+    </location>
+    <location name="La Troncal::Cañar::Ecuador">
+      <cdi>4.2757</cdi>
+      <nresp>2</nresp>
+      <dist>124</dist>
+      <lat>-2.40</lat>
+      <lon>-79.33</lon>
+      <name>La Troncal</name>
+    </location>
+    <location name="Eloy Alfaro::Guayas::Ecuador">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>164</dist>
+      <lat>-2.17</lat>
+      <lon>-79.83</lon>
+      <name>Eloy Alfaro</name>
+    </location>
+    <location name="Guayaquil::Guayas::Ecuador">
+      <cdi>3.3786</cdi>
+      <nresp>8</nresp>
+      <dist>169</dist>
+      <lat>-2.21</lat>
+      <lon>-79.90</lon>
+      <name>Guayaquil</name>
+    </location>
+    <location name="Santa Elena::Guayas::Ecuador">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>261</dist>
+      <lat>-2.20</lat>
+      <lon>-80.87</lon>
+      <name>Santa Elena</name>
+    </location>
+    <location name="Santa Lucía::Guayas::Ecuador">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>178</dist>
+      <lat>-2.18</lat>
+      <lon>-80.00</lon>
+      <name>Santa Lucía</name>
+    </location>
+    <location name="Loja::Loja::Ecuador">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>202</dist>
+      <lat>-3.99</lat>
+      <lon>-79.21</lon>
+      <name>Loja</name>
+    </location>
+  </cdi>
+</cdidata>

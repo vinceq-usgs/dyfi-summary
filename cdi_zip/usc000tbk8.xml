@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="59736">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>45.3988905685</lat>
+      <lon>-113.453435412</lon>
+      <name>Jackson</name>
+      <state>MT</state>
+    </location>
+    <location name="59833">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>241</dist>
+      <lat>46.6533839374</lat>
+      <lon>-114.131390712</lon>
+      <name>Florence</name>
+      <state>MT</state>
+    </location>
+    <location name="83226">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>24</dist>
+      <lat>44.323353135</lat>
+      <lon>-114.005460868</lon>
+      <name>Challis</name>
+      <state>ID</state>
+    </location>
+    <location name="83333">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>43.6116475512</lat>
+      <lon>-114.236344854</lon>
+      <name>Hailey</name>
+      <state>ID</state>
+    </location>
+    <location name="83467">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>45.0977503385</lat>
+      <lon>-113.768314203</lon>
+      <name>Salmon</name>
+      <state>ID</state>
+    </location>
+    <location name="83622">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>43.958870434</lat>
+      <lon>-115.521106506</lon>
+      <name>Garden Valley</name>
+      <state>ID</state>
+    </location>
+    <location name="83637">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>44.1823083841</lat>
+      <lon>-115.442209493</lon>
+      <name>Lowman</name>
+      <state>ID</state>
+    </location>
+    <location name="83703">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>43.661836606</lat>
+      <lon>-116.240154502</lon>
+      <name>Boise</name>
+      <state>ID</state>
+    </location>
+  </cdi>
+</cdidata>

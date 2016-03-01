@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Darjeeling::Bangla::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>241</dist>
+      <lat>27.05</lat>
+      <lon>88.26</lon>
+      <name>Darjeeling</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>269</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Behar::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>276</dist>
+      <lat>25.21</lat>
+      <lon>85.52</lon>
+      <name>Behar</name>
+    </location>
+    <location name="Darbhanga::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>26.16</lat>
+      <lon>85.88</lon>
+      <name>Darbhanga</name>
+    </location>
+    <location name="Patna::Bihar::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>240</dist>
+      <lat>25.62</lat>
+      <lon>85.13</lon>
+      <name>Patna</name>
+    </location>
+    <location name="Siwan::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>26.23</lat>
+      <lon>84.35</lon>
+      <name>Siwan</name>
+    </location>
+    <location name="Sitamarhi::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>26.61</lat>
+      <lon>85.48</lon>
+      <name>Sitamarhi</name>
+    </location>
+    <location name="Jamai::Madhya Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>957</dist>
+      <lat>22.20</lat>
+      <lon>78.58</lon>
+      <name>Jamai</name>
+    </location>
+    <location name="Bansgaon::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>283</dist>
+      <lat>26.55</lat>
+      <lon>83.35</lon>
+      <name>Bansgaon</name>
+    </location>
+    <location name="Gorakhpur::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>273</dist>
+      <lat>26.76</lat>
+      <lon>83.36</lon>
+      <name>Gorakhpur</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>63</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Bīrganj::Parsa::Nepal">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>27.02</lat>
+      <lon>84.87</lon>
+      <name>Bīrganj</name>
+    </location>
+  </cdi>
+</cdidata>

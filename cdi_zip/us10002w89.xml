@@ -1,0 +1,100 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ţarţūs::Ţarţūs::Syria">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>204</dist>
+      <lat>34.90</lat>
+      <lon>35.89</lon>
+      <name>Ţarţūs</name>
+    </location>
+    <location name="Adana::Adana::Turkey">
+      <cdi>3.8046</cdi>
+      <nresp>8</nresp>
+      <dist>64</dist>
+      <lat>37.00</lat>
+      <lon>35.32</lon>
+      <name>Adana</name>
+    </location>
+    <location name="Ceyhan::Adana::Turkey">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>37.04</lat>
+      <lon>35.82</lon>
+      <name>Ceyhan</name>
+    </location>
+    <location name="Alanya::Antalya::Turkey">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>268</dist>
+      <lat>36.56</lat>
+      <lon>32.00</lon>
+      <name>Alanya</name>
+    </location>
+    <location name="Antakya::Hatay::Turkey">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>118</dist>
+      <lat>36.20</lat>
+      <lon>36.17</lon>
+      <name>Antakya</name>
+    </location>
+    <location name="Belen::Hatay::Turkey">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>36.50</lat>
+      <lon>36.20</lon>
+      <name>Belen</name>
+    </location>
+    <location name="Kırıkhan::Hatay::Turkey">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>126</dist>
+      <lat>36.50</lat>
+      <lon>36.35</lon>
+      <name>Kırıkhan</name>
+    </location>
+    <location name="Yayladağı::Hatay::Turkey">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>35.90</lat>
+      <lon>36.06</lon>
+      <name>Yayladağı</name>
+    </location>
+    <location name="İskenderun::Hatay::Turkey">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>36.58</lat>
+      <lon>36.17</lon>
+      <name>İskenderun</name>
+    </location>
+    <location name="Polateli::Kilis::Turkey">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>196</dist>
+      <lat>36.87</lat>
+      <lon>37.12</lon>
+      <name>Polateli</name>
+    </location>
+    <location name="İzmit::Kocaeli::Turkey">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>641</dist>
+      <lat>40.77</lat>
+      <lon>29.93</lon>
+      <name>İzmit</name>
+    </location>
+    <location name="Mersin::İçel::Turkey">
+      <cdi>2.8570</cdi>
+      <nresp>3</nresp>
+      <dist>50</dist>
+      <lat>36.81</lat>
+      <lon>34.63</lon>
+      <name>Mersin</name>
+    </location>
+  </cdi>
+</cdidata>

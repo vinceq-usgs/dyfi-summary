@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73072">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>35.2154624134</lat>
+      <lon>-97.4942440373</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>3</nresp>
+      <dist>130</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="75044">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>428</dist>
+      <lat>32.9624534919</lat>
+      <lon>-96.6531579417</lon>
+      <name>Garland</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

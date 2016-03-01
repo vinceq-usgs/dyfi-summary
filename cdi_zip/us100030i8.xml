@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Sugod::Bicol::Philippines">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>400</dist>
+      <lat>12.99</lat>
+      <lon>124.08</lon>
+      <name>Sugod</name>
+    </location>
+    <location name="Manila::National Capital Region::Philippines">
+      <cdi>2.3799</cdi>
+      <nresp>4</nresp>
+      <dist>163</dist>
+      <lat>14.62</lat>
+      <lon>120.97</lon>
+      <name>Manila</name>
+    </location>
+    <location name="Imus::Southern Tagalog::Philippines">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>14.43</lat>
+      <lon>120.94</lon>
+      <name>Imus</name>
+    </location>
+    <location name="Panikihan::Southern Tagalog::Philippines">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>202</dist>
+      <lat>13.90</lat>
+      <lon>122.13</lon>
+      <name>Panikihan</name>
+    </location>
+    <location name="Tagaytay::Southern Tagalog::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>14.11</lat>
+      <lon>120.96</lon>
+      <name>Tagaytay</name>
+    </location>
+  </cdi>
+</cdidata>

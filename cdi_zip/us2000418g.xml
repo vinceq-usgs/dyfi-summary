@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kawt-e Ashraw::Maydan-Wardak::Afghanistan">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>34.45</lat>
+      <lon>68.78</lon>
+      <name>Kawt-e Ashraw</name>
+    </location>
+    <location name="Kabul::Kabul::Afghanistan">
+      <cdi>2.9673</cdi>
+      <nresp>13</nresp>
+      <dist>23</dist>
+      <lat>34.53</lat>
+      <lon>69.17</lon>
+      <name>Kabul</name>
+    </location>
+  </cdi>
+</cdidata>

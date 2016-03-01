@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dispur::Assam::India">
+      <cdi>3.9249</cdi>
+      <nresp>3</nresp>
+      <dist>71</dist>
+      <lat>26.11</lat>
+      <lon>91.83</lon>
+      <name>Dispur</name>
+    </location>
+    <location name="Gauhati::Assam::India">
+      <cdi>3.8902</cdi>
+      <nresp>8</nresp>
+      <dist>65</dist>
+      <lat>26.19</lat>
+      <lon>91.75</lon>
+      <name>Gauhati</name>
+    </location>
+    <location name="Jorhat::Assam::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>26.76</lat>
+      <lon>94.20</lon>
+      <name>Jorhat</name>
+    </location>
+    <location name="North Guwahati::Assam::India">
+      <cdi>3.8753</cdi>
+      <nresp>6</nresp>
+      <dist>63</dist>
+      <lat>26.21</lat>
+      <lon>91.73</lon>
+      <name>North Guwahati</name>
+    </location>
+    <location name="Palasbari::Assam::India">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>26.13</lat>
+      <lon>91.50</lon>
+      <name>Palasbari</name>
+    </location>
+  </cdi>
+</cdidata>

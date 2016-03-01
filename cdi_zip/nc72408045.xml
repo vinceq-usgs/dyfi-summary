@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94558">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95457">
+      <cdi>2.8973</cdi>
+      <nresp>4</nresp>
+      <dist>5</dist>
+      <lat>38.8749044469</lat>
+      <lon>-122.521363962</lon>
+      <name>Lower Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="95467">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>11</dist>
+      <lat>38.7917654171</lat>
+      <lon>-122.531543973</lon>
+      <name>Hidden Valley Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="95835">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>38.6703637675</lat>
+      <lon>-121.52832213</lon>
+      <name>Sacramento</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

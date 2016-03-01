@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Gisenyi::Gisenyi::Rwanda">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>-1.69</lat>
+      <lon>29.26</lon>
+      <name>Gisenyi</name>
+    </location>
+    <location name="Kibuye::Kibuye::Rwanda">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>-2.06</lat>
+      <lon>29.36</lon>
+      <name>Kibuye</name>
+    </location>
+    <location name="Ruhengeri::Ruhengeri::Rwanda">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>100</dist>
+      <lat>-1.50</lat>
+      <lon>29.63</lon>
+      <name>Ruhengeri</name>
+    </location>
+    <location name="Kigali::Ville de Kigali::Rwanda">
+      <cdi>3.3287</cdi>
+      <nresp>5</nresp>
+      <dist>124</dist>
+      <lat>-1.94</lat>
+      <lon>30.06</lon>
+      <name>Kigali</name>
+    </location>
+    <location name="Goma::Nord-Kivu::Congo (Dem. Rep.)">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>54</dist>
+      <lat>-1.69</lat>
+      <lon>29.22</lon>
+      <name>Goma</name>
+    </location>
+  </cdi>
+</cdidata>

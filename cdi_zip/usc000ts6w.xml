@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="ItagÃ¼Ã­::Antioquia::Colombia">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>200</dist>
+      <lat>6.17</lat>
+      <lon>-75.62</lon>
+      <name>ItagÃ¼Ã­</name>
+    </location>
+    <location name="Sabaneta::Antioquia::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>199</dist>
+      <lat>6.15</lat>
+      <lon>-75.60</lon>
+      <name>Sabaneta</name>
+    </location>
+    <location name="Neiva::Huila::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>236</dist>
+      <lat>2.94</lat>
+      <lon>-75.27</lon>
+      <name>Neiva</name>
+    </location>
+    <location name="Armenia::QuindiÃ³::Colombia">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>110</dist>
+      <lat>4.53</lat>
+      <lon>-75.69</lon>
+      <name>Armenia</name>
+    </location>
+    <location name="Filandia::QuindiÃ³::Colombia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>4.67</lat>
+      <lon>-75.66</lon>
+      <name>Filandia</name>
+    </location>
+    <location name="BelÃ©n de UmbrÃ­a::Risaralda::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>5.20</lat>
+      <lon>-75.87</lon>
+      <name>BelÃ©n de UmbrÃ­a</name>
+    </location>
+    <location name="La Virginia::Risaralda::Colombia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>4.90</lat>
+      <lon>-75.89</lon>
+      <name>La Virginia</name>
+    </location>
+    <location name="Pereira::Risaralda::Colombia">
+      <cdi>3.5004</cdi>
+      <nresp>5</nresp>
+      <dist>111</dist>
+      <lat>4.81</lat>
+      <lon>-75.68</lon>
+      <name>Pereira</name>
+    </location>
+    <location name="Buenaventura::Valle del Cauca::Colombia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>3.89</lat>
+      <lon>-77.04</lon>
+      <name>Buenaventura</name>
+    </location>
+    <location name="Cali::Valle del Cauca::Colombia">
+      <cdi>2.5644</cdi>
+      <nresp>19</nresp>
+      <dist>170</dist>
+      <lat>3.44</lat>
+      <lon>-76.52</lon>
+      <name>Cali</name>
+    </location>
+    <location name="JamundÃ­::Valle del Cauca::Colombia">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>186</dist>
+      <lat>3.26</lat>
+      <lon>-76.54</lon>
+      <name>JamundÃ­</name>
+    </location>
+    <location name="Palmira::Valle del Cauca::Colombia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>3.54</lat>
+      <lon>-76.30</lon>
+      <name>Palmira</name>
+    </location>
+    <location name="Roldanillo::Valle del Cauca::Colombia">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>99</dist>
+      <lat>4.41</lat>
+      <lon>-76.16</lon>
+      <name>Roldanillo</name>
+    </location>
+    <location name="Yumbo::Valle del Cauca::Colombia">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>3.59</lat>
+      <lon>-76.49</lon>
+      <name>Yumbo</name>
+    </location>
+  </cdi>
+</cdidata>

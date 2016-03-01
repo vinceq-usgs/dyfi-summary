@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="38059">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>36.1166343648</lat>
+      <lon>-89.2446460931</lon>
+      <name>Newbern</name>
+      <state>TN</state>
+    </location>
+    <location name="38115">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>35.0543091994</lat>
+      <lon>-89.8625085652</lon>
+      <name>Memphis</name>
+      <state>TN</state>
+    </location>
+    <location name="63862">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>36.5917165848</lat>
+      <lon>-89.648795741</lon>
+      <name>Lilbourn</name>
+      <state>MO</state>
+    </location>
+    <location name="63869">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>36.6282046896</lat>
+      <lon>-89.5028230406</lon>
+      <name>New Madrid</name>
+      <state>MO</state>
+    </location>
+  </cdi>
+</cdidata>

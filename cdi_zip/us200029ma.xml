@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>400</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Tulsīpur::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>236</dist>
+      <lat>27.55</lat>
+      <lon>82.42</lon>
+      <name>Tulsīpur</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>71</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>66</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Hetauda::Makwanpur::Nepal">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>73</dist>
+      <lat>27.41</lat>
+      <lon>85.02</lon>
+      <name>Hetauda</name>
+    </location>
+  </cdi>
+</cdidata>

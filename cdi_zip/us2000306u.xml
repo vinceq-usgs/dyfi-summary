@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Denpasar::Bali::Indonesia">
+      <cdi>2.2566</cdi>
+      <nresp>5</nresp>
+      <dist>291</dist>
+      <lat>-8.65</lat>
+      <lon>115.22</lon>
+      <name>Denpasar</name>
+    </location>
+    <location name="Kuta::Bali::Indonesia">
+      <cdi>2.4868</cdi>
+      <nresp>3</nresp>
+      <dist>284</dist>
+      <lat>-8.72</lat>
+      <lon>115.17</lon>
+      <name>Kuta</name>
+    </location>
+    <location name="Singaraja::Bali::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>297</dist>
+      <lat>-8.12</lat>
+      <lon>115.09</lon>
+      <name>Singaraja</name>
+    </location>
+    <location name="Tabanan::Bali::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>284</dist>
+      <lat>-8.54</lat>
+      <lon>115.12</lon>
+      <name>Tabanan</name>
+    </location>
+    <location name="Batu::Jawa Timur::Indonesia">
+      <cdi>3.8502</cdi>
+      <nresp>2</nresp>
+      <dist>164</dist>
+      <lat>-7.87</lat>
+      <lon>112.52</lon>
+      <name>Batu</name>
+    </location>
+    <location name="Kediri::Jawa Timur::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>-7.81</lat>
+      <lon>112.01</lon>
+      <name>Kediri</name>
+    </location>
+    <location name="Malang::Jawa Timur::Indonesia">
+      <cdi>3.1939</cdi>
+      <nresp>4</nresp>
+      <dist>152</dist>
+      <lat>-7.98</lat>
+      <lon>112.62</lon>
+      <name>Malang</name>
+    </location>
+    <location name="Surabaya::Jawa Timur::Indonesia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>229</dist>
+      <lat>-7.24</lat>
+      <lon>112.74</lon>
+      <name>Surabaya</name>
+    </location>
+    <location name="Praya::Nusa Tenggara Barat::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>404</dist>
+      <lat>-8.72</lat>
+      <lon>116.29</lon>
+      <name>Praya</name>
+    </location>
+    <location name="Kasihan::Yogyakarta::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>310</dist>
+      <lat>-7.82</lat>
+      <lon>110.32</lon>
+      <name>Kasihan</name>
+    </location>
+    <location name="Yogyakarta::Yogyakarta::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>308</dist>
+      <lat>-7.78</lat>
+      <lon>110.37</lon>
+      <name>Yogyakarta</name>
+    </location>
+  </cdi>
+</cdidata>

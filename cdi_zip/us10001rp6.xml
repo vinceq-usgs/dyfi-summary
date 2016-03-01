@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Piteşti::Argeş::Romania">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>206</dist>
+      <lat>44.86</lat>
+      <lon>24.87</lon>
+      <name>Piteşti</name>
+    </location>
+    <location name="Brăila::Brăila::Romania">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>45.28</lat>
+      <lon>27.97</lon>
+      <name>Brăila</name>
+    </location>
+    <location name="Bucharest::Bukarest::Romania">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>195</dist>
+      <lat>44.44</lat>
+      <lon>26.10</lon>
+      <name>Bucharest</name>
+    </location>
+    <location name="Galaţi::Galaţi::Romania">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>45.44</lat>
+      <lon>28.04</lon>
+      <name>Galaţi</name>
+    </location>
+    <location name="Piscu::Galaţi::Romania">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>173</dist>
+      <lat>45.50</lat>
+      <lon>27.73</lon>
+      <name>Piscu</name>
+    </location>
+    <location name="Cornetu::Ilfov::Romania">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>204</dist>
+      <lat>44.35</lat>
+      <lon>25.93</lon>
+      <name>Cornetu</name>
+    </location>
+    <location name="Dobroeşti::Ilfov::Romania">
+      <cdi>3.0408</cdi>
+      <nresp>3</nresp>
+      <dist>193</dist>
+      <lat>44.45</lat>
+      <lon>26.18</lon>
+      <name>Dobroeşti</name>
+    </location>
+    <location name="Găneasa::Ilfov::Romania">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>44.48</lat>
+      <lon>26.28</lon>
+      <name>Găneasa</name>
+    </location>
+    <location name="Otopeni::Ilfov::Romania">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>187</dist>
+      <lat>44.55</lat>
+      <lon>26.07</lon>
+      <name>Otopeni</name>
+    </location>
+    <location name="Popeşti-Leordeni::Ilfov::Romania">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>199</dist>
+      <lat>44.38</lat>
+      <lon>26.17</lon>
+      <name>Popeşti-Leordeni</name>
+    </location>
+    <location name="Voluntari::Ilfov::Romania">
+      <cdi>2.6627</cdi>
+      <nresp>6</nresp>
+      <dist>192</dist>
+      <lat>44.47</lat>
+      <lon>26.13</lon>
+      <name>Voluntari</name>
+    </location>
+    <location name="Ploieşti::Prahova::Romania">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>44.94</lat>
+      <lon>26.03</lon>
+      <name>Ploieşti</name>
+    </location>
+    <location name="Măcin::Tulcea::Romania">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>196</dist>
+      <lat>45.26</lat>
+      <lon>28.13</lon>
+      <name>Măcin</name>
+    </location>
+  </cdi>
+</cdidata>

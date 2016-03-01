@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Monte Plata::Monte Plata::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>18.81</lat>
+      <lon>-69.79</lon>
+      <name>Monte Plata</name>
+    </location>
+    <location name="San Cristóbal::San Cristóbal::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>18.42</lat>
+      <lon>-70.11</lon>
+      <name>San Cristóbal</name>
+    </location>
+    <location name="San José de Ocoa::San José de Ocoa::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>18.55</lat>
+      <lon>-70.50</lon>
+      <name>San José de Ocoa</name>
+    </location>
+    <location name="Santiago::Santiago::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>19.48</lat>
+      <lon>-70.69</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Santo Domingo::Santo Domingo::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>18.48</lat>
+      <lon>-69.91</lon>
+      <name>Santo Domingo</name>
+    </location>
+  </cdi>
+</cdidata>

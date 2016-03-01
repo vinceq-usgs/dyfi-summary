@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89406">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>275</dist>
+      <lat>39.5807881932</lat>
+      <lon>-118.334612129</lon>
+      <name>Fallon</name>
+      <state>NV</state>
+    </location>
+    <location name="89412">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>41.3002371554</lat>
+      <lon>-119.666172891</lon>
+      <name>Gerlach</name>
+      <state>NV</state>
+    </location>
+    <location name="89423">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>316</dist>
+      <lat>39.0094510924</lat>
+      <lon>-119.562086354</lon>
+      <name>Minden</name>
+      <state>NV</state>
+    </location>
+    <location name="96003">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>261</dist>
+      <lat>40.6695191792</lat>
+      <lon>-122.312232909</lon>
+      <name>Redding</name>
+      <state>CA</state>
+    </location>
+    <location name="96101">
+      <cdi>2.9633</cdi>
+      <nresp>6</nresp>
+      <dist>82</dist>
+      <lat>41.4957915496</lat>
+      <lon>-120.486535175</lon>
+      <name>Alturas</name>
+      <state>CA</state>
+    </location>
+    <location name="96104">
+      <cdi>2.9841</cdi>
+      <nresp>5</nresp>
+      <dist>66</dist>
+      <lat>41.3963352966</lat>
+      <lon>-120.119100007</lon>
+      <name>Cedarville</name>
+      <state>CA</state>
+    </location>
+    <location name="96112">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>41.9024523183</lat>
+      <lon>-120.104645947</lon>
+      <name>Fort Bidwell</name>
+      <state>CA</state>
+    </location>
+    <location name="97620">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>38</dist>
+      <lat>42.1909539875</lat>
+      <lon>-119.719679225</lon>
+      <name>Adel</name>
+      <state>OR</state>
+    </location>
+    <location name="97630">
+      <cdi>2.2128</cdi>
+      <nresp>4</nresp>
+      <dist>91</dist>
+      <lat>42.2275396664</lat>
+      <lon>-120.604517594</lon>
+      <name>Lakeview</name>
+      <state>OR</state>
+    </location>
+    <location name="97638">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>43.2891635631</lat>
+      <lon>-120.540811653</lon>
+      <name>Silver Lake</name>
+      <state>OR</state>
+    </location>
+  </cdi>
+</cdidata>

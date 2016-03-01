@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67114">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>38.0619508136</lat>
+      <lon>-97.2832822534</lon>
+      <name>Newton</name>
+      <state>KS</state>
+    </location>
+    <location name="67749">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>404</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="73771">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>36.8672796879</lat>
+      <lon>-97.9811769749</lon>
+      <name>Wakita</name>
+      <state>OK</state>
+    </location>
+    <location name="75038">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>447</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75039">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>446</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

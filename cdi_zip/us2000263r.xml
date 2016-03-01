@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="44041">
+      <cdi>3.2031</cdi>
+      <nresp>2</nresp>
+      <dist>7</dist>
+      <lat>41.7788350004</lat>
+      <lon>-80.9521085439</lon>
+      <name>Geneva</name>
+      <state>OH</state>
+    </location>
+    <location name="44057">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>41.7695021135</lat>
+      <lon>-81.057213842</lon>
+      <name>Madison</name>
+      <state>OH</state>
+    </location>
+    <location name="44118">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>41.5017995228</lat>
+      <lon>-81.5552693196</lon>
+      <name>Cleveland</name>
+      <state>OH</state>
+    </location>
+    <location name="45011">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>392</dist>
+      <lat>39.4290592048</lat>
+      <lon>-84.5034732959</lon>
+      <name>Hamilton</name>
+      <state>OH</state>
+    </location>
+  </cdi>
+</cdidata>

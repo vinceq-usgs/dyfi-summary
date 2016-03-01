@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bhaktapur::Bhaktapur::Nepal">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>27.67</lat>
+      <lon>85.43</lon>
+      <name>Bhaktapur</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>4.0046</cdi>
+      <nresp>11</nresp>
+      <dist>17</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Bhimeshwar::Dolakha::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>27.67</lat>
+      <lon>86.03</lon>
+      <name>Bhimeshwar</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>140</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>3.7434</cdi>
+      <nresp>55</nresp>
+      <dist>14</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>3.9067</cdi>
+      <nresp>11</nresp>
+      <dist>15</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+  </cdi>
+</cdidata>

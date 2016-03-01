@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67749">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>490</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="73007">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73077">
+      <cdi>3.8540</cdi>
+      <nresp>8</nresp>
+      <dist>7</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="74008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>35.9148562447</lat>
+      <lon>-95.8381122962</lon>
+      <name>Bixby</name>
+      <state>OK</state>
+    </location>
+    <location name="74070">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>36.3807769423</lat>
+      <lon>-96.0623166374</lon>
+      <name>Skiatook</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>4.2978</cdi>
+      <nresp>4</nresp>
+      <dist>19</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74114">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>36.1261559611</lat>
+      <lon>-95.9461925162</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

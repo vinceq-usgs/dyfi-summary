@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Esmeraldas::Esmeraldas::Ecuador">
+      <cdi>3.8753</cdi>
+      <nresp>3</nresp>
+      <dist>34</dist>
+      <lat>0.95</lat>
+      <lon>-79.67</lon>
+      <name>Esmeraldas</name>
+    </location>
+    <location name="Muisne::Esmeraldas::Ecuador">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>0.61</lat>
+      <lon>-80.02</lon>
+      <name>Muisne</name>
+    </location>
+    <location name="Valdez::Esmeraldas::Ecuador">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>1.25</lat>
+      <lon>-79.00</lon>
+      <name>Valdez</name>
+    </location>
+    <location name="Ibarra::Imbabura::Ecuador">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>0.36</lat>
+      <lon>-78.13</lon>
+      <name>Ibarra</name>
+    </location>
+    <location name="Otavalo::Imbabura::Ecuador">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>0.24</lat>
+      <lon>-78.27</lon>
+      <name>Otavalo</name>
+    </location>
+    <location name="Quito::Pichincha::Ecuador">
+      <cdi>2.9256</cdi>
+      <nresp>10</nresp>
+      <dist>196</dist>
+      <lat>-0.19</lat>
+      <lon>-78.50</lon>
+      <name>Quito</name>
+    </location>
+    <location name="Santo Domingo::Pichincha::Ecuador">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>169</dist>
+      <lat>-0.25</lat>
+      <lon>-79.16</lon>
+      <name>Santo Domingo</name>
+    </location>
+  </cdi>
+</cdidata>

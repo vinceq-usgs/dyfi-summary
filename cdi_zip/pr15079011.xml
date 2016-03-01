@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00725">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>219</dist>
+      <lat>18.1607126113</lat>
+      <lon>-66.0582950033</lon>
+      <name>Caguas</name>
+      <state>PR</state>
+    </location>
+    <location name="00802">
+      <cdi>2.9945</cdi>
+      <nresp>5</nresp>
+      <dist>110</dist>
+      <lat>18.34</lat>
+      <lon>-64.94</lon>
+      <name>SAINT THOMAS</name>
+      <state>VI</state>
+    </location>
+    <location name="00830">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>96</dist>
+      <lat>18.34</lat>
+      <lon>-64.73</lon>
+      <name>SAINT JOHN</name>
+      <state>VI</state>
+    </location>
+    <location name="00918">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>208</dist>
+      <lat>18.4215517298</lat>
+      <lon>-66.0669281669</lon>
+      <name>San Juan</name>
+      <state>PR</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Road Town::Tortola::British Virgin Islands">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>82</dist>
+      <lat>18.43</lat>
+      <lon>-64.63</lon>
+      <name>Road Town</name>
+    </location>
+    <location name="Low Lands::Sint Maarten::Netherlands Antilles">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>18.03</lat>
+      <lon>-63.12</lon>
+      <name>Low Lands</name>
+    </location>
+  </cdi>
+</cdidata>

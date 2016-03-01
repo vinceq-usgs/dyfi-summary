@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67548">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>298</dist>
+      <lat>38.5313103728</lat>
+      <lon>-99.3642350231</lon>
+      <name>La Crosse</name>
+      <state>KS</state>
+    </location>
+    <location name="74643">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>36.712900915</lat>
+      <lon>-97.5544861003</lon>
+      <name>Lamont</name>
+      <state>OK</state>
+    </location>
+    <location name="75223">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>393</dist>
+      <lat>32.7926350392</lat>
+      <lon>-96.7443600704</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76052">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>366</dist>
+      <lat>32.9781796401</lat>
+      <lon>-97.3815857294</lon>
+      <name>Haslet</name>
+      <state>TX</state>
+    </location>
+    <location name="76262">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>364</dist>
+      <lat>33.0062709451</lat>
+      <lon>-97.2163001182</lon>
+      <name>Roanoke</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

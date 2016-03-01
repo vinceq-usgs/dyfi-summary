@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93436">
+      <cdi>2.1636</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>34.604909261</lat>
+      <lon>-120.39336214</lon>
+      <name>Lompoc</name>
+      <state>CA</state>
+    </location>
+    <location name="93455">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>34.824132643</lat>
+      <lon>-120.393680076</lon>
+      <name>Santa Maria</name>
+      <state>CA</state>
+    </location>
+    <location name="94062">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>341</dist>
+      <lat>37.4076638109</lat>
+      <lon>-122.303813288</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

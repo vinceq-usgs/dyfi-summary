@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92804">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>33.8186757055</lat>
+      <lon>-117.974628915</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="92805">
+      <cdi>2.4895</cdi>
+      <nresp>8</nresp>
+      <dist>4</dist>
+      <lat>33.8298417053</lat>
+      <lon>-117.905622544</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="92806">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>3</dist>
+      <lat>33.838352873</lat>
+      <lon>-117.870242707</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="92870">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>33.8808887078</lat>
+      <lon>-117.855285664</lon>
+      <name>Placentia</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

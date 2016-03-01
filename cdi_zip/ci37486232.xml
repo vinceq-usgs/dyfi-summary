@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90043">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>33.9887240668</lat>
+      <lon>-118.335094215</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90044">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>85</dist>
+      <lat>33.9530298128</lat>
+      <lon>-118.291495556</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90249">
+      <cdi>2.0628</cdi>
+      <nresp>4</nresp>
+      <dist>82</dist>
+      <lat>33.9014686074</lat>
+      <lon>-118.317203907</lon>
+      <name>Gardena</name>
+      <state>CA</state>
+    </location>
+    <location name="90250">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>33.9144404688</lat>
+      <lon>-118.34912871</lon>
+      <name>Hawthorne</name>
+      <state>CA</state>
+    </location>
+    <location name="90302">
+      <cdi>3.0408</cdi>
+      <nresp>3</nresp>
+      <dist>80</dist>
+      <lat>33.9746412695</lat>
+      <lon>-118.355166746</lon>
+      <name>Inglewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90303">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>33.9363361594</lat>
+      <lon>-118.331057754</lon>
+      <name>Inglewood</name>
+      <state>CA</state>
+    </location>
+    <location name="91321">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>34.3579001289</lat>
+      <lon>-118.473819206</lon>
+      <name>Newhall</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

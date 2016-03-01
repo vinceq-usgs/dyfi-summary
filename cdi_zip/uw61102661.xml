@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98251">
+      <cdi>2.6484</cdi>
+      <nresp>6</nresp>
+      <dist>11</dist>
+      <lat>47.8168921993</lat>
+      <lon>-121.612138513</lon>
+      <name>Gold Bar</name>
+      <state>WA</state>
+    </location>
+    <location name="98294">
+      <cdi>2.6912</cdi>
+      <nresp>4</nresp>
+      <dist>17</dist>
+      <lat>47.875835406</lat>
+      <lon>-121.452270172</lon>
+      <name>Sultan</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

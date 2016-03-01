@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="75051">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>32.7273316614</lat>
+      <lon>-96.9916311187</lon>
+      <name>Grand Prairie</name>
+      <state>TX</state>
+    </location>
+    <location name="76009">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>32.4185305831</lat>
+      <lon>-97.2044749595</lon>
+      <name>Alvarado</name>
+      <state>TX</state>
+    </location>
+    <location name="76028">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>32.5256735642</lat>
+      <lon>-97.304570582</lon>
+      <name>Burleson</name>
+      <state>TX</state>
+    </location>
+    <location name="76063">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>32.5724675729</lat>
+      <lon>-97.1380219893</lon>
+      <name>Mansfield</name>
+      <state>TX</state>
+    </location>
+    <location name="76084">
+      <cdi>3.1354</cdi>
+      <nresp>6</nresp>
+      <dist>6</dist>
+      <lat>32.4358033098</lat>
+      <lon>-97.0921615573</lon>
+      <name>Venus</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

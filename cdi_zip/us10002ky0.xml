@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67037">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67401">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>289</dist>
+      <lat>38.8387587166</lat>
+      <lon>-97.6335856895</lon>
+      <name>Salina</name>
+      <state>KS</state>
+    </location>
+    <location name="73044">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>79</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>4</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

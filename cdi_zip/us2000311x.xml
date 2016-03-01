@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Santo Domingo::Chontales::Nicaragua">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>12.27</lat>
+      <lon>-85.09</lon>
+      <name>Santo Domingo</name>
+    </location>
+    <location name="El Crucero::Managua::Nicaragua">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>11.98</lat>
+      <lon>-86.32</lon>
+      <name>El Crucero</name>
+    </location>
+    <location name="Managua::Managua::Nicaragua">
+      <cdi>3.6843</cdi>
+      <nresp>10</nresp>
+      <dist>7</dist>
+      <lat>12.15</lat>
+      <lon>-86.27</lon>
+      <name>Managua</name>
+    </location>
+  </cdi>
+</cdidata>

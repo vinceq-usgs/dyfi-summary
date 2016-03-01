@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Delhi::Delhi::India">
+      <cdi>3.0383</cdi>
+      <nresp>5</nresp>
+      <dist>209</dist>
+      <lat>28.67</lat>
+      <lon>77.21</lon>
+      <name>Delhi</name>
+    </location>
+    <location name="Nangloi Jat::Delhi::India">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>200</dist>
+      <lat>28.68</lat>
+      <lon>77.07</lon>
+      <name>Nangloi Jat</name>
+    </location>
+    <location name="Roshan Pura::Delhi::India">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>188</dist>
+      <lat>28.60</lat>
+      <lon>76.99</lon>
+      <name>Roshan Pura</name>
+    </location>
+    <location name="Gurgaon::Haryana::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>28.47</lat>
+      <lon>77.01</lon>
+      <name>Gurgaon</name>
+    </location>
+    <location name="Jaipur::Rajasthan::India">
+      <cdi>3.1144</cdi>
+      <nresp>13</nresp>
+      <dist>65</dist>
+      <lat>26.92</lat>
+      <lon>75.80</lon>
+      <name>Jaipur</name>
+    </location>
+    <location name="Manoharpur::Rajasthan::India">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>44</dist>
+      <lat>27.30</lat>
+      <lon>75.95</lon>
+      <name>Manoharpur</name>
+    </location>
+    <location name="Rīngas::Rajasthan::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>27.35</lat>
+      <lon>75.57</lon>
+      <name>Rīngas</name>
+    </location>
+    <location name="Sīkar::Rajasthan::India">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>49</dist>
+      <lat>27.61</lat>
+      <lon>75.13</lon>
+      <name>Sīkar</name>
+    </location>
+    <location name="Noida::Uttar Pradesh::India">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>213</dist>
+      <lat>28.58</lat>
+      <lon>77.33</lon>
+      <name>Noida</name>
+    </location>
+  </cdi>
+</cdidata>

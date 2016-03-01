@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Antiguo Cuscatlán::La Libertad::El Salvador">
+      <cdi>2.5759</cdi>
+      <nresp>3</nresp>
+      <dist>84</dist>
+      <lat>13.68</lat>
+      <lon>-89.23</lon>
+      <name>Antiguo Cuscatlán</name>
+    </location>
+    <location name="Nuevo Cuscatlán::La Libertad::El Salvador">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>13.65</lat>
+      <lon>-89.27</lon>
+      <name>Nuevo Cuscatlán</name>
+    </location>
+    <location name="Ilopango::San Salvador::El Salvador">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>13.70</lat>
+      <lon>-89.12</lon>
+      <name>Ilopango</name>
+    </location>
+    <location name="Guatemala::Guatemala::Guatemala">
+      <cdi>3.0408</cdi>
+      <nresp>3</nresp>
+      <dist>181</dist>
+      <lat>14.63</lat>
+      <lon>-90.55</lon>
+      <name>Guatemala</name>
+    </location>
+    <location name="Antigua Guatemala::Sacatepéquez::Guatemala">
+      <cdi>2.2534</cdi>
+      <nresp>4</nresp>
+      <dist>185</dist>
+      <lat>14.56</lat>
+      <lon>-90.74</lon>
+      <name>Antigua Guatemala</name>
+    </location>
+  </cdi>
+</cdidata>

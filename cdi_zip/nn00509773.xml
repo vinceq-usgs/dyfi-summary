@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94530">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>439</dist>
+      <lat>37.9229540734</lat>
+      <lon>-122.292315771</lon>
+      <name>El Cerrito</name>
+      <state>CA</state>
+    </location>
+    <location name="95918">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>414</dist>
+      <lat>39.2867951709</lat>
+      <lon>-121.323583267</lon>
+      <name>Browns Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95945">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>381</dist>
+      <lat>39.2138541316</lat>
+      <lon>-120.926496583</lon>
+      <name>Grass Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95949">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>387</dist>
+      <lat>39.0999764229</lat>
+      <lon>-121.114611914</lon>
+      <name>Grass Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95959">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>387</dist>
+      <lat>39.3405158705</lat>
+      <lon>-120.901725991</lon>
+      <name>Nevada City</name>
+      <state>CA</state>
+    </location>
+    <location name="95960">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>403</dist>
+      <lat>39.3961479868</lat>
+      <lon>-121.08144099</lon>
+      <name>North San Juan</name>
+      <state>CA</state>
+    </location>
+    <location name="95991">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>421</dist>
+      <lat>39.0231324018</lat>
+      <lon>-121.61244158</lon>
+      <name>Yuba City</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

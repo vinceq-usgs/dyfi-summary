@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94102">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>380</dist>
+      <lat>37.7795327685</lat>
+      <lon>-122.419606391</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94509">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>346</dist>
+      <lat>37.9936917579</lat>
+      <lon>-121.814363931</lon>
+      <name>Antioch</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>372</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>346</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94704">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>371</dist>
+      <lat>37.8690688607</lat>
+      <lon>-122.244743009</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

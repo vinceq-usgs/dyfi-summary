@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73007">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.9633</cdi>
+      <nresp>4</nresp>
+      <dist>7</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73151">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>35.5701370079</lat>
+      <lon>-97.4054663471</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74857">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>35.3419691675</lat>
+      <lon>-97.1962017041</lon>
+      <name>Newalla</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

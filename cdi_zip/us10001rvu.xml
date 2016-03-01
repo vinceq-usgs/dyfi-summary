@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Helensvale::Queensland::Australia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1455</dist>
+      <lat>-15.71</lat>
+      <lon>145.23</lon>
+      <name>Helensvale</name>
+    </location>
+    <location name="Kokopo::East New Britain::Papua New Guinea">
+      <cdi>6.1737</cdi>
+      <nresp>6</nresp>
+      <dist>67</dist>
+      <lat>-4.34</lat>
+      <lon>152.27</lon>
+      <name>Kokopo</name>
+    </location>
+    <location name="Rabaul::East New Britain::Papua New Guinea">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>-4.20</lat>
+      <lon>152.16</lon>
+      <name>Rabaul</name>
+    </location>
+    <location name="Kerema::Gulf::Papua New Guinea">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>832</dist>
+      <lat>-7.96</lat>
+      <lon>145.77</lon>
+      <name>Kerema</name>
+    </location>
+  </cdi>
+</cdidata>

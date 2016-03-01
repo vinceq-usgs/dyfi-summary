@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67140">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>37.0713001379</lat>
+      <lon>-97.3587944859</lon>
+      <name>South Haven</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73460">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>301</dist>
+      <lat>34.3497584017</lat>
+      <lon>-96.6568320635</lon>
+      <name>Tishomingo</name>
+      <state>OK</state>
+    </location>
+    <location name="73759">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>36.855793831</lat>
+      <lon>-97.6934025249</lon>
+      <name>Medford</name>
+      <state>OK</state>
+    </location>
+    <location name="74632">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>36.9433376764</lat>
+      <lon>-97.3377689146</lon>
+      <name>Braman</name>
+      <state>OK</state>
+    </location>
+    <location name="75261">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>453</dist>
+      <lat>32.8914944597</lat>
+      <lon>-97.0395727373</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

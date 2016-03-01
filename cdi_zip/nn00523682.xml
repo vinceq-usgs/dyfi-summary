@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89403">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>39.2354219595</lat>
+      <lon>-119.458697285</lon>
+      <name>Dayton</name>
+      <state>NV</state>
+    </location>
+    <location name="89502">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>39.4934115902</lat>
+      <lon>-119.74641456</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89511">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>39.4017977572</lat>
+      <lon>-119.87306756</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89519">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>39.4812247569</lat>
+      <lon>-119.858942136</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="89521">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>39.3850735022</lat>
+      <lon>-119.686126294</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,132 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Wuxi::Jiangsu::China">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>819</dist>
+      <lat>31.58</lat>
+      <lon>120.30</lon>
+      <name>Wuxi</name>
+    </location>
+    <location name="Shanghai::Schanghai::China">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>707</dist>
+      <lat>31.23</lat>
+      <lon>121.47</lon>
+      <name>Shanghai</name>
+    </location>
+    <location name="Ningbo::Zhejiang::China">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>714</dist>
+      <lat>29.88</lat>
+      <lon>121.55</lon>
+      <name>Ningbo</name>
+    </location>
+    <location name="Fukuoka::Fukuoka::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>322</dist>
+      <lat>33.59</lat>
+      <lon>130.41</lon>
+      <name>Fukuoka</name>
+    </location>
+    <location name="Kitakyūshū::Fukuoka::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>370</dist>
+      <lat>33.88</lat>
+      <lon>130.86</lon>
+      <name>Kitakyūshū</name>
+    </location>
+    <location name="Kagoshima::Kagoshima::Japan">
+      <cdi>4.3417</cdi>
+      <nresp>2</nresp>
+      <dist>173</dist>
+      <lat>31.59</lat>
+      <lon>130.56</lon>
+      <name>Kagoshima</name>
+    </location>
+    <location name="Kumamoto::Kumamoto::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>265</dist>
+      <lat>32.80</lat>
+      <lon>130.71</lon>
+      <name>Kumamoto</name>
+    </location>
+    <location name="Ushibuka::Kumamoto::Japan">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>32.20</lat>
+      <lon>130.02</lon>
+      <name>Ushibuka</name>
+    </location>
+    <location name="Miyakonojō::Miyazaki::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>31.72</lat>
+      <lon>131.06</lon>
+      <name>Miyakonojō</name>
+    </location>
+    <location name="Nagasaki::Nagasaki::Japan">
+      <cdi>3.6156</cdi>
+      <nresp>4</nresp>
+      <dist>217</dist>
+      <lat>32.75</lat>
+      <lon>129.88</lon>
+      <name>Nagasaki</name>
+    </location>
+    <location name="Sasebo::Nagasaki::Japan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>253</dist>
+      <lat>33.16</lat>
+      <lon>129.72</lon>
+      <name>Sasebo</name>
+    </location>
+    <location name="Saga::Saga::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>284</dist>
+      <lat>33.25</lat>
+      <lon>130.30</lon>
+      <name>Saga</name>
+    </location>
+    <location name="Ōita::Ōita::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>358</dist>
+      <lat>33.24</lat>
+      <lon>131.60</lon>
+      <name>Ōita</name>
+    </location>
+    <location name="Mokpo::Chollanam::Korea (South)">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>482</dist>
+      <lat>34.80</lat>
+      <lon>126.39</lon>
+      <name>Mokpo</name>
+    </location>
+    <location name="Kijang::Pusan::Korea (South)">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>471</dist>
+      <lat>35.23</lat>
+      <lon>129.22</lon>
+      <name>Kijang</name>
+    </location>
+    <location name="Seoul::Sŏul::Korea (South)">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>749</dist>
+      <lat>37.56</lat>
+      <lon>126.99</lon>
+      <name>Seoul</name>
+    </location>
+  </cdi>
+</cdidata>

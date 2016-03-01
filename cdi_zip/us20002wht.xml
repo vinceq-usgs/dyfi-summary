@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67025">
+      <cdi>3.4759</cdi>
+      <nresp>19</nresp>
+      <dist>3</dist>
+      <lat>37.6317979716</lat>
+      <lon>-97.7606812407</lon>
+      <name>Cheney</name>
+      <state>KS</state>
+    </location>
+    <location name="67052">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>37.6555956014</lat>
+      <lon>-97.5764084283</lon>
+      <name>Goddard</name>
+      <state>KS</state>
+    </location>
+    <location name="67111">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>37.608636809</lat>
+      <lon>-97.9678765996</lon>
+      <name>Murdock</name>
+      <state>KS</state>
+    </location>
+    <location name="67149">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>37.5351743223</lat>
+      <lon>-97.6234572623</lon>
+      <name>Viola</name>
+      <state>KS</state>
+    </location>
+    <location name="67543">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>37.8653096812</lat>
+      <lon>-97.7969387052</lon>
+      <name>Haven</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,202 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90220">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>33.8793758732</lat>
+      <lon>-118.23711278</lon>
+      <name>Compton</name>
+      <state>CA</state>
+    </location>
+    <location name="90620">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>33.8463139296</lat>
+      <lon>-118.011490876</lon>
+      <name>Buena Park</name>
+      <state>CA</state>
+    </location>
+    <location name="90703">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>33.8680031839</lat>
+      <lon>-118.068702942</lon>
+      <name>Cerritos</name>
+      <state>CA</state>
+    </location>
+    <location name="90706">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>33.8879896587</lat>
+      <lon>-118.127221311</lon>
+      <name>Bellflower</name>
+      <state>CA</state>
+    </location>
+    <location name="90712">
+      <cdi>2.3172</cdi>
+      <nresp>6</nresp>
+      <dist>15</dist>
+      <lat>33.8491752911</lat>
+      <lon>-118.147029498</lon>
+      <name>Lakewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90713">
+      <cdi>2.5213</cdi>
+      <nresp>5</nresp>
+      <dist>15</dist>
+      <lat>33.8479130281</lat>
+      <lon>-118.112581056</lon>
+      <name>Lakewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90715">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>33.8405139674</lat>
+      <lon>-118.078829927</lon>
+      <name>Lakewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90716">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>33.830686935</lat>
+      <lon>-118.073365491</lon>
+      <name>Hawaiian Gardens</name>
+      <state>CA</state>
+    </location>
+    <location name="90720">
+      <cdi>2.4261</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>33.7955870521</lat>
+      <lon>-118.063760537</lon>
+      <name>Los Alamitos</name>
+      <state>CA</state>
+    </location>
+    <location name="90723">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>33.8976337779</lat>
+      <lon>-118.164718803</lon>
+      <name>Paramount</name>
+      <state>CA</state>
+    </location>
+    <location name="90740">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>33.7545406192</lat>
+      <lon>-118.07125351</lon>
+      <name>Seal Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90755">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>33.8027298384</lat>
+      <lon>-118.167236324</lon>
+      <name>Signal Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="90802">
+      <cdi>2.2128</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>33.7546211793</lat>
+      <lon>-118.21110738</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90803">
+      <cdi>2.4261</cdi>
+      <nresp>8</nresp>
+      <dist>13</dist>
+      <lat>33.7617903124</lat>
+      <lon>-118.123316205</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90804">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>13</dist>
+      <lat>33.7827735966</lat>
+      <lon>-118.149743621</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90805">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>33.8648577567</lat>
+      <lon>-118.180811967</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90806">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>33.8049302098</lat>
+      <lon>-118.189212697</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90807">
+      <cdi>2.3093</cdi>
+      <nresp>4</nresp>
+      <dist>14</dist>
+      <lat>33.8286381513</lat>
+      <lon>-118.178180973</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90808">
+      <cdi>2.1636</cdi>
+      <nresp>4</nresp>
+      <dist>14</dist>
+      <lat>33.8237691701</lat>
+      <lon>-118.115130501</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90813">
+      <cdi>3.0427</cdi>
+      <nresp>7</nresp>
+      <dist>14</dist>
+      <lat>33.7807109994</lat>
+      <lon>-118.201457061</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90814">
+      <cdi>2.2047</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>33.7717017648</lat>
+      <lon>-118.144058707</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90815">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>33.796240627</lat>
+      <lon>-118.11595962</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ancón::Panamá::Panama">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>192</dist>
+      <lat>8.97</lat>
+      <lon>-79.55</lon>
+      <name>Ancón</name>
+    </location>
+    <location name="San Carlos::Panamá::Panama">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>8.48</lat>
+      <lon>-79.94</lon>
+      <name>San Carlos</name>
+    </location>
+    <location name="Tocumen::Panamá::Panama">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>9.08</lat>
+      <lon>-79.38</lon>
+      <name>Tocumen</name>
+    </location>
+    <location name="La Mesa::Veraguas::Panama">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>8.15</lat>
+      <lon>-81.17</lon>
+      <name>La Mesa</name>
+    </location>
+    <location name="Limón::Limón::Costa Rica">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>571</dist>
+      <lat>9.99</lat>
+      <lon>-83.04</lon>
+      <name>Limón</name>
+    </location>
+  </cdi>
+</cdidata>

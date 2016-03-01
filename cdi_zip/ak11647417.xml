@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99701">
+      <cdi>3.2944</cdi>
+      <nresp>5</nresp>
+      <dist>37</dist>
+      <lat>64.5124558489</lat>
+      <lon>-147.669565076</lon>
+      <name>Fairbanks</name>
+      <state>AK</state>
+    </location>
+    <location name="99702">
+      <cdi>3.0280</cdi>
+      <nresp>6</nresp>
+      <dist>24</dist>
+      <lat>64.6742689878</lat>
+      <lon>-147.078238728</lon>
+      <name>Eielson AFB</name>
+      <state>AK</state>
+    </location>
+    <location name="99703">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>64.8308644195</lat>
+      <lon>-147.6299821</lon>
+      <name>Fort Wainwright</name>
+      <state>AK</state>
+    </location>
+    <location name="99705">
+      <cdi>2.9276</cdi>
+      <nresp>16</nresp>
+      <dist>18</dist>
+      <lat>64.7563125235</lat>
+      <lon>-147.338813404</lon>
+      <name>North Pole</name>
+      <state>AK</state>
+    </location>
+    <location name="99709">
+      <cdi>2.4327</cdi>
+      <nresp>12</nresp>
+      <dist>51</dist>
+      <lat>64.9460959895</lat>
+      <lon>-148.251252626</lon>
+      <name>Fairbanks</name>
+      <state>AK</state>
+    </location>
+    <location name="99712">
+      <cdi>2.8163</cdi>
+      <nresp>5</nresp>
+      <dist>48</dist>
+      <lat>65.1396847707</lat>
+      <lon>-146.92538704</lon>
+      <name>Fairbanks</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

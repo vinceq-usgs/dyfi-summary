@@ -1,0 +1,220 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Basag::Caraga::Philippines">
+      <cdi>4.2355</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>8.92</lat>
+      <lon>125.62</lon>
+      <name>Basag</name>
+    </location>
+    <location name="Brasilisa::Caraga::Philippines">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>9.78</lat>
+      <lon>125.48</lon>
+      <name>Brasilisa</name>
+    </location>
+    <location name="Butuan::Caraga::Philippines">
+      <cdi>3.7114</cdi>
+      <nresp>5</nresp>
+      <dist>146</dist>
+      <lat>8.93</lat>
+      <lon>125.52</lon>
+      <name>Butuan</name>
+    </location>
+    <location name="Claver::Caraga::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>9.57</lat>
+      <lon>125.73</lon>
+      <name>Claver</name>
+    </location>
+    <location name="Madrid::Caraga::Philippines">
+      <cdi>6.8264</cdi>
+      <nresp>2</nresp>
+      <dist>105</dist>
+      <lat>9.26</lat>
+      <lon>125.96</lon>
+      <name>Madrid</name>
+    </location>
+    <location name="Purok::Caraga::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>9.78</lat>
+      <lon>126.16</lon>
+      <name>Purok</name>
+    </location>
+    <location name="Cebu::Central Visayas::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>221</dist>
+      <lat>10.32</lat>
+      <lon>123.90</lon>
+      <name>Cebu</name>
+    </location>
+    <location name="Mandaue::Central Visayas::Philippines">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>10.33</lat>
+      <lon>123.93</lon>
+      <name>Mandaue</name>
+    </location>
+    <location name="Mandawa::Central Visayas::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>10.32</lat>
+      <lon>123.92</lon>
+      <name>Mandawa</name>
+    </location>
+    <location name="Toledo::Central Visayas::Philippines">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>10.38</lat>
+      <lon>123.64</lon>
+      <name>Toledo</name>
+    </location>
+    <location name="Abuyog::Eastern Visayas::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>10.75</lat>
+      <lon>125.01</lon>
+      <name>Abuyog</name>
+    </location>
+    <location name="Basey::Eastern Visayas::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>11.28</lat>
+      <lon>125.07</lon>
+      <name>Basey</name>
+    </location>
+    <location name="Bunga (Baybay, Leyte)::Eastern Visayas::Philippines">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>10.78</lat>
+      <lon>124.78</lon>
+      <name>Bunga (Baybay, Leyte)</name>
+    </location>
+    <location name="Doos::Eastern Visayas::Philippines">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>10.47</lat>
+      <lon>124.73</lon>
+      <name>Doos</name>
+    </location>
+    <location name="Hindang::Eastern Visayas::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>10.43</lat>
+      <lon>124.73</lon>
+      <name>Hindang</name>
+    </location>
+    <location name="Hinundayan::Eastern Visayas::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>10.36</lat>
+      <lon>125.25</lon>
+      <name>Hinundayan</name>
+    </location>
+    <location name="Palo::Eastern Visayas::Philippines">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>11.16</lat>
+      <lon>124.99</lon>
+      <name>Palo</name>
+    </location>
+    <location name="San Antonio (Basey, Samar)::Eastern Visayas::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>159</dist>
+      <lat>11.28</lat>
+      <lon>125.01</lon>
+      <name>San Antonio (Basey, Samar)</name>
+    </location>
+    <location name="Silanga::Eastern Visayas::Philippines">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>11.82</lat>
+      <lon>124.84</lon>
+      <name>Silanga</name>
+    </location>
+    <location name="Manila::National Capital Region::Philippines">
+      <cdi>3.8350</cdi>
+      <nresp>3</nresp>
+      <dist>727</dist>
+      <lat>14.62</lat>
+      <lon>120.97</lon>
+      <name>Manila</name>
+    </location>
+    <location name="Barra::Northern Mindanao::Philippines">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>230</dist>
+      <lat>8.50</lat>
+      <lon>124.67</lon>
+      <name>Barra</name>
+    </location>
+    <location name="Bugo::Northern Mindanao::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>8.51</lat>
+      <lon>124.76</lon>
+      <name>Bugo</name>
+    </location>
+    <location name="Cagayan::Northern Mindanao::Philippines">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>234</dist>
+      <lat>8.45</lat>
+      <lon>124.67</lon>
+      <name>Cagayan</name>
+    </location>
+    <location name="Maanas::Northern Mindanao::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>173</dist>
+      <lat>8.89</lat>
+      <lon>125.03</lon>
+      <name>Maanas</name>
+    </location>
+    <location name="Davao::Southern Mindanao::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>341</dist>
+      <lat>7.11</lat>
+      <lon>125.63</lon>
+      <name>Davao</name>
+    </location>
+    <location name="Lacson::Southern Mindanao::Philippines">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>332</dist>
+      <lat>7.21</lat>
+      <lon>125.44</lon>
+      <name>Lacson</name>
+    </location>
+    <location name="Tanglad::Southern Mindanao::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>398</dist>
+      <lat>6.60</lat>
+      <lon>125.45</lon>
+      <name>Tanglad</name>
+    </location>
+  </cdi>
+</cdidata>

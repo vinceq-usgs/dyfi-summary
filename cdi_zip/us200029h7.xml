@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dacca::Dhāka::Bangladesh">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>691</dist>
+      <lat>23.70</lat>
+      <lon>90.39</lon>
+      <name>Dacca</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>347</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Forbesganj::Bihar::India">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>264</dist>
+      <lat>26.30</lat>
+      <lon>87.25</lon>
+      <name>Forbesganj</name>
+    </location>
+    <location name="Naraingarh::Haryana::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>833</dist>
+      <lat>30.48</lat>
+      <lon>77.13</lon>
+      <name>Naraingarh</name>
+    </location>
+    <location name="Chatra::Jharkhand::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>383</dist>
+      <lat>24.22</lat>
+      <lon>84.87</lon>
+      <name>Chatra</name>
+    </location>
+    <location name="Pushkar::Rajasthan::India">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>1051</dist>
+      <lat>26.50</lat>
+      <lon>74.55</lon>
+      <name>Pushkar</name>
+    </location>
+    <location name="Allahābād Cantonment::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>407</dist>
+      <lat>25.45</lat>
+      <lon>81.81</lon>
+      <name>Allahābād Cantonment</name>
+    </location>
+    <location name="Bansgaon::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>26.55</lat>
+      <lon>83.35</lon>
+      <name>Bansgaon</name>
+    </location>
+    <location name="Bansi::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>219</dist>
+      <lat>27.18</lat>
+      <lon>82.93</lon>
+      <name>Bansi</name>
+    </location>
+    <location name="Handia::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>384</dist>
+      <lat>25.38</lat>
+      <lon>82.18</lon>
+      <name>Handia</name>
+    </location>
+    <location name="Mirzapur cum Vindhyachal::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>374</dist>
+      <lat>25.16</lat>
+      <lon>82.56</lon>
+      <name>Mirzapur cum Vindhyachal</name>
+    </location>
+    <location name="Rura::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>529</dist>
+      <lat>26.48</lat>
+      <lon>79.90</lon>
+      <name>Rura</name>
+    </location>
+    <location name="Shamsabad::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>690</dist>
+      <lat>27.02</lat>
+      <lon>78.13</lon>
+      <name>Shamsabad</name>
+    </location>
+    <location name="Bhaktapur::Bhaktapur::Nepal">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>27.67</lat>
+      <lon>85.43</lon>
+      <name>Bhaktapur</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>4.8282</cdi>
+      <nresp>2</nresp>
+      <dist>63</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>3.2754</cdi>
+      <nresp>4</nresp>
+      <dist>26</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Malangwa::Sarlahi::Nepal">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>26.86</lat>
+      <lon>85.55</lon>
+      <name>Malangwa</name>
+    </location>
+  </cdi>
+</cdidata>

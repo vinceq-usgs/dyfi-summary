@@ -1,0 +1,220 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90255">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>33.9770329765</lat>
+      <lon>-118.217061612</lon>
+      <name>Huntington Park</name>
+      <state>CA</state>
+    </location>
+    <location name="90275">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>33.7552706318</lat>
+      <lon>-118.363098141</lon>
+      <name>Rancho Palos Verdes</name>
+      <state>CA</state>
+    </location>
+    <location name="90503">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>33.8419954117</lat>
+      <lon>-118.351634592</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90706">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>33.8879896587</lat>
+      <lon>-118.127221311</lon>
+      <name>Bellflower</name>
+      <state>CA</state>
+    </location>
+    <location name="90732">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>33.7408100449</lat>
+      <lon>-118.311460777</lon>
+      <name>San Pedro</name>
+      <state>CA</state>
+    </location>
+    <location name="91011">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>34.2247504665</lat>
+      <lon>-118.111431029</lon>
+      <name>La Canada Flintridge</name>
+      <state>CA</state>
+    </location>
+    <location name="91104">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>34.1680360725</lat>
+      <lon>-118.123457459</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91502">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>34.1768127608</lat>
+      <lon>-118.309210753</lon>
+      <name>Burbank</name>
+      <state>CA</state>
+    </location>
+    <location name="91604">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>34.1395162352</lat>
+      <lon>-118.393133291</lon>
+      <name>Studio City</name>
+      <state>CA</state>
+    </location>
+    <location name="91709">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>33.9506356262</lat>
+      <lon>-117.725876809</lon>
+      <name>Chino Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91710">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>34.0040805784</lat>
+      <lon>-117.678890947</lon>
+      <name>Chino</name>
+      <state>CA</state>
+    </location>
+    <location name="91752">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>33.9962811957</lat>
+      <lon>-117.533734492</lon>
+      <name>Mira Loma</name>
+      <state>CA</state>
+    </location>
+    <location name="91761">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>34.0345221452</lat>
+      <lon>-117.592677765</lon>
+      <name>Ontario</name>
+      <state>CA</state>
+    </location>
+    <location name="92027">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>33.1372772456</lat>
+      <lon>-116.984677345</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92336">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>34.1352054936</lat>
+      <lon>-117.462098185</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92337">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>34.0491763581</lat>
+      <lon>-117.471344778</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92345">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>34.3857961061</lat>
+      <lon>-117.308080427</lon>
+      <name>Hesperia</name>
+      <state>CA</state>
+    </location>
+    <location name="92346">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>34.1187046695</lat>
+      <lon>-117.178198622</lon>
+      <name>Highland</name>
+      <state>CA</state>
+    </location>
+    <location name="92374">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>34.0685420367</lat>
+      <lon>-117.171906902</lon>
+      <name>Redlands</name>
+      <state>CA</state>
+    </location>
+    <location name="92376">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.1106765881</lat>
+      <lon>-117.380207744</lon>
+      <name>Rialto</name>
+      <state>CA</state>
+    </location>
+    <location name="92506">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>33.9345422726</lat>
+      <lon>-117.361830818</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92507">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>33.9529113701</lat>
+      <lon>-117.323004987</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92653">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>33.5924974021</lat>
+      <lon>-117.698979129</lon>
+      <name>Laguna Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="92867">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>33.8154724057</lat>
+      <lon>-117.823929269</lon>
+      <name>Orange</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

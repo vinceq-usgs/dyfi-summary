@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00612">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>18.4061979827</lat>
+      <lon>-66.675316799</lon>
+      <name>Arecibo</name>
+      <state>PR</state>
+    </location>
+    <location name="00637">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>18.0829179632</lat>
+      <lon>-66.9437179827</lon>
+      <name>Sabana Grande</name>
+      <state>PR</state>
+    </location>
+    <location name="00669">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>18.3018364611</lat>
+      <lon>-66.8664247433</lon>
+      <name>Lares</name>
+      <state>PR</state>
+    </location>
+    <location name="00676">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>18.3781557254</lat>
+      <lon>-67.0807626381</lon>
+      <name>Moca</name>
+      <state>PR</state>
+    </location>
+    <location name="00678">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>18.4392110103</lat>
+      <lon>-66.9257979212</lon>
+      <name>Quebradillas</name>
+      <state>PR</state>
+    </location>
+    <location name="00682">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>33</dist>
+      <lat>18.2144965005</lat>
+      <lon>-67.1532427414</lon>
+      <name>Mayaguez</name>
+      <state>PR</state>
+    </location>
+    <location name="00685">
+      <cdi>3.6956</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>18.3286859356</lat>
+      <lon>-66.9713244917</lon>
+      <name>San Sebastian</name>
+      <state>PR</state>
+    </location>
+    <location name="00698">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>18.0796477318</lat>
+      <lon>-66.8587877646</lon>
+      <name>Yauco</name>
+      <state>PR</state>
+    </location>
+    <location name="00728">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>18.0083584714</lat>
+      <lon>-66.663915306</lon>
+      <name>Ponce</name>
+      <state>PR</state>
+    </location>
+    <location name="00736">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>18.1029832514</lat>
+      <lon>-66.1497071631</lon>
+      <name>Cayey</name>
+      <state>PR</state>
+    </location>
+    <location name="00959">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>18.3918431337</lat>
+      <lon>-66.1584463534</lon>
+      <name>Bayamon</name>
+      <state>PR</state>
+    </location>
+  </cdi>
+</cdidata>

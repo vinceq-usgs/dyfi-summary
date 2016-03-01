@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89521">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>279</dist>
+      <lat>39.3850735022</lat>
+      <lon>-119.686126294</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="94062">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>37.4076638109</lat>
+      <lon>-122.303813288</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+    <location name="94065">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>37.5360085117</lat>
+      <lon>-122.246645777</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+    <location name="95112">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>37.3449260065</lat>
+      <lon>-121.883622921</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95228">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>37.9423713919</lat>
+      <lon>-120.680008209</lon>
+      <name>Copperopolis</name>
+      <state>CA</state>
+    </location>
+    <location name="95501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>430</dist>
+      <lat>40.7953313015</lat>
+      <lon>-124.153385167</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95503">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>420</dist>
+      <lat>40.7119988087</lat>
+      <lon>-124.097405236</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,184 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89502">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>338</dist>
+      <lat>39.4934115902</lat>
+      <lon>-119.74641456</lon>
+      <name>Reno</name>
+      <state>NV</state>
+    </location>
+    <location name="93063">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>365</dist>
+      <lat>34.2882593211</lat>
+      <lon>-118.688958163</lon>
+      <name>Simi Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="93901">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>36.6610806988</lat>
+      <lon>-121.653922658</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="93905">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>36.6804910423</lat>
+      <lon>-121.610273618</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="93906">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>36.7246845946</lat>
+      <lon>-121.627630026</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="93907">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>36.775878511</lat>
+      <lon>-121.658003087</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="93927">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>36.2230359847</lat>
+      <lon>-121.36914538</lon>
+      <name>Greenfield</name>
+      <state>CA</state>
+    </location>
+    <location name="93955">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>36.6273881233</lat>
+      <lon>-121.820038588</lon>
+      <name>Seaside</name>
+      <state>CA</state>
+    </location>
+    <location name="94115">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>37.7858951001</lat>
+      <lon>-122.437453444</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94118">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>37.7818712131</lat>
+      <lon>-122.461211306</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94404">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>37.5560651456</lat>
+      <lon>-122.269854893</lon>
+      <name>San Mateo</name>
+      <state>CA</state>
+    </location>
+    <location name="94536">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>37.5714118375</lat>
+      <lon>-121.985688461</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94546">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>37.7535145162</lat>
+      <lon>-122.097032395</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95023">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>19</dist>
+      <lat>36.8566762391</lat>
+      <lon>-121.249223359</lon>
+      <name>Hollister</name>
+      <state>CA</state>
+    </location>
+    <location name="95037">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>37.1634138038</lat>
+      <lon>-121.605115684</lon>
+      <name>Morgan Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>2.4338</cdi>
+      <nresp>4</nresp>
+      <dist>17</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+    <location name="95060">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>37.0592413896</lat>
+      <lon>-122.157700218</lon>
+      <name>Santa Cruz</name>
+      <state>CA</state>
+    </location>
+    <location name="95076">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>39</dist>
+      <lat>36.9415955433</lat>
+      <lon>-121.749518093</lon>
+      <name>Watsonville</name>
+      <state>CA</state>
+    </location>
+    <location name="95965">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>323</dist>
+      <lat>39.6385126629</lat>
+      <lon>-121.582982022</lon>
+      <name>Oroville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

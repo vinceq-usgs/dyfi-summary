@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93927">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>36.2230359847</lat>
+      <lon>-121.36914538</lon>
+      <name>Greenfield</name>
+      <state>CA</state>
+    </location>
+    <location name="93930">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>36.2099928278</lat>
+      <lon>-121.063653651</lon>
+      <name>King City</name>
+      <state>CA</state>
+    </location>
+    <location name="93960">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>30</dist>
+      <lat>36.4031672062</lat>
+      <lon>-121.345059267</lon>
+      <name>Soledad</name>
+      <state>CA</state>
+    </location>
+    <location name="95060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>37.0592413896</lat>
+      <lon>-122.157700218</lon>
+      <name>Santa Cruz</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

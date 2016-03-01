@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="85032">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>344</dist>
+      <lat>33.6258146965</lat>
+      <lon>-112.004601341</lon>
+      <name>Phoenix</name>
+      <state>AZ</state>
+    </location>
+    <location name="85210">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>349</dist>
+      <lat>33.390066161</lat>
+      <lon>-111.842629828</lon>
+      <name>Mesa</name>
+      <state>AZ</state>
+    </location>
+    <location name="85249">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>348</dist>
+      <lat>33.2258691162</lat>
+      <lon>-111.788307179</lon>
+      <name>Chandler</name>
+      <state>AZ</state>
+    </location>
+    <location name="85641">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>446</dist>
+      <lat>31.9464437231</lat>
+      <lon>-110.640043812</lon>
+      <name>Vail</name>
+      <state>AZ</state>
+    </location>
+    <location name="91906">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>32.6963449382</lat>
+      <lon>-116.516757429</lon>
+      <name>Campo</name>
+      <state>CA</state>
+    </location>
+    <location name="92256">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>34.0972343451</lat>
+      <lon>-116.595393156</lon>
+      <name>Morongo Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92262">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>33.8625160663</lat>
+      <lon>-116.56832194</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

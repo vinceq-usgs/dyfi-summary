@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83220">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>42.3175270837</lat>
+      <lon>-111.377908866</lon>
+      <name>Bern</name>
+      <state>ID</state>
+    </location>
+    <location name="83254">
+      <cdi>3.1909</cdi>
+      <nresp>6</nresp>
+      <dist>9</dist>
+      <lat>42.3365018797</lat>
+      <lon>-111.30330789</lon>
+      <name>Montpelier</name>
+      <state>ID</state>
+    </location>
+    <location name="84601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>244</dist>
+      <lat>40.2275874963</lat>
+      <lon>-111.695051992</lon>
+      <name>Provo</name>
+      <state>UT</state>
+    </location>
+  </cdi>
+</cdidata>

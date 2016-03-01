@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Narita::Chiba::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>35.79</lat>
+      <lon>140.32</lon>
+      <name>Narita</name>
+    </location>
+    <location name="Yokohama::Kanagawa::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>35.47</lat>
+      <lon>139.62</lon>
+      <name>Yokohama</name>
+    </location>
+    <location name="Zama::Kanagawa::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>35.50</lat>
+      <lon>139.40</lon>
+      <name>Zama</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>76</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

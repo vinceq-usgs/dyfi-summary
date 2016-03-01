@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94107">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>178</dist>
+      <lat>37.7648450669</lat>
+      <lon>-122.394608669</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>193</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94610">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>178</dist>
+      <lat>37.8120934987</lat>
+      <lon>-122.240580761</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95469">
+      <cdi>3.3110</cdi>
+      <nresp>6</nresp>
+      <dist>16</dist>
+      <lat>39.4015067309</lat>
+      <lon>-123.068836502</lon>
+      <name>Potter Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95470">
+      <cdi>3.4113</cdi>
+      <nresp>8</nresp>
+      <dist>16</dist>
+      <lat>39.2751318915</lat>
+      <lon>-123.329440439</lon>
+      <name>Redwood Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95482">
+      <cdi>3.5612</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>39.1369495272</lat>
+      <lon>-123.224829878</lon>
+      <name>Ukiah</name>
+      <state>CA</state>
+    </location>
+    <location name="95490">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>39.4716278515</lat>
+      <lon>-123.365954363</lon>
+      <name>Willits</name>
+      <state>CA</state>
+    </location>
+    <location name="96001">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>40.598019567</lat>
+      <lon>-122.46979591</lon>
+      <name>Redding</name>
+      <state>CA</state>
+    </location>
+    <location name="97484">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>419</dist>
+      <lat>43.0190583889</lat>
+      <lon>-122.667466622</lon>
+      <name>Tiller</name>
+      <state>OR</state>
+    </location>
+  </cdi>
+</cdidata>

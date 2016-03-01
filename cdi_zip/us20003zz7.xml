@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="75038">
+      <cdi>2.1883</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75062">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>8</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

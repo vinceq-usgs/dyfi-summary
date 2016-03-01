@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Hsinchu::Hsinchu Shih::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>24.82</lat>
+      <lon>120.98</lon>
+      <name>Hsinchu</name>
+    </location>
+    <location name="Toufen::Miaoli::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>24.69</lat>
+      <lon>120.91</lon>
+      <name>Toufen</name>
+    </location>
+    <location name="Shalu::Taichung Hsien::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>24.24</lat>
+      <lon>120.55</lon>
+      <name>Shalu</name>
+    </location>
+    <location name="Tali::Taichung Hsien::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>24.10</lat>
+      <lon>120.67</lon>
+      <name>Tali</name>
+    </location>
+    <location name="Chungho::Taipei Hsien::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>24.99</lat>
+      <lon>121.50</lon>
+      <name>Chungho</name>
+    </location>
+    <location name="Hsichih::Taipei Hsien::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>25.07</lat>
+      <lon>121.65</lon>
+      <name>Hsichih</name>
+    </location>
+    <location name="Hsintien::Taipei Hsien::Taiwan">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>82</dist>
+      <lat>24.96</lat>
+      <lon>121.53</lon>
+      <name>Hsintien</name>
+    </location>
+    <location name="Sanchung::Taipei Hsien::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>25.07</lat>
+      <lon>121.48</lon>
+      <name>Sanchung</name>
+    </location>
+    <location name="Shulin::Taipei Hsien::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>25.00</lat>
+      <lon>121.42</lon>
+      <name>Shulin</name>
+    </location>
+    <location name="Yungho::Taipei Hsien::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>89</dist>
+      <lat>25.02</lat>
+      <lon>121.51</lon>
+      <name>Yungho</name>
+    </location>
+    <location name="Taoyuan::Taoyuan::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>25.00</lat>
+      <lon>121.31</lon>
+      <name>Taoyuan</name>
+    </location>
+  </cdi>
+</cdidata>

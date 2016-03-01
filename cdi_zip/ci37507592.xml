@@ -1,0 +1,193 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90245">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>33.9170086764</lat>
+      <lon>-118.402142054</lon>
+      <name>El Segundo</name>
+      <state>CA</state>
+    </location>
+    <location name="90403">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>34.0306581003</lat>
+      <lon>-118.490537842</lon>
+      <name>Santa Monica</name>
+      <state>CA</state>
+    </location>
+    <location name="90740">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>33.7545406192</lat>
+      <lon>-118.07125351</lon>
+      <name>Seal Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91101">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>34.146589543</lat>
+      <lon>-118.138902166</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91104">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>34.1680360725</lat>
+      <lon>-118.123457459</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91752">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>33.9962811957</lat>
+      <lon>-117.533734492</lon>
+      <name>Mira Loma</name>
+      <state>CA</state>
+    </location>
+    <location name="92054">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>33.1940587868</lat>
+      <lon>-117.355547092</lon>
+      <name>Oceanside</name>
+      <state>CA</state>
+    </location>
+    <location name="92308">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>34.4255805499</lat>
+      <lon>-117.156818496</lon>
+      <name>Apple Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92335">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.0869349564</lat>
+      <lon>-117.466361873</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92371">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>34.4559763555</lat>
+      <lon>-117.540910972</lon>
+      <name>Phelan</name>
+      <state>CA</state>
+    </location>
+    <location name="92374">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>34.0685420367</lat>
+      <lon>-117.171906902</lon>
+      <name>Redlands</name>
+      <state>CA</state>
+    </location>
+    <location name="92377">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.1549212208</lat>
+      <lon>-117.405480991</lon>
+      <name>Rialto</name>
+      <state>CA</state>
+    </location>
+    <location name="92399">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>41</dist>
+      <lat>34.0384658442</lat>
+      <lon>-117.007660214</lon>
+      <name>Yucaipa</name>
+      <state>CA</state>
+    </location>
+    <location name="92405">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>34.1461626381</lat>
+      <lon>-117.304032925</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92407">
+      <cdi>4.2084</cdi>
+      <nresp>3</nresp>
+      <dist>12</dist>
+      <lat>34.1726036158</lat>
+      <lon>-117.308551982</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92501">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>33.9953172123</lat>
+      <lon>-117.372904494</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92506">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>33.9345422726</lat>
+      <lon>-117.361830818</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92508">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>33.8922663294</lat>
+      <lon>-117.325067728</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92553">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>33.9228804737</lat>
+      <lon>-117.245423137</lon>
+      <name>Moreno Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92866">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>33.7846399401</lat>
+      <lon>-117.84457707</lon>
+      <name>Orange</name>
+      <state>CA</state>
+    </location>
+    <location name="92879">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>33.8802003047</lat>
+      <lon>-117.537999658</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

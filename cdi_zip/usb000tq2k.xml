@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67206">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>37.7037441156</lat>
+      <lon>-97.2255351318</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73034">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73109">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>35.4323609848</lat>
+      <lon>-97.5244478596</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73705">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>36.3421688051</lat>
+      <lon>-97.9027118578</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73716">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>36.5023359074</lat>
+      <lon>-98.5031443415</lon>
+      <name>Aline</name>
+      <state>OK</state>
+    </location>
+    <location name="73741">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>8</dist>
+      <lat>36.5588813393</lat>
+      <lon>-98.2883515336</lon>
+      <name>Helena</name>
+      <state>OK</state>
+    </location>
+    <location name="73768">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>36.3722834149</lat>
+      <lon>-98.3037417146</lon>
+      <name>Ringwood</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

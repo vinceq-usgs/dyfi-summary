@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Mataram::Nusa Tenggara Barat::Indonesia">
+      <cdi>2.4031</cdi>
+      <nresp>6</nresp>
+      <dist>27</dist>
+      <lat>-8.58</lat>
+      <lon>116.13</lon>
+      <name>Mataram</name>
+    </location>
+    <location name="Praya::Nusa Tenggara Barat::Indonesia">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>-8.72</lat>
+      <lon>116.29</lon>
+      <name>Praya</name>
+    </location>
+  </cdi>
+</cdidata>

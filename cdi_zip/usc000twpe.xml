@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73007">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73012">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>22</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73025">
+      <cdi>4.9397</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73028">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>35.9736322317</lat>
+      <lon>-97.5941537472</lon>
+      <name>Crescent</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.7543</cdi>
+      <nresp>4</nresp>
+      <dist>13</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>6</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73077">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="73078">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>35.6694694816</lat>
+      <lon>-97.754049375</lon>
+      <name>Piedmont</name>
+      <state>OK</state>
+    </location>
+    <location name="73142">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>35.6092863133</lat>
+      <lon>-97.6384003062</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>31</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74851">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>35.4031104746</lat>
+      <lon>-97.0926965117</lon>
+      <name>McLoud</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

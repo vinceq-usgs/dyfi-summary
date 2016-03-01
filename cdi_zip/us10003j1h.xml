@@ -1,0 +1,23 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="53081">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>621</dist>
+      <lat>43.7076241273</lat>
+      <lon>-87.7395011672</lon>
+      <name>Sheboygan</name>
+      <state>WI</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Sudbury::Ontario::Canada">
+      <cdi>3.5171</cdi>
+      <nresp>5</nresp>
+      <dist>8</dist>
+      <lat>46.49</lat>
+      <lon>-81.01</lon>
+      <name>Sudbury</name>
+    </location>
+  </cdi>
+</cdidata>

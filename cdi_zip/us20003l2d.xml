@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67028">
+      <cdi>4.9941</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>37.5153204283</lat>
+      <lon>-98.8919825043</lon>
+      <name>Coats</name>
+      <state>KS</state>
+    </location>
+    <location name="67042">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>198</dist>
+      <lat>37.8636939248</lat>
+      <lon>-96.7648880507</lon>
+      <name>El Dorado</name>
+      <state>KS</state>
+    </location>
+    <location name="67059">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>37.5575917182</lat>
+      <lon>-99.1510536163</lon>
+      <name>Haviland</name>
+      <state>KS</state>
+    </location>
+    <location name="67071">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>34</dist>
+      <lat>37.173141277</lat>
+      <lon>-98.8970539534</lon>
+      <name>Lake City</name>
+      <state>KS</state>
+    </location>
+    <location name="67104">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>37</dist>
+      <lat>37.2606371884</lat>
+      <lon>-98.6266446204</lon>
+      <name>Medicine Lodge</name>
+      <state>KS</state>
+    </location>
+    <location name="67110">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>37.4656104721</lat>
+      <lon>-97.2199102898</lon>
+      <name>Mulvane</name>
+      <state>KS</state>
+    </location>
+    <location name="67114">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>38.0619508136</lat>
+      <lon>-97.2832822534</lon>
+      <name>Newton</name>
+      <state>KS</state>
+    </location>
+    <location name="67124">
+      <cdi>2.9652</cdi>
+      <nresp>14</nresp>
+      <dist>24</dist>
+      <lat>37.6417806919</lat>
+      <lon>-98.7883123714</lon>
+      <name>Pratt</name>
+      <state>KS</state>
+    </location>
+    <location name="67138">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>37.2611154069</lat>
+      <lon>-98.4224704969</lon>
+      <name>Sharon</name>
+      <state>KS</state>
+    </location>
+    <location name="67143">
+      <cdi>4.4700</cdi>
+      <nresp>2</nresp>
+      <dist>11</dist>
+      <lat>37.3958745348</lat>
+      <lon>-98.9006332735</lon>
+      <name>Sun City</name>
+      <state>KS</state>
+    </location>
+    <location name="67155">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>37.3318391273</lat>
+      <lon>-99.1285600428</lon>
+      <name>Wilmore</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67218">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67749">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>295</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

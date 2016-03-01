@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cuenca::Azuay::Ecuador">
+      <cdi>2.8973</cdi>
+      <nresp>5</nresp>
+      <dist>113</dist>
+      <lat>-2.90</lat>
+      <lon>-79.01</lon>
+      <name>Cuenca</name>
+    </location>
+    <location name="Eloy Alfaro::Guayas::Ecuador">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>-2.17</lat>
+      <lon>-79.83</lon>
+      <name>Eloy Alfaro</name>
+    </location>
+    <location name="Guayaquil::Guayas::Ecuador">
+      <cdi>3.3811</cdi>
+      <nresp>5</nresp>
+      <dist>95</dist>
+      <lat>-2.21</lat>
+      <lon>-79.90</lon>
+      <name>Guayaquil</name>
+    </location>
+    <location name="Buena Fé::Los Ríos::Ecuador">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>-1.59</lat>
+      <lon>-79.94</lon>
+      <name>Buena Fé</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Capannoli::Toscana::Italy">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>43.58</lat>
+      <lon>10.68</lon>
+      <name>Capannoli</name>
+    </location>
+    <location name="Florence::Toscana::Italy">
+      <cdi>2.1136</cdi>
+      <nresp>4</nresp>
+      <dist>22</dist>
+      <lat>43.78</lat>
+      <lon>11.24</lon>
+      <name>Florence</name>
+    </location>
+    <location name="Montelupo Fiorentino::Toscana::Italy">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>43.74</lat>
+      <lon>11.01</lon>
+      <name>Montelupo Fiorentino</name>
+    </location>
+    <location name="Scandicci::Toscana::Italy">
+      <cdi>3.8502</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>43.75</lat>
+      <lon>11.18</lon>
+      <name>Scandicci</name>
+    </location>
+  </cdi>
+</cdidata>

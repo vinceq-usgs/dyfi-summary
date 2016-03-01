@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64111">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>457</dist>
+      <lat>39.0578505398</lat>
+      <lon>-94.5942390255</lon>
+      <name>Kansas City</name>
+      <state>MO</state>
+    </location>
+    <location name="66502">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>349</dist>
+      <lat>39.1505766574</lat>
+      <lon>-96.5362802963</lon>
+      <name>Manhattan</name>
+      <state>KS</state>
+    </location>
+    <location name="67026">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>37.5122638106</lat>
+      <lon>-97.4881281076</lon>
+      <name>Clearwater</name>
+      <state>KS</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74107">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>238</dist>
+      <lat>36.1063460814</lat>
+      <lon>-96.0389847005</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="76052">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>406</dist>
+      <lat>32.9781796401</lat>
+      <lon>-97.3815857294</lon>
+      <name>Haslet</name>
+      <state>TX</state>
+    </location>
+    <location name="76248">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>414</dist>
+      <lat>32.9299661583</lat>
+      <lon>-97.2583802908</lon>
+      <name>Keller</name>
+      <state>TX</state>
+    </location>
+    <location name="76262">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>407</dist>
+      <lat>33.0062709451</lat>
+      <lon>-97.2163001182</lon>
+      <name>Roanoke</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

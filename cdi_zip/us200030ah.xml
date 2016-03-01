@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67025">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>37.6317979716</lat>
+      <lon>-97.7606812407</lon>
+      <name>Cheney</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67052">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>37.6555956014</lat>
+      <lon>-97.5764084283</lon>
+      <name>Goddard</name>
+      <state>KS</state>
+    </location>
+    <location name="67581">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>38.0204203278</lat>
+      <lon>-98.4118843229</lon>
+      <name>Sylvia</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

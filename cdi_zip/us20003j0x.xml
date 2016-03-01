@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.6683436545</lat>
+      <lon>-97.4969186829</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73007">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73025">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.0372</cdi>
+      <nresp>8</nresp>
+      <dist>10</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74116">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>36.1848986441</lat>
+      <lon>-95.8325638899</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="75062">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>327</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="76367">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>235</dist>
+      <lat>33.9684990003</lat>
+      <lon>-98.7153569494</lon>
+      <name>Iowa Park</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

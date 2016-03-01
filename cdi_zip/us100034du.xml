@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="La Rioja::La Rioja::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>433</dist>
+      <lat>-29.41</lat>
+      <lon>-66.85</lon>
+      <name>La Rioja</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>423</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="Copiapó::Atacama::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>279</dist>
+      <lat>-27.36</lat>
+      <lon>-70.34</lon>
+      <name>Copiapó</name>
+    </location>
+    <location name="Coquimbo::Coquimbo::Chile">
+      <cdi>3.8249</cdi>
+      <nresp>3</nresp>
+      <dist>41</dist>
+      <lat>-29.96</lat>
+      <lon>-71.33</lon>
+      <name>Coquimbo</name>
+    </location>
+    <location name="La Serena::Coquimbo::Chile">
+      <cdi>4.0774</cdi>
+      <nresp>18</nresp>
+      <dist>38</dist>
+      <lat>-29.90</lat>
+      <lon>-71.25</lon>
+      <name>La Serena</name>
+    </location>
+    <location name="Vicuña::Coquimbo::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>-30.03</lat>
+      <lon>-70.74</lon>
+      <name>Vicuña</name>
+    </location>
+    <location name="Paine::Metropolitana::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>458</dist>
+      <lat>-33.82</lat>
+      <lon>-70.75</lon>
+      <name>Paine</name>
+    </location>
+    <location name="Puente Alto::Metropolitana::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>437</dist>
+      <lat>-33.61</lat>
+      <lon>-70.57</lon>
+      <name>Puente Alto</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.8642</cdi>
+      <nresp>17</nresp>
+      <dist>420</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Villa Alemana::Valparaíso::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>369</dist>
+      <lat>-33.04</lat>
+      <lon>-71.36</lon>
+      <name>Villa Alemana</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>366</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

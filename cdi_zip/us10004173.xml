@@ -1,0 +1,100 @@
+<cdidata>
+  <cdi type="city">
+    <location name="La Democracía::Escuintla::Guatemala">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>14.23</lat>
+      <lon>-90.95</lon>
+      <name>La Democracía</name>
+    </location>
+    <location name="San Vicente Pacaya::Escuintla::Guatemala">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>14.42</lat>
+      <lon>-90.64</lon>
+      <name>San Vicente Pacaya</name>
+    </location>
+    <location name="Guatemala::Guatemala::Guatemala">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>121</dist>
+      <lat>14.63</lat>
+      <lon>-90.55</lon>
+      <name>Guatemala</name>
+    </location>
+    <location name="Mixco::Guatemala::Guatemala">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>118</dist>
+      <lat>14.64</lat>
+      <lon>-90.60</lon>
+      <name>Mixco</name>
+    </location>
+    <location name="Petapa::Guatemala::Guatemala">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>14.50</lat>
+      <lon>-90.57</lon>
+      <name>Petapa</name>
+    </location>
+    <location name="Santa Catarina Pinula::Guatemala::Guatemala">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>14.57</lat>
+      <lon>-90.50</lon>
+      <name>Santa Catarina Pinula</name>
+    </location>
+    <location name="Villa Nueva::Guatemala::Guatemala">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>14.53</lat>
+      <lon>-90.59</lon>
+      <name>Villa Nueva</name>
+    </location>
+    <location name="Antigua Guatemala::Sacatepéquez::Guatemala">
+      <cdi>2.9841</cdi>
+      <nresp>5</nresp>
+      <dist>106</dist>
+      <lat>14.56</lat>
+      <lon>-90.74</lon>
+      <name>Antigua Guatemala</name>
+    </location>
+    <location name="Ciudad Vieja::Sacatepéquez::Guatemala">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>14.52</lat>
+      <lon>-90.77</lon>
+      <name>Ciudad Vieja</name>
+    </location>
+    <location name="San Lucas Sacatepéquez::Sacatepéquez::Guatemala">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>14.61</lat>
+      <lon>-90.66</lon>
+      <name>San Lucas Sacatepéquez</name>
+    </location>
+    <location name="San Antonio Palopó::Sololá::Guatemala">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>14.70</lat>
+      <lon>-91.12</lon>
+      <name>San Antonio Palopó</name>
+    </location>
+    <location name="San Marcos la Laguna::Sololá::Guatemala">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>14.73</lat>
+      <lon>-91.26</lon>
+      <name>San Marcos la Laguna</name>
+    </location>
+  </cdi>
+</cdidata>

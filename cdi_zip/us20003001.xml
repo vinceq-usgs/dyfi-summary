@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Arica::Tarapacá::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>203</dist>
+      <lat>-18.49</lat>
+      <lon>-70.30</lon>
+      <name>Arica</name>
+    </location>
+    <location name="Iquique::Tarapacá::Chile">
+      <cdi>5.6169</cdi>
+      <nresp>6</nresp>
+      <dist>36</dist>
+      <lat>-20.23</lat>
+      <lon>-70.14</lon>
+      <name>Iquique</name>
+    </location>
+  </cdi>
+</cdidata>

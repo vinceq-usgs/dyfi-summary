@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chengdu::Sichuan::China">
+      <cdi>2.8245</cdi>
+      <nresp>5</nresp>
+      <dist>111</dist>
+      <lat>30.67</lat>
+      <lon>104.07</lon>
+      <name>Chengdu</name>
+    </location>
+    <location name="Huayang::Sichuan::China">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>30.58</lat>
+      <lon>103.92</lon>
+      <name>Huayang</name>
+    </location>
+  </cdi>
+</cdidata>

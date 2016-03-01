@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="63366">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>670</dist>
+      <lat>38.8591057253</lat>
+      <lon>-90.7167573377</lon>
+      <name>O Fallon</name>
+      <state>MO</state>
+    </location>
+    <location name="66612">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>321</dist>
+      <lat>39.0409662813</lat>
+      <lon>-95.6808677731</lon>
+      <name>Topeka</name>
+      <state>KS</state>
+    </location>
+    <location name="73703">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73766">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>36.6449772352</lat>
+      <lon>-97.8293452875</lon>
+      <name>Pond Creek</name>
+      <state>OK</state>
+    </location>
+    <location name="74011">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>197</dist>
+      <lat>35.9844979881</lat>
+      <lon>-95.8098860351</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74136">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>183</dist>
+      <lat>36.0617672231</lat>
+      <lon>-95.9409568667</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

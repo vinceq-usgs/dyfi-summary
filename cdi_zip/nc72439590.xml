@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94015">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>37.6808059301</lat>
+      <lon>-122.480422578</lon>
+      <name>Daly City</name>
+      <state>CA</state>
+    </location>
+    <location name="94030">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>37.5999183576</lat>
+      <lon>-122.40298187</lon>
+      <name>Millbrae</name>
+      <state>CA</state>
+    </location>
+    <location name="94040">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>37.3803257432</lat>
+      <lon>-122.085468091</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94121">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.7798657144</lat>
+      <lon>-122.494688449</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94509">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.9936917579</lat>
+      <lon>-121.814363931</lon>
+      <name>Antioch</name>
+      <state>CA</state>
+    </location>
+    <location name="94521">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>37.9713331484</lat>
+      <lon>-121.957127634</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94523">
+      <cdi>2.4718</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>37.9543225437</lat>
+      <lon>-122.07630293</lon>
+      <name>Pleasant Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="94565">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>38.0179010375</lat>
+      <lon>-121.913733182</lon>
+      <name>Pittsburg</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94596">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>37.8884024161</lat>
+      <lon>-122.036464813</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94597">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.9181539053</lat>
+      <lon>-122.071327156</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94610">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>28</dist>
+      <lat>37.8120934987</lat>
+      <lon>-122.240580761</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94704">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>37.8690688607</lat>
+      <lon>-122.244743009</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+    <location name="94806">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>37.9781737425</lat>
+      <lon>-122.336316856</lon>
+      <name>San Pablo</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

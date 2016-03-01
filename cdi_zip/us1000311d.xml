@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>3.4009</cdi>
+      <nresp>8</nresp>
+      <dist>7</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>6</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+  </cdi>
+</cdidata>

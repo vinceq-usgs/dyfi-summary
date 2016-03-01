@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94065">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>200</dist>
+      <lat>37.5360085117</lat>
+      <lon>-122.246645777</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+    <location name="94551">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>37.7544107453</lat>
+      <lon>-121.777824944</lon>
+      <name>Livermore</name>
+      <state>CA</state>
+    </location>
+    <location name="94610">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>37.8120934987</lat>
+      <lon>-122.240580761</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95628">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>38.6519862268</lat>
+      <lon>-121.254651156</lon>
+      <name>Fair Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="95661">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>38.740224929</lat>
+      <lon>-121.250351975</lon>
+      <name>Roseville</name>
+      <state>CA</state>
+    </location>
+    <location name="95747">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>38.7804051234</lat>
+      <lon>-121.376725658</lon>
+      <name>Roseville</name>
+      <state>CA</state>
+    </location>
+    <location name="95903">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>39.1273349347</lat>
+      <lon>-121.367577001</lon>
+      <name>Beale AFB</name>
+      <state>CA</state>
+    </location>
+    <location name="95945">
+      <cdi>2</cdi>
+      <nresp>10</nresp>
+      <dist>37</dist>
+      <lat>39.2138541316</lat>
+      <lon>-120.926496583</lon>
+      <name>Grass Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95946">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>19</dist>
+      <lat>39.1771978554</lat>
+      <lon>-121.214661963</lon>
+      <name>Penn Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95949">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>25</dist>
+      <lat>39.0999764229</lat>
+      <lon>-121.114611914</lon>
+      <name>Grass Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95959">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>43</dist>
+      <lat>39.3405158705</lat>
+      <lon>-120.901725991</lon>
+      <name>Nevada City</name>
+      <state>CA</state>
+    </location>
+    <location name="95977">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>39.1901820825</lat>
+      <lon>-121.279373268</lon>
+      <name>Smartville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

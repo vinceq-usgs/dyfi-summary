@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiba::Chiba::Japan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>73</dist>
+      <lat>35.61</lat>
+      <lon>140.11</lon>
+      <name>Chiba</name>
+    </location>
+    <location name="Chōshi::Chiba::Japan">
+      <cdi>4.2084</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>35.75</lat>
+      <lon>140.81</lon>
+      <name>Chōshi</name>
+    </location>
+    <location name="Narita::Chiba::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>35.79</lat>
+      <lon>140.32</lon>
+      <name>Narita</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>71</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.0628</cdi>
+      <nresp>4</nresp>
+      <dist>102</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

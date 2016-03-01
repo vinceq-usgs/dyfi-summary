@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bahawalpur::Punjab::Pakistan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>132</dist>
+      <lat>29.39</lat>
+      <lon>71.67</lon>
+      <name>Bahawalpur</name>
+    </location>
+    <location name="Mandi Būrewāla::Punjab::Pakistan">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>232</dist>
+      <lat>30.16</lat>
+      <lon>72.67</lon>
+      <name>Mandi Būrewāla</name>
+    </location>
+    <location name="Dera Ghazi Khan::Punjab::Pakistan">
+      <cdi>4.9670</cdi>
+      <nresp>6</nresp>
+      <dist>55</dist>
+      <lat>30.06</lat>
+      <lon>70.64</lon>
+      <name>Dera Ghazi Khan</name>
+    </location>
+    <location name="Dājal::Punjab::Pakistan">
+      <cdi>6.0914</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>29.55</lat>
+      <lon>70.38</lon>
+      <name>Dājal</name>
+    </location>
+    <location name="Jampur::Punjab::Pakistan">
+      <cdi>5.3522</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>29.64</lat>
+      <lon>70.59</lon>
+      <name>Jampur</name>
+    </location>
+    <location name="Jhang::Punjab::Pakistan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>263</dist>
+      <lat>31.28</lat>
+      <lon>72.32</lon>
+      <name>Jhang</name>
+    </location>
+    <location name="Kāhna::Punjab::Pakistan">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>432</dist>
+      <lat>31.37</lat>
+      <lon>74.38</lon>
+      <name>Kāhna</name>
+    </location>
+    <location name="Lahore::Punjab::Pakistan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>439</dist>
+      <lat>31.56</lat>
+      <lon>74.35</lon>
+      <name>Lahore</name>
+    </location>
+    <location name="Multan::Punjab::Pakistan">
+      <cdi>4.3067</cdi>
+      <nresp>4</nresp>
+      <dist>124</dist>
+      <lat>30.20</lat>
+      <lon>71.45</lon>
+      <name>Multan</name>
+    </location>
+  </cdi>
+</cdidata>

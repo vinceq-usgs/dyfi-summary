@@ -1,0 +1,172 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dacca::Dhāka::Bangladesh">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>768</dist>
+      <lat>23.70</lat>
+      <lon>90.39</lon>
+      <name>Dacca</name>
+    </location>
+    <location name="Ţungī::Gazipur::Bangladesh">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>755</dist>
+      <lat>23.88</lat>
+      <lon>90.40</lon>
+      <name>Ţungī</name>
+    </location>
+    <location name="Garui::Bangla::India">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>731</dist>
+      <lat>22.63</lat>
+      <lon>88.40</lon>
+      <name>Garui</name>
+    </location>
+    <location name="Kamarhati::Bangla::India">
+      <cdi>3.9543</cdi>
+      <nresp>1</nresp>
+      <dist>726</dist>
+      <lat>22.67</lat>
+      <lon>88.37</lon>
+      <name>Kamarhati</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>1</cdi>
+      <nresp>3</nresp>
+      <dist>412</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Sitamarhi::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>203</dist>
+      <lat>26.61</lat>
+      <lon>85.48</lon>
+      <name>Sitamarhi</name>
+    </location>
+    <location name="Korba::Chhattisgarh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>684</dist>
+      <lat>22.35</lat>
+      <lon>82.69</lon>
+      <name>Korba</name>
+    </location>
+    <location name="Bansgaon::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>26.55</lat>
+      <lon>83.35</lon>
+      <name>Bansgaon</name>
+    </location>
+    <location name="Cawnpore::Uttar Pradesh::India">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>469</dist>
+      <lat>26.47</lat>
+      <lon>80.33</lon>
+      <name>Cawnpore</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>398</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Bhaktapur::Bhaktapur::Nepal">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>104</dist>
+      <lat>27.67</lat>
+      <lon>85.43</lon>
+      <name>Bhaktapur</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>3.3811</cdi>
+      <nresp>7</nresp>
+      <dist>70</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>2.8516</cdi>
+      <nresp>5</nresp>
+      <dist>96</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>3.2754</cdi>
+      <nresp>7</nresp>
+      <dist>63</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2.5018</cdi>
+      <nresp>6</nresp>
+      <dist>92</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>2.3760</cdi>
+      <nresp>8</nresp>
+      <dist>93</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Dhulikhet::Kavrepalanchok::Nepal">
+      <cdi>5.4480</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>27.62</lat>
+      <lon>85.55</lon>
+      <name>Dhulikhet</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>95</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Tansen::Palpa::Nepal">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>114</dist>
+      <lat>27.87</lat>
+      <lon>83.55</lon>
+      <name>Tansen</name>
+    </location>
+    <location name="Itahari::Sunsari::Nepal">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>317</dist>
+      <lat>26.67</lat>
+      <lon>87.28</lon>
+      <name>Itahari</name>
+    </location>
+    <location name="Kapilwastu::_no region::Nepal">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>27.53</lat>
+      <lon>83.05</lon>
+      <name>Kapilwastu</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Baghrami::Kabul::Afghanistan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>35</dist>
+      <lat>34.49</lat>
+      <lon>69.27</lon>
+      <name>Baghrami</name>
+    </location>
+    <location name="Kabul::Kabul::Afghanistan">
+      <cdi>3.0916</cdi>
+      <nresp>9</nresp>
+      <dist>30</dist>
+      <lat>34.53</lat>
+      <lon>69.17</lon>
+      <name>Kabul</name>
+    </location>
+  </cdi>
+</cdidata>

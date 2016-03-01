@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73034">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73077">
+      <cdi>3.3462</cdi>
+      <nresp>5</nresp>
+      <dist>9</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Antiguo Cuscatlán::La Libertad::El Salvador">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>167</dist>
+      <lat>13.68</lat>
+      <lon>-89.23</lon>
+      <name>Antiguo Cuscatlán</name>
+    </location>
+    <location name="Nueva San Salvador::La Libertad::El Salvador">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>13.68</lat>
+      <lon>-89.29</lon>
+      <name>Nueva San Salvador</name>
+    </location>
+    <location name="San Salvador::San Salvador::El Salvador">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>13.69</lat>
+      <lon>-89.19</lon>
+      <name>San Salvador</name>
+    </location>
+    <location name="Guatemala::Guatemala::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>14.63</lat>
+      <lon>-90.55</lon>
+      <name>Guatemala</name>
+    </location>
+    <location name="Antigua Guatemala::Sacatepéquez::Guatemala">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>14.56</lat>
+      <lon>-90.74</lon>
+      <name>Antigua Guatemala</name>
+    </location>
+    <location name="San José Chacayá::Sololá::Guatemala">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>14.77</lat>
+      <lon>-91.22</lon>
+      <name>San José Chacayá</name>
+    </location>
+  </cdi>
+</cdidata>

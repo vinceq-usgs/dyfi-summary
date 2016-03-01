@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Matsuyama::Ehime::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>33.84</lat>
+      <lon>132.77</lon>
+      <name>Matsuyama</name>
+    </location>
+    <location name="Shigenobu::Ehime::Japan">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>33.80</lat>
+      <lon>132.88</lon>
+      <name>Shigenobu</name>
+    </location>
+    <location name="Uwajima::Ehime::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>33.22</lat>
+      <lon>132.56</lon>
+      <name>Uwajima</name>
+    </location>
+    <location name="Hiroshima::Hiroshima::Japan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>117</dist>
+      <lat>34.39</lat>
+      <lon>132.44</lon>
+      <name>Hiroshima</name>
+    </location>
+    <location name="Ōita::Ōita::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>33.24</lat>
+      <lon>131.60</lon>
+      <name>Ōita</name>
+    </location>
+  </cdi>
+</cdidata>

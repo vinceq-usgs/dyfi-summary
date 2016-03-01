@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95423">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>39.1237409093</lat>
+      <lon>-122.643192124</lon>
+      <name>Clearlake Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="95469">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>39.4015067309</lat>
+      <lon>-123.068836502</lon>
+      <name>Potter Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95470">
+      <cdi>3.2028</cdi>
+      <nresp>23</nresp>
+      <dist>9</dist>
+      <lat>39.2751318915</lat>
+      <lon>-123.329440439</lon>
+      <name>Redwood Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95482">
+      <cdi>2.6591</cdi>
+      <nresp>8</nresp>
+      <dist>14</dist>
+      <lat>39.1369495272</lat>
+      <lon>-123.224829878</lon>
+      <name>Ukiah</name>
+      <state>CA</state>
+    </location>
+    <location name="95490">
+      <cdi>2.6574</cdi>
+      <nresp>18</nresp>
+      <dist>26</dist>
+      <lat>39.4716278515</lat>
+      <lon>-123.365954363</lon>
+      <name>Willits</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

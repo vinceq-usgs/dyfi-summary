@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Hachinohe::Aomori::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>40.52</lat>
+      <lon>141.53</lon>
+      <name>Hachinohe</name>
+    </location>
+    <location name="Misawa::Aomori::Japan">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>147</dist>
+      <lat>40.68</lat>
+      <lon>141.34</lon>
+      <name>Misawa</name>
+    </location>
+    <location name="Morioka::Iwate::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>39.70</lat>
+      <lon>141.15</lon>
+      <name>Morioka</name>
+    </location>
+    <location name="Sendai::Miyagi::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>261</dist>
+      <lat>38.26</lat>
+      <lon>140.89</lon>
+      <name>Sendai</name>
+    </location>
+  </cdi>
+</cdidata>

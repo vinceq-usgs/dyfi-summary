@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Jinma::Yunnan::China">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>25.06</lat>
+      <lon>102.75</lon>
+      <name>Jinma</name>
+    </location>
+    <location name="Kunming::Yunnan::China">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>49</dist>
+      <lat>25.05</lat>
+      <lon>102.70</lon>
+      <name>Kunming</name>
+    </location>
+    <location name="Majie::Yunnan::China">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>53</dist>
+      <lat>25.05</lat>
+      <lon>102.65</lon>
+      <name>Majie</name>
+    </location>
+  </cdi>
+</cdidata>

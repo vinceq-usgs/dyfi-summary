@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>6</nresp>
+      <dist>116</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.3330</cdi>
+      <nresp>3</nresp>
+      <dist>36</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73705">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>36.3421688051</lat>
+      <lon>-97.9027118578</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73753">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>36.5455764816</lat>
+      <lon>-97.8268029227</lon>
+      <name>Kremlin</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74604">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>36.6894344421</lat>
+      <lon>-96.9613505909</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+    <location name="74640">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>36.5700666792</lat>
+      <lon>-97.6001848502</lon>
+      <name>Hunter</name>
+      <state>OK</state>
+    </location>
+    <location name="74643">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>36.712900915</lat>
+      <lon>-97.5544861003</lon>
+      <name>Lamont</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

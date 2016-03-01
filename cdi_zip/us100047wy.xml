@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Buguey::Cagayan Valley::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>18.29</lat>
+      <lon>121.83</lon>
+      <name>Buguey</name>
+    </location>
+    <location name="Cabagan::Cagayan Valley::Philippines">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>17.43</lat>
+      <lon>121.76</lon>
+      <name>Cabagan</name>
+    </location>
+    <location name="Tuguegarao::Cagayan Valley::Philippines">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>141</dist>
+      <lat>17.62</lat>
+      <lon>121.72</lon>
+      <name>Tuguegarao</name>
+    </location>
+    <location name="Ugac::Cagayan Valley::Philippines">
+      <cdi>4.3417</cdi>
+      <nresp>2</nresp>
+      <dist>141</dist>
+      <lat>17.61</lat>
+      <lon>121.72</lon>
+      <name>Ugac</name>
+    </location>
+    <location name="Baguio::Cordillera::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>165</dist>
+      <lat>16.43</lat>
+      <lon>120.57</lon>
+      <name>Baguio</name>
+    </location>
+    <location name="Bangued::Cordillera::Philippines">
+      <cdi>5.3522</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>17.60</lat>
+      <lon>120.60</lon>
+      <name>Bangued</name>
+    </location>
+    <location name="Tuding::Cordillera::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>16.41</lat>
+      <lon>120.64</lon>
+      <name>Tuding</name>
+    </location>
+    <location name="Badoc::Ilocos::Philippines">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>17.93</lat>
+      <lon>120.47</lon>
+      <name>Badoc</name>
+    </location>
+    <location name="Bantay::Ilocos::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>17.58</lat>
+      <lon>120.39</lon>
+      <name>Bantay</name>
+    </location>
+    <location name="Caoayan (Caoayan, Ilocos Sur)::Ilocos::Philippines">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>78</dist>
+      <lat>17.56</lat>
+      <lon>120.40</lon>
+      <name>Caoayan (Caoayan, Ilocos Sur)</name>
+    </location>
+    <location name="San Nicolas (San Nicolas, Ilocos Norte)::Ilocos::Philippines">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>18.17</lat>
+      <lon>120.60</lon>
+      <name>San Nicolas (San Nicolas, Ilocos Norte)</name>
+    </location>
+  </cdi>
+</cdidata>

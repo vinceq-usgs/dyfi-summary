@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90220">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>33.8793758732</lat>
+      <lon>-118.23711278</lon>
+      <name>Compton</name>
+      <state>CA</state>
+    </location>
+    <location name="90248">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.8779702673</lat>
+      <lon>-118.284287256</lon>
+      <name>Gardena</name>
+      <state>CA</state>
+    </location>
+    <location name="90249">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>33.9014686074</lat>
+      <lon>-118.317203907</lon>
+      <name>Gardena</name>
+      <state>CA</state>
+    </location>
+    <location name="90250">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>33.9144404688</lat>
+      <lon>-118.34912871</lon>
+      <name>Hawthorne</name>
+      <state>CA</state>
+    </location>
+    <location name="90501">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>12</dist>
+      <lat>33.8336285474</lat>
+      <lon>-118.314281547</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90502">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.8351710249</lat>
+      <lon>-118.293012301</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90503">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.8419954117</lat>
+      <lon>-118.351634592</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90504">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.8695548249</lat>
+      <lon>-118.329907461</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90505">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>33.8086917483</lat>
+      <lon>-118.348325088</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>2.7053</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="90746">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.8493089787</lat>
+      <lon>-118.257085984</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="92103">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>32.7473427343</lat>
+      <lon>-117.166839699</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="93021">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>34.3089429465</lat>
+      <lon>-118.864533809</lon>
+      <name>Moorpark</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

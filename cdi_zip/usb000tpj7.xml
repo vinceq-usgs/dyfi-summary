@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Brisbane::Queensland::Australia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>298</dist>
+      <lat>-27.46</lat>
+      <lon>153.02</lon>
+      <name>Brisbane</name>
+    </location>
+    <location name="Buderim::Queensland::Australia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>233</dist>
+      <lat>-26.68</lat>
+      <lon>153.05</lon>
+      <name>Buderim</name>
+    </location>
+    <location name="Bundaberg::Queensland::Australia">
+      <cdi>2.2854</cdi>
+      <nresp>2</nresp>
+      <dist>106</dist>
+      <lat>-24.87</lat>
+      <lon>152.35</lon>
+      <name>Bundaberg</name>
+    </location>
+    <location name="Caloundra::Queensland::Australia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>-26.81</lat>
+      <lon>153.13</lon>
+      <name>Caloundra</name>
+    </location>
+    <location name="Coolum Beach::Queensland::Australia">
+      <cdi>3.3811</cdi>
+      <nresp>2</nresp>
+      <dist>221</dist>
+      <lat>-26.50</lat>
+      <lon>153.07</lon>
+      <name>Coolum Beach</name>
+    </location>
+    <location name="Hervey Bay::Queensland::Australia">
+      <cdi>4.0696</cdi>
+      <nresp>2</nresp>
+      <dist>148</dist>
+      <lat>-25.29</lat>
+      <lon>152.84</lon>
+      <name>Hervey Bay</name>
+    </location>
+    <location name="Kingaroy::Queensland::Australia">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>154</dist>
+      <lat>-26.54</lat>
+      <lon>151.84</lon>
+      <name>Kingaroy</name>
+    </location>
+    <location name="Maryborough::Queensland::Australia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>-25.54</lat>
+      <lon>152.72</lon>
+      <name>Maryborough</name>
+    </location>
+    <location name="Sunshine Coast::Queensland::Australia">
+      <cdi>3.6156</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>-25.88</lat>
+      <lon>152.56</lon>
+      <name>Sunshine Coast</name>
+    </location>
+    <location name="Tewantin-Noosa::Queensland::Australia">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>-26.39</lat>
+      <lon>153.03</lon>
+      <name>Tewantin-Noosa</name>
+    </location>
+    <location name="Torquay::Victoria::Australia">
+      <cdi>4.0696</cdi>
+      <nresp>2</nresp>
+      <dist>151</dist>
+      <lat>-25.28</lat>
+      <lon>152.87</lon>
+      <name>Torquay</name>
+    </location>
+  </cdi>
+</cdidata>

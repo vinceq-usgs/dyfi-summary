@@ -1,0 +1,77 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="79912">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>81</dist>
+      <lat>31.8580727339</lat>
+      <lon>-106.53553281</lon>
+      <name>El Paso</name>
+      <state>TX</state>
+    </location>
+    <location name="88001">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>32.2957885152</lat>
+      <lon>-106.756033083</lon>
+      <name>Las Cruces</name>
+      <state>NM</state>
+    </location>
+    <location name="88005">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>32.289917621</lat>
+      <lon>-107.07706587</lon>
+      <name>Las Cruces</name>
+      <state>NM</state>
+    </location>
+    <location name="88007">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>37</dist>
+      <lat>32.3899664535</lat>
+      <lon>-106.931674682</lon>
+      <name>Las Cruces</name>
+      <state>NM</state>
+    </location>
+    <location name="88011">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>32.3143080295</lat>
+      <lon>-106.645041962</lon>
+      <name>Las Cruces</name>
+      <state>NM</state>
+    </location>
+    <location name="88012">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>32.5986794349</lat>
+      <lon>-106.781721056</lon>
+      <name>Las Cruces</name>
+      <state>NM</state>
+    </location>
+    <location name="88030">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>44</dist>
+      <lat>32.1819611166</lat>
+      <lon>-107.750415102</lon>
+      <name>Deming</name>
+      <state>NM</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="JuÃ¡rez::Chihuahua::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>31.74</lat>
+      <lon>-106.49</lon>
+      <name>JuÃ¡rez</name>
+    </location>
+  </cdi>
+</cdidata>

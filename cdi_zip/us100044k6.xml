@@ -1,0 +1,300 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dushanbe::Dushanbe::Tajikistan">
+      <cdi>2.0984</cdi>
+      <nresp>5</nresp>
+      <dist>350</dist>
+      <lat>38.57</lat>
+      <lon>68.78</lon>
+      <name>Dushanbe</name>
+    </location>
+    <location name="Khorug::Gorno-Badakhshan::Tajikistan">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>139</dist>
+      <lat>37.49</lat>
+      <lon>71.55</lon>
+      <name>Khorug</name>
+    </location>
+    <location name="Khujand::Sughd::Tajikistan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>354</dist>
+      <lat>40.29</lat>
+      <lon>69.62</lon>
+      <name>Khujand</name>
+    </location>
+    <location name="Navoiy::Navoiy::Uzbekistan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>673</dist>
+      <lat>40.11</lat>
+      <lon>65.35</lon>
+      <name>Navoiy</name>
+    </location>
+    <location name="Tashkent::Taschkent::Uzbekistan">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>451</dist>
+      <lat>41.31</lat>
+      <lon>69.30</lon>
+      <name>Tashkent</name>
+    </location>
+    <location name="Kabul::Kabul::Afghanistan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>525</dist>
+      <lat>34.53</lat>
+      <lon>69.17</lon>
+      <name>Kabul</name>
+    </location>
+    <location name="Mir Bacheh Kowt::Kabul::Afghanistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>510</dist>
+      <lat>34.73</lat>
+      <lon>69.12</lon>
+      <name>Mir Bacheh Kowt</name>
+    </location>
+    <location name="Paghman::Kabul::Afghanistan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>533</dist>
+      <lat>34.58</lat>
+      <lon>68.95</lon>
+      <name>Paghman</name>
+    </location>
+    <location name="Mahmoud Raqui::Kāpīsā::Afghanistan">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>474</dist>
+      <lat>35.02</lat>
+      <lon>69.32</lon>
+      <name>Mahmoud Raqui</name>
+    </location>
+    <location name="Jalal Abad::Nangarhār::Afghanistan">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>473</dist>
+      <lat>34.44</lat>
+      <lon>70.44</lon>
+      <name>Jalal Abad</name>
+    </location>
+    <location name="Chandīgarh::Chandigarh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>911</dist>
+      <lat>30.75</lat>
+      <lon>76.78</lon>
+      <name>Chandīgarh</name>
+    </location>
+    <location name="Delhi::Delhi::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>1141</dist>
+      <lat>28.67</lat>
+      <lon>77.21</lon>
+      <name>Delhi</name>
+    </location>
+    <location name="Ni Dilli::Delhi::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>1148</dist>
+      <lat>28.60</lat>
+      <lon>77.22</lon>
+      <name>Ni Dilli</name>
+    </location>
+    <location name="Nangloi Jat::Delhi::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>1135</dist>
+      <lat>28.68</lat>
+      <lon>77.07</lon>
+      <name>Nangloi Jat</name>
+    </location>
+    <location name="Gurgaon::Haryana::India">
+      <cdi>2.8705</cdi>
+      <nresp>7</nresp>
+      <dist>1155</dist>
+      <lat>28.47</lat>
+      <lon>77.01</lon>
+      <name>Gurgaon</name>
+    </location>
+    <location name="Panchkula::Haryana::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>919</dist>
+      <lat>30.70</lat>
+      <lon>76.88</lon>
+      <name>Panchkula</name>
+    </location>
+    <location name="Punch::Jammu and Kashmir::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>512</dist>
+      <lat>33.77</lat>
+      <lon>74.10</lon>
+      <name>Punch</name>
+    </location>
+    <location name="Srīnagar::Jammu and Kashmir::India">
+      <cdi>3.5503</cdi>
+      <nresp>2</nresp>
+      <dist>497</dist>
+      <lat>34.09</lat>
+      <lon>74.79</lon>
+      <name>Srīnagar</name>
+    </location>
+    <location name="Amritsar::Punjab::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>759</dist>
+      <lat>31.64</lat>
+      <lon>74.87</lon>
+      <name>Amritsar</name>
+    </location>
+    <location name="Jaipur::Rajasthan::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>1289</dist>
+      <lat>26.92</lat>
+      <lon>75.80</lon>
+      <name>Jaipur</name>
+    </location>
+    <location name="Ghaziabad::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>1148</dist>
+      <lat>28.66</lat>
+      <lon>77.41</lon>
+      <name>Ghaziabad</name>
+    </location>
+    <location name="Haldwani cum Kathgodam::Uttaranchal::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1181</dist>
+      <lat>29.23</lat>
+      <lon>79.52</lon>
+      <name>Haldwani cum Kathgodam</name>
+    </location>
+    <location name="Kashi::Xinjiang::China">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>310</dist>
+      <lat>39.48</lat>
+      <lon>75.97</lon>
+      <name>Kashi</name>
+    </location>
+    <location name="Almaty::Almaty::Kazakhstan">
+      <cdi>2.2534</cdi>
+      <nresp>4</nresp>
+      <dist>662</dist>
+      <lat>43.32</lat>
+      <lon>76.92</lon>
+      <name>Almaty</name>
+    </location>
+    <location name="Jabal-os-Saraj::Parwān::Afghanistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>469</dist>
+      <lat>35.13</lat>
+      <lon>69.24</lon>
+      <name>Jabal-os-Saraj</name>
+    </location>
+    <location name="Shymkent::Oņtüstik Ķazaķstan::Kazakhstan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>526</dist>
+      <lat>42.32</lat>
+      <lon>69.59</lon>
+      <name>Shymkent</name>
+    </location>
+    <location name="Bişkek::Bişkek::Kyrgyzstan">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>535</dist>
+      <lat>42.87</lat>
+      <lon>74.57</lon>
+      <name>Bişkek</name>
+    </location>
+    <location name="Celalabad::Celalabad::Kyrgyzstan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>299</dist>
+      <lat>40.94</lat>
+      <lon>73.00</lon>
+      <name>Celalabad</name>
+    </location>
+    <location name="Oş::Oş::Kyrgyzstan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>254</dist>
+      <lat>40.54</lat>
+      <lon>72.79</lon>
+      <name>Oş</name>
+    </location>
+    <location name="Islamabad::Federal Capital Area::Pakistan">
+      <cdi>3.2818</cdi>
+      <nresp>15</nresp>
+      <dist>504</dist>
+      <lat>33.72</lat>
+      <lon>73.06</lon>
+      <name>Islamabad</name>
+    </location>
+    <location name="Abottabad::North-West Frontier::Pakistan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>458</dist>
+      <lat>34.15</lat>
+      <lon>73.20</lon>
+      <name>Abottabad</name>
+    </location>
+    <location name="Haveliān::North-West Frontier::Pakistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>469</dist>
+      <lat>34.05</lat>
+      <lon>73.17</lon>
+      <name>Haveliān</name>
+    </location>
+    <location name="Mardan::North-West Frontier::Pakistan">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>455</dist>
+      <lat>34.20</lat>
+      <lon>72.04</lon>
+      <name>Mardan</name>
+    </location>
+    <location name="Peshawar::North-West Frontier::Pakistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>484</dist>
+      <lat>34.01</lat>
+      <lon>71.54</lon>
+      <name>Peshawar</name>
+    </location>
+    <location name="Gilgit::Northern Areas::Pakistan">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>293</dist>
+      <lat>35.92</lat>
+      <lon>74.29</lon>
+      <name>Gilgit</name>
+    </location>
+    <location name="Lahore::Punjab::Pakistan">
+      <cdi>3.5503</cdi>
+      <nresp>2</nresp>
+      <dist>757</dist>
+      <lat>31.56</lat>
+      <lon>74.35</lon>
+      <name>Lahore</name>
+    </location>
+    <location name="Rawalpindi::Punjab::Pakistan">
+      <cdi>2.8973</cdi>
+      <nresp>5</nresp>
+      <dist>518</dist>
+      <lat>33.60</lat>
+      <lon>73.04</lon>
+      <name>Rawalpindi</name>
+    </location>
+  </cdi>
+</cdidata>

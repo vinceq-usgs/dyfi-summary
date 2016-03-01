@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73008">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>35.5138038925</lat>
+      <lon>-97.6432316553</lon>
+      <name>Bethany</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>8</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

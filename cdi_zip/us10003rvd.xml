@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="71701">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>502</dist>
+      <lat>33.6041143183</lat>
+      <lon>-92.8602983873</lon>
+      <name>Camden</name>
+      <state>AR</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+    <location name="74851">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>35.4031104746</lat>
+      <lon>-97.0926965117</lon>
+      <name>McLoud</name>
+      <state>OK</state>
+    </location>
+    <location name="75241">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>393</dist>
+      <lat>32.6654573316</lat>
+      <lon>-96.7568451167</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

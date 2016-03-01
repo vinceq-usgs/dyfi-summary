@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Almolonga::Quezaltenango::Guatemala">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>227</dist>
+      <lat>14.82</lat>
+      <lon>-91.50</lon>
+      <name>Almolonga</name>
+    </location>
+    <location name="Coatepeque::Quezaltenango::Guatemala">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>198</dist>
+      <lat>14.70</lat>
+      <lon>-91.87</lon>
+      <name>Coatepeque</name>
+    </location>
+    <location name="AtitlÃ¡n::SololÃ¡::Guatemala">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>260</dist>
+      <lat>14.63</lat>
+      <lon>-91.23</lon>
+      <name>AtitlÃ¡n</name>
+    </location>
+    <location name="Tuxtla GutiÃ©rrez::Chiapas::Mexico">
+      <cdi>5.6318</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>16.75</lat>
+      <lon>-93.12</lon>
+      <name>Tuxtla GutiÃ©rrez</name>
+    </location>
+    <location name="AtzacÃ¡n::Veracruz::Mexico">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>551</dist>
+      <lat>18.90</lat>
+      <lon>-97.08</lon>
+      <name>AtzacÃ¡n</name>
+    </location>
+    <location name="Nanchital::Veracruz::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>315</dist>
+      <lat>18.07</lat>
+      <lon>-94.40</lon>
+      <name>Nanchital</name>
+    </location>
+  </cdi>
+</cdidata>

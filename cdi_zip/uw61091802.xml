@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98601">
+      <cdi>3.2394</cdi>
+      <nresp>2</nresp>
+      <dist>37</dist>
+      <lat>45.96043909</lat>
+      <lon>-122.36334064</lon>
+      <name>Amboy</name>
+      <state>WA</state>
+    </location>
+    <location name="98603">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>46.026314085</lat>
+      <lon>-122.45438157</lon>
+      <name>Ariel</name>
+      <state>WA</state>
+    </location>
+    <location name="98629">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>45.8803912932</lat>
+      <lon>-122.611961562</lon>
+      <name>La Center</name>
+      <state>WA</state>
+    </location>
+    <location name="98682">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>45.675914217</lat>
+      <lon>-122.473001048</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

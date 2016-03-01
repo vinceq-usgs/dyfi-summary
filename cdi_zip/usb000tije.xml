@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>5.2537</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67031">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>37.4030449969</lat>
+      <lon>-97.6227732393</lon>
+      <name>Conway Springs</name>
+      <state>KS</state>
+    </location>
+    <location name="67219">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>37.769871805</lat>
+      <lon>-97.318676779</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>85</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="63090">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>732</dist>
+      <lat>38.5312376313</lat>
+      <lon>-91.0480810353</lon>
+      <name>Washington</name>
+      <state>MO</state>
+    </location>
+    <location name="67037">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>192</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>199</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67501">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>37.9758810565</lat>
+      <lon>-97.931237911</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="73013">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>161</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73071">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>195</dist>
+      <lat>35.2411743327</lat>
+      <lon>-97.4121112581</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73662">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>35.3277480504</lat>
+      <lon>-99.6613834439</lon>
+      <name>Sayre</name>
+      <state>OK</state>
+    </location>
+    <location name="73801">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>36.4182290271</lat>
+      <lon>-99.4156610643</lon>
+      <name>Woodward</name>
+      <state>OK</state>
+    </location>
+    <location name="73852">
+      <cdi>4.0696</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>36.5187955334</lat>
+      <lon>-99.1226267359</lon>
+      <name>Mooreland</name>
+      <state>OK</state>
+    </location>
+    <location name="73853">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>36.2077996174</lat>
+      <lon>-99.1052075381</lon>
+      <name>Mutual</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

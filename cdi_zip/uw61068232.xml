@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="97224">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>45.4066062937</lat>
+      <lon>-122.796019942</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="98629">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>17</dist>
+      <lat>45.8803912932</lat>
+      <lon>-122.611961562</lon>
+      <name>La Center</name>
+      <state>WA</state>
+    </location>
+    <location name="98674">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>45.9473173613</lat>
+      <lon>-122.6557392</lon>
+      <name>Woodland</name>
+      <state>WA</state>
+    </location>
+    <location name="98685">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>45.7161381312</lat>
+      <lon>-122.689893094</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

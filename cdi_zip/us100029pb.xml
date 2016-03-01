@@ -1,0 +1,140 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Darjeeling::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>262</dist>
+      <lat>27.05</lat>
+      <lon>88.26</lon>
+      <name>Darjeeling</name>
+    </location>
+    <location name="Dalsingh Sarai::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>215</dist>
+      <lat>25.67</lat>
+      <lon>85.83</lon>
+      <name>Dalsingh Sarai</name>
+    </location>
+    <location name="HÄ?jÄ«pur::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>219</dist>
+      <lat>25.68</lat>
+      <lon>85.20</lon>
+      <name>HÄ?jÄ«pur</name>
+    </location>
+    <location name="Madhubani::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>26.37</lat>
+      <lon>86.06</lon>
+      <name>Madhubani</name>
+    </location>
+    <location name="Bansgaon::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>259</dist>
+      <lat>26.55</lat>
+      <lon>83.35</lon>
+      <name>Bansgaon</name>
+    </location>
+    <location name="Gorakhpur::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>26.76</lat>
+      <lon>83.36</lon>
+      <name>Gorakhpur</name>
+    </location>
+    <location name="Nautanwa::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>224</dist>
+      <lat>27.43</lat>
+      <lon>83.42</lon>
+      <name>Nautanwa</name>
+    </location>
+    <location name="Robertsganj::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>415</dist>
+      <lat>24.70</lat>
+      <lon>83.07</lon>
+      <name>Robertsganj</name>
+    </location>
+    <location name="Bhaktapur::Bhaktapur::Nepal">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>27</dist>
+      <lat>27.67</lat>
+      <lon>85.43</lon>
+      <name>Bhaktapur</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>2.8973</cdi>
+      <nresp>4</nresp>
+      <dist>34</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Bhadrapur::Jhapa::Nepal">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>265</dist>
+      <lat>26.54</lat>
+      <lon>88.08</lon>
+      <name>Bhadrapur</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>3.9568</cdi>
+      <nresp>4</nresp>
+      <dist>39</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>2.4200</cdi>
+      <nresp>5</nresp>
+      <dist>41</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Banepa::Kavrepalanchok::Nepal">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>27.63</lat>
+      <lon>85.52</lon>
+      <name>Banepa</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>38</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Malangwa::Sarlahi::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>26.86</lat>
+      <lon>85.55</lon>
+      <name>Malangwa</name>
+    </location>
+  </cdi>
+</cdidata>

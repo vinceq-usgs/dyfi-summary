@@ -1,0 +1,184 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="86429">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>264</dist>
+      <lat>35.1666925267</lat>
+      <lon>-114.494800159</lon>
+      <name>Bullhead City</name>
+      <state>AZ</state>
+    </location>
+    <location name="91901">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>69</dist>
+      <lat>32.8065319752</lat>
+      <lon>-116.715227584</lon>
+      <name>Alpine</name>
+      <state>CA</state>
+    </location>
+    <location name="92004">
+      <cdi>2.5168</cdi>
+      <nresp>5</nresp>
+      <dist>16</dist>
+      <lat>33.2073330892</lat>
+      <lon>-116.282458881</lon>
+      <name>Borrego Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92008">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>33.1466607065</lat>
+      <lon>-117.31838967</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="92011">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>33.1071883866</lat>
+      <lon>-117.294891529</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="92026">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>33.2142707741</lat>
+      <lon>-117.113675744</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92065">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>61</dist>
+      <lat>33.042819068</lat>
+      <lon>-116.848126526</lon>
+      <name>Ramona</name>
+      <state>CA</state>
+    </location>
+    <location name="92082">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>33.2538529897</lat>
+      <lon>-116.994477053</lon>
+      <name>Valley Center</name>
+      <state>CA</state>
+    </location>
+    <location name="92084">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>33.2218296683</lat>
+      <lon>-117.205009505</lon>
+      <name>Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="92086">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>33.3052143168</lat>
+      <lon>-116.680202128</lon>
+      <name>Warner Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92122">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>100</dist>
+      <lat>32.8567616775</lat>
+      <lon>-117.210194898</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92129">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>32.9681310703</lat>
+      <lon>-117.127669786</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92234">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>61</dist>
+      <lat>33.8157080121</lat>
+      <lon>-116.466479106</lon>
+      <name>Cathedral City</name>
+      <state>CA</state>
+    </location>
+    <location name="92253">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>33.654505594</lat>
+      <lon>-116.281141058</lon>
+      <name>La Quinta</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>2.7053</cdi>
+      <nresp>6</nresp>
+      <dist>46</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92264">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>33.7408622467</lat>
+      <lon>-116.535954528</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92301">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>34.6684642354</lat>
+      <lon>-117.529815902</lon>
+      <name>Adelanto</name>
+      <state>CA</state>
+    </location>
+    <location name="92544">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>33.6443840016</lat>
+      <lon>-116.898417469</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92562">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>33.5488264059</lat>
+      <lon>-117.267643428</lon>
+      <name>Murrieta</name>
+      <state>CA</state>
+    </location>
+    <location name="93109">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>342</dist>
+      <lat>34.4064021923</lat>
+      <lon>-119.727639599</lon>
+      <name>Santa Barbara</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

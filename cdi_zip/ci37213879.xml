@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90016">
+      <cdi>2.2694</cdi>
+      <nresp>3</nresp>
+      <dist>10</dist>
+      <lat>34.0284267953</lat>
+      <lon>-118.354165453</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90044">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.9530298128</lat>
+      <lon>-118.291495556</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90045">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>10</dist>
+      <lat>33.9530946364</lat>
+      <lon>-118.401227411</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90230">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>33.9949395874</lat>
+      <lon>-118.399346234</lon>
+      <name>Culver City</name>
+      <state>CA</state>
+    </location>
+    <location name="90232">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>34.0179145665</lat>
+      <lon>-118.391987459</lon>
+      <name>Culver City</name>
+      <state>CA</state>
+    </location>
+    <location name="90292">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.9712908882</lat>
+      <lon>-118.445270979</lon>
+      <name>Marina del Rey</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

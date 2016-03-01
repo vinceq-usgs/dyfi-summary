@@ -1,0 +1,184 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.1379565788</lat>
+      <lon>-117.600749744</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91710">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>34.0040805784</lat>
+      <lon>-117.678890947</lon>
+      <name>Chino</name>
+      <state>CA</state>
+    </location>
+    <location name="91730">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>34.0996175563</lat>
+      <lon>-117.579542111</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91739">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>11</dist>
+      <lat>34.135237188</lat>
+      <lon>-117.525563436</lon>
+      <name>Rancho Cucamonga</name>
+      <state>CA</state>
+    </location>
+    <location name="91752">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>33.9962811957</lat>
+      <lon>-117.533734492</lon>
+      <name>Mira Loma</name>
+      <state>CA</state>
+    </location>
+    <location name="91761">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>34.0345221452</lat>
+      <lon>-117.592677765</lon>
+      <name>Ontario</name>
+      <state>CA</state>
+    </location>
+    <location name="92240">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>89</dist>
+      <lat>33.9626342861</lat>
+      <lon>-116.529693934</lon>
+      <name>Desert Hot Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92313">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>34.0313412289</lat>
+      <lon>-117.313467732</lon>
+      <name>Grand Terrace</name>
+      <state>CA</state>
+    </location>
+    <location name="92316">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>34.0592198055</lat>
+      <lon>-117.393338293</lon>
+      <name>Bloomington</name>
+      <state>CA</state>
+    </location>
+    <location name="92335">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.0869349564</lat>
+      <lon>-117.466361873</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92336">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.1352054936</lat>
+      <lon>-117.462098185</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92337">
+      <cdi>2.6196</cdi>
+      <nresp>3</nresp>
+      <dist>10</dist>
+      <lat>34.0491763581</lat>
+      <lon>-117.471344778</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92373">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>34.0045321458</lat>
+      <lon>-117.152819255</lon>
+      <name>Redlands</name>
+      <state>CA</state>
+    </location>
+    <location name="92374">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>34.0685420367</lat>
+      <lon>-117.171906902</lon>
+      <name>Redlands</name>
+      <state>CA</state>
+    </location>
+    <location name="92503">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>33.8897441303</lat>
+      <lon>-117.446817121</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92505">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>33.9341559414</lat>
+      <lon>-117.495019802</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92506">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>33.9345422726</lat>
+      <lon>-117.361830818</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92508">
+      <cdi>2.2372</cdi>
+      <nresp>4</nresp>
+      <dist>27</dist>
+      <lat>33.8922663294</lat>
+      <lon>-117.325067728</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92509">
+      <cdi>2.3876</cdi>
+      <nresp>4</nresp>
+      <dist>13</dist>
+      <lat>34.0033889465</lat>
+      <lon>-117.445586484</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92880">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>33.9212642945</lat>
+      <lon>-117.611282855</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

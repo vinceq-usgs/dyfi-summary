@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96910">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>13.47</lat>
+      <lon>144.75</lon>
+      <name>HAGATNA</name>
+      <state>GU</state>
+    </location>
+    <location name="96911">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>156</dist>
+      <lat>13.51</lat>
+      <lon>144.81</lon>
+      <name>TAMUNING</name>
+      <state>GU</state>
+    </location>
+    <location name="96915">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>13.40</lat>
+      <lon>144.67</lon>
+      <name>SANTA RITA</name>
+      <state>GU</state>
+    </location>
+    <location name="96923">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>13.46</lat>
+      <lon>144.84</lon>
+      <name>MANGILAO</name>
+      <state>GU</state>
+    </location>
+    <location name="96926">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>13.46</lat>
+      <lon>144.76</lon>
+      <name>SINAJANA</name>
+      <state>GU</state>
+    </location>
+    <location name="96929">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>13.57</lat>
+      <lon>144.91</lon>
+      <name>YIGO</name>
+      <state>GU</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Garapan::Saipan::Northern Mariana Islands">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>219</dist>
+      <lat>15.21</lat>
+      <lon>145.73</lon>
+      <name>Garapan</name>
+    </location>
+  </cdi>
+</cdidata>

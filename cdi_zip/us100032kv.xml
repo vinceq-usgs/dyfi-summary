@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Antiguo Cuscatlán::La Libertad::El Salvador">
+      <cdi>2.5168</cdi>
+      <nresp>3</nresp>
+      <dist>198</dist>
+      <lat>13.68</lat>
+      <lon>-89.23</lon>
+      <name>Antiguo Cuscatlán</name>
+    </location>
+    <location name="Escuintla::Escuintla::Guatemala">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>14.30</lat>
+      <lon>-90.78</lon>
+      <name>Escuintla</name>
+    </location>
+    <location name="Fraijanes::Guatemala::Guatemala">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>14.47</lat>
+      <lon>-90.44</lon>
+      <name>Fraijanes</name>
+    </location>
+    <location name="Guatemala::Guatemala::Guatemala">
+      <cdi>3.3443</cdi>
+      <nresp>9</nresp>
+      <dist>102</dist>
+      <lat>14.63</lat>
+      <lon>-90.55</lon>
+      <name>Guatemala</name>
+    </location>
+    <location name="Mixco::Guatemala::Guatemala">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>101</dist>
+      <lat>14.64</lat>
+      <lon>-90.60</lon>
+      <name>Mixco</name>
+    </location>
+    <location name="Santa Catarina Pinula::Guatemala::Guatemala">
+      <cdi>2.7334</cdi>
+      <nresp>4</nresp>
+      <dist>100</dist>
+      <lat>14.57</lat>
+      <lon>-90.50</lon>
+      <name>Santa Catarina Pinula</name>
+    </location>
+    <location name="Villa Canales::Guatemala::Guatemala">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>14.48</lat>
+      <lon>-90.53</lon>
+      <name>Villa Canales</name>
+    </location>
+    <location name="Salcajá::Quezaltenango::Guatemala">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>14.88</lat>
+      <lon>-91.45</lon>
+      <name>Salcajá</name>
+    </location>
+    <location name="Antigua Guatemala::Sacatepéquez::Guatemala">
+      <cdi>3.6156</cdi>
+      <nresp>7</nresp>
+      <dist>91</dist>
+      <lat>14.56</lat>
+      <lon>-90.74</lon>
+      <name>Antigua Guatemala</name>
+    </location>
+    <location name="Ciudad Vieja::Sacatepéquez::Guatemala">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>14.52</lat>
+      <lon>-90.77</lon>
+      <name>Ciudad Vieja</name>
+    </location>
+    <location name="Santa Catarina Barahona::Sacatepéquez::Guatemala">
+      <cdi>3.9249</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>14.55</lat>
+      <lon>-90.79</lon>
+      <name>Santa Catarina Barahona</name>
+    </location>
+    <location name="Panajachel::Sololá::Guatemala">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>105</dist>
+      <lat>14.73</lat>
+      <lon>-91.15</lon>
+      <name>Panajachel</name>
+    </location>
+    <location name="San Juan la Laguna::Sololá::Guatemala">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>14.70</lat>
+      <lon>-91.28</lon>
+      <name>San Juan la Laguna</name>
+    </location>
+    <location name="Santa Catarina Palopó::Sololá::Guatemala">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>14.72</lat>
+      <lon>-91.13</lon>
+      <name>Santa Catarina Palopó</name>
+    </location>
+  </cdi>
+</cdidata>

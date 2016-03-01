@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96704">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>19.3358149217</lat>
+      <lon>-155.811715146</lon>
+      <name>Captain Cook</name>
+      <state>HI</state>
+    </location>
+    <location name="96720">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>19.6696050142</lat>
+      <lon>-155.307460679</lon>
+      <name>Hilo</name>
+      <state>HI</state>
+    </location>
+    <location name="96740">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>19.7409901702</lat>
+      <lon>-155.898323017</lon>
+      <name>Kailua Kona</name>
+      <state>HI</state>
+    </location>
+    <location name="96773">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>19.8751351629</lat>
+      <lon>-155.204414824</lon>
+      <name>Ninole</name>
+      <state>HI</state>
+    </location>
+    <location name="96777">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>19.3047605678</lat>
+      <lon>-155.53670851</lon>
+      <name>Pahala</name>
+      <state>HI</state>
+    </location>
+    <location name="96778">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>19.4316020081</lat>
+      <lon>-155.011419042</lon>
+      <name>Pahoa</name>
+      <state>HI</state>
+    </location>
+    <location name="96781">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>50</dist>
+      <lat>19.7878309204</lat>
+      <lon>-155.189185432</lon>
+      <name>Papaikou</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

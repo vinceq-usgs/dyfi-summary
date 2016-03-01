@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Calcutta::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>645</dist>
+      <lat>22.57</lat>
+      <lon>88.36</lon>
+      <name>Calcutta</name>
+    </location>
+    <location name="Motihari::Bihar::India">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>26.66</lat>
+      <lon>84.91</lon>
+      <name>Motihari</name>
+    </location>
+    <location name="Phulwari::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>264</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Shivhar::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>26.52</lat>
+      <lon>85.28</lon>
+      <name>Shivhar</name>
+    </location>
+    <location name="Tigri::Delhi::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>844</dist>
+      <lat>28.50</lat>
+      <lon>77.22</lon>
+      <name>Tigri</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>495</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Nepālgānj::Banke::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>410</dist>
+      <lat>28.07</lat>
+      <lon>81.62</lon>
+      <name>Nepālgānj</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+  </cdi>
+</cdidata>

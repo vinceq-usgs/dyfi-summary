@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91941">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>32.7612331769</lat>
+      <lon>-117.001733864</lon>
+      <name>La Mesa</name>
+      <state>CA</state>
+    </location>
+    <location name="91950">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>32.6682239887</lat>
+      <lon>-117.09178065</lon>
+      <name>National City</name>
+      <state>CA</state>
+    </location>
+    <location name="91977">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>32.72408</lat>
+      <lon>-116.995600687</lon>
+      <name>Spring Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="91978">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>32.7041259289</lat>
+      <lon>-116.940859364</lon>
+      <name>Spring Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>33.1466607065</lat>
+      <lon>-117.31838967</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="92101">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>77</dist>
+      <lat>32.7233589585</lat>
+      <lon>-117.16928562</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92119">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>32.8067000367</lat>
+      <lon>-117.030245038</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92358">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>34.2700274647</lat>
+      <lon>-117.535660814</lon>
+      <name>Lytle Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="92708">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>33.7103499656</lat>
+      <lon>-117.951432954</lon>
+      <name>Fountain Valley</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

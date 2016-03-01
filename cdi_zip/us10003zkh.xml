@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64836">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>377</dist>
+      <lat>37.1726696892</lat>
+      <lon>-94.2839707947</lon>
+      <name>Carthage</name>
+      <state>MO</state>
+    </location>
+    <location name="67037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67143">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>37.3958745348</lat>
+      <lon>-98.9006332735</lon>
+      <name>Sun City</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67212">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>37.7025556179</lat>
+      <lon>-97.4359238772</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67401">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>253</dist>
+      <lat>38.8387587166</lat>
+      <lon>-97.6335856895</lon>
+      <name>Salina</name>
+      <state>KS</state>
+    </location>
+    <location name="67501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>37.9758810565</lat>
+      <lon>-97.931237911</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="67502">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>38.1280036149</lat>
+      <lon>-97.9208647034</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="67550">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>38.1775660039</lat>
+      <lon>-99.1745883206</lon>
+      <name>Larned</name>
+      <state>KS</state>
+    </location>
+    <location name="67554">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>38.3259381156</lat>
+      <lon>-98.1405906199</lon>
+      <name>Lyons</name>
+      <state>KS</state>
+    </location>
+    <location name="67579">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>38.1801620016</lat>
+      <lon>-98.2101610697</lon>
+      <name>Sterling</name>
+      <state>KS</state>
+    </location>
+    <location name="73062">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>34.9915533748</lat>
+      <lon>-98.7203132697</lon>
+      <name>Mountain View</name>
+      <state>OK</state>
+    </location>
+    <location name="73106">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>35.4823603164</lat>
+      <lon>-97.5367060492</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73160">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>35.3351395148</lat>
+      <lon>-97.4770396846</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73726">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>36.5952202687</lat>
+      <lon>-98.4585467157</lon>
+      <name>Carmen</name>
+      <state>OK</state>
+    </location>
+    <location name="74017">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>261</dist>
+      <lat>36.3934747275</lat>
+      <lon>-95.5741682638</lon>
+      <name>Claremore</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

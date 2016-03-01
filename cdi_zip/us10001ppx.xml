@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="La Paz::La Paz::Bolivia">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>265</dist>
+      <lat>-16.50</lat>
+      <lon>-68.15</lon>
+      <name>La Paz</name>
+    </location>
+    <location name="Oruro::Oruro::Bolivia">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>255</dist>
+      <lat>-17.98</lat>
+      <lon>-67.12</lon>
+      <name>Oruro</name>
+    </location>
+    <location name="Arica::Tarapacá::Chile">
+      <cdi>4.4734</cdi>
+      <nresp>12</nresp>
+      <dist>177</dist>
+      <lat>-18.49</lat>
+      <lon>-70.30</lon>
+      <name>Arica</name>
+    </location>
+    <location name="Iquique::Tarapacá::Chile">
+      <cdi>4.5529</cdi>
+      <nresp>4</nresp>
+      <dist>265</dist>
+      <lat>-20.23</lat>
+      <lon>-70.14</lon>
+      <name>Iquique</name>
+    </location>
+    <location name="Arequipa::Arequipa::Peru">
+      <cdi>3.7129</cdi>
+      <nresp>16</nresp>
+      <dist>356</dist>
+      <lat>-16.39</lat>
+      <lon>-71.53</lon>
+      <name>Arequipa</name>
+    </location>
+    <location name="Ilo::Moquegua::Peru">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>275</dist>
+      <lat>-17.64</lat>
+      <lon>-71.34</lon>
+      <name>Ilo</name>
+    </location>
+    <location name="Torata::Moquegua::Peru">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>263</dist>
+      <lat>-17.06</lat>
+      <lon>-70.85</lon>
+      <name>Torata</name>
+    </location>
+    <location name="Tacna::Tacna::Peru">
+      <cdi>4.7518</cdi>
+      <nresp>6</nresp>
+      <dist>177</dist>
+      <lat>-18.02</lat>
+      <lon>-70.25</lon>
+      <name>Tacna</name>
+    </location>
+    <location name="Tarata::Tacna::Peru">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>176</dist>
+      <lat>-17.65</lat>
+      <lon>-70.03</lon>
+      <name>Tarata</name>
+    </location>
+  </cdi>
+</cdidata>

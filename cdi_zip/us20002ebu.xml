@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chupei::Hsinchu Hsien::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>24.85</lat>
+      <lon>121.00</lon>
+      <name>Chupei</name>
+    </location>
+    <location name="Cholan::Miaoli::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>46</dist>
+      <lat>24.32</lat>
+      <lon>120.82</lon>
+      <name>Cholan</name>
+    </location>
+    <location name="Taichung::Taichung Shih::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>24.15</lat>
+      <lon>120.68</lon>
+      <name>Taichung</name>
+    </location>
+    <location name="Sanchung::Taipei Hsien::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>25.07</lat>
+      <lon>121.48</lon>
+      <name>Sanchung</name>
+    </location>
+  </cdi>
+</cdidata>

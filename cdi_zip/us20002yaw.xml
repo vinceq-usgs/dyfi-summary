@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Honiara::Guadalcanal::Solomon Islands">
+      <cdi>5.9721</cdi>
+      <nresp>1</nresp>
+      <dist>583</dist>
+      <lat>-9.43</lat>
+      <lon>159.91</lon>
+      <name>Honiara</name>
+    </location>
+    <location name="Kirakira::Makira and Ulawa::Solomon Islands">
+      <cdi>6.2066</cdi>
+      <nresp>1</nresp>
+      <dist>356</dist>
+      <lat>-10.44</lat>
+      <lon>161.88</lon>
+      <name>Kirakira</name>
+    </location>
+    <location name="Lata::Temotu::Solomon Islands">
+      <cdi>7.9033</cdi>
+      <nresp>4</nresp>
+      <dist>83</dist>
+      <lat>-10.71</lat>
+      <lon>165.83</lon>
+      <name>Lata</name>
+    </location>
+    <location name="Sola::Torba::Vanuatu">
+      <cdi>6.2813</cdi>
+      <nresp>1</nresp>
+      <dist>464</dist>
+      <lat>-13.87</lat>
+      <lon>167.55</lon>
+      <name>Sola</name>
+    </location>
+  </cdi>
+</cdidata>

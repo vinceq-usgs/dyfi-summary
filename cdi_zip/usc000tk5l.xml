@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73110">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>35.4599812871</lat>
+      <lon>-97.3970813939</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73118">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>35.5186748711</lat>
+      <lon>-97.5298794618</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74804">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.4080338639</lat>
+      <lon>-96.8631224577</lon>
+      <name>Shawnee</name>
+      <state>OK</state>
+    </location>
+    <location name="74864">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>6</dist>
+      <lat>35.5532278614</lat>
+      <lon>-96.7135501732</lon>
+      <name>Prague</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

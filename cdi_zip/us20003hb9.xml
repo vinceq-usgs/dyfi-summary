@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>206</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="San Rafael::Mendoza::Argentina">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>369</dist>
+      <lat>-34.62</lat>
+      <lon>-68.34</lon>
+      <name>San Rafael</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+  </cdi>
+</cdidata>

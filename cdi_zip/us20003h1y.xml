@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Boquete::Chiriquí::Panama">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>507</dist>
+      <lat>8.78</lat>
+      <lon>-82.44</lon>
+      <name>Boquete</name>
+    </location>
+    <location name="Ancón::Panamá::Panama">
+      <cdi>2.3706</cdi>
+      <nresp>5</nresp>
+      <dist>193</dist>
+      <lat>8.97</lat>
+      <lon>-79.55</lon>
+      <name>Ancón</name>
+    </location>
+    <location name="Panamá::Panamá::Panama">
+      <cdi>2.3643</cdi>
+      <nresp>7</nresp>
+      <dist>191</dist>
+      <lat>8.97</lat>
+      <lon>-79.53</lon>
+      <name>Panamá</name>
+    </location>
+    <location name="Paraíso::Panamá::Panama">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>203</dist>
+      <lat>9.03</lat>
+      <lon>-79.63</lon>
+      <name>Paraíso</name>
+    </location>
+    <location name="San Miguelito::Panamá::Panama">
+      <cdi>3.0663</cdi>
+      <nresp>6</nresp>
+      <dist>189</dist>
+      <lat>9.03</lat>
+      <lon>-79.50</lon>
+      <name>San Miguelito</name>
+    </location>
+    <location name="Tocumen::Panamá::Panama">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>178</dist>
+      <lat>9.08</lat>
+      <lon>-79.38</lon>
+      <name>Tocumen</name>
+    </location>
+  </cdi>
+</cdidata>

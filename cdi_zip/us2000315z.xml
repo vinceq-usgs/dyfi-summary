@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96910">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>94</dist>
+      <lat>13.47</lat>
+      <lon>144.75</lon>
+      <name>HAGATNA</name>
+      <state>GU</state>
+    </location>
+    <location name="96911">
+      <cdi>2.8570</cdi>
+      <nresp>4</nresp>
+      <dist>97</dist>
+      <lat>13.51</lat>
+      <lon>144.81</lon>
+      <name>TAMUNING</name>
+      <state>GU</state>
+    </location>
+    <location name="96913">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>13.48</lat>
+      <lon>144.80</lon>
+      <name>BARRIGADA</name>
+      <state>GU</state>
+    </location>
+    <location name="96914">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>92</dist>
+      <lat>13.40</lat>
+      <lon>144.74</lon>
+      <name>YONA</name>
+      <state>GU</state>
+    </location>
+    <location name="96915">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>91</dist>
+      <lat>13.40</lat>
+      <lon>144.67</lon>
+      <name>SANTA RITA</name>
+      <state>GU</state>
+    </location>
+    <location name="96919">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>13.46</lat>
+      <lon>144.74</lon>
+      <name>HAGATNA HTS</name>
+      <state>GU</state>
+    </location>
+    <location name="96922">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>93</dist>
+      <lat>13.46</lat>
+      <lon>144.73</lon>
+      <name>ASAN</name>
+      <state>GU</state>
+    </location>
+    <location name="96923">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>13.46</lat>
+      <lon>144.84</lon>
+      <name>MANGILAO</name>
+      <state>GU</state>
+    </location>
+    <location name="96925">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>13.44</lat>
+      <lon>144.67</lon>
+      <name>PITI</name>
+      <state>GU</state>
+    </location>
+    <location name="96928">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>13.36</lat>
+      <lon>144.67</lon>
+      <name>AGAT</name>
+      <state>GU</state>
+    </location>
+    <location name="96929">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>13.57</lat>
+      <lon>144.91</lon>
+      <name>YIGO</name>
+      <state>GU</state>
+    </location>
+  </cdi>
+</cdidata>

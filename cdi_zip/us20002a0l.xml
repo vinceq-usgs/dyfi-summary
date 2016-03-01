@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Panamá::Panamá::Panama">
+      <cdi>2.2758</cdi>
+      <nresp>5</nresp>
+      <dist>109</dist>
+      <lat>8.97</lat>
+      <lon>-79.53</lon>
+      <name>Panamá</name>
+    </location>
+    <location name="San Miguelito::Panamá::Panama">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>9.03</lat>
+      <lon>-79.50</lon>
+      <name>San Miguelito</name>
+    </location>
+    <location name="Tocumen::Panamá::Panama">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>9.08</lat>
+      <lon>-79.38</lon>
+      <name>Tocumen</name>
+    </location>
+  </cdi>
+</cdidata>

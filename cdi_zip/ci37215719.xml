@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92344">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>34.3912903882</lat>
+      <lon>-117.405087704</lon>
+      <name>Hesperia</name>
+      <state>CA</state>
+    </location>
+    <location name="93021">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>34.3089429465</lat>
+      <lon>-118.864533809</lon>
+      <name>Moorpark</name>
+      <state>CA</state>
+    </location>
+    <location name="93535">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>34.7336710749</lat>
+      <lon>-117.893857439</lon>
+      <name>Lancaster</name>
+      <state>CA</state>
+    </location>
+    <location name="93543">
+      <cdi>2.3954</cdi>
+      <nresp>5</nresp>
+      <dist>8</dist>
+      <lat>34.5075443292</lat>
+      <lon>-117.937261883</lon>
+      <name>Littlerock</name>
+      <state>CA</state>
+    </location>
+    <location name="93553">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.453833687</lat>
+      <lon>-117.8890592</lon>
+      <name>Pearblossom</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

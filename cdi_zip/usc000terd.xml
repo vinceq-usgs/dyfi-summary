@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="75038">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>356</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75039">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>355</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75063">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>351</dist>
+      <lat>32.9206335879</lat>
+      <lon>-96.9754663768</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75209">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>361</dist>
+      <lat>32.8487972366</lat>
+      <lon>-96.8263010441</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75220">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>358</dist>
+      <lat>32.8669930898</lat>
+      <lon>-96.8778633804</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

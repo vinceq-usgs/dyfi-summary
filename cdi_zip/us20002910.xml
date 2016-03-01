@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96910">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>13.47</lat>
+      <lon>144.75</lon>
+      <name>HAGATNA</name>
+      <state>GU</state>
+    </location>
+    <location name="96911">
+      <cdi>3.0536</cdi>
+      <nresp>5</nresp>
+      <dist>146</dist>
+      <lat>13.51</lat>
+      <lon>144.81</lon>
+      <name>TAMUNING</name>
+      <state>GU</state>
+    </location>
+    <location name="96912">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>13.57</lat>
+      <lon>144.84</lon>
+      <name>DEDEDO</name>
+      <state>GU</state>
+    </location>
+    <location name="96915">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>151</dist>
+      <lat>13.40</lat>
+      <lon>144.67</lon>
+      <name>SANTA RITA</name>
+      <state>GU</state>
+    </location>
+    <location name="96916">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>13.27</lat>
+      <lon>144.69</lon>
+      <name>MERIZO</name>
+      <state>GU</state>
+    </location>
+    <location name="96918">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>13.31</lat>
+      <lon>144.66</lon>
+      <name>UMATAC</name>
+      <state>GU</state>
+    </location>
+    <location name="96922">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>148</dist>
+      <lat>13.46</lat>
+      <lon>144.73</lon>
+      <name>ASAN</name>
+      <state>GU</state>
+    </location>
+    <location name="96923">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>148</dist>
+      <lat>13.46</lat>
+      <lon>144.84</lon>
+      <name>MANGILAO</name>
+      <state>GU</state>
+    </location>
+    <location name="96927">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>13.47</lat>
+      <lon>144.77</lon>
+      <name>MONGMONG</name>
+      <state>GU</state>
+    </location>
+    <location name="96929">
+      <cdi>2.4261</cdi>
+      <nresp>2</nresp>
+      <dist>145</dist>
+      <lat>13.57</lat>
+      <lon>144.91</lon>
+      <name>YIGO</name>
+      <state>GU</state>
+    </location>
+    <location name="96950">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>15.01</lat>
+      <lon>145.63</lon>
+      <name>SAIPAN/NRTHRN ISLANDS</name>
+      <state>MP</state>
+    </location>
+    <location name="96952">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>229</dist>
+      <lat>15.19</lat>
+      <lon>145.76</lon>
+      <name>TINIAN</name>
+      <state>MP</state>
+    </location>
+  </cdi>
+</cdidata>

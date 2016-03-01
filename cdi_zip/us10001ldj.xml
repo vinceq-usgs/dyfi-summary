@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66208">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>382</dist>
+      <lat>38.9989042679</lat>
+      <lon>-94.6300757128</lon>
+      <name>Prairie Village</name>
+      <state>KS</state>
+    </location>
+    <location name="72031">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>433</dist>
+      <lat>35.5985226349</lat>
+      <lon>-92.5453919615</lon>
+      <name>Clinton</name>
+      <state>AR</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74631">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>36.8068603427</lat>
+      <lon>-97.3055655473</lon>
+      <name>Blackwell</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="30041">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>34.200299198</lat>
+      <lon>-84.0943098246</lon>
+      <name>Cumming</name>
+      <state>GA</state>
+    </location>
+    <location name="30117">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>33.5840876123</lat>
+      <lon>-85.1317563486</lon>
+      <name>Carrollton</name>
+      <state>GA</state>
+    </location>
+    <location name="30642">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>41</dist>
+      <lat>33.5489734558</lat>
+      <lon>-83.1914679815</lon>
+      <name>Greensboro</name>
+      <state>GA</state>
+    </location>
+    <location name="30650">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>33.5910691315</lat>
+      <lon>-83.4618081013</lon>
+      <name>Madison</name>
+      <state>GA</state>
+    </location>
+    <location name="30747">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>229</dist>
+      <lat>34.504664767</lat>
+      <lon>-85.2871658822</lon>
+      <name>Summerville</name>
+      <state>GA</state>
+    </location>
+    <location name="31008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>32.6562877625</lat>
+      <lon>-83.78523844</lon>
+      <name>Byron</name>
+      <state>GA</state>
+    </location>
+    <location name="31019">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>32.4287876614</lat>
+      <lon>-83.0615455893</lon>
+      <name>Dexter</name>
+      <state>GA</state>
+    </location>
+    <location name="31024">
+      <cdi>3.3148</cdi>
+      <nresp>25</nresp>
+      <dist>15</dist>
+      <lat>33.3187035129</lat>
+      <lon>-83.3739062942</lon>
+      <name>Eatonton</name>
+      <state>GA</state>
+    </location>
+    <location name="31061">
+      <cdi>3.3328</cdi>
+      <nresp>22</nresp>
+      <dist>20</dist>
+      <lat>33.0792063285</lat>
+      <lon>-83.2373786596</lon>
+      <name>Milledgeville</name>
+      <state>GA</state>
+    </location>
+    <location name="31087">
+      <cdi>2.6627</cdi>
+      <nresp>6</nresp>
+      <dist>34</dist>
+      <lat>33.276220613</lat>
+      <lon>-83.0001776995</lon>
+      <name>Sparta</name>
+      <state>GA</state>
+    </location>
+  </cdi>
+</cdidata>

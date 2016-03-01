@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90036">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>34.0703685748</lat>
+      <lon>-118.350101858</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="91335">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>34.2013216277</lat>
+      <lon>-118.540688744</lon>
+      <name>Reseda</name>
+      <state>CA</state>
+    </location>
+    <location name="91761">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.0345221452</lat>
+      <lon>-117.592677765</lon>
+      <name>Ontario</name>
+      <state>CA</state>
+    </location>
+    <location name="92505">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>33.9341559414</lat>
+      <lon>-117.495019802</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92691">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>33.610517845</lat>
+      <lon>-117.666154857</lon>
+      <name>Mission Viejo</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

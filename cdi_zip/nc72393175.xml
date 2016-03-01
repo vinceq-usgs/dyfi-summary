@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94110">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>37.7497940107</lat>
+      <lon>-122.415347766</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94508">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>8</dist>
+      <lat>38.5793622419</lat>
+      <lon>-122.447535241</lon>
+      <name>Angwin</name>
+      <state>CA</state>
+    </location>
+    <location name="94544">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>37.6330043297</lat>
+      <lon>-122.056890432</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94559">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>38.2394047273</lat>
+      <lon>-122.330669802</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

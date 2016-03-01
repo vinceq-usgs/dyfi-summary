@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Antioquia::Antioquia::Colombia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>6.56</lat>
+      <lon>-75.83</lon>
+      <name>Antioquia</name>
+    </location>
+    <location name="Dabeiba::Antioquia::Colombia">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>7.00</lat>
+      <lon>-76.26</lon>
+      <name>Dabeiba</name>
+    </location>
+    <location name="Envigado::Antioquia::Colombia">
+      <cdi>3.0000</cdi>
+      <nresp>8</nresp>
+      <dist>145</dist>
+      <lat>6.16</lat>
+      <lon>-75.56</lon>
+      <name>Envigado</name>
+    </location>
+    <location name="Itagüí::Antioquia::Colombia">
+      <cdi>2.6340</cdi>
+      <nresp>3</nresp>
+      <dist>139</dist>
+      <lat>6.17</lat>
+      <lon>-75.62</lon>
+      <name>Itagüí</name>
+    </location>
+    <location name="Medellín::Antioquia::Colombia">
+      <cdi>2.0781</cdi>
+      <nresp>5</nresp>
+      <dist>139</dist>
+      <lat>6.29</lat>
+      <lon>-75.54</lon>
+      <name>Medellín</name>
+    </location>
+    <location name="Sabaneta::Antioquia::Colombia">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>142</dist>
+      <lat>6.15</lat>
+      <lon>-75.60</lon>
+      <name>Sabaneta</name>
+    </location>
+    <location name="Manizales::Caldas::Colombia">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>239</dist>
+      <lat>5.06</lat>
+      <lon>-75.52</lon>
+      <name>Manizales</name>
+    </location>
+    <location name="Quibdó::Chocó::Colombia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>5.69</lat>
+      <lon>-76.66</lon>
+      <name>Quibdó</name>
+    </location>
+    <location name="Pereira::Risaralda::Colombia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>255</dist>
+      <lat>4.81</lat>
+      <lon>-75.68</lon>
+      <name>Pereira</name>
+    </location>
+    <location name="Cali::Valle del Cauca::Colombia">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>384</dist>
+      <lat>3.44</lat>
+      <lon>-76.52</lon>
+      <name>Cali</name>
+    </location>
+  </cdi>
+</cdidata>

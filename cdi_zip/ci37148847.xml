@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92082">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>33.2538529897</lat>
+      <lon>-116.994477053</lon>
+      <name>Valley Center</name>
+      <state>CA</state>
+    </location>
+    <location name="92115">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>32.7611144173</lat>
+      <lon>-117.071620131</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92251">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>32.8727372362</lat>
+      <lon>-115.620839586</lon>
+      <name>Imperial</name>
+      <state>CA</state>
+    </location>
+    <location name="92410">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>34.1120383992</lat>
+      <lon>-117.293639495</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92503">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>33.8897441303</lat>
+      <lon>-117.446817121</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92539">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>33.5540401854</lat>
+      <lon>-116.696854421</lon>
+      <name>Anza</name>
+      <state>CA</state>
+    </location>
+    <location name="92840">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>33.7858743333</lat>
+      <lon>-117.931770417</lon>
+      <name>Garden Grove</name>
+      <state>CA</state>
+    </location>
+    <location name="92879">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>33.8802003047</lat>
+      <lon>-117.537999658</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

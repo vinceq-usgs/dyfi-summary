@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="27549">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>468</dist>
+      <lat>36.1052801849</lat>
+      <lon>-78.2354910252</lon>
+      <name>Louisburg</name>
+      <state>NC</state>
+    </location>
+    <location name="28040">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>35.3904901572</lat>
+      <lon>-81.7501928857</lon>
+      <name>Ellenboro</name>
+      <state>NC</state>
+    </location>
+    <location name="28083">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>35.4914115771</lat>
+      <lon>-80.5818835185</lon>
+      <name>Kannapolis</name>
+      <state>NC</state>
+    </location>
+    <location name="28734">
+      <cdi>2.1671</cdi>
+      <nresp>7</nresp>
+      <dist>16</dist>
+      <lat>35.1759453279</lat>
+      <lon>-83.4279385995</lon>
+      <name>Franklin</name>
+      <state>NC</state>
+    </location>
+    <location name="28739">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>35.2668528502</lat>
+      <lon>-82.5415893494</lon>
+      <name>Hendersonville</name>
+      <state>NC</state>
+    </location>
+    <location name="28789">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.4310165211</lat>
+      <lon>-83.2796046478</lon>
+      <name>Whittier</name>
+      <state>NC</state>
+    </location>
+    <location name="29654">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>34.4673636505</lat>
+      <lon>-82.358006562</lon>
+      <name>Honea Path</name>
+      <state>SC</state>
+    </location>
+    <location name="30028">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>34.2892294846</lat>
+      <lon>-84.1799054334</lon>
+      <name>Cumming</name>
+      <state>GA</state>
+    </location>
+  </cdi>
+</cdidata>

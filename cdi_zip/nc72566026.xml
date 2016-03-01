@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95023">
+      <cdi>2.8306</cdi>
+      <nresp>12</nresp>
+      <dist>8</dist>
+      <lat>36.8566762391</lat>
+      <lon>-121.249223359</lon>
+      <name>Hollister</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+    <location name="95060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>37.0592413896</lat>
+      <lon>-122.157700218</lon>
+      <name>Santa Cruz</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Batna::Bātnah::Algeria">
+      <cdi>2.4868</cdi>
+      <nresp>3</nresp>
+      <dist>46</dist>
+      <lat>35.57</lat>
+      <lon>6.17</lon>
+      <name>Batna</name>
+    </location>
+    <location name="Oued Athmania::Mīlah::Algeria">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>36.25</lat>
+      <lon>6.28</lon>
+      <name>Oued Athmania</name>
+    </location>
+    <location name="ʿAyn ʿAzl::Satīf::Algeria">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>35.85</lat>
+      <lon>5.50</lon>
+      <name>ʿAyn ʿAzl</name>
+    </location>
+  </cdi>
+</cdidata>

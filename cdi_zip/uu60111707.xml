@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="84756">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>37.6429247227</lat>
+      <lon>-113.647696006</lon>
+      <name>Newcastle</name>
+      <state>UT</state>
+    </location>
+    <location name="84765">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>37.1354650619</lat>
+      <lon>-113.650913956</lon>
+      <name>Santa Clara</name>
+      <state>UT</state>
+    </location>
+    <location name="84780">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>37.1621902157</lat>
+      <lon>-113.481883433</lon>
+      <name>Washington</name>
+      <state>UT</state>
+    </location>
+    <location name="86413">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>242</dist>
+      <lat>35.2755554066</lat>
+      <lon>-114.353189512</lon>
+      <name>Golden Valley</name>
+      <state>AZ</state>
+    </location>
+    <location name="89008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>37.3073056035</lat>
+      <lon>-114.498584125</lon>
+      <name>Caliente</name>
+      <state>NV</state>
+    </location>
+    <location name="89052">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>183</dist>
+      <lat>35.9789641734</lat>
+      <lon>-115.107787584</lon>
+      <name>Henderson</name>
+      <state>NV</state>
+    </location>
+    <location name="89074">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>36.0365006288</lat>
+      <lon>-115.081917772</lon>
+      <name>Henderson</name>
+      <state>NV</state>
+    </location>
+    <location name="89101">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>165</dist>
+      <lat>36.172607854</lat>
+      <lon>-115.122034043</lon>
+      <name>Las Vegas</name>
+      <state>NV</state>
+    </location>
+    <location name="89183">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>183</dist>
+      <lat>35.9953233669</lat>
+      <lon>-115.156997484</lon>
+      <name>Las Vegas</name>
+      <state>NV</state>
+    </location>
+  </cdi>
+</cdidata>

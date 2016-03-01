@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Delhi::Delhi::India">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>730</dist>
+      <lat>28.67</lat>
+      <lon>77.21</lon>
+      <name>Delhi</name>
+    </location>
+    <location name="Gurgaon::Haryana::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>748</dist>
+      <lat>28.47</lat>
+      <lon>77.01</lon>
+      <name>Gurgaon</name>
+    </location>
+    <location name="Rewāri::Haryana::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>788</dist>
+      <lat>28.19</lat>
+      <lon>76.60</lon>
+      <name>Rewāri</name>
+    </location>
+    <location name="Dadri::Uttar Pradesh::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>696</dist>
+      <lat>28.57</lat>
+      <lon>77.55</lon>
+      <name>Dadri</name>
+    </location>
+    <location name="Cawnpore::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>454</dist>
+      <lat>26.47</lat>
+      <lon>80.33</lon>
+      <name>Cawnpore</name>
+    </location>
+    <location name="Pilkhuwa::Uttar Pradesh::India">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>688</dist>
+      <lat>28.72</lat>
+      <lon>77.65</lon>
+      <name>Pilkhuwa</name>
+    </location>
+    <location name="Rura::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>494</dist>
+      <lat>26.48</lat>
+      <lon>79.90</lon>
+      <name>Rura</name>
+    </location>
+  </cdi>
+</cdidata>

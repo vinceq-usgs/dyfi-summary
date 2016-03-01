@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Antofagasta::Antofagasta::Chile">
+      <cdi>3.3926</cdi>
+      <nresp>9</nresp>
+      <dist>443</dist>
+      <lat>-23.65</lat>
+      <lon>-70.39</lon>
+      <name>Antofagasta</name>
+    </location>
+    <location name="Calama::Antofagasta::Chile">
+      <cdi>2.7751</cdi>
+      <nresp>3</nresp>
+      <dist>328</dist>
+      <lat>-22.45</lat>
+      <lon>-68.92</lon>
+      <name>Calama</name>
+    </location>
+    <location name="Taltal::Antofagasta::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>511</dist>
+      <lat>-25.40</lat>
+      <lon>-70.47</lon>
+      <name>Taltal</name>
+    </location>
+    <location name="CopiapÃ³::Atacama::Chile">
+      <cdi>2.9567</cdi>
+      <nresp>4</nresp>
+      <dist>637</dist>
+      <lat>-27.36</lat>
+      <lon>-70.34</lon>
+      <name>CopiapÃ³</name>
+    </location>
+    <location name="Diego de Almagro::Atacama::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>543</dist>
+      <lat>-26.37</lat>
+      <lon>-70.05</lon>
+      <name>Diego de Almagro</name>
+    </location>
+    <location name="Iquique::TarapacÃ¡::Chile">
+      <cdi>2.7418</cdi>
+      <nresp>5</nresp>
+      <dist>528</dist>
+      <lat>-20.23</lat>
+      <lon>-70.14</lon>
+      <name>Iquique</name>
+    </location>
+    <location name="Arequipa::Arequipa::Peru">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>927</dist>
+      <lat>-16.39</lat>
+      <lon>-71.53</lon>
+      <name>Arequipa</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="29073">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>33.892270924</lat>
+      <lon>-81.2370645708</lon>
+      <name>Lexington</name>
+      <state>SC</state>
+    </location>
+    <location name="29414">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>32.8251188146</lat>
+      <lon>-80.1235369999</lon>
+      <name>Charleston</name>
+      <state>SC</state>
+    </location>
+    <location name="29418">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>32.8740740519</lat>
+      <lon>-80.0589039976</lon>
+      <name>North Charleston</name>
+      <state>SC</state>
+    </location>
+    <location name="29438">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>32.5718903142</lat>
+      <lon>-80.3183664627</lon>
+      <name>Edisto Island</name>
+      <state>SC</state>
+    </location>
+    <location name="29461">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>33.1561972192</lat>
+      <lon>-80.0053430041</lon>
+      <name>Moncks Corner</name>
+      <state>SC</state>
+    </location>
+    <location name="29483">
+      <cdi>2.8333</cdi>
+      <nresp>12</nresp>
+      <dist>7</dist>
+      <lat>33.06960884</lat>
+      <lon>-80.1944891085</lon>
+      <name>Summerville</name>
+      <state>SC</state>
+    </location>
+    <location name="29485">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>9</dist>
+      <lat>32.9496973363</lat>
+      <lon>-80.1968781973</lon>
+      <name>Summerville</name>
+      <state>SC</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="59736">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>45.3988905685</lat>
+      <lon>-113.453435412</lon>
+      <name>Jackson</name>
+      <state>MT</state>
+    </location>
+    <location name="59827">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>45.8013404209</lat>
+      <lon>-114.105008</lon>
+      <name>Conner</name>
+      <state>MT</state>
+    </location>
+    <location name="59840">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>46.1753913572</lat>
+      <lon>-114.117203248</lon>
+      <name>Hamilton</name>
+      <state>MT</state>
+    </location>
+    <location name="59870">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>226</dist>
+      <lat>46.5166910566</lat>
+      <lon>-114.059068376</lon>
+      <name>Stevensville</name>
+      <state>MT</state>
+    </location>
+    <location name="83226">
+      <cdi>3.1847</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>44.323353135</lat>
+      <lon>-114.005460868</lon>
+      <name>Challis</name>
+      <state>ID</state>
+    </location>
+    <location name="83235">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>44.8490415605</lat>
+      <lon>-114.091545976</lon>
+      <name>Ellis</name>
+      <state>ID</state>
+    </location>
+    <location name="83333">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>43.6116475512</lat>
+      <lon>-114.236344854</lon>
+      <name>Hailey</name>
+      <state>ID</state>
+    </location>
+    <location name="83467">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>76</dist>
+      <lat>45.0977503385</lat>
+      <lon>-113.768314203</lon>
+      <name>Salmon</name>
+      <state>ID</state>
+    </location>
+    <location name="83616">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>193</dist>
+      <lat>43.7673558747</lat>
+      <lon>-116.383756208</lon>
+      <name>Eagle</name>
+      <state>ID</state>
+    </location>
+    <location name="83654">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>45.0285939802</lat>
+      <lon>-116.319762514</lon>
+      <name>New Meadows</name>
+      <state>ID</state>
+    </location>
+    <location name="99163">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>344</dist>
+      <lat>46.7293799875</lat>
+      <lon>-117.199104738</lon>
+      <name>Pullman</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

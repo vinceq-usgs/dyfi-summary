@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67005">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>37.065145113</lat>
+      <lon>-96.9858253723</lon>
+      <name>Arkansas City</name>
+      <state>KS</state>
+    </location>
+    <location name="67114">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>38.0619508136</lat>
+      <lon>-97.2832822534</lon>
+      <name>Newton</name>
+      <state>KS</state>
+    </location>
+    <location name="67156">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>37.2468518161</lat>
+      <lon>-96.9651090421</lon>
+      <name>Winfield</name>
+      <state>KS</state>
+    </location>
+    <location name="67205">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>37.7495538904</lat>
+      <lon>-97.4226693843</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67349">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>37.5105124861</lat>
+      <lon>-96.2252791528</lon>
+      <name>Howard</name>
+      <state>KS</state>
+    </location>
+    <location name="74056">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>36.8174182155</lat>
+      <lon>-96.2930170071</lon>
+      <name>Pawhuska</name>
+      <state>OK</state>
+    </location>
+    <location name="74601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>36.7162740821</lat>
+      <lon>-97.1471619885</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+    <location name="75215">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>475</dist>
+      <lat>32.7498704123</lat>
+      <lon>-96.7643368928</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

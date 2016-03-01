@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Yokosuka::Kanagawa::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>35.27</lat>
+      <lon>139.67</lon>
+      <name>Yokosuka</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.1883</cdi>
+      <nresp>4</nresp>
+      <dist>138</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

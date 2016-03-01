@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Copiapó::Atacama::Chile">
+      <cdi>4.3417</cdi>
+      <nresp>3</nresp>
+      <dist>108</dist>
+      <lat>-27.36</lat>
+      <lon>-70.34</lon>
+      <name>Copiapó</name>
+    </location>
+    <location name="Vallenar::Atacama::Chile">
+      <cdi>2.9106</cdi>
+      <nresp>3</nresp>
+      <dist>59</dist>
+      <lat>-28.57</lat>
+      <lon>-70.76</lon>
+      <name>Vallenar</name>
+    </location>
+    <location name="Andacollo::Coquimbo::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>-29.16</lat>
+      <lon>-71.23</lon>
+      <name>Andacollo</name>
+    </location>
+    <location name="Coquimbo::Coquimbo::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>208</dist>
+      <lat>-29.96</lat>
+      <lon>-71.33</lon>
+      <name>Coquimbo</name>
+    </location>
+    <location name="Vicuña::Coquimbo::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>-30.03</lat>
+      <lon>-70.74</lon>
+      <name>Vicuña</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Longana::Penama::Vanuatu">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>-15.30</lat>
+      <lon>168.00</lon>
+      <name>Longana</name>
+    </location>
+    <location name="Luganville::Sanma::Vanuatu">
+      <cdi>5.7201</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>-15.51</lat>
+      <lon>167.15</lon>
+      <name>Luganville</name>
+    </location>
+    <location name="Vila::Shefa::Vanuatu">
+      <cdi>3.8502</cdi>
+      <nresp>6</nresp>
+      <dist>361</dist>
+      <lat>-17.74</lat>
+      <lon>168.31</lon>
+      <name>Vila</name>
+    </location>
+  </cdi>
+</cdidata>

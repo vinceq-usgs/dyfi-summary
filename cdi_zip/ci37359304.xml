@@ -1,0 +1,225 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="85364">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>32.700440115</lat>
+      <lon>-114.674470273</lon>
+      <name>Yuma</name>
+      <state>AZ</state>
+    </location>
+    <location name="85365">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>72</dist>
+      <lat>32.682277698</lat>
+      <lon>-114.534243408</lon>
+      <name>Yuma</name>
+      <state>AZ</state>
+    </location>
+    <location name="90713">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>316</dist>
+      <lat>33.8479130281</lat>
+      <lon>-118.112581056</lon>
+      <name>Lakewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>2.4868</cdi>
+      <nresp>3</nresp>
+      <dist>327</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="91103">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>339</dist>
+      <lat>34.1668623291</lat>
+      <lon>-118.164729809</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91367">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>375</dist>
+      <lat>34.176389334</lat>
+      <lon>-118.61601363</lon>
+      <name>Woodland Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91910">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>32.637931508</lat>
+      <lon>-117.055474752</lon>
+      <name>Chula Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="91911">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>32.6072532718</lat>
+      <lon>-117.050385252</lon>
+      <name>Chula Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="92008">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>215</dist>
+      <lat>33.1466607065</lat>
+      <lon>-117.31838967</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="92121">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>195</dist>
+      <lat>32.8981065391</lat>
+      <lon>-117.201573296</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92123">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>187</dist>
+      <lat>32.8068494859</lat>
+      <lon>-117.135222151</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92127">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>193</dist>
+      <lat>33.02303349</lat>
+      <lon>-117.122244895</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92203">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>33.7517583205</lat>
+      <lon>-116.241723548</lon>
+      <name>Indio</name>
+      <state>CA</state>
+    </location>
+    <location name="92231">
+      <cdi>2.5168</cdi>
+      <nresp>9</nresp>
+      <dist>47</dist>
+      <lat>32.684622599</lat>
+      <lon>-115.546920786</lon>
+      <name>Calexico</name>
+      <state>CA</state>
+    </location>
+    <location name="92243">
+      <cdi>2.4341</cdi>
+      <nresp>9</nresp>
+      <dist>57</dist>
+      <lat>32.7733878486</lat>
+      <lon>-115.600968985</lon>
+      <name>El Centro</name>
+      <state>CA</state>
+    </location>
+    <location name="92249">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>32.7188437464</lat>
+      <lon>-115.455594402</lon>
+      <name>Heber</name>
+      <state>CA</state>
+    </location>
+    <location name="92251">
+      <cdi>2.0113</cdi>
+      <nresp>4</nresp>
+      <dist>67</dist>
+      <lat>32.8727372362</lat>
+      <lon>-115.620839586</lon>
+      <name>Imperial</name>
+      <state>CA</state>
+    </location>
+    <location name="92283">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>33.0798544715</lat>
+      <lon>-114.986453521</lon>
+      <name>Winterhaven</name>
+      <state>CA</state>
+    </location>
+    <location name="92545">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>33.732725009</lat>
+      <lon>-117.043277134</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Algodones::Baja California::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>32.71</lat>
+      <lon>-114.73</lon>
+      <name>Algodones</name>
+    </location>
+    <location name="Ensenada::Baja California::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>31.87</lat>
+      <lon>-116.62</lon>
+      <name>Ensenada</name>
+    </location>
+    <location name="Mexicali::Baja California::Mexico">
+      <cdi>3.0561</cdi>
+      <nresp>15</nresp>
+      <dist>39</dist>
+      <lat>32.65</lat>
+      <lon>-115.47</lon>
+      <name>Mexicali</name>
+    </location>
+    <location name="Progreso::Baja California::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>32.58</lat>
+      <lon>-115.58</lon>
+      <name>Progreso</name>
+    </location>
+    <location name="Puebla::Baja California::Mexico">
+      <cdi>2.3954</cdi>
+      <nresp>3</nresp>
+      <dist>25</dist>
+      <lat>32.56</lat>
+      <lon>-115.35</lon>
+      <name>Puebla</name>
+    </location>
+    <location name="Reacomodo::Baja California::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>32.23</lat>
+      <lon>-115.17</lon>
+      <name>Reacomodo</name>
+    </location>
+  </cdi>
+</cdidata>

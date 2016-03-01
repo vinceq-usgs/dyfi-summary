@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67010">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>37.6594194979</lat>
+      <lon>-96.9652711107</lon>
+      <name>Augusta</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67070">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>28</dist>
+      <lat>37.0220357008</lat>
+      <lon>-98.4945206523</lon>
+      <name>Kiowa</name>
+      <state>KS</state>
+    </location>
+    <location name="67104">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>37.2606371884</lat>
+      <lon>-98.6266446204</lon>
+      <name>Medicine Lodge</name>
+      <state>KS</state>
+    </location>
+    <location name="67212">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>37.7025556179</lat>
+      <lon>-97.4359238772</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67216">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>37.6082148038</lat>
+      <lon>-97.314056177</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67220">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>37.7521280141</lat>
+      <lon>-97.2808050599</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73072">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>193</dist>
+      <lat>35.2154624134</lat>
+      <lon>-97.4942440373</lon>
+      <name>Norman</name>
+      <state>OK</state>
+    </location>
+    <location name="73099">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>35.5251099208</lat>
+      <lon>-97.7584631196</lon>
+      <name>Yukon</name>
+      <state>OK</state>
+    </location>
+    <location name="73102">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>35.4714367683</lat>
+      <lon>-97.519123843</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73505">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>34.5990964585</lat>
+      <lon>-98.4737946661</lon>
+      <name>Lawton</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73717">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>36.8636011675</lat>
+      <lon>-98.750839081</lon>
+      <name>Alva</name>
+      <state>OK</state>
+    </location>
+    <location name="73722">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>36.9038441906</lat>
+      <lon>-98.3224169853</lon>
+      <name>Burlington</name>
+      <state>OK</state>
+    </location>
+    <location name="73728">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>36.7610465168</lat>
+      <lon>-98.3690400836</lon>
+      <name>Cherokee</name>
+      <state>OK</state>
+    </location>
+    <location name="73729">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>36.4206601556</lat>
+      <lon>-98.464175698</lon>
+      <name>Cleo Springs</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

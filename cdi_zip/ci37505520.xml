@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91935">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>32.6839164923</lat>
+      <lon>-116.815098833</lon>
+      <name>Jamul</name>
+      <state>CA</state>
+    </location>
+    <location name="92249">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>32.7188437464</lat>
+      <lon>-115.455594402</lon>
+      <name>Heber</name>
+      <state>CA</state>
+    </location>
+    <location name="92250">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>32.7946415441</lat>
+      <lon>-115.356401686</lon>
+      <name>Holtville</name>
+      <state>CA</state>
+    </location>
+    <location name="92704">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>251</dist>
+      <lat>33.720790129</lat>
+      <lon>-117.908370569</lon>
+      <name>Santa Ana</name>
+      <state>CA</state>
+    </location>
+    <location name="92831">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>257</dist>
+      <lat>33.8793264465</lat>
+      <lon>-117.896371762</lon>
+      <name>Fullerton</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

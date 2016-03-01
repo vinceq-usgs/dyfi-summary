@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiba::Chiba::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>35.61</lat>
+      <lon>140.11</lon>
+      <name>Chiba</name>
+    </location>
+    <location name="Funabashi::Chiba::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>35.70</lat>
+      <lon>139.99</lon>
+      <name>Funabashi</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Kamakura::Kanagawa::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>35.32</lat>
+      <lon>139.55</lon>
+      <name>Kamakura</name>
+    </location>
+    <location name="Yokohama::Kanagawa::Japan">
+      <cdi>2.7751</cdi>
+      <nresp>5</nresp>
+      <dist>81</dist>
+      <lat>35.47</lat>
+      <lon>139.62</lon>
+      <name>Yokohama</name>
+    </location>
+    <location name="Yokosuka::Kanagawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>35.27</lat>
+      <lon>139.67</lon>
+      <name>Yokosuka</name>
+    </location>
+    <location name="Kawaguchi::Saitama::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>35.81</lat>
+      <lon>139.73</lon>
+      <name>Kawaguchi</name>
+    </location>
+    <location name="Kokubunji::Tokio::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>35.70</lat>
+      <lon>139.48</lon>
+      <name>Kokubunji</name>
+    </location>
+    <location name="Komae::Tokio::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>35.63</lat>
+      <lon>139.58</lon>
+      <name>Komae</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.5168</cdi>
+      <nresp>11</nresp>
+      <dist>69</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

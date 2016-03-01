@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94515">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>38.6063407927</lat>
+      <lon>-122.595633121</lon>
+      <name>Calistoga</name>
+      <state>CA</state>
+    </location>
+    <location name="94558">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94567">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>38.6713870349</lat>
+      <lon>-122.442966451</lon>
+      <name>Pope Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94618">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>37.8445345419</lat>
+      <lon>-122.238119356</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94931">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>38.3240485004</lat>
+      <lon>-122.715553935</lon>
+      <name>Cotati</name>
+      <state>CA</state>
+    </location>
+    <location name="95425">
+      <cdi>2.6912</cdi>
+      <nresp>6</nresp>
+      <dist>19</dist>
+      <lat>38.7909586796</lat>
+      <lon>-123.034816655</lon>
+      <name>Cloverdale</name>
+      <state>CA</state>
+    </location>
+    <location name="95441">
+      <cdi>3.0790</cdi>
+      <nresp>6</nresp>
+      <dist>8</dist>
+      <lat>38.7400781592</lat>
+      <lon>-122.859676289</lon>
+      <name>Geyserville</name>
+      <state>CA</state>
+    </location>
+    <location name="95448">
+      <cdi>2.6912</cdi>
+      <nresp>8</nresp>
+      <dist>20</dist>
+      <lat>38.6242156485</lat>
+      <lon>-122.848151425</lon>
+      <name>Healdsburg</name>
+      <state>CA</state>
+    </location>
+    <location name="95451">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>12</dist>
+      <lat>38.921044264</lat>
+      <lon>-122.79454376</lon>
+      <name>Kelseyville</name>
+      <state>CA</state>
+    </location>
+    <location name="95461">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>38.7666137401</lat>
+      <lon>-122.613153731</lon>
+      <name>Middletown</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94103">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>37.7731288064</lat>
+      <lon>-122.411274893</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94507">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>37.8529789211</lat>
+      <lon>-122.00597462</lon>
+      <name>Alamo</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>8</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94528">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>37.8407215059</lat>
+      <lon>-121.959886078</lon>
+      <name>Diablo</name>
+      <state>CA</state>
+    </location>
+    <location name="94552">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.7052675163</lat>
+      <lon>-122.007465818</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.0470</cdi>
+      <nresp>7</nresp>
+      <dist>10</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>8</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94595">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>14</dist>
+      <lat>37.8714903106</lat>
+      <lon>-122.069041617</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

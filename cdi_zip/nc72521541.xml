@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94558">
+      <cdi>2.2630</cdi>
+      <nresp>5</nresp>
+      <dist>161</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94559">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>187</dist>
+      <lat>38.2394047273</lat>
+      <lon>-122.330669802</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94599">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>38.4092496224</lat>
+      <lon>-122.367482923</lon>
+      <name>Yountville</name>
+      <state>CA</state>
+    </location>
+    <location name="94610">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>235</dist>
+      <lat>37.8120934987</lat>
+      <lon>-122.240580761</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95476">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>184</dist>
+      <lat>38.2510840872</lat>
+      <lon>-122.453732438</lon>
+      <name>Sonoma</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

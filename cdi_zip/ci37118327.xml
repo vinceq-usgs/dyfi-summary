@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="92106">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>32.7090398932</lat>
+      <lon>-117.232217509</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92274">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>33.0884435351</lat>
+      <lon>-115.953124539</lon>
+      <name>Thermal</name>
+      <state>CA</state>
+    </location>
+    <location name="92354">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>34.049958427</lat>
+      <lon>-117.251386567</lon>
+      <name>Loma Linda</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

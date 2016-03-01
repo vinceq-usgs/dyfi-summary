@@ -1,0 +1,12 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Quebec::Québec::Canada">
+      <cdi>2</cdi>
+      <nresp>8</nresp>
+      <dist>14</dist>
+      <lat>46.82</lat>
+      <lon>-71.23</lon>
+      <name>Quebec</name>
+    </location>
+  </cdi>
+</cdidata>

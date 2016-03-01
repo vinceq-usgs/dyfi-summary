@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Reni::OdesÊ¿ka::Ukraine">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>45.45</lat>
+      <lon>28.28</lon>
+      <name>Reni</name>
+    </location>
+    <location name="BacÄƒu::BacÄƒu::Romania">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>46.58</lat>
+      <lon>26.92</lon>
+      <name>BacÄƒu</name>
+    </location>
+    <location name="Bucharest::Bukarest::Romania">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>44.44</lat>
+      <lon>26.10</lon>
+      <name>Bucharest</name>
+    </location>
+    <location name="CernÄƒteÅŸti::BuzÄƒu::Romania">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>45.27</lat>
+      <lon>26.77</lon>
+      <name>CernÄƒteÅŸti</name>
+    </location>
+    <location name="Bragadiru::Ilfov::Romania">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>176</dist>
+      <lat>44.37</lat>
+      <lon>25.98</lon>
+      <name>Bragadiru</name>
+    </location>
+    <location name="Deleni::Vaslui::Romania">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>46.55</lat>
+      <lon>27.75</lon>
+      <name>Deleni</name>
+    </location>
+  </cdi>
+</cdidata>

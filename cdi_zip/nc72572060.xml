@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90266">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>421</dist>
+      <lat>33.8893870912</lat>
+      <lon>-118.397318684</lon>
+      <name>Manhattan Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="95004">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>36.8769387866</lat>
+      <lon>-121.635616407</lon>
+      <name>Aromas</name>
+      <state>CA</state>
+    </location>
+    <location name="95023">
+      <cdi>2</cdi>
+      <nresp>10</nresp>
+      <dist>9</dist>
+      <lat>36.8566762391</lat>
+      <lon>-121.249223359</lon>
+      <name>Hollister</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

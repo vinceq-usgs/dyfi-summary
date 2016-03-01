@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="35462">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>7</dist>
+      <lat>32.9341757636</lat>
+      <lon>-87.98539177</lon>
+      <name>Eutaw</name>
+      <state>AL</state>
+    </location>
+    <location name="35469">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>32.9729594662</lat>
+      <lon>-87.8027916647</lon>
+      <name>Knoxville</name>
+      <state>AL</state>
+    </location>
+    <location name="35473">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>33.2730669606</lat>
+      <lon>-87.5826816724</lon>
+      <name>Northport</name>
+      <state>AL</state>
+    </location>
+    <location name="36104">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>32.3820447085</lat>
+      <lon>-86.3287644982</lon>
+      <name>Montgomery</name>
+      <state>AL</state>
+    </location>
+  </cdi>
+</cdidata>

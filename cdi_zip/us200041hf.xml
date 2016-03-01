@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96910">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>13.47</lat>
+      <lon>144.75</lon>
+      <name>HAGATNA</name>
+      <state>GU</state>
+    </location>
+    <location name="96912">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>13.57</lat>
+      <lon>144.84</lon>
+      <name>DEDEDO</name>
+      <state>GU</state>
+    </location>
+    <location name="96913">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>137</dist>
+      <lat>13.48</lat>
+      <lon>144.80</lon>
+      <name>BARRIGADA</name>
+      <state>GU</state>
+    </location>
+    <location name="96923">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>13.46</lat>
+      <lon>144.84</lon>
+      <name>MANGILAO</name>
+      <state>GU</state>
+    </location>
+    <location name="96927">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>13.47</lat>
+      <lon>144.77</lon>
+      <name>MONGMONG</name>
+      <state>GU</state>
+    </location>
+    <location name="96929">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>126</dist>
+      <lat>13.57</lat>
+      <lon>144.91</lon>
+      <name>YIGO</name>
+      <state>GU</state>
+    </location>
+    <location name="96952">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>195</dist>
+      <lat>15.19</lat>
+      <lon>145.76</lon>
+      <name>TINIAN</name>
+      <state>MP</state>
+    </location>
+  </cdi>
+</cdidata>

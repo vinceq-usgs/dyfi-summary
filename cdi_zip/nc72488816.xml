@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94103">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>37.7731288064</lat>
+      <lon>-122.411274893</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94503">
+      <cdi>2.4261</cdi>
+      <nresp>4</nresp>
+      <dist>10</dist>
+      <lat>38.1933015059</lat>
+      <lon>-122.228210427</lon>
+      <name>American Canyon</name>
+      <state>CA</state>
+    </location>
+    <location name="94509">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.9936917579</lat>
+      <lon>-121.814363931</lon>
+      <name>Antioch</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

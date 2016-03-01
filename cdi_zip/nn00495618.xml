@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="84648">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>303</dist>
+      <lat>39.5836992874</lat>
+      <lon>-111.970116449</lon>
+      <name>Nephi</name>
+      <state>UT</state>
+    </location>
+    <location name="84738">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>37.1721107667</lat>
+      <lon>-113.68465502</lon>
+      <name>Ivins</name>
+      <state>UT</state>
+    </location>
+    <location name="84765">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>37.1354650619</lat>
+      <lon>-113.650913956</lon>
+      <name>Santa Clara</name>
+      <state>UT</state>
+    </location>
+    <location name="84780">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>37.1621902157</lat>
+      <lon>-113.481883433</lon>
+      <name>Washington</name>
+      <state>UT</state>
+    </location>
+    <location name="89048">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>36.1506799116</lat>
+      <lon>-115.989578787</lon>
+      <name>Pahrump</name>
+      <state>NV</state>
+    </location>
+  </cdi>
+</cdidata>

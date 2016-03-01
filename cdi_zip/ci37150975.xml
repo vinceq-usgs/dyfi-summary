@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91356">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>34.1538571902</lat>
+      <lon>-118.546732344</lon>
+      <name>Tarzana</name>
+      <state>CA</state>
+    </location>
+    <location name="93225">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>34.87935294</lat>
+      <lon>-119.120444541</lon>
+      <name>Frazier Park</name>
+      <state>CA</state>
+    </location>
+    <location name="93243">
+      <cdi>2.9893</cdi>
+      <nresp>3</nresp>
+      <dist>19</dist>
+      <lat>34.7065869426</lat>
+      <lon>-118.885192683</lon>
+      <name>Lebec</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,180 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Balamban::Central Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>10.51</lat>
+      <lon>123.72</lon>
+      <name>Balamban</name>
+    </location>
+    <location name="Biasong::Central Visayas::Philippines">
+      <cdi>3.8577</cdi>
+      <nresp>4</nresp>
+      <dist>77</dist>
+      <lat>10.53</lat>
+      <lon>123.74</lon>
+      <name>Biasong</name>
+    </location>
+    <location name="Buagsong::Central Visayas::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>10.32</lat>
+      <lon>123.95</lon>
+      <name>Buagsong</name>
+    </location>
+    <location name="Cabul-an::Central Visayas::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>10.15</lat>
+      <lon>124.05</lon>
+      <name>Cabul-an</name>
+    </location>
+    <location name="Calero::Central Visayas::Philippines">
+      <cdi>3.9249</cdi>
+      <nresp>3</nresp>
+      <dist>49</dist>
+      <lat>10.30</lat>
+      <lon>123.88</lon>
+      <name>Calero</name>
+    </location>
+    <location name="Carcar::Central Visayas::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>10.10</lat>
+      <lon>123.64</lon>
+      <name>Carcar</name>
+    </location>
+    <location name="Cebu::Central Visayas::Philippines">
+      <cdi>3.9929</cdi>
+      <nresp>18</nresp>
+      <dist>49</dist>
+      <lat>10.32</lat>
+      <lon>123.90</lon>
+      <name>Cebu</name>
+    </location>
+    <location name="Consolacion::Central Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>10.38</lat>
+      <lon>123.96</lon>
+      <name>Consolacion</name>
+    </location>
+    <location name="Cuanos::Central Visayas::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>10.28</lat>
+      <lon>123.78</lon>
+      <name>Cuanos</name>
+    </location>
+    <location name="Dapitan::Central Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>10.27</lat>
+      <lon>123.95</lon>
+      <name>Dapitan</name>
+    </location>
+    <location name="Gabi::Central Visayas::Philippines">
+      <cdi>3.5060</cdi>
+      <nresp>3</nresp>
+      <dist>40</dist>
+      <lat>10.26</lat>
+      <lon>123.96</lon>
+      <name>Gabi</name>
+    </location>
+    <location name="Garcia Hernandez::Central Visayas::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>9.62</lat>
+      <lon>124.30</lon>
+      <name>Garcia Hernandez</name>
+    </location>
+    <location name="Jaclupan::Central Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>10.30</lat>
+      <lon>123.82</lon>
+      <name>Jaclupan</name>
+    </location>
+    <location name="Lapu-Lapu::Central Visayas::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>45</dist>
+      <lat>10.33</lat>
+      <lon>123.96</lon>
+      <name>Lapu-Lapu</name>
+    </location>
+    <location name="Magay::Central Visayas::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>10.47</lat>
+      <lon>124.01</lon>
+      <name>Magay</name>
+    </location>
+    <location name="Mandaue::Central Visayas::Philippines">
+      <cdi>3.7738</cdi>
+      <nresp>7</nresp>
+      <dist>47</dist>
+      <lat>10.33</lat>
+      <lon>123.93</lon>
+      <name>Mandaue</name>
+    </location>
+    <location name="Minglanilla::Central Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>10.25</lat>
+      <lon>123.78</lon>
+      <name>Minglanilla</name>
+    </location>
+    <location name="Talisay (Talisay, Cebu)::Central Visayas::Philippines">
+      <cdi>3.3637</cdi>
+      <nresp>4</nresp>
+      <dist>50</dist>
+      <lat>10.26</lat>
+      <lon>123.84</lon>
+      <name>Talisay (Talisay, Cebu)</name>
+    </location>
+    <location name="Tangke (Naga, Cebu)::Central Visayas::Philippines">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>48</dist>
+      <lat>10.25</lat>
+      <lon>123.86</lon>
+      <name>Tangke (Naga, Cebu)</name>
+    </location>
+    <location name="Uling::Central Visayas::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>10.28</lat>
+      <lon>123.71</lon>
+      <name>Uling</name>
+    </location>
+    <location name="Lacson::Southern Mindanao::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>339</dist>
+      <lat>7.21</lat>
+      <lon>125.44</lon>
+      <name>Lacson</name>
+    </location>
+    <location name="Talisay::Western Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>10.74</lat>
+      <lon>122.97</lon>
+      <name>Talisay</name>
+    </location>
+  </cdi>
+</cdidata>

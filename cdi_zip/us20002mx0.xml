@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67218">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>187</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73034">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>134</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73729">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>36.4206601556</lat>
+      <lon>-98.464175698</lon>
+      <name>Cleo Springs</name>
+      <state>OK</state>
+    </location>
+    <location name="73737">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>36.2867246137</lat>
+      <lon>-98.6108810692</lon>
+      <name>Fairview</name>
+      <state>OK</state>
+    </location>
+    <location name="73747">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>36.2366798013</lat>
+      <lon>-98.3415993106</lon>
+      <name>Isabella</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

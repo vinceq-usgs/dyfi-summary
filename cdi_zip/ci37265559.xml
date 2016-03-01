@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91761">
+      <cdi>3.3926</cdi>
+      <nresp>7</nresp>
+      <dist>5</dist>
+      <lat>34.0345221452</lat>
+      <lon>-117.592677765</lon>
+      <name>Ontario</name>
+      <state>CA</state>
+    </location>
+    <location name="92860">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.9246632061</lat>
+      <lon>-117.55268765</lon>
+      <name>Norco</name>
+      <state>CA</state>
+    </location>
+    <location name="92879">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>16</dist>
+      <lat>33.8802003047</lat>
+      <lon>-117.537999658</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+    <location name="92880">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.9212642945</lat>
+      <lon>-117.611282855</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

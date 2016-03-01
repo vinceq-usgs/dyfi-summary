@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67003">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>70</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="75039">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>433</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75062">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>437</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75220">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>437</dist>
+      <lat>32.8669930898</lat>
+      <lon>-96.8778633804</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75234">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>431</dist>
+      <lat>32.9238373245</lat>
+      <lon>-96.8903418275</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75235">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>442</dist>
+      <lat>32.8315449377</lat>
+      <lon>-96.8479558357</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76009">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>476</dist>
+      <lat>32.4185305831</lat>
+      <lon>-97.2044749595</lon>
+      <name>Alvarado</name>
+      <state>TX</state>
+    </location>
+    <location name="76084">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>477</dist>
+      <lat>32.4358033098</lat>
+      <lon>-97.0921615573</lon>
+      <name>Venus</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

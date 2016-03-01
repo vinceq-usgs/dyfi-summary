@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chatan::Okinawa::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>74</dist>
+      <lat>26.30</lat>
+      <lon>127.76</lon>
+      <name>Chatan</name>
+    </location>
+    <location name="Ishikawa::Okinawa::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>76</dist>
+      <lat>26.42</lat>
+      <lon>127.83</lon>
+      <name>Ishikawa</name>
+    </location>
+    <location name="Yomitan::Okinawa::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>26.39</lat>
+      <lon>127.73</lon>
+      <name>Yomitan</name>
+    </location>
+  </cdi>
+</cdidata>

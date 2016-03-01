@@ -1,0 +1,62 @@
+#! /usr/bin/perl
+
+use strict;
+use warnings;
+
+use lib '/home/shake/ciim3/perl';
+use GeocoderAPI;
+
+my $input = $ARGV[0];
+die "Usage: $0 input [output]\n" unless ($input);
+
+open IN,$input or die "Cannot open $input";
+
+
+my $del = chr(13);
+my @slurp = <IN>;
+my $slurp = join '',@slurp;
+$slurp =~ s/$del/\n/g;
+close IN;
+
+my $output = $ARGV[1] || $input . ".geocoded";
+
+unlink $output if (-e $output);
+my $geo = GeocoderAPI->new('google','raw');
+
+my $n=0;
+foreach my $line (split /\n/,$slurp) {
+  $n++;
+  unless ($n % 50) {
+    print "Entry $n, sleeping...\n";
+    sleep 5;
+  }
+  
+  chomp $line;
+  $line =~ s/"//g;
+  my ($t,$lat,$lon,undef) = split /,/,$line;
+  my $results = $geo->geocode("$lat,$lon");
+  my $zip = get_zip($results);
+  next unless ($zip);
+
+  print "Got $lat,$lon: $zip (CDI $t)\n";
+  system "echo $t,$lon,$lat,$zip >> $output\n";
+}
+
+exit;
+
+sub get_zip {
+  my $results = shift;
+
+  return 'CA' if ($results =~ /sxcn:"CA"/);
+  my ($zip) = ($results =~ /sxpo:\"?(\d+)\"?,/);
+  return $zip if (defined $zip and $zip =~ /\d{5}/);
+
+  $zip = ($results =~ /laddr:".*?(\d{5})"/);
+  return $zip if ($zip);
+
+  print "WARNING! Invalid entry:\n$results\n\n";
+  return;
+} 
+
+
+

@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67749">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>511</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="74074">
+      <cdi>3.3637</cdi>
+      <nresp>5</nresp>
+      <dist>8</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74078">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>5</dist>
+      <lat>36.1268891113</lat>
+      <lon>-97.0810412844</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

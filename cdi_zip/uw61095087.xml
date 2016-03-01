@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98101">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>47.6114677305</lat>
+      <lon>-122.334008882</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98104">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>47.6016873065</lat>
+      <lon>-122.327813516</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98107">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>47.6682113569</lat>
+      <lon>-122.377232272</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98108">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>47.5410213285</lat>
+      <lon>-122.31249725</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98109">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>47.6310230041</lat>
+      <lon>-122.34551654</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98116">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>47.5741543181</lat>
+      <lon>-122.395127928</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98134">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>47.576952114</lat>
+      <lon>-122.336446882</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98168">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>47.4885641616</lat>
+      <lon>-122.301070767</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98178">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>47.4964308247</lat>
+      <lon>-122.250881271</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98195">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>47.6549776835</lat>
+      <lon>-122.301956604</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98199">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>47.6512184205</lat>
+      <lon>-122.40265058</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98466">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>47.2277023081</lat>
+      <lon>-122.53631724</lon>
+      <name>Tacoma</name>
+      <state>WA</state>
+    </location>
+    <location name="98682">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>216</dist>
+      <lat>45.675914217</lat>
+      <lon>-122.473001048</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

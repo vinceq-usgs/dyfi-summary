@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67208">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73065">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>35.2481656318</lat>
+      <lon>-97.6132176278</lon>
+      <name>Newcastle</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.1718</cdi>
+      <nresp>3</nresp>
+      <dist>31</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73761">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>36.7154412504</lat>
+      <lon>-98.014218327</lon>
+      <name>Nash</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74651">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>36.4769043058</lat>
+      <lon>-97.1693620789</lon>
+      <name>Red Rock</name>
+      <state>OK</state>
+    </location>
+    <location name="74878">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>198</dist>
+      <lat>35.0042363754</lat>
+      <lon>-97.0365482408</lon>
+      <name>Wanette</name>
+      <state>OK</state>
+    </location>
+    <location name="75039">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>427</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

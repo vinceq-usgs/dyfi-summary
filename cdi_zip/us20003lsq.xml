@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Peñaflor::Metropolitana::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>287</dist>
+      <lat>-33.62</lat>
+      <lon>-70.92</lon>
+      <name>Peñaflor</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>4</nresp>
+      <dist>278</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="San Antonio::Valparaíso::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>278</dist>
+      <lat>-33.60</lat>
+      <lon>-71.61</lon>
+      <name>San Antonio</name>
+    </location>
+    <location name="Valparaíso::Valparaíso::Chile">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>216</dist>
+      <lat>-33.04</lat>
+      <lon>-71.64</lon>
+      <name>Valparaíso</name>
+    </location>
+  </cdi>
+</cdidata>

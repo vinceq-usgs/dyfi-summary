@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93401">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>439</dist>
+      <lat>35.2351989007</lat>
+      <lon>-120.62032767</lon>
+      <name>San Luis Obispo</name>
+      <state>CA</state>
+    </location>
+    <location name="93721">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>350</dist>
+      <lat>36.7328712563</lat>
+      <lon>-119.783726361</lon>
+      <name>Fresno</name>
+      <state>CA</state>
+    </location>
+    <location name="94040">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>37.3803257432</lat>
+      <lon>-122.085468091</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94502">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>37.7370275945</lat>
+      <lon>-122.2411586</lon>
+      <name>Alameda</name>
+      <state>CA</state>
+    </location>
+    <location name="94558">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94560">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>37.5190599771</lat>
+      <lon>-122.046489982</lon>
+      <name>Newark</name>
+      <state>CA</state>
+    </location>
+    <location name="95330">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>37.813939982</lat>
+      <lon>-121.305185298</lon>
+      <name>Lathrop</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

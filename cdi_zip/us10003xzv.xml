@@ -1,0 +1,100 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Catamarca::Catamarca::Argentina">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>199</dist>
+      <lat>-28.47</lat>
+      <lon>-65.78</lon>
+      <name>Catamarca</name>
+    </location>
+    <location name="Alta Gracia::Córdoba::Argentina">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>202</dist>
+      <lat>-31.66</lat>
+      <lon>-64.43</lon>
+      <name>Alta Gracia</name>
+    </location>
+    <location name="Córdoba::Córdoba::Argentina">
+      <cdi>3.9346</cdi>
+      <nresp>32</nresp>
+      <dist>176</dist>
+      <lat>-31.40</lat>
+      <lon>-64.19</lon>
+      <name>Córdoba</name>
+    </location>
+    <location name="Río Tercero::Córdoba::Argentina">
+      <cdi>3.7114</cdi>
+      <nresp>5</nresp>
+      <dist>262</dist>
+      <lat>-32.18</lat>
+      <lon>-64.12</lon>
+      <name>Río Tercero</name>
+    </location>
+    <location name="Villa Carlos Paz::Córdoba::Argentina">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>175</dist>
+      <lat>-31.42</lat>
+      <lon>-64.50</lon>
+      <name>Villa Carlos Paz</name>
+    </location>
+    <location name="La Rioja::La Rioja::Argentina">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>234</dist>
+      <lat>-29.41</lat>
+      <lon>-66.85</lon>
+      <name>La Rioja</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>532</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>429</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="Mercedes::San Luis::Argentina">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>436</dist>
+      <lat>-33.69</lat>
+      <lon>-65.47</lon>
+      <name>Mercedes</name>
+    </location>
+    <location name="Santiago del Estero::Santiago del Estero::Argentina">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>230</dist>
+      <lat>-27.80</lat>
+      <lon>-64.28</lon>
+      <name>Santiago del Estero</name>
+    </location>
+    <location name="Tucumán::Tucumán::Argentina">
+      <cdi>3.3169</cdi>
+      <nresp>4</nresp>
+      <dist>343</dist>
+      <lat>-26.83</lat>
+      <lon>-65.22</lon>
+      <name>Tucumán</name>
+    </location>
+    <location name="Fernando de la Mora::Central::Paraguay">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>847</dist>
+      <lat>-25.32</lat>
+      <lon>-57.59</lon>
+      <name>Fernando de la Mora</name>
+    </location>
+  </cdi>
+</cdidata>

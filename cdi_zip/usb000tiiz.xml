@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="ConcepciÃ³n::BÃ­o BÃ­o::Chile">
+      <cdi>3.0481</cdi>
+      <nresp>7</nresp>
+      <dist>53</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>ConcepciÃ³n</name>
+    </location>
+    <location name="Coronel::BÃ­o BÃ­o::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>-37.03</lat>
+      <lon>-73.16</lon>
+      <name>Coronel</name>
+    </location>
+  </cdi>
+</cdidata>

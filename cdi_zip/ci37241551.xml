@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91101">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>34.146589543</lat>
+      <lon>-118.138902166</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91773">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>34.107197891</lat>
+      <lon>-117.808886066</lon>
+      <name>San Dimas</name>
+      <state>CA</state>
+    </location>
+    <location name="92335">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.0869349564</lat>
+      <lon>-117.466361873</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92336">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>34.1352054936</lat>
+      <lon>-117.462098185</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92376">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>34.1106765881</lat>
+      <lon>-117.380207744</lon>
+      <name>Rialto</name>
+      <state>CA</state>
+    </location>
+    <location name="92410">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>34.1120383992</lat>
+      <lon>-117.293639495</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92504">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>33.9069849785</lat>
+      <lon>-117.398750805</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

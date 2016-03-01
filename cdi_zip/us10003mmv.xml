@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Tshongdue::Paro::Bhutan">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>27.44</lat>
+      <lon>89.42</lon>
+      <name>Tshongdue</name>
+    </location>
+    <location name="Thimphu::Thimphu::Bhutan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>27.48</lat>
+      <lon>89.70</lon>
+      <name>Thimphu</name>
+    </location>
+    <location name="Uttar Bagdogra::Bangla::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>26.70</lat>
+      <lon>88.32</lon>
+      <name>Uttar Bagdogra</name>
+    </location>
+    <location name="Jalpaiguri::Bangla::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>26.53</lat>
+      <lon>88.71</lon>
+      <name>Jalpaiguri</name>
+    </location>
+    <location name="Kalimpong::Bangla::India">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>27.07</lat>
+      <lon>88.48</lon>
+      <name>Kalimpong</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Katihār::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>227</dist>
+      <lat>25.55</lat>
+      <lon>87.57</lon>
+      <name>Katihār</name>
+    </location>
+    <location name="Gangtok::Sikkim::India">
+      <cdi>3.7738</cdi>
+      <nresp>8</nresp>
+      <dist>52</dist>
+      <lat>27.34</lat>
+      <lon>88.61</lon>
+      <name>Gangtok</name>
+    </location>
+    <location name="Namchi::Sikkim::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>27.17</lat>
+      <lon>88.35</lon>
+      <name>Namchi</name>
+    </location>
+    <location name="Singtam::Sikkim::India">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>27.23</lat>
+      <lon>88.50</lon>
+      <name>Singtam</name>
+    </location>
+  </cdi>
+</cdidata>

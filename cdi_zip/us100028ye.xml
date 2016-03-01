@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Anse-la-Raye::Anse-la-Raye::Saint Lucia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>13.93</lat>
+      <lon>-61.03</lon>
+      <name>Anse-la-Raye</name>
+    </location>
+    <location name="Castries::Castries::Saint Lucia">
+      <cdi>2.9633</cdi>
+      <nresp>4</nresp>
+      <dist>93</dist>
+      <lat>14.03</lat>
+      <lon>-60.98</lon>
+      <name>Castries</name>
+    </location>
+    <location name="Choc::Castries::Saint Lucia">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>92</dist>
+      <lat>14.03</lat>
+      <lon>-60.97</lon>
+      <name>Choc</name>
+    </location>
+    <location name="Cap Estate::Gros Inlet::Saint Lucia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>14.08</lat>
+      <lon>-60.95</lon>
+      <name>Cap Estate</name>
+    </location>
+    <location name="Gros Islet::Gros Inlet::Saint Lucia">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>14.08</lat>
+      <lon>-60.96</lon>
+      <name>Gros Islet</name>
+    </location>
+    <location name="Micoud::Micoud::Saint Lucia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>13.82</lat>
+      <lon>-60.90</lon>
+      <name>Micoud</name>
+    </location>
+    <location name="Kingstown::Saint George::Saint Vincent and The Grenadines">
+      <cdi>2.8570</cdi>
+      <nresp>4</nresp>
+      <dist>146</dist>
+      <lat>13.16</lat>
+      <lon>-61.23</lon>
+      <name>Kingstown</name>
+    </location>
+    <location name="Fort-de-France::Fort-de-France::Martinique">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>14.60</lat>
+      <lon>-61.08</lon>
+      <name>Fort-de-France</name>
+    </location>
+    <location name="Le Lamentin::Fort-de-France::Martinique">
+      <cdi>3.7738</cdi>
+      <nresp>4</nresp>
+      <dist>116</dist>
+      <lat>14.60</lat>
+      <lon>-61.00</lon>
+      <name>Le Lamentin</name>
+    </location>
+    <location name="Saint-Joseph::Fort-de-France::Martinique">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>14.67</lat>
+      <lon>-61.04</lon>
+      <name>Saint-Joseph</name>
+    </location>
+    <location name="Schoelcher::Fort-de-France::Martinique">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>14.63</lat>
+      <lon>-61.12</lon>
+      <name>Schoelcher</name>
+    </location>
+    <location name="Ducos::Le Marin::Martinique">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>14.57</lat>
+      <lon>-60.98</lon>
+      <name>Ducos</name>
+    </location>
+    <location name="Le Marin::Le Marin::Martinique">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>100</dist>
+      <lat>14.47</lat>
+      <lon>-60.87</lon>
+      <name>Le Marin</name>
+    </location>
+  </cdi>
+</cdidata>

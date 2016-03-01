@@ -1,0 +1,228 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Mexico City::Distrito Federal::Mexico">
+      <cdi>2.6228</cdi>
+      <nresp>30</nresp>
+      <dist>277</dist>
+      <lat>19.43</lat>
+      <lon>-99.14</lon>
+      <name>Mexico City</name>
+    </location>
+    <location name="Acapulco::Guerrero::Mexico">
+      <cdi>3.8520</cdi>
+      <nresp>10</nresp>
+      <dist>113</dist>
+      <lat>16.85</lat>
+      <lon>-99.92</lon>
+      <name>Acapulco</name>
+    </location>
+    <location name="Ayutla::Guerrero::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>48</dist>
+      <lat>16.90</lat>
+      <lon>-99.22</lon>
+      <name>Ayutla</name>
+    </location>
+    <location name="Tixtla::Guerrero::Mexico">
+      <cdi>5.9721</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>17.58</lat>
+      <lon>-99.43</lon>
+      <name>Tixtla</name>
+    </location>
+    <location name="Morelia::Michoacán::Mexico">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>390</dist>
+      <lat>19.72</lat>
+      <lon>-101.18</lon>
+      <name>Morelia</name>
+    </location>
+    <location name="Cuernavaca::Morelos::Mexico">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>223</dist>
+      <lat>18.92</lat>
+      <lon>-99.25</lon>
+      <name>Cuernavaca</name>
+    </location>
+    <location name="Chalco::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>257</dist>
+      <lat>19.26</lat>
+      <lon>-98.90</lon>
+      <name>Chalco</name>
+    </location>
+    <location name="Coatepec (San Bartolomé Coatepec)::México::Mexico">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>274</dist>
+      <lat>19.39</lat>
+      <lon>-99.31</lon>
+      <name>Coatepec (San Bartolomé Coatepec)</name>
+    </location>
+    <location name="Los Reyes::México::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>268</dist>
+      <lat>19.36</lat>
+      <lon>-98.98</lon>
+      <name>Los Reyes</name>
+    </location>
+    <location name="Metepec::México::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>269</dist>
+      <lat>19.27</lat>
+      <lon>-99.62</lon>
+      <name>Metepec</name>
+    </location>
+    <location name="Naucalpan::México::Mexico">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>283</dist>
+      <lat>19.48</lat>
+      <lon>-99.23</lon>
+      <name>Naucalpan</name>
+    </location>
+    <location name="Nezahualcóyotl::México::Mexico">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>274</dist>
+      <lat>19.41</lat>
+      <lon>-99.03</lon>
+      <name>Nezahualcóyotl</name>
+    </location>
+    <location name="Tianguistenco::México::Mexico">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>255</dist>
+      <lat>19.18</lat>
+      <lon>-99.47</lon>
+      <name>Tianguistenco</name>
+    </location>
+    <location name="Tlalnepantla::México::Mexico">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>289</dist>
+      <lat>19.54</lat>
+      <lon>-99.19</lon>
+      <name>Tlalnepantla</name>
+    </location>
+    <location name="Toluca::México::Mexico">
+      <cdi>3.3345</cdi>
+      <nresp>4</nresp>
+      <dist>272</dist>
+      <lat>19.29</lat>
+      <lon>-99.67</lon>
+      <name>Toluca</name>
+    </location>
+    <location name="Tultepec (San Pedro de Tultepec)::México::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>304</dist>
+      <lat>19.68</lat>
+      <lon>-99.13</lon>
+      <name>Tultepec (San Pedro de Tultepec)</name>
+    </location>
+    <location name="Vista Hermosa::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>287</dist>
+      <lat>19.52</lat>
+      <lon>-99.22</lon>
+      <name>Vista Hermosa</name>
+    </location>
+    <location name="Xico::México::Mexico">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>258</dist>
+      <lat>19.27</lat>
+      <lon>-98.94</lon>
+      <name>Xico</name>
+    </location>
+    <location name="Yachihuacaltepec::México::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>276</dist>
+      <lat>19.32</lat>
+      <lon>-99.68</lon>
+      <name>Yachihuacaltepec</name>
+    </location>
+    <location name="Zacamulpa::México::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>271</dist>
+      <lat>19.36</lat>
+      <lon>-99.33</lon>
+      <name>Zacamulpa</name>
+    </location>
+    <location name="Huajuapan::Oaxaca::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>17.81</lat>
+      <lon>-97.79</lon>
+      <name>Huajuapan</name>
+    </location>
+    <location name="Oaxaca::Oaxaca::Mexico">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>235</dist>
+      <lat>17.07</lat>
+      <lon>-96.72</lon>
+      <name>Oaxaca</name>
+    </location>
+    <location name="Puerto Escondido::Oaxaca::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>233</dist>
+      <lat>15.85</lat>
+      <lon>-97.07</lon>
+      <name>Puerto Escondido</name>
+    </location>
+    <location name="Santa María del Tule::Oaxaca::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>245</dist>
+      <lat>17.03</lat>
+      <lon>-96.62</lon>
+      <name>Santa María del Tule</name>
+    </location>
+    <location name="Puebla::Puebla::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>245</dist>
+      <lat>19.05</lat>
+      <lon>-98.22</lon>
+      <name>Puebla</name>
+    </location>
+    <location name="Tlaxcalancingo::Puebla::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>241</dist>
+      <lat>19.03</lat>
+      <lon>-98.27</lon>
+      <name>Tlaxcalancingo</name>
+    </location>
+    <location name="Boca del Río::Veracruz::Mexico">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>381</dist>
+      <lat>19.12</lat>
+      <lon>-96.12</lon>
+      <name>Boca del Río</name>
+    </location>
+    <location name="Tenango de Río Blanco::Veracruz::Mexico">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>285</dist>
+      <lat>18.85</lat>
+      <lon>-97.11</lon>
+      <name>Tenango de Río Blanco</name>
+    </location>
+  </cdi>
+</cdidata>

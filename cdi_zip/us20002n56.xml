@@ -1,0 +1,220 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Amaroúsion::Attikí::Greece">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>73</dist>
+      <lat>38.05</lat>
+      <lon>23.80</lon>
+      <name>Amaroúsion</name>
+    </location>
+    <location name="Aryiroúpoli::Attikí::Greece">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>86</dist>
+      <lat>37.90</lat>
+      <lon>23.75</lon>
+      <name>Aryiroúpoli</name>
+    </location>
+    <location name="Athens::Attikí::Greece">
+      <cdi>3.2152</cdi>
+      <nresp>8</nresp>
+      <dist>78</dist>
+      <lat>37.98</lat>
+      <lon>23.73</lon>
+      <name>Athens</name>
+    </location>
+    <location name="Ayía Paraskeví::Attikí::Greece">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>38.01</lat>
+      <lon>23.83</lon>
+      <name>Ayía Paraskeví</name>
+    </location>
+    <location name="Erithraí::Attikí::Greece">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>38.22</lat>
+      <lon>23.32</lon>
+      <name>Erithraí</name>
+    </location>
+    <location name="Filí::Attikí::Greece">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>38.10</lat>
+      <lon>23.67</lon>
+      <name>Filí</name>
+    </location>
+    <location name="Kalamákion::Attikí::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>37.92</lat>
+      <lon>23.72</lon>
+      <name>Kalamákion</name>
+    </location>
+    <location name="Kallithéa::Attikí::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>37.95</lat>
+      <lon>23.70</lon>
+      <name>Kallithéa</name>
+    </location>
+    <location name="Kipséli::Attikí::Greece">
+      <cdi>3.8696</cdi>
+      <nresp>8</nresp>
+      <dist>76</dist>
+      <lat>38.00</lat>
+      <lon>23.73</lon>
+      <name>Kipséli</name>
+    </location>
+    <location name="Likóvrisi::Attikí::Greece">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>38.07</lat>
+      <lon>23.78</lon>
+      <name>Likóvrisi</name>
+    </location>
+    <location name="Néa Ionía::Attikí::Greece">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>73</dist>
+      <lat>38.03</lat>
+      <lon>23.75</lon>
+      <name>Néa Ionía</name>
+    </location>
+    <location name="Néa Mákri::Attikí::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>38.08</lat>
+      <lon>23.98</lon>
+      <name>Néa Mákri</name>
+    </location>
+    <location name="Néa Smírni::Attikí::Greece">
+      <cdi>3.9347</cdi>
+      <nresp>3</nresp>
+      <dist>80</dist>
+      <lat>37.95</lat>
+      <lon>23.72</lon>
+      <name>Néa Smírni</name>
+    </location>
+    <location name="Palaión Fáliron::Attikí::Greece">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>82</dist>
+      <lat>37.93</lat>
+      <lon>23.70</lon>
+      <name>Palaión Fáliron</name>
+    </location>
+    <location name="Pentéli::Attikí::Greece">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>38.05</lat>
+      <lon>23.87</lon>
+      <name>Pentéli</name>
+    </location>
+    <location name="Peristérion::Attikí::Greece">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>38.02</lat>
+      <lon>23.70</lon>
+      <name>Peristérion</name>
+    </location>
+    <location name="Peúki::Attikí::Greece">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>72</dist>
+      <lat>38.06</lat>
+      <lon>23.79</lon>
+      <name>Peúki</name>
+    </location>
+    <location name="Piraieús::Attikí::Greece">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>37.96</lat>
+      <lon>23.64</lon>
+      <name>Piraieús</name>
+    </location>
+    <location name="Rafína::Attikí::Greece">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>38.02</lat>
+      <lon>24.00</lon>
+      <name>Rafína</name>
+    </location>
+    <location name="Stamáta::Attikí::Greece">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>38.13</lat>
+      <lon>23.88</lon>
+      <name>Stamáta</name>
+    </location>
+    <location name="Voúla::Attikí::Greece">
+      <cdi>4.2084</cdi>
+      <nresp>2</nresp>
+      <dist>92</dist>
+      <lat>37.85</lat>
+      <lon>23.77</lon>
+      <name>Voúla</name>
+    </location>
+    <location name="Zográfos::Attikí::Greece">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>79</dist>
+      <lat>37.98</lat>
+      <lon>23.77</lon>
+      <name>Zográfos</name>
+    </location>
+    <location name="Áyioi Anáryiroi::Attikí::Greece">
+      <cdi>3.1663</cdi>
+      <nresp>3</nresp>
+      <dist>73</dist>
+      <lat>38.02</lat>
+      <lon>23.72</lon>
+      <name>Áyioi Anáryiroi</name>
+    </location>
+    <location name="Delfoí::Fokís::Greece">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>38.48</lat>
+      <lon>22.50</lon>
+      <name>Delfoí</name>
+    </location>
+    <location name="Gorítsa::Magnisía::Greece">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>39.35</lat>
+      <lon>22.97</lon>
+      <name>Gorítsa</name>
+    </location>
+    <location name="Skíathos::Magnisía::Greece">
+      <cdi>3.2031</cdi>
+      <nresp>2</nresp>
+      <dist>62</dist>
+      <lat>39.17</lat>
+      <lon>23.48</lon>
+      <name>Skíathos</name>
+    </location>
+    <location name="Vathí::Évvoia::Greece">
+      <cdi>5.1522</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>38.40</lat>
+      <lon>23.60</lon>
+      <name>Vathí</name>
+    </location>
+  </cdi>
+</cdidata>

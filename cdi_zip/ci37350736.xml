@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>206</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="92201">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>31</dist>
+      <lat>33.707623363</lat>
+      <lon>-116.234525355</lon>
+      <name>Indio</name>
+      <state>CA</state>
+    </location>
+    <location name="92203">
+      <cdi>2.5686</cdi>
+      <nresp>6</nresp>
+      <dist>27</dist>
+      <lat>33.7517583205</lat>
+      <lon>-116.241723548</lon>
+      <name>Indio</name>
+      <state>CA</state>
+    </location>
+    <location name="92211">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>33</dist>
+      <lat>33.7642960411</lat>
+      <lon>-116.330157044</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92252">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>34</dist>
+      <lat>34.1566779859</lat>
+      <lon>-116.288023465</lon>
+      <name>Joshua Tree</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92262">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>33.8625160663</lat>
+      <lon>-116.56832194</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92264">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>51</dist>
+      <lat>33.7408622467</lat>
+      <lon>-116.535954528</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92277">
+      <cdi>2.4498</cdi>
+      <nresp>11</nresp>
+      <dist>39</dist>
+      <lat>34.1987854155</lat>
+      <lon>-115.76081204</lon>
+      <name>Twentynine Palms</name>
+      <state>CA</state>
+    </location>
+    <location name="92282">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>33.9616458219</lat>
+      <lon>-116.662350233</lon>
+      <name>White Water</name>
+      <state>CA</state>
+    </location>
+    <location name="92596">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>33.6355435193</lat>
+      <lon>-117.073133704</lon>
+      <name>Winchester</name>
+      <state>CA</state>
+    </location>
+    <location name="92672">
+      <cdi>3.2754</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>33.3967264913</lat>
+      <lon>-117.553883921</lon>
+      <name>San Clemente</name>
+      <state>CA</state>
+    </location>
+    <location name="93555">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>234</dist>
+      <lat>35.6917311746</lat>
+      <lon>-117.449167256</lon>
+      <name>Ridgecrest</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

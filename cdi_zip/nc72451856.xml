@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>395</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="93003">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>304</dist>
+      <lat>34.2789920855</lat>
+      <lon>-119.218580733</lon>
+      <name>Ventura</name>
+      <state>CA</state>
+    </location>
+    <location name="93420">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>35.1408941229</lat>
+      <lon>-120.414250835</lon>
+      <name>Arroyo Grande</name>
+      <state>CA</state>
+    </location>
+    <location name="93614">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>37.1993934772</lat>
+      <lon>-119.738284717</lon>
+      <name>Coarsegold</name>
+      <state>CA</state>
+    </location>
+    <location name="93637">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>36.9096949155</lat>
+      <lon>-120.161091462</lon>
+      <name>Madera</name>
+      <state>CA</state>
+    </location>
+    <location name="93640">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>36.6220216412</lat>
+      <lon>-120.555936325</lon>
+      <name>Mendota</name>
+      <state>CA</state>
+    </location>
+    <location name="94105">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>37.7885713861</lat>
+      <lon>-122.393818386</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95006">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>37.1708196502</lat>
+      <lon>-122.150500522</lon>
+      <name>Boulder Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="95054">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>37.3933177105</lat>
+      <lon>-121.96494896</lon>
+      <name>Santa Clara</name>
+      <state>CA</state>
+    </location>
+    <location name="95060">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>37.0592413896</lat>
+      <lon>-122.157700218</lon>
+      <name>Santa Cruz</name>
+      <state>CA</state>
+    </location>
+    <location name="95076">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>36.9415955433</lat>
+      <lon>-121.749518093</lon>
+      <name>Watsonville</name>
+      <state>CA</state>
+    </location>
+    <location name="95126">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>37.3268750735</lat>
+      <lon>-121.916914377</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+    <location name="95301">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>37.308897803</lat>
+      <lon>-120.653711547</lon>
+      <name>Atwater</name>
+      <state>CA</state>
+    </location>
+    <location name="95380">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>37.4720726269</lat>
+      <lon>-120.872713327</lon>
+      <name>Turlock</name>
+      <state>CA</state>
+    </location>
+    <location name="95691">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>224</dist>
+      <lat>38.6161932035</lat>
+      <lon>-121.581620351</lon>
+      <name>West Sacramento</name>
+      <state>CA</state>
+    </location>
+    <location name="95814">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>219</dist>
+      <lat>38.5813486611</lat>
+      <lon>-121.495574369</lon>
+      <name>Sacramento</name>
+      <state>CA</state>
+    </location>
+    <location name="96001">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>457</dist>
+      <lat>40.598019567</lat>
+      <lon>-122.46979591</lon>
+      <name>Redding</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

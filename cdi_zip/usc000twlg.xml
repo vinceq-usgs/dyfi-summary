@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Belgrade::Central Serbia::Serbia and Montenegro">
+      <cdi>2.9238</cdi>
+      <nresp>7</nresp>
+      <dist>89</dist>
+      <lat>44.83</lat>
+      <lon>20.50</lon>
+      <name>Belgrade</name>
+    </location>
+    <location name="Bor::Central Serbia::Serbia and Montenegro">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>173</dist>
+      <lat>44.13</lat>
+      <lon>22.10</lon>
+      <name>Bor</name>
+    </location>
+    <location name="BorÄa::Central Serbia::Serbia and Montenegro">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>91</dist>
+      <lat>44.87</lat>
+      <lon>20.45</lon>
+      <name>BorÄa</name>
+    </location>
+    <location name="Gornji Milanovac::Central Serbia::Serbia and Montenegro">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>44.03</lat>
+      <lon>20.46</lon>
+      <name>Gornji Milanovac</name>
+    </location>
+    <location name="KoÅ›jeric::Central Serbia::Serbia and Montenegro">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>44.00</lat>
+      <lon>19.91</lon>
+      <name>KoÅ›jeric</name>
+    </location>
+    <location name="Kragujevac::Central Serbia::Serbia and Montenegro">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>44.02</lat>
+      <lon>20.92</lon>
+      <name>Kragujevac</name>
+    </location>
+    <location name="SremÄica::Central Serbia::Serbia and Montenegro">
+      <cdi>3.9249</cdi>
+      <nresp>5</nresp>
+      <dist>70</dist>
+      <lat>44.68</lat>
+      <lon>20.39</lon>
+      <name>SremÄica</name>
+    </location>
+    <location name="Cacak::Central Serbia::Serbia and Montenegro">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>43.90</lat>
+      <lon>20.33</lon>
+      <name>Cacak</name>
+    </location>
+    <location name="Novi Sad::Vojvodina::Serbia and Montenegro">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>45.25</lat>
+      <lon>19.85</lon>
+      <name>Novi Sad</name>
+    </location>
+    <location name="Bijeljina::Republika Srpska::Bosnia and Herzegovina">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>44.76</lat>
+      <lon>19.22</lon>
+      <name>Bijeljina</name>
+    </location>
+    <location name="Prnjavor::Republika Srpska::Bosnia and Herzegovina">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>198</dist>
+      <lat>44.87</lat>
+      <lon>17.66</lon>
+      <name>Prnjavor</name>
+    </location>
+  </cdi>
+</cdidata>

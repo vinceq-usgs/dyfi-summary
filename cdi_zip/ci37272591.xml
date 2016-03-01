@@ -1,0 +1,47 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91355">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>394</dist>
+      <lat>34.4226337105</lat>
+      <lon>-118.60635349</lon>
+      <name>Valencia</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="El Sauzal::Baja California::Mexico">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>70</dist>
+      <lat>31.90</lat>
+      <lon>-116.68</lon>
+      <name>El Sauzal</name>
+    </location>
+    <location name="Ensenada::Baja California::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>31.87</lat>
+      <lon>-116.62</lon>
+      <name>Ensenada</name>
+    </location>
+    <location name="Lázaro Cárdenas::Baja California::Mexico">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>31.41</lat>
+      <lon>-115.74</lon>
+      <name>Lázaro Cárdenas</name>
+    </location>
+    <location name="Maneadero::Baja California::Mexico">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>31.72</lat>
+      <lon>-116.57</lon>
+      <name>Maneadero</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Antofagasta::Antofagasta::Chile">
+      <cdi>2.7958</cdi>
+      <nresp>4</nresp>
+      <dist>269</dist>
+      <lat>-23.65</lat>
+      <lon>-70.39</lon>
+      <name>Antofagasta</name>
+    </location>
+    <location name="Calama::Antofagasta::Chile">
+      <cdi>3.7609</cdi>
+      <nresp>9</nresp>
+      <dist>133</dist>
+      <lat>-22.45</lat>
+      <lon>-68.92</lon>
+      <name>Calama</name>
+    </location>
+    <location name="Tocopilla::Antofagasta::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>-22.09</lat>
+      <lon>-70.19</lon>
+      <name>Tocopilla</name>
+    </location>
+    <location name="Iquique::Tarapacá::Chile">
+      <cdi>5.8062</cdi>
+      <nresp>2</nresp>
+      <dist>328</dist>
+      <lat>-20.23</lat>
+      <lon>-70.14</lon>
+      <name>Iquique</name>
+    </location>
+  </cdi>
+</cdidata>

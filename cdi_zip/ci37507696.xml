@@ -1,0 +1,391 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90025">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>34.0450097269</lat>
+      <lon>-118.446640587</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90045">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>33.9530946364</lat>
+      <lon>-118.401227411</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90049">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>34.0868710988</lat>
+      <lon>-118.488186954</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90068">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>34.1280225097</lat>
+      <lon>-118.328765759</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90503">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>33.8419954117</lat>
+      <lon>-118.351634592</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90602">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>33.9699598656</lat>
+      <lon>-118.030909249</lon>
+      <name>Whittier</name>
+      <state>CA</state>
+    </location>
+    <location name="90744">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>33.7824033445</lat>
+      <lon>-118.261132223</lon>
+      <name>Wilmington</name>
+      <state>CA</state>
+    </location>
+    <location name="90802">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>33.7546211793</lat>
+      <lon>-118.21110738</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91006">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>34.1358885634</lat>
+      <lon>-118.02737694</lon>
+      <name>Arcadia</name>
+      <state>CA</state>
+    </location>
+    <location name="91016">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>34.1664748231</lat>
+      <lon>-117.982908775</lon>
+      <name>Monrovia</name>
+      <state>CA</state>
+    </location>
+    <location name="91104">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>34.1680360725</lat>
+      <lon>-118.123457459</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91351">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>34.4316498014</lat>
+      <lon>-118.464593125</lon>
+      <name>Canyon Country</name>
+      <state>CA</state>
+    </location>
+    <location name="91364">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>34.1550610547</lat>
+      <lon>-118.595389231</lon>
+      <name>Woodland Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91601">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>34.168208787</lat>
+      <lon>-118.372059098</lon>
+      <name>North Hollywood</name>
+      <state>CA</state>
+    </location>
+    <location name="91605">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>34.2067126037</lat>
+      <lon>-118.401099504</lon>
+      <name>North Hollywood</name>
+      <state>CA</state>
+    </location>
+    <location name="91702">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>34.1336022746</lat>
+      <lon>-117.908863533</lon>
+      <name>Azusa</name>
+      <state>CA</state>
+    </location>
+    <location name="91711">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>34.1266937325</lat>
+      <lon>-117.715509316</lon>
+      <name>Claremont</name>
+      <state>CA</state>
+    </location>
+    <location name="91732">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>34.0723130784</lat>
+      <lon>-118.014766462</lon>
+      <name>El Monte</name>
+      <state>CA</state>
+    </location>
+    <location name="91748">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>33.9763568174</lat>
+      <lon>-117.898597307</lon>
+      <name>Rowland Heights</name>
+      <state>CA</state>
+    </location>
+    <location name="91752">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>33.9962811957</lat>
+      <lon>-117.533734492</lon>
+      <name>Mira Loma</name>
+      <state>CA</state>
+    </location>
+    <location name="91754">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>34.0518827128</lat>
+      <lon>-118.145907815</lon>
+      <name>Monterey Park</name>
+      <state>CA</state>
+    </location>
+    <location name="91786">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>34.1051873355</lat>
+      <lon>-117.662078667</lon>
+      <name>Upland</name>
+      <state>CA</state>
+    </location>
+    <location name="92108">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>32.7736067464</lat>
+      <lon>-117.143828476</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92311">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>34.8400535</lat>
+      <lon>-117.043139595</lon>
+      <name>Barstow</name>
+      <state>CA</state>
+    </location>
+    <location name="92315">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>34.2483705249</lat>
+      <lon>-116.915145265</lon>
+      <name>Big Bear Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="92335">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.0869349564</lat>
+      <lon>-117.466361873</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92346">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>34.1187046695</lat>
+      <lon>-117.178198622</lon>
+      <name>Highland</name>
+      <state>CA</state>
+    </location>
+    <location name="92354">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>34.049958427</lat>
+      <lon>-117.251386567</lon>
+      <name>Loma Linda</name>
+      <state>CA</state>
+    </location>
+    <location name="92374">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>34.0685420367</lat>
+      <lon>-117.171906902</lon>
+      <name>Redlands</name>
+      <state>CA</state>
+    </location>
+    <location name="92401">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>34.1057137797</lat>
+      <lon>-117.290972962</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92407">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>34.1726036158</lat>
+      <lon>-117.308551982</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92503">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>33.8897441303</lat>
+      <lon>-117.446817121</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92504">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>33.9069849785</lat>
+      <lon>-117.398750805</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92506">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>33.9345422726</lat>
+      <lon>-117.361830818</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92553">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>33.9228804737</lat>
+      <lon>-117.245423137</lon>
+      <name>Moreno Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92562">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>33.5488264059</lat>
+      <lon>-117.267643428</lon>
+      <name>Murrieta</name>
+      <state>CA</state>
+    </location>
+    <location name="92626">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>33.6791371119</lat>
+      <lon>-117.908579177</lon>
+      <name>Costa Mesa</name>
+      <state>CA</state>
+    </location>
+    <location name="92692">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>33.6099134265</lat>
+      <lon>-117.643124217</lon>
+      <name>Mission Viejo</name>
+      <state>CA</state>
+    </location>
+    <location name="92708">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>33.7103499656</lat>
+      <lon>-117.951432954</lon>
+      <name>Fountain Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92780">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>33.7357343502</lat>
+      <lon>-117.819201202</lon>
+      <name>Tustin</name>
+      <state>CA</state>
+    </location>
+    <location name="92807">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>33.8499966703</lat>
+      <lon>-117.789240734</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+    <location name="92869">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>33.7990980208</lat>
+      <lon>-117.785779257</lon>
+      <name>Orange</name>
+      <state>CA</state>
+    </location>
+    <location name="93657">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>343</dist>
+      <lat>36.8134237005</lat>
+      <lon>-119.413224411</lon>
+      <name>Sanger</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

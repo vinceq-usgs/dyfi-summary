@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91030">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>34.1104492953</lat>
+      <lon>-118.15723043</lon>
+      <name>South Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="92240">
+      <cdi>2.6912</cdi>
+      <nresp>7</nresp>
+      <dist>9</dist>
+      <lat>33.9626342861</lat>
+      <lon>-116.529693934</lon>
+      <name>Desert Hot Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92262">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>33.8625160663</lat>
+      <lon>-116.56832194</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92284">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>34.1720242491</lat>
+      <lon>-116.468234152</lon>
+      <name>Yucca Valley</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66868">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>231</dist>
+      <lat>38.572992919</lat>
+      <lon>-96.0001487013</lon>
+      <name>Reading</name>
+      <state>KS</state>
+    </location>
+    <location name="67003">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>5.1090</cdi>
+      <nresp>4</nresp>
+      <dist>8</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>157</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74632">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>36.9433376764</lat>
+      <lon>-97.3377689146</lon>
+      <name>Braman</name>
+      <state>OK</state>
+    </location>
+    <location name="75038">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>474</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Huánuco::Huánuco::Peru">
+      <cdi>3.3637</cdi>
+      <nresp>5</nresp>
+      <dist>217</dist>
+      <lat>-9.92</lat>
+      <lon>-76.24</lon>
+      <name>Huánuco</name>
+    </location>
+    <location name="San Luis::Lima Provincias::Peru">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>450</dist>
+      <lat>-12.08</lat>
+      <lon>-77.00</lon>
+      <name>San Luis</name>
+    </location>
+    <location name="Pucallpa::Ucayali::Peru">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>-8.39</lat>
+      <lon>-74.53</lon>
+      <name>Pucallpa</name>
+    </location>
+  </cdi>
+</cdidata>

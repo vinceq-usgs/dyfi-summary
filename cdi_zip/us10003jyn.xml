@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Angol::Araucanía::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>-37.79</lat>
+      <lon>-72.71</lon>
+      <name>Angol</name>
+    </location>
+    <location name="Temuco::Araucanía::Chile">
+      <cdi>3.2754</cdi>
+      <nresp>4</nresp>
+      <dist>171</dist>
+      <lat>-38.73</lat>
+      <lon>-72.58</lon>
+      <name>Temuco</name>
+    </location>
+    <location name="Chiguayante::Bío Bío::Chile">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>-36.90</lat>
+      <lon>-73.04</lon>
+      <name>Chiguayante</name>
+    </location>
+    <location name="Chillán::Bío Bío::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>-36.60</lat>
+      <lon>-72.11</lon>
+      <name>Chillán</name>
+    </location>
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>3.5210</cdi>
+      <nresp>17</nresp>
+      <dist>90</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="Laja::Bío Bío::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>-37.28</lat>
+      <lon>-72.71</lon>
+      <name>Laja</name>
+    </location>
+    <location name="Lebu::Bío Bío::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>-37.61</lat>
+      <lon>-73.65</lon>
+      <name>Lebu</name>
+    </location>
+    <location name="Los Angeles::Bío Bío::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>116</dist>
+      <lat>-37.46</lat>
+      <lon>-72.36</lon>
+      <name>Los Angeles</name>
+    </location>
+    <location name="Talcahuano::Bío Bío::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>94</dist>
+      <lat>-36.74</lat>
+      <lon>-73.13</lon>
+      <name>Talcahuano</name>
+    </location>
+  </cdi>
+</cdidata>

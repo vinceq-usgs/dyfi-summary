@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Hsinchu::Hsinchu Shih::Taiwan">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>24.82</lat>
+      <lon>120.98</lon>
+      <name>Hsinchu</name>
+    </location>
+    <location name="Chungho::Taipei Hsien::Taiwan">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>61</dist>
+      <lat>24.99</lat>
+      <lon>121.50</lon>
+      <name>Chungho</name>
+    </location>
+    <location name="Hsichih::Taipei Hsien::Taiwan">
+      <cdi>3.5612</cdi>
+      <nresp>3</nresp>
+      <dist>53</dist>
+      <lat>25.07</lat>
+      <lon>121.65</lon>
+      <name>Hsichih</name>
+    </location>
+    <location name="Hsinchuang::Taipei Hsien::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>25.04</lat>
+      <lon>121.44</lon>
+      <name>Hsinchuang</name>
+    </location>
+    <location name="Luchou::Taipei Hsien::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>68</dist>
+      <lat>25.08</lat>
+      <lon>121.47</lon>
+      <name>Luchou</name>
+    </location>
+    <location name="Sanchung::Taipei Hsien::Taiwan">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>67</dist>
+      <lat>25.07</lat>
+      <lon>121.48</lon>
+      <name>Sanchung</name>
+    </location>
+    <location name="Taipei::Taipei Hsien::Taiwan">
+      <cdi>4.5936</cdi>
+      <nresp>2</nresp>
+      <dist>67</dist>
+      <lat>25.02</lat>
+      <lon>121.45</lon>
+      <name>Taipei</name>
+    </location>
+    <location name="Tanshui::Taipei Hsien::Taiwan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>25.19</lat>
+      <lon>121.42</lon>
+      <name>Tanshui</name>
+    </location>
+    <location name="Yungho::Taipei Hsien::Taiwan">
+      <cdi>2.9622</cdi>
+      <nresp>9</nresp>
+      <dist>61</dist>
+      <lat>25.02</lat>
+      <lon>121.51</lon>
+      <name>Yungho</name>
+    </location>
+    <location name="Taoyuan::Taoyuan::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>25.00</lat>
+      <lon>121.31</lon>
+      <name>Taoyuan</name>
+    </location>
+  </cdi>
+</cdidata>

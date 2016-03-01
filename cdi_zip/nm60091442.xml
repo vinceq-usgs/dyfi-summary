@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="42081">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>37.2193402987</lat>
+      <lon>-88.4070855062</lon>
+      <name>Smithland</name>
+      <state>KY</state>
+    </location>
+    <location name="48442">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>826</dist>
+      <lat>42.7923990005</lat>
+      <lon>-83.6049455162</lon>
+      <name>Holly</name>
+      <state>MI</state>
+    </location>
+    <location name="63834">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>36.917383254</lat>
+      <lon>-89.2753190419</lon>
+      <name>Charleston</name>
+      <state>MO</state>
+    </location>
+    <location name="63845">
+      <cdi>2.7124</cdi>
+      <nresp>8</nresp>
+      <dist>22</dist>
+      <lat>36.7207364309</lat>
+      <lon>-89.30389416</lon>
+      <name>East Prairie</name>
+      <state>MO</state>
+    </location>
+    <location name="76384">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>947</dist>
+      <lat>34.1252927736</lat>
+      <lon>-99.3377709547</lon>
+      <name>Vernon</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67018">
+      <cdi>3.8502</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67103">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>37.2793460344</lat>
+      <lon>-97.5444736341</lon>
+      <name>Mayfield</name>
+      <state>KS</state>
+    </location>
+    <location name="67361">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>37.158750341</lat>
+      <lon>-96.1587575273</lon>
+      <name>Sedan</name>
+      <state>KS</state>
+    </location>
+    <location name="75202">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>484</dist>
+      <lat>32.7798236064</lat>
+      <lon>-96.8036799513</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

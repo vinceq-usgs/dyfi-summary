@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="97454">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>44.2121553996</lat>
+      <lon>-122.760987347</lon>
+      <name>Marcola</name>
+      <state>OR</state>
+    </location>
+    <location name="97477">
+      <cdi>2.9567</cdi>
+      <nresp>4</nresp>
+      <dist>17</dist>
+      <lat>44.0592947042</lat>
+      <lon>-123.011301994</lon>
+      <name>Springfield</name>
+      <state>OR</state>
+    </location>
+    <location name="97478">
+      <cdi>2.8051</cdi>
+      <nresp>11</nresp>
+      <dist>9</dist>
+      <lat>44.0889039688</lat>
+      <lon>-122.846722567</lon>
+      <name>Springfield</name>
+      <state>OR</state>
+    </location>
+    <location name="97487">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>43.9373671996</lat>
+      <lon>-123.4202067</lon>
+      <name>Veneta</name>
+      <state>OR</state>
+    </location>
+    <location name="97869">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>340</dist>
+      <lat>44.5276297706</lat>
+      <lon>-118.607068627</lon>
+      <name>Prairie City</name>
+      <state>OR</state>
+    </location>
+  </cdi>
+</cdidata>

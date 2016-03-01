@@ -1,0 +1,149 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>1701</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="97056">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>874</dist>
+      <lat>45.785419805</lat>
+      <lon>-122.965490096</lon>
+      <name>Scappoose</name>
+      <state>OR</state>
+    </location>
+    <location name="98168">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>771</dist>
+      <lat>47.4885641616</lat>
+      <lon>-122.301070767</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98188">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>775</dist>
+      <lat>47.4480709286</lat>
+      <lon>-122.274369888</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98195">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>758</dist>
+      <lat>47.6549776835</lat>
+      <lon>-122.301956604</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98382">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>688</dist>
+      <lat>48.0012176715</lat>
+      <lon>-123.090649182</lon>
+      <name>Sequim</name>
+      <state>WA</state>
+    </location>
+    <location name="99824">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>761</dist>
+      <lat>58.2732995137</lat>
+      <lon>-134.39908258</lon>
+      <name>Douglas</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Kelowna::British Columbia::Canada">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>818</dist>
+      <lat>49.89</lat>
+      <lon>-119.46</lon>
+      <name>Kelowna</name>
+    </location>
+    <location name="Kitimat::British Columbia::Canada">
+      <cdi>4.2084</cdi>
+      <nresp>2</nresp>
+      <dist>283</dist>
+      <lat>54.01</lat>
+      <lon>-128.70</lon>
+      <name>Kitimat</name>
+    </location>
+    <location name="Nanaimo::British Columbia::Canada">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>555</dist>
+      <lat>49.21</lat>
+      <lon>-123.97</lon>
+      <name>Nanaimo</name>
+    </location>
+    <location name="Port Hardy::British Columbia::Canada">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>251</dist>
+      <lat>50.72</lat>
+      <lon>-127.50</lon>
+      <name>Port Hardy</name>
+    </location>
+    <location name="Prince Rupert::British Columbia::Canada">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>285</dist>
+      <lat>54.32</lat>
+      <lon>-130.31</lon>
+      <name>Prince Rupert</name>
+    </location>
+    <location name="Smithers::British Columbia::Canada">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>408</dist>
+      <lat>54.77</lat>
+      <lon>-127.17</lon>
+      <name>Smithers</name>
+    </location>
+    <location name="Terrace::British Columbia::Canada">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>336</dist>
+      <lat>54.52</lat>
+      <lon>-128.61</lon>
+      <name>Terrace</name>
+    </location>
+    <location name="Vancouver::British Columbia::Canada">
+      <cdi>4.2084</cdi>
+      <nresp>2</nresp>
+      <dist>603</dist>
+      <lat>49.28</lat>
+      <lon>-123.13</lon>
+      <name>Vancouver</name>
+    </location>
+    <location name="Walnut Grove::British Columbia::Canada">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>641</dist>
+      <lat>49.19</lat>
+      <lon>-122.62</lon>
+      <name>Walnut Grove</name>
+    </location>
+    <location name="White Rock::British Columbia::Canada">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>636</dist>
+      <lat>49.03</lat>
+      <lon>-122.83</lon>
+      <name>White Rock</name>
+    </location>
+  </cdi>
+</cdidata>

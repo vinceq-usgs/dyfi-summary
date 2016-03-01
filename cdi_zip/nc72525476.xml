@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94102">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>37.7795327685</lat>
+      <lon>-122.419606391</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94117">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>37.7706446163</lat>
+      <lon>-122.443293351</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94567">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>38.6713870349</lat>
+      <lon>-122.442966451</lon>
+      <name>Pope Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94931">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>38.3240485004</lat>
+      <lon>-122.715553935</lon>
+      <name>Cotati</name>
+      <state>CA</state>
+    </location>
+    <location name="95409">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>38.4572243695</lat>
+      <lon>-122.598650563</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95425">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>38.7909586796</lat>
+      <lon>-123.034816655</lon>
+      <name>Cloverdale</name>
+      <state>CA</state>
+    </location>
+    <location name="95492">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>38.5417405178</lat>
+      <lon>-122.81139405</lon>
+      <name>Windsor</name>
+      <state>CA</state>
+    </location>
+    <location name="95687">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>38.3322061156</lat>
+      <lon>-121.915041414</lon>
+      <name>Vacaville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

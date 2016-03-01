@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90024">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>77</dist>
+      <lat>34.0653110033</lat>
+      <lon>-118.435043099</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90254">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>33.8652373721</lat>
+      <lon>-118.396575558</lon>
+      <name>Hermosa Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92676">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>33.7450095167</lat>
+      <lon>-117.607886073</lon>
+      <name>Silverado</name>
+      <state>CA</state>
+    </location>
+    <location name="93550">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>34.4863249168</lat>
+      <lon>-118.074218856</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

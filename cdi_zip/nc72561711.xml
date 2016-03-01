@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94904">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>37.9562884271</lat>
+      <lon>-122.542805486</lon>
+      <name>Greenbrae</name>
+      <state>CA</state>
+    </location>
+    <location name="95023">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>11</dist>
+      <lat>36.8566762391</lat>
+      <lon>-121.249223359</lon>
+      <name>Hollister</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

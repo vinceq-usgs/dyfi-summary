@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Calcutta::Bangla::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>643</dist>
+      <lat>22.57</lat>
+      <lon>88.36</lon>
+      <name>Calcutta</name>
+    </location>
+    <location name="Delhi::Delhi::India">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>828</dist>
+      <lat>28.67</lat>
+      <lon>77.21</lon>
+      <name>Delhi</name>
+    </location>
+    <location name="Chala::Gujarat::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1382</dist>
+      <lat>23.30</lat>
+      <lon>72.77</lon>
+      <name>Chala</name>
+    </location>
+    <location name="Jaipur::Rajasthan::India">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>974</dist>
+      <lat>26.92</lat>
+      <lon>75.80</lon>
+      <name>Jaipur</name>
+    </location>
+    <location name="Allahābād::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>456</dist>
+      <lat>25.45</lat>
+      <lon>81.84</lon>
+      <name>Allahābād</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>475</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Banares::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>377</dist>
+      <lat>25.32</lat>
+      <lon>83.01</lon>
+      <name>Banares</name>
+    </location>
+  </cdi>
+</cdidata>

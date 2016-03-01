@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Donggongon::Sabah::Malaysia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>5.92</lat>
+      <lon>116.08</lon>
+      <name>Donggongon</name>
+    </location>
+    <location name="Kota Kinabalu::Sabah::Malaysia">
+      <cdi>3.2152</cdi>
+      <nresp>4</nresp>
+      <dist>64</dist>
+      <lat>5.97</lat>
+      <lon>116.07</lon>
+      <name>Kota Kinabalu</name>
+    </location>
+  </cdi>
+</cdidata>

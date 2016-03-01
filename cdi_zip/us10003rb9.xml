@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chinautla::Guatemala::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1251</dist>
+      <lat>14.70</lat>
+      <lon>-90.50</lon>
+      <name>Chinautla</name>
+    </location>
+    <location name="Mexico City::Distrito Federal::Mexico">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>295</dist>
+      <lat>19.43</lat>
+      <lon>-99.14</lon>
+      <name>Mexico City</name>
+    </location>
+    <location name="Zihuatanejo::Guerrero::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>17.63</lat>
+      <lon>-101.57</lon>
+      <name>Zihuatanejo</name>
+    </location>
+    <location name="La Orilla::Michoacán::Mexico">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>83</dist>
+      <lat>17.98</lat>
+      <lon>-102.23</lon>
+      <name>La Orilla</name>
+    </location>
+    <location name="Pátzcuaro::Michoacán::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>19.52</lat>
+      <lon>-101.62</lon>
+      <name>Pátzcuaro</name>
+    </location>
+  </cdi>
+</cdidata>

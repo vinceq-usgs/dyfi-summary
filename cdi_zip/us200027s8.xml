@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64746">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>356</dist>
+      <lat>38.6093433302</lat>
+      <lon>-94.4916212593</lon>
+      <name>Freeman</name>
+      <state>MO</state>
+    </location>
+    <location name="67036">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74114">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>36.1261559611</lat>
+      <lon>-95.9461925162</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74854">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>216</dist>
+      <lat>35.1119473459</lat>
+      <lon>-96.7829558364</lon>
+      <name>Maud</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

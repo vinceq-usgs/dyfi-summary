@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="San Lorenzo::Suchitepéquez::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>193</dist>
+      <lat>14.48</lat>
+      <lon>-91.52</lon>
+      <name>San Lorenzo</name>
+    </location>
+    <location name="San Cristóbal de las Casas::Chiapas::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>16.75</lat>
+      <lon>-92.63</lon>
+      <name>San Cristóbal de las Casas</name>
+    </location>
+    <location name="Tuxtla Gutiérrez::Chiapas::Mexico">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>193</dist>
+      <lat>16.75</lat>
+      <lon>-93.12</lon>
+      <name>Tuxtla Gutiérrez</name>
+    </location>
+    <location name="Asunción Ixtaltepec::Oaxaca::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>305</dist>
+      <lat>16.50</lat>
+      <lon>-95.05</lon>
+      <name>Asunción Ixtaltepec</name>
+    </location>
+    <location name="Villahermosa::Tabasco::Mexico">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>308</dist>
+      <lat>17.98</lat>
+      <lon>-92.92</lon>
+      <name>Villahermosa</name>
+    </location>
+    <location name="Minatitlán::Veracruz::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>365</dist>
+      <lat>17.98</lat>
+      <lon>-94.52</lon>
+      <name>Minatitlán</name>
+    </location>
+  </cdi>
+</cdidata>

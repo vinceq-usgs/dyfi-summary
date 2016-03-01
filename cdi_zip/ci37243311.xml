@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92227">
+      <cdi>2.9665</cdi>
+      <nresp>12</nresp>
+      <dist>17</dist>
+      <lat>33.0077298456</lat>
+      <lon>-115.429493874</lon>
+      <name>Brawley</name>
+      <state>CA</state>
+    </location>
+    <location name="92243">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>32.7733878486</lat>
+      <lon>-115.600968985</lon>
+      <name>El Centro</name>
+      <state>CA</state>
+    </location>
+    <location name="92251">
+      <cdi>2.9567</cdi>
+      <nresp>8</nresp>
+      <dist>15</dist>
+      <lat>32.8727372362</lat>
+      <lon>-115.620839586</lon>
+      <name>Imperial</name>
+      <state>CA</state>
+    </location>
+    <location name="92549">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>33.7836411163</lat>
+      <lon>-116.777173608</lon>
+      <name>Idyllwild</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

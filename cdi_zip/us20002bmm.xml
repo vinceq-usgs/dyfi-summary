@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73054">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>35.6691143696</lat>
+      <lon>-97.191976607</lon>
+      <name>Luther</name>
+      <state>OK</state>
+    </location>
+    <location name="73102">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>35.4714367683</lat>
+      <lon>-97.519123843</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73159">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>35.3856819937</lat>
+      <lon>-97.5789240222</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>3</nresp>
+      <dist>53</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74801">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>35.3130912696</lat>
+      <lon>-96.9548719881</lon>
+      <name>Shawnee</name>
+      <state>OK</state>
+    </location>
+    <location name="74881">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>35.6811574012</lat>
+      <lon>-97.0462017044</lon>
+      <name>Wellston</name>
+      <state>OK</state>
+    </location>
+    <location name="75219">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>310</dist>
+      <lat>32.8108181032</lat>
+      <lon>-96.8131670043</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76132">
+      <cdi>3.1291</cdi>
+      <nresp>1</nresp>
+      <dist>327</dist>
+      <lat>32.6673675674</lat>
+      <lon>-97.4181651498</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

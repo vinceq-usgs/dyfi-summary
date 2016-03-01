@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94109">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>37.7930720881</lat>
+      <lon>-122.421238911</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94403">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>37.5381557686</lat>
+      <lon>-122.304679264</lon>
+      <name>San Mateo</name>
+      <state>CA</state>
+    </location>
+    <location name="94546">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.7535145162</lat>
+      <lon>-122.097032395</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94552">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>37.7052675163</lat>
+      <lon>-122.007465818</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94928">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>38.3460394877</lat>
+      <lon>-122.694982993</lon>
+      <name>Rohnert Park</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

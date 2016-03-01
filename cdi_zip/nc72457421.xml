@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92354">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>473</dist>
+      <lat>34.049958427</lat>
+      <lon>-117.251386567</lon>
+      <name>Loma Linda</name>
+      <state>CA</state>
+    </location>
+    <location name="92881">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>471</dist>
+      <lat>33.8400889046</lat>
+      <lon>-117.497317567</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+    <location name="93710">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>141</dist>
+      <lat>36.8232572913</lat>
+      <lon>-119.760430399</lon>
+      <name>Fresno</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+    <location name="95340">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>37.3645228351</lat>
+      <lon>-120.368461295</lon>
+      <name>Merced</name>
+      <state>CA</state>
+    </location>
+    <location name="95401">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>233</dist>
+      <lat>38.4514015217</lat>
+      <lon>-122.793254532</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

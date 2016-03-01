@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="23950">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>220</dist>
+      <lat>36.6593356708</lat>
+      <lon>-78.0869281514</lon>
+      <name>La Crosse</name>
+      <state>VA</state>
+    </location>
+    <location name="27205">
+      <cdi>2.4718</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>35.6376426867</lat>
+      <lon>-79.8509226037</lon>
+      <name>Asheboro</name>
+      <state>NC</state>
+    </location>
+    <location name="27239">
+      <cdi>2</cdi>
+      <nresp>9</nresp>
+      <dist>9</dist>
+      <lat>35.6035280381</lat>
+      <lon>-80.0892795034</lon>
+      <name>Denton</name>
+      <state>NC</state>
+    </location>
+    <location name="27282">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>35.9951084253</lat>
+      <lon>-79.9288482661</lon>
+      <name>Jamestown</name>
+      <state>NC</state>
+    </location>
+    <location name="27284">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>36.1193135542</lat>
+      <lon>-80.0761672976</lon>
+      <name>Kernersville</name>
+      <state>NC</state>
+    </location>
+    <location name="27292">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>35.7360862853</lat>
+      <lon>-80.2078813817</lon>
+      <name>Lexington</name>
+      <state>NC</state>
+    </location>
+    <location name="27295">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>35.8680195222</lat>
+      <lon>-80.314383356</lon>
+      <name>Lexington</name>
+      <state>NC</state>
+    </location>
+    <location name="27808">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>303</dist>
+      <lat>35.4709931133</lat>
+      <lon>-76.7571501757</lon>
+      <name>Bath</name>
+      <state>NC</state>
+    </location>
+    <location name="28127">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>35.4509550136</lat>
+      <lon>-80.1785801432</lon>
+      <name>New London</name>
+      <state>NC</state>
+    </location>
+    <location name="28677">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>35.7377373185</lat>
+      <lon>-80.9216962776</lon>
+      <name>Statesville</name>
+      <state>NC</state>
+    </location>
+    <location name="28753">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>237</dist>
+      <lat>35.8737821203</lat>
+      <lon>-82.6948051415</lon>
+      <name>Marshall</name>
+      <state>NC</state>
+    </location>
+    <location name="29715">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>35.0103218978</lat>
+      <lon>-80.9278897447</lon>
+      <name>Fort Mill</name>
+      <state>SC</state>
+    </location>
+  </cdi>
+</cdidata>

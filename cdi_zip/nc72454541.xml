@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90003">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>409</dist>
+      <lat>33.9641186016</lat>
+      <lon>-118.273917809</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="93268">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>239</dist>
+      <lat>35.171754588</lat>
+      <lon>-119.424219825</lon>
+      <name>Taft</name>
+      <state>CA</state>
+    </location>
+    <location name="93924">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>36.3982582949</lat>
+      <lon>-121.632213161</lon>
+      <name>Carmel Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94087">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>37.3511799729</lat>
+      <lon>-122.036982745</lon>
+      <name>Sunnyvale</name>
+      <state>CA</state>
+    </location>
+    <location name="94558">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94901">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>178</dist>
+      <lat>37.9773170266</lat>
+      <lon>-122.505613807</lon>
+      <name>San Rafael</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

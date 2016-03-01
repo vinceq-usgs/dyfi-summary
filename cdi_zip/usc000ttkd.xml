@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dili::Dili::East Timor">
+      <cdi>3.1663</cdi>
+      <nresp>5</nresp>
+      <dist>661</dist>
+      <lat>-8.57</lat>
+      <lon>125.58</lon>
+      <name>Dili</name>
+    </location>
+    <location name="Oecussi::Oecussi::East Timor">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>625</dist>
+      <lat>-9.22</lat>
+      <lon>124.36</lon>
+      <name>Oecussi</name>
+    </location>
+    <location name="Denpasar::Bali::Indonesia">
+      <cdi>3.5612</cdi>
+      <nresp>3</nresp>
+      <dist>988</dist>
+      <lat>-8.65</lat>
+      <lon>115.22</lon>
+      <name>Denpasar</name>
+    </location>
+    <location name="Kuta::Bali::Indonesia">
+      <cdi>3.7219</cdi>
+      <nresp>3</nresp>
+      <dist>994</dist>
+      <lat>-8.72</lat>
+      <lon>115.17</lon>
+      <name>Kuta</name>
+    </location>
+    <location name="Ubud::Bali::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>983</dist>
+      <lat>-8.52</lat>
+      <lon>115.26</lon>
+      <name>Ubud</name>
+    </location>
+    <location name="Bima::Nusa Tenggara Barat::Indonesia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>706</dist>
+      <lat>-8.46</lat>
+      <lon>118.72</lon>
+      <name>Bima</name>
+    </location>
+    <location name="Mataram::Nusa Tenggara Barat::Indonesia">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>907</dist>
+      <lat>-8.58</lat>
+      <lon>116.13</lon>
+      <name>Mataram</name>
+    </location>
+    <location name="Sumbawa::Nusa Tenggara Barat::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>800</dist>
+      <lat>-8.50</lat>
+      <lon>117.42</lon>
+      <name>Sumbawa</name>
+    </location>
+  </cdi>
+</cdidata>

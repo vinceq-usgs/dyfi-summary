@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73135">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>35.3969288808</lat>
+      <lon>-97.4266585694</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>7</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74832">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>35.8112340162</lat>
+      <lon>-97.0185128147</lon>
+      <name>Carney</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

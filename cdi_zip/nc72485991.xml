@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93907">
+      <cdi>2.4718</cdi>
+      <nresp>12</nresp>
+      <dist>12</dist>
+      <lat>36.775878511</lat>
+      <lon>-121.658003087</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="94010">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>37.567638575</lat>
+      <lon>-122.366305015</lon>
+      <name>Burlingame</name>
+      <state>CA</state>
+    </location>
+    <location name="94027">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>37.4530726583</lat>
+      <lon>-122.204217004</lon>
+      <name>Atherton</name>
+      <state>CA</state>
+    </location>
+    <location name="94063">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>37.505534032</lat>
+      <lon>-122.210320418</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95004">
+      <cdi>2.7585</cdi>
+      <nresp>5</nresp>
+      <dist>9</dist>
+      <lat>36.8769387866</lat>
+      <lon>-121.635616407</lon>
+      <name>Aromas</name>
+      <state>CA</state>
+    </location>
+    <location name="95020">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.0188204369</lat>
+      <lon>-121.560718867</lon>
+      <name>Gilroy</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>4.7129</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+    <location name="95076">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>36.9415955433</lat>
+      <lon>-121.749518093</lon>
+      <name>Watsonville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

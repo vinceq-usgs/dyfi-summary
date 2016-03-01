@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Donggongon::Sabah::Malaysia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>5.92</lat>
+      <lon>116.08</lon>
+      <name>Donggongon</name>
+    </location>
+    <location name="Kota Kinabalu::Sabah::Malaysia">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>69</dist>
+      <lat>5.97</lat>
+      <lon>116.07</lon>
+      <name>Kota Kinabalu</name>
+    </location>
+    <location name="Ranau::Sabah::Malaysia">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>5.97</lat>
+      <lon>116.68</lon>
+      <name>Ranau</name>
+    </location>
+  </cdi>
+</cdidata>

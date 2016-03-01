@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Lakatoro::Malampa::Vanuatu">
+      <cdi>5.2537</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>-16.09</lat>
+      <lon>167.40</lon>
+      <name>Lakatoro</name>
+    </location>
+    <location name="Vila::Shefa::Vanuatu">
+      <cdi>3.7810</cdi>
+      <nresp>5</nresp>
+      <dist>111</dist>
+      <lat>-17.74</lat>
+      <lon>168.31</lon>
+      <name>Vila</name>
+    </location>
+  </cdi>
+</cdidata>

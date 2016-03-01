@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67003">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="73034">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73120">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+    <location name="74365">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>214</dist>
+      <lat>36.3276973451</lat>
+      <lon>-95.079807436</lon>
+      <name>Salina</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

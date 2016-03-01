@@ -1,0 +1,220 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="38079">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>36.4114459281</lat>
+      <lon>-89.4444914959</lon>
+      <name>Tiptonville</name>
+      <state>TN</state>
+    </location>
+    <location name="38232">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>37</dist>
+      <lat>36.3367318089</lat>
+      <lon>-89.3362490189</lon>
+      <name>Hornbeak</name>
+      <state>TN</state>
+    </location>
+    <location name="38237">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>36.3596215601</lat>
+      <lon>-88.8363304571</lon>
+      <name>Martin</name>
+      <state>TN</state>
+    </location>
+    <location name="38240">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>36.2450788825</lat>
+      <lon>-89.3023668135</lon>
+      <name>Obion</name>
+      <state>TN</state>
+    </location>
+    <location name="38260">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>44</dist>
+      <lat>36.3723763593</lat>
+      <lon>-89.2153273162</lon>
+      <name>Troy</name>
+      <state>TN</state>
+    </location>
+    <location name="38261">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>50</dist>
+      <lat>36.4349324213</lat>
+      <lon>-89.1144611846</lon>
+      <name>Union City</name>
+      <state>TN</state>
+    </location>
+    <location name="38583">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>383</dist>
+      <lat>35.9428119206</lat>
+      <lon>-85.4340952926</lon>
+      <name>Sparta</name>
+      <state>TN</state>
+    </location>
+    <location name="42001">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>37.0284725212</lat>
+      <lon>-88.7172452967</lon>
+      <name>Paducah</name>
+      <state>KY</state>
+    </location>
+    <location name="45405">
+      <cdi>2.7334</cdi>
+      <nresp>1</nresp>
+      <dist>597</dist>
+      <lat>39.7924290087</lat>
+      <lon>-84.2156416275</lon>
+      <name>Dayton</name>
+      <state>OH</state>
+    </location>
+    <location name="47713">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>242</dist>
+      <lat>37.9541030094</lat>
+      <lon>-87.5590600241</lon>
+      <name>Evansville</name>
+      <state>IN</state>
+    </location>
+    <location name="62930">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>37.836726438</lat>
+      <lon>-88.4415080387</lon>
+      <name>Eldorado</name>
+      <state>IL</state>
+    </location>
+    <location name="62935">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>37.8386486094</lat>
+      <lon>-88.6377843987</lon>
+      <name>Galatia</name>
+      <state>IL</state>
+    </location>
+    <location name="62979">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>188</dist>
+      <lat>37.8102869315</lat>
+      <lon>-88.2489434046</lon>
+      <name>Ridgway</name>
+      <state>IL</state>
+    </location>
+    <location name="63112">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>242</dist>
+      <lat>38.6599014885</lat>
+      <lon>-90.2831461661</lon>
+      <name>Saint Louis</name>
+      <state>MO</state>
+    </location>
+    <location name="63116">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>234</dist>
+      <lat>38.5813657619</lat>
+      <lon>-90.26426063</lon>
+      <name>Saint Louis</name>
+      <state>MO</state>
+    </location>
+    <location name="63771">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>37.075546125</lat>
+      <lon>-89.694988991</lon>
+      <name>Oran</name>
+      <state>MO</state>
+    </location>
+    <location name="63834">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>36.917383254</lat>
+      <lon>-89.2753190419</lon>
+      <name>Charleston</name>
+      <state>MO</state>
+    </location>
+    <location name="63841">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>36.7712666092</lat>
+      <lon>-89.9748980729</lon>
+      <name>Dexter</name>
+      <state>MO</state>
+    </location>
+    <location name="63845">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>38</dist>
+      <lat>36.7207364309</lat>
+      <lon>-89.30389416</lon>
+      <name>East Prairie</name>
+      <state>MO</state>
+    </location>
+    <location name="63862">
+      <cdi>3.2273</cdi>
+      <nresp>6</nresp>
+      <dist>14</dist>
+      <lat>36.5917165848</lat>
+      <lon>-89.648795741</lon>
+      <name>Lilbourn</name>
+      <state>MO</state>
+    </location>
+    <location name="63866">
+      <cdi>2.4261</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>36.5290429172</lat>
+      <lon>-89.6259016727</lon>
+      <name>Marston</name>
+      <state>MO</state>
+    </location>
+    <location name="63869">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>20</dist>
+      <lat>36.6282046896</lat>
+      <lon>-89.5028230406</lon>
+      <name>New Madrid</name>
+      <state>MO</state>
+    </location>
+    <location name="63873">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>36.4243480611</lat>
+      <lon>-89.684000549</lon>
+      <name>Portageville</name>
+      <state>MO</state>
+    </location>
+    <location name="63879">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>36.3526909731</lat>
+      <lon>-89.8352965131</lon>
+      <name>Wardell</name>
+      <state>MO</state>
+    </location>
+  </cdi>
+</cdidata>

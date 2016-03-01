@@ -1,0 +1,139 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90027">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>34.1250702411</lat>
+      <lon>-118.290629731</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="91204">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>34.1361927585</lat>
+      <lon>-118.26056052</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91205">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>34.1366183916</lat>
+      <lon>-118.243509227</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91803">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>34.0747026207</lat>
+      <lon>-118.146224778</lon>
+      <name>Alhambra</name>
+      <state>CA</state>
+    </location>
+    <location name="92252">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>148</dist>
+      <lat>34.1566779859</lat>
+      <lon>-116.288023465</lon>
+      <name>Joshua Tree</name>
+      <state>CA</state>
+    </location>
+    <location name="92311">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>34.8400535</lat>
+      <lon>-117.043139595</lon>
+      <name>Barstow</name>
+      <state>CA</state>
+    </location>
+    <location name="92394">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>34.5608247648</lat>
+      <lon>-117.334897503</lon>
+      <name>Victorville</name>
+      <state>CA</state>
+    </location>
+    <location name="92407">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>34.1726036158</lat>
+      <lon>-117.308551982</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92562">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>33.5488264059</lat>
+      <lon>-117.267643428</lon>
+      <name>Murrieta</name>
+      <state>CA</state>
+    </location>
+    <location name="92563">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>33.5806671466</lat>
+      <lon>-117.146478541</lon>
+      <name>Murrieta</name>
+      <state>CA</state>
+    </location>
+    <location name="92869">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>33.7990980208</lat>
+      <lon>-117.785779257</lon>
+      <name>Orange</name>
+      <state>CA</state>
+    </location>
+    <location name="93532">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>34.6855085658</lat>
+      <lon>-118.56625632</lon>
+      <name>Lake Hughes</name>
+      <state>CA</state>
+    </location>
+    <location name="93536">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>34.7552935944</lat>
+      <lon>-118.413608287</lon>
+      <name>Lancaster</name>
+      <state>CA</state>
+    </location>
+    <location name="93550">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>108</dist>
+      <lat>34.4863249168</lat>
+      <lon>-118.074218856</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+    <location name="93555">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>55</dist>
+      <lat>35.6917311746</lat>
+      <lon>-117.449167256</lon>
+      <name>Ridgecrest</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

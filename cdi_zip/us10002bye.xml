@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Raxaul::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>26.98</lat>
+      <lon>84.85</lon>
+      <name>Raxaul</name>
+    </location>
+    <location name="Gorakhpur::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>26.76</lat>
+      <lon>83.36</lon>
+      <name>Gorakhpur</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>393</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Bagluri::Baglung::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>28.27</lat>
+      <lon>83.60</lon>
+      <name>Bagluri</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>4.0696</cdi>
+      <nresp>4</nresp>
+      <dist>46</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>77</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>2.5832</cdi>
+      <nresp>4</nresp>
+      <dist>75</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Gaur::Rautahat::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>26.77</lat>
+      <lon>85.27</lon>
+      <name>Gaur</name>
+    </location>
+    <location name="Butwal::Rupandehi::Nepal">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>27.71</lat>
+      <lon>83.45</lon>
+      <name>Butwal</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Copiapó::Atacama::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>448</dist>
+      <lat>-27.36</lat>
+      <lon>-70.34</lon>
+      <name>Copiapó</name>
+    </location>
+    <location name="Illapel::Coquimbo::Chile">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>82</dist>
+      <lat>-31.63</lat>
+      <lon>-71.17</lon>
+      <name>Illapel</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>276</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="La Ligua::Valparaíso::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>153</dist>
+      <lat>-32.46</lat>
+      <lon>-71.24</lon>
+      <name>La Ligua</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

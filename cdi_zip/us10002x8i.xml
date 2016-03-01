@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="02130">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>42.3086307441</lat>
+      <lon>-71.1144356729</lon>
+      <name>Jamaica Plain</name>
+      <state>MA</state>
+    </location>
+    <location name="03037">
+      <cdi>2.9370</cdi>
+      <nresp>5</nresp>
+      <dist>4</dist>
+      <lat>43.140235216</lat>
+      <lon>-71.2515539143</lon>
+      <name>Deerfield</name>
+      <state>NH</state>
+    </location>
+    <location name="03038">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>42.8898383464</lat>
+      <lon>-71.2805591031</lon>
+      <name>Derry</name>
+      <state>NH</state>
+    </location>
+    <location name="03234">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>7</dist>
+      <lat>43.2141663302</lat>
+      <lon>-71.3374911386</lon>
+      <name>Epsom</name>
+      <state>NH</state>
+    </location>
+    <location name="03261">
+      <cdi>2.9257</cdi>
+      <nresp>7</nresp>
+      <dist>7</dist>
+      <lat>43.2129348791</lat>
+      <lon>-71.2086022005</lon>
+      <name>Northwood</name>
+      <state>NH</state>
+    </location>
+    <location name="03275">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>43.1593488253</lat>
+      <lon>-71.4183619299</lon>
+      <name>Suncook</name>
+      <state>NH</state>
+    </location>
+    <location name="03303">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>43.2990651223</lat>
+      <lon>-71.6745411872</lon>
+      <name>Concord</name>
+      <state>NH</state>
+    </location>
+    <location name="03307">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>43.3221597948</lat>
+      <lon>-71.4424962212</lon>
+      <name>Loudon</name>
+      <state>NH</state>
+    </location>
+    <location name="03825">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>43.2128159042</lat>
+      <lon>-71.0459260952</lon>
+      <name>Barrington</name>
+      <state>NH</state>
+    </location>
+    <location name="03885">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>43.0157665536</lat>
+      <lon>-70.9001396003</lon>
+      <name>Stratham</name>
+      <state>NH</state>
+    </location>
+    <location name="04062">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>43.7975433853</lat>
+      <lon>-70.4057333765</lon>
+      <name>Windham</name>
+      <state>ME</state>
+    </location>
+    <location name="04092">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>43.6924886758</lat>
+      <lon>-70.3550891146</lon>
+      <name>Westbrook</name>
+      <state>ME</state>
+    </location>
+    <location name="06513">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>244</dist>
+      <lat>41.3202278918</lat>
+      <lon>-72.8681287525</lon>
+      <name>New Haven</name>
+      <state>CT</state>
+    </location>
+  </cdi>
+</cdidata>

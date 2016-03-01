@@ -1,0 +1,132 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Silhaţ::Silhaţ::Bangladesh">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>698</dist>
+      <lat>24.90</lat>
+      <lon>91.87</lon>
+      <name>Silhaţ</name>
+    </location>
+    <location name="Baranagar::Bangla::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>636</dist>
+      <lat>22.64</lat>
+      <lon>88.37</lon>
+      <name>Baranagar</name>
+    </location>
+    <location name="Bidhannagar::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>646</dist>
+      <lat>22.57</lat>
+      <lon>88.42</lon>
+      <name>Bidhannagar</name>
+    </location>
+    <location name="Calcutta::Bangla::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>643</dist>
+      <lat>22.57</lat>
+      <lon>88.36</lon>
+      <name>Calcutta</name>
+    </location>
+    <location name="Haora::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>641</dist>
+      <lat>22.58</lat>
+      <lon>88.33</lon>
+      <name>Haora</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>297</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Gurgaon::Haryana::India">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>855</dist>
+      <lat>28.47</lat>
+      <lon>77.01</lon>
+      <name>Gurgaon</name>
+    </location>
+    <location name="Rajmahal::Jharkhand::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>376</dist>
+      <lat>25.05</lat>
+      <lon>87.83</lon>
+      <name>Rajmahal</name>
+    </location>
+    <location name="Anandnagar::Uttar Pradesh::India">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>251</dist>
+      <lat>27.10</lat>
+      <lon>83.28</lon>
+      <name>Anandnagar</name>
+    </location>
+    <location name="Fyzabad::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>370</dist>
+      <lat>26.78</lat>
+      <lon>82.14</lon>
+      <name>Fyzabad</name>
+    </location>
+    <location name="Gonda::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>377</dist>
+      <lat>27.14</lat>
+      <lon>81.95</lon>
+      <name>Gonda</name>
+    </location>
+    <location name="Gorakhpur::Uttar Pradesh::India">
+      <cdi>3.7114</cdi>
+      <nresp>1</nresp>
+      <dist>259</dist>
+      <lat>26.76</lat>
+      <lon>83.36</lon>
+      <name>Gorakhpur</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>484</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Naraura::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>719</dist>
+      <lat>28.20</lat>
+      <lon>78.38</lon>
+      <name>Naraura</name>
+    </location>
+    <location name="Noida::Uttar Pradesh::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>824</dist>
+      <lat>28.58</lat>
+      <lon>77.33</lon>
+      <name>Noida</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+  </cdi>
+</cdidata>

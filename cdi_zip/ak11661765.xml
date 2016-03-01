@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99517">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>256</dist>
+      <lat>61.1899261926</lat>
+      <lon>-149.936096257</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99518">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>256</dist>
+      <lat>61.1591909995</lat>
+      <lon>-149.884408774</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99603">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>59.5330957545</lat>
+      <lon>-151.193180499</lon>
+      <name>Homer</name>
+      <state>AK</state>
+    </location>
+    <location name="99611">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>60.7531620408</lat>
+      <lon>-150.48260084</lon>
+      <name>Kenai</name>
+      <state>AK</state>
+    </location>
+    <location name="99669">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>177</dist>
+      <lat>60.4157949775</lat>
+      <lon>-151.003620353</lon>
+      <name>Soldotna</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

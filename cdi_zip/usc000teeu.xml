@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="72756">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>312</dist>
+      <lat>36.3299215231</lat>
+      <lon>-94.0102860163</lon>
+      <name>Rogers</name>
+      <state>AR</state>
+    </location>
+    <location name="73007">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73025">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73170">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>35.3273748202</lat>
+      <lon>-97.55027554</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74743">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>262</dist>
+      <lat>34.0367947721</lat>
+      <lon>-95.5219699878</lon>
+      <name>Hugo</name>
+      <state>OK</state>
+    </location>
+    <location name="74857">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>35.3419691675</lat>
+      <lon>-97.1962017041</lon>
+      <name>Newalla</name>
+      <state>OK</state>
+    </location>
+    <location name="75234">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>324</dist>
+      <lat>32.9238373245</lat>
+      <lon>-96.8903418275</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

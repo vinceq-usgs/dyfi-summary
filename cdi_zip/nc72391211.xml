@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93514">
+      <cdi>3.7738</cdi>
+      <nresp>5</nresp>
+      <dist>22</dist>
+      <lat>37.4762712635</lat>
+      <lon>-118.400747511</lon>
+      <name>Bishop</name>
+      <state>CA</state>
+    </location>
+    <location name="95616">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>329</dist>
+      <lat>38.5589148035</lat>
+      <lon>-121.802578233</lon>
+      <name>Davis</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

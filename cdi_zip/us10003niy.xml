@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="San Cristóbal::Táchira::Venezuela">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>173</dist>
+      <lat>7.77</lat>
+      <lon>-72.25</lon>
+      <name>San Cristóbal</name>
+    </location>
+    <location name="Táriba::Táchira::Venezuela">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>7.82</lat>
+      <lon>-72.24</lon>
+      <name>Táriba</name>
+    </location>
+    <location name="Envigado::Antioquia::Colombia">
+      <cdi>2.7751</cdi>
+      <nresp>4</nresp>
+      <dist>321</dist>
+      <lat>6.16</lat>
+      <lon>-75.56</lon>
+      <name>Envigado</name>
+    </location>
+    <location name="Itagüí::Antioquia::Colombia">
+      <cdi>3.3811</cdi>
+      <nresp>2</nresp>
+      <dist>326</dist>
+      <lat>6.17</lat>
+      <lon>-75.62</lon>
+      <name>Itagüí</name>
+    </location>
+    <location name="Medellín::Antioquia::Colombia">
+      <cdi>3.1540</cdi>
+      <nresp>6</nresp>
+      <dist>312</dist>
+      <lat>6.29</lat>
+      <lon>-75.54</lon>
+      <name>Medellín</name>
+    </location>
+    <location name="Sabaneta::Antioquia::Colombia">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>325</dist>
+      <lat>6.15</lat>
+      <lon>-75.60</lon>
+      <name>Sabaneta</name>
+    </location>
+    <location name="Bogotá::Bogotá::Colombia">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>369</dist>
+      <lat>4.63</lat>
+      <lon>-74.09</lon>
+      <name>Bogotá</name>
+    </location>
+    <location name="San Alberto::César::Colombia">
+      <cdi>5.9313</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>7.75</lat>
+      <lon>-73.39</lon>
+      <name>San Alberto</name>
+    </location>
+    <location name="San Diego::César::Colombia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>318</dist>
+      <lat>10.33</lat>
+      <lon>-73.19</lon>
+      <name>San Diego</name>
+    </location>
+    <location name="Vista Hermosa::Meta::Colombia">
+      <cdi>3.9249</cdi>
+      <nresp>1</nresp>
+      <dist>524</dist>
+      <lat>3.09</lat>
+      <lon>-73.75</lon>
+      <name>Vista Hermosa</name>
+    </location>
+    <location name="Cúcuta::Norte de Santander::Colombia">
+      <cdi>4.4700</cdi>
+      <nresp>2</nresp>
+      <dist>156</dist>
+      <lat>7.88</lat>
+      <lon>-72.51</lon>
+      <name>Cúcuta</name>
+    </location>
+    <location name="Bucaramanga::Santander::Colombia">
+      <cdi>3.9237</cdi>
+      <nresp>8</nresp>
+      <dist>140</dist>
+      <lat>7.13</lat>
+      <lon>-73.13</lon>
+      <name>Bucaramanga</name>
+    </location>
+    <location name="Floridablanca::Santander::Colombia">
+      <cdi>4.0125</cdi>
+      <nresp>5</nresp>
+      <dist>144</dist>
+      <lat>7.06</lat>
+      <lon>-73.09</lon>
+      <name>Floridablanca</name>
+    </location>
+    <location name="Piedecuesta::Santander::Colombia">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>149</dist>
+      <lat>6.99</lat>
+      <lon>-73.05</lon>
+      <name>Piedecuesta</name>
+    </location>
+  </cdi>
+</cdidata>

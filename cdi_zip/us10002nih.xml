@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Aparri::Cagayan Valley::Philippines">
+      <cdi>3.6479</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>18.36</lat>
+      <lon>121.64</lon>
+      <name>Aparri</name>
+    </location>
+    <location name="Cabagan::Cagayan Valley::Philippines">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>17.43</lat>
+      <lon>121.76</lon>
+      <name>Cabagan</name>
+    </location>
+    <location name="Angad::Cordillera::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>17.58</lat>
+      <lon>120.63</lon>
+      <name>Angad</name>
+    </location>
+    <location name="Batac::Ilocos::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>18.05</lat>
+      <lon>120.57</lon>
+      <name>Batac</name>
+    </location>
+    <location name="Callaguip::Ilocos::Philippines">
+      <cdi>6.9501</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>18.07</lat>
+      <lon>120.49</lon>
+      <name>Callaguip</name>
+    </location>
+    <location name="Laoag::Ilocos::Philippines">
+      <cdi>4.1397</cdi>
+      <nresp>2</nresp>
+      <dist>37</dist>
+      <lat>18.20</lat>
+      <lon>120.59</lon>
+      <name>Laoag</name>
+    </location>
+    <location name="Pagudpud::Ilocos::Philippines">
+      <cdi>5.4480</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>18.56</lat>
+      <lon>120.78</lon>
+      <name>Pagudpud</name>
+    </location>
+    <location name="Piddig::Ilocos::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>18.16</lat>
+      <lon>120.73</lon>
+      <name>Piddig</name>
+    </location>
+    <location name="San Nicolas (San Nicolas, Ilocos Norte)::Ilocos::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>18.17</lat>
+      <lon>120.60</lon>
+      <name>San Nicolas (San Nicolas, Ilocos Norte)</name>
+    </location>
+    <location name="Malanday::Southern Tagalog::Philippines">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>370</dist>
+      <lat>14.65</lat>
+      <lon>121.09</lon>
+      <name>Malanday</name>
+    </location>
+  </cdi>
+</cdidata>

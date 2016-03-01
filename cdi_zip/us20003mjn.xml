@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Córdoba::Córdoba::Argentina">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>721</dist>
+      <lat>-31.40</lat>
+      <lon>-64.19</lon>
+      <name>Córdoba</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2.3775</cdi>
+      <nresp>11</nresp>
+      <dist>304</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>308</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="Machalí::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>286</dist>
+      <lat>-34.18</lat>
+      <lon>-70.67</lon>
+      <name>Machalí</name>
+    </location>
+    <location name="Rancagua::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>283</dist>
+      <lat>-34.17</lat>
+      <lon>-70.74</lon>
+      <name>Rancagua</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.7786</cdi>
+      <nresp>21</nresp>
+      <dist>216</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Limache::Valparaíso::Chile">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>147</dist>
+      <lat>-33.02</lat>
+      <lon>-71.27</lon>
+      <name>Limache</name>
+    </location>
+    <location name="Quilpué::Valparaíso::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>-33.04</lat>
+      <lon>-71.50</lon>
+      <name>Quilpué</name>
+    </location>
+    <location name="Valparaíso::Valparaíso::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>-33.04</lat>
+      <lon>-71.64</lon>
+      <name>Valparaíso</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

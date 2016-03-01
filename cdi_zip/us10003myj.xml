@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66204">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>350</dist>
+      <lat>38.9928753569</lat>
+      <lon>-94.6770662628</lon>
+      <name>Overland Park</name>
+      <state>KS</state>
+    </location>
+    <location name="67003">
+      <cdi>3.2031</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67218">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67357">
+      <cdi>3.2754</cdi>
+      <nresp>1</nresp>
+      <dist>240</dist>
+      <lat>37.3197913571</lat>
+      <lon>-95.2648207936</lon>
+      <name>Parsons</name>
+      <state>KS</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>173</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

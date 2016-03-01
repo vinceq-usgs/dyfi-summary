@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Etla::Oaxaca::Mexico">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>17.20</lat>
+      <lon>-96.80</lon>
+      <name>Etla</name>
+    </location>
+    <location name="Oaxaca::Oaxaca::Mexico">
+      <cdi>2.8772</cdi>
+      <nresp>8</nresp>
+      <dist>81</dist>
+      <lat>17.07</lat>
+      <lon>-96.72</lon>
+      <name>Oaxaca</name>
+    </location>
+    <location name="Teotitlán den Valle::Oaxaca::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>17.03</lat>
+      <lon>-96.50</lon>
+      <name>Teotitlán den Valle</name>
+    </location>
+    <location name="Querétaro::Querétaro::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>595</dist>
+      <lat>20.59</lat>
+      <lon>-100.40</lon>
+      <name>Querétaro</name>
+    </location>
+  </cdi>
+</cdidata>

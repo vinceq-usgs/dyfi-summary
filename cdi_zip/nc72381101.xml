@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92606">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>345</dist>
+      <lat>33.6861695704</lat>
+      <lon>-117.816861013</lon>
+      <name>Irvine</name>
+      <state>CA</state>
+    </location>
+    <location name="93442">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>35.4034865503</lat>
+      <lon>-120.800373375</lon>
+      <name>Morro Bay</name>
+      <state>CA</state>
+    </location>
+    <location name="93446">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>35.6535983591</lat>
+      <lon>-120.735081918</lon>
+      <name>Paso Robles</name>
+      <state>CA</state>
+    </location>
+    <location name="93465">
+      <cdi>3.5060</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>35.5339456121</lat>
+      <lon>-120.713341263</lon>
+      <name>Templeton</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

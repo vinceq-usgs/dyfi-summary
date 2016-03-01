@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66062">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>397</dist>
+      <lat>38.8348449199</lat>
+      <lon>-94.7795202848</lon>
+      <name>Olathe</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>267</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67152">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>283</dist>
+      <lat>37.2574619357</lat>
+      <lon>-97.4015125998</lon>
+      <name>Wellington</name>
+      <state>KS</state>
+    </location>
+    <location name="67401">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>156</dist>
+      <lat>38.8387587166</lat>
+      <lon>-97.6335856895</lon>
+      <name>Salina</name>
+      <state>KS</state>
+    </location>
+    <location name="67663">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>39.2124178211</lat>
+      <lon>-99.3084467757</lon>
+      <name>Plainville</name>
+      <state>KS</state>
+    </location>
+    <location name="67669">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>39.4509095689</lat>
+      <lon>-99.3633438287</lon>
+      <name>Stockton</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

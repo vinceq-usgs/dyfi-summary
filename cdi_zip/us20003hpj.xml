@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Hato Mayor::Hato Mayor::Dominican Republic">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>18.77</lat>
+      <lon>-69.26</lon>
+      <name>Hato Mayor</name>
+    </location>
+    <location name="Las Terrenas::Samaná::Dominican Republic">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>34</dist>
+      <lat>19.32</lat>
+      <lon>-69.53</lon>
+      <name>Las Terrenas</name>
+    </location>
+    <location name="Santo Domingo::Santo Domingo::Dominican Republic">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>100</dist>
+      <lat>18.48</lat>
+      <lon>-69.91</lon>
+      <name>Santo Domingo</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="85382">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>315</dist>
+      <lat>33.6559809984</lat>
+      <lon>-112.246974108</lon>
+      <name>Peoria</name>
+      <state>AZ</state>
+    </location>
+    <location name="92227">
+      <cdi>3.1847</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>33.0077298456</lat>
+      <lon>-115.429493874</lon>
+      <name>Brawley</name>
+      <state>CA</state>
+    </location>
+    <location name="92243">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>32.7733878486</lat>
+      <lon>-115.600968985</lon>
+      <name>El Centro</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

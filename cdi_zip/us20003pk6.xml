@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="23093">
+      <cdi>2.4911</cdi>
+      <nresp>7</nresp>
+      <dist>9</dist>
+      <lat>38.0004107227</lat>
+      <lon>-78.0371685324</lon>
+      <name>Louisa</name>
+      <state>VA</state>
+    </location>
+    <location name="23117">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>37.9812175261</lat>
+      <lon>-77.8737014329</lon>
+      <name>Mineral</name>
+      <state>VA</state>
+    </location>
+  </cdi>
+</cdidata>

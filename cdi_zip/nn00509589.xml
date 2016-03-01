@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89408">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>39.5884761812</lat>
+      <lon>-119.160700347</lon>
+      <name>Fernley</name>
+      <state>NV</state>
+    </location>
+    <location name="89410">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>70</dist>
+      <lat>38.8296986598</lat>
+      <lon>-119.582884973</lon>
+      <name>Gardnerville</name>
+      <state>NV</state>
+    </location>
+    <location name="89415">
+      <cdi>2.8123</cdi>
+      <nresp>19</nresp>
+      <dist>17</dist>
+      <lat>38.5770178182</lat>
+      <lon>-118.638388263</lon>
+      <name>Hawthorne</name>
+      <state>NV</state>
+    </location>
+    <location name="89429">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>92</dist>
+      <lat>39.3961998995</lat>
+      <lon>-119.267264905</lon>
+      <name>Silver Springs</name>
+      <state>NV</state>
+    </location>
+    <location name="89447">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>38.8770686288</lat>
+      <lon>-119.098084639</lon>
+      <name>Yerington</name>
+      <state>NV</state>
+    </location>
+    <location name="89822">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>329</dist>
+      <lat>40.7196814461</lat>
+      <lon>-116.060831421</lon>
+      <name>Carlin</name>
+      <state>NV</state>
+    </location>
+    <location name="90808">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>539</dist>
+      <lat>33.8237691701</lat>
+      <lon>-118.115130501</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="94558">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>302</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>295</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94709">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>314</dist>
+      <lat>37.879136566</lat>
+      <lon>-122.266731522</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+    <location name="95661">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>212</dist>
+      <lat>38.740224929</lat>
+      <lon>-121.250351975</lon>
+      <name>Roseville</name>
+      <state>CA</state>
+    </location>
+    <location name="95665">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>38.4037957589</lat>
+      <lon>-120.651478993</lon>
+      <name>Pine Grove</name>
+      <state>CA</state>
+    </location>
+    <location name="95678">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>216</dist>
+      <lat>38.7648177637</lat>
+      <lon>-121.288145345</lon>
+      <name>Roseville</name>
+      <state>CA</state>
+    </location>
+    <location name="96150">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>110</dist>
+      <lat>38.8843567361</lat>
+      <lon>-120.03415586</lon>
+      <name>South Lake Tahoe</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

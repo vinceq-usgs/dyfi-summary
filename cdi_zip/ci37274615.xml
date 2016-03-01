@@ -1,0 +1,193 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90815">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>33.796240627</lat>
+      <lon>-118.11595962</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91702">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>34.1336022746</lat>
+      <lon>-117.908863533</lon>
+      <name>Azusa</name>
+      <state>CA</state>
+    </location>
+    <location name="92313">
+      <cdi>2.5832</cdi>
+      <nresp>6</nresp>
+      <dist>16</dist>
+      <lat>34.0313412289</lat>
+      <lon>-117.313467732</lon>
+      <name>Grand Terrace</name>
+      <state>CA</state>
+    </location>
+    <location name="92324">
+      <cdi>2.0628</cdi>
+      <nresp>4</nresp>
+      <dist>14</dist>
+      <lat>34.0312328963</lat>
+      <lon>-117.28500846</lon>
+      <name>Colton</name>
+      <state>CA</state>
+    </location>
+    <location name="92337">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>34.0491763581</lat>
+      <lon>-117.471344778</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92354">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.049958427</lat>
+      <lon>-117.251386567</lon>
+      <name>Loma Linda</name>
+      <state>CA</state>
+    </location>
+    <location name="92373">
+      <cdi>2.4718</cdi>
+      <nresp>3</nresp>
+      <dist>14</dist>
+      <lat>34.0045321458</lat>
+      <lon>-117.152819255</lon>
+      <name>Redlands</name>
+      <state>CA</state>
+    </location>
+    <location name="92408">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>34.0845095549</lat>
+      <lon>-117.26370311</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>33.9953172123</lat>
+      <lon>-117.372904494</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92504">
+      <cdi>2.1883</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>33.9069849785</lat>
+      <lon>-117.398750805</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92505">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>33.9341559414</lat>
+      <lon>-117.495019802</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92506">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>17</dist>
+      <lat>33.9345422726</lat>
+      <lon>-117.361830818</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92507">
+      <cdi>2.4796</cdi>
+      <nresp>13</nresp>
+      <dist>15</dist>
+      <lat>33.9529113701</lat>
+      <lon>-117.323004987</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92508">
+      <cdi>2.2712</cdi>
+      <nresp>14</nresp>
+      <dist>17</dist>
+      <lat>33.8922663294</lat>
+      <lon>-117.325067728</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92518">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>33.8850865775</lat>
+      <lon>-117.273210791</lon>
+      <name>March Air Reserve Base</name>
+      <state>CA</state>
+    </location>
+    <location name="92553">
+      <cdi>2.1636</cdi>
+      <nresp>4</nresp>
+      <dist>13</dist>
+      <lat>33.9228804737</lat>
+      <lon>-117.245423137</lon>
+      <name>Moreno Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92555">
+      <cdi>2.2854</cdi>
+      <nresp>3</nresp>
+      <dist>16</dist>
+      <lat>33.908079959</lat>
+      <lon>-117.126661034</lon>
+      <name>Moreno Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92557">
+      <cdi>2.4718</cdi>
+      <nresp>5</nresp>
+      <dist>12</dist>
+      <lat>33.9718634715</lat>
+      <lon>-117.258910031</lon>
+      <name>Moreno Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92570">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>33.7846269545</lat>
+      <lon>-117.320913857</lon>
+      <name>Perris</name>
+      <state>CA</state>
+    </location>
+    <location name="92584">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>33.6593520769</lat>
+      <lon>-117.178378489</lon>
+      <name>Menifee</name>
+      <state>CA</state>
+    </location>
+    <location name="92860">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>33.9246632061</lat>
+      <lon>-117.55268765</lon>
+      <name>Norco</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

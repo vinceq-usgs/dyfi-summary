@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91306">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>34.2101140238</lat>
+      <lon>-118.575907906</lon>
+      <name>Winnetka</name>
+      <state>CA</state>
+    </location>
+    <location name="91311">
+      <cdi>2.4718</cdi>
+      <nresp>3</nresp>
+      <dist>9</dist>
+      <lat>34.2856213545</lat>
+      <lon>-118.604515487</lon>
+      <name>Chatsworth</name>
+      <state>CA</state>
+    </location>
+    <location name="91321">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.3579001289</lat>
+      <lon>-118.473819206</lon>
+      <name>Newhall</name>
+      <state>CA</state>
+    </location>
+    <location name="91326">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>8</dist>
+      <lat>34.2803763282</lat>
+      <lon>-118.556109263</lon>
+      <name>Porter Ranch</name>
+      <state>CA</state>
+    </location>
+    <location name="91343">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>34.2384236293</lat>
+      <lon>-118.480746304</lon>
+      <name>North Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91344">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>9</dist>
+      <lat>34.2915037907</lat>
+      <lon>-118.506153742</lon>
+      <name>Granada Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91355">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.4226337105</lat>
+      <lon>-118.60635349</lon>
+      <name>Valencia</name>
+      <state>CA</state>
+    </location>
+    <location name="91356">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>34.1538571902</lat>
+      <lon>-118.546732344</lon>
+      <name>Tarzana</name>
+      <state>CA</state>
+    </location>
+    <location name="91364">
+      <cdi>2.6051</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>34.1550610547</lat>
+      <lon>-118.595389231</lon>
+      <name>Woodland Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91602">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>34.1507240204</lat>
+      <lon>-118.365981114</lon>
+      <name>North Hollywood</name>
+      <state>CA</state>
+    </location>
+    <location name="93021">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>34.3089429465</lat>
+      <lon>-118.864533809</lon>
+      <name>Moorpark</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

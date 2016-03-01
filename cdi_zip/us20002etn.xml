@@ -1,0 +1,204 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bhaluka::Maimansingh::Bangladesh">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>685</dist>
+      <lat>24.40</lat>
+      <lon>90.38</lon>
+      <name>Bhaluka</name>
+    </location>
+    <location name="Tezpur::Assam::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>817</dist>
+      <lat>26.63</lat>
+      <lon>92.79</lon>
+      <name>Tezpur</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>392</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Begusarai::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>300</dist>
+      <lat>25.42</lat>
+      <lon>86.12</lon>
+      <name>Begusarai</name>
+    </location>
+    <location name="Gopalganj::Bihar::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>26.47</lat>
+      <lon>84.43</lon>
+      <name>Gopalganj</name>
+    </location>
+    <location name="Janakpur Road::Bihar::India">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>180</dist>
+      <lat>26.48</lat>
+      <lon>85.72</lon>
+      <name>Janakpur Road</name>
+    </location>
+    <location name="Munger::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>321</dist>
+      <lat>25.39</lat>
+      <lon>86.47</lon>
+      <name>Munger</name>
+    </location>
+    <location name="Phulwari::Bihar::India">
+      <cdi>2.7334</cdi>
+      <nresp>2</nresp>
+      <dist>246</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Sitamarhi::Bihar::India">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>26.61</lat>
+      <lon>85.48</lon>
+      <name>Sitamarhi</name>
+    </location>
+    <location name="Kūmher::Rajasthan::India">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>720</dist>
+      <lat>27.32</lat>
+      <lon>77.37</lon>
+      <name>Kūmher</name>
+    </location>
+    <location name="Bansgaon::Uttar Pradesh::India">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>187</dist>
+      <lat>26.55</lat>
+      <lon>83.35</lon>
+      <name>Bansgaon</name>
+    </location>
+    <location name="Ghaziabad::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>716</dist>
+      <lat>28.66</lat>
+      <lon>77.41</lon>
+      <name>Ghaziabad</name>
+    </location>
+    <location name="Gorakhpur::Uttar Pradesh::India">
+      <cdi>2.6912</cdi>
+      <nresp>4</nresp>
+      <dist>170</dist>
+      <lat>26.76</lat>
+      <lon>83.36</lon>
+      <name>Gorakhpur</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>2.5168</cdi>
+      <nresp>2</nresp>
+      <dist>382</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Lakhnau Cantonment::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>379</dist>
+      <lat>26.81</lat>
+      <lon>80.97</lon>
+      <name>Lakhnau Cantonment</name>
+    </location>
+    <location name="Lakhīmpur::Uttar Pradesh::India">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>380</dist>
+      <lat>27.95</lat>
+      <lon>80.78</lon>
+      <name>Lakhīmpur</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>4.5907</cdi>
+      <nresp>10</nresp>
+      <dist>25</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>72</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>3.8952</cdi>
+      <nresp>8</nresp>
+      <dist>80</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>4.0784</cdi>
+      <nresp>8</nresp>
+      <dist>67</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>2.7578</cdi>
+      <nresp>8</nresp>
+      <dist>65</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>3.7114</cdi>
+      <nresp>10</nresp>
+      <dist>68</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+    <location name="Hetauda::Makwanpur::Nepal">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>27.41</lat>
+      <lon>85.02</lon>
+      <name>Hetauda</name>
+    </location>
+    <location name="Gaur::Rautahat::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>26.77</lat>
+      <lon>85.27</lon>
+      <name>Gaur</name>
+    </location>
+    <location name="Itahari::Sunsari::Nepal">
+      <cdi>2.7334</cdi>
+      <nresp>1</nresp>
+      <dist>289</dist>
+      <lat>26.67</lat>
+      <lon>87.28</lon>
+      <name>Itahari</name>
+    </location>
+  </cdi>
+</cdidata>

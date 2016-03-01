@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67022">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>37.0959484612</lat>
+      <lon>-97.6546725248</lon>
+      <name>Caldwell</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>93</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67220">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>37.7521280141</lat>
+      <lon>-97.2808050599</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67221">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>37.6249365618</lat>
+      <lon>-97.2632326114</lon>
+      <name>McConnell AFB</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>105</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67401">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>216</dist>
+      <lat>38.8387587166</lat>
+      <lon>-97.6335856895</lon>
+      <name>Salina</name>
+      <state>KS</state>
+    </location>
+    <location name="73759">
+      <cdi>3.8046</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>36.855793831</lat>
+      <lon>-97.6934025249</lon>
+      <name>Medford</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

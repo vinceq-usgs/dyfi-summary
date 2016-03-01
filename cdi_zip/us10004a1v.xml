@@ -1,0 +1,151 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00926">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>668</dist>
+      <lat>18.346948383</lat>
+      <lon>-66.0600355894</lon>
+      <name>San Juan</name>
+      <state>PR</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Choc::Castries::Saint Lucia">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>170</dist>
+      <lat>14.03</lat>
+      <lon>-60.97</lon>
+      <name>Choc</name>
+    </location>
+    <location name="Cap Estate::Gros Inlet::Saint Lucia">
+      <cdi>2.4196</cdi>
+      <nresp>7</nresp>
+      <dist>169</dist>
+      <lat>14.08</lat>
+      <lon>-60.95</lon>
+      <name>Cap Estate</name>
+    </location>
+    <location name="Gros Islet::Gros Inlet::Saint Lucia">
+      <cdi>5.0476</cdi>
+      <nresp>2</nresp>
+      <dist>169</dist>
+      <lat>14.08</lat>
+      <lon>-60.96</lon>
+      <name>Gros Islet</name>
+    </location>
+    <location name="Soufrière::Soufrière::Saint Lucia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>13.86</lat>
+      <lon>-61.05</lon>
+      <name>Soufrière</name>
+    </location>
+    <location name="Vieux Fort::Vieux Fort::Saint Lucia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>13.73</lat>
+      <lon>-60.95</lon>
+      <name>Vieux Fort</name>
+    </location>
+    <location name="Port of Spain::Port of Spain::Trinidad and Tobago">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>461</dist>
+      <lat>10.66</lat>
+      <lon>-61.51</lon>
+      <name>Port of Spain</name>
+    </location>
+    <location name="Oistins::Christ Church::Barbados">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>300</dist>
+      <lat>13.07</lat>
+      <lon>-59.55</lon>
+      <name>Oistins</name>
+    </location>
+    <location name="Point-à-Pitre::Grande-Terre::Guadeloupe">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>239</dist>
+      <lat>16.25</lat>
+      <lon>-61.54</lon>
+      <name>Point-à-Pitre</name>
+    </location>
+    <location name="Fort-de-France::Fort-de-France::Martinique">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>14.60</lat>
+      <lon>-61.08</lon>
+      <name>Fort-de-France</name>
+    </location>
+    <location name="Le Lamentin::Fort-de-France::Martinique">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>158</dist>
+      <lat>14.60</lat>
+      <lon>-61.00</lon>
+      <name>Le Lamentin</name>
+    </location>
+    <location name="Saint-Joseph::Fort-de-France::Martinique">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>14.67</lat>
+      <lon>-61.04</lon>
+      <name>Saint-Joseph</name>
+    </location>
+    <location name="Le Lorrain::La Trinité::Martinique">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>14.83</lat>
+      <lon>-61.07</lon>
+      <name>Le Lorrain</name>
+    </location>
+    <location name="Sainte-Marie::La Trinité::Martinique">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>14.78</lat>
+      <lon>-61.00</lon>
+      <name>Sainte-Marie</name>
+    </location>
+    <location name="Ducos::Le Marin::Martinique">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>14.57</lat>
+      <lon>-60.98</lon>
+      <name>Ducos</name>
+    </location>
+    <location name="Les Trois-Îlets::Le Marin::Martinique">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>157</dist>
+      <lat>14.53</lat>
+      <lon>-61.04</lon>
+      <name>Les Trois-Îlets</name>
+    </location>
+    <location name="Sainte-Luce::Le Marin::Martinique">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>14.47</lat>
+      <lon>-60.92</lon>
+      <name>Sainte-Luce</name>
+    </location>
+    <location name="Simpson Bay::Sint Maarten::Netherlands Antilles">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>449</dist>
+      <lat>18.03</lat>
+      <lon>-63.10</lon>
+      <name>Simpson Bay</name>
+    </location>
+  </cdi>
+</cdidata>

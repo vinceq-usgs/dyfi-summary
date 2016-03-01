@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92019">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>32.7803689007</lat>
+      <lon>-116.879785016</lon>
+      <name>El Cajon</name>
+      <state>CA</state>
+    </location>
+    <location name="92020">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>32.7964990772</lat>
+      <lon>-116.97049349</lon>
+      <name>El Cajon</name>
+      <state>CA</state>
+    </location>
+    <location name="92025">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>56</dist>
+      <lat>33.0847126692</lat>
+      <lon>-117.025800674</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92036">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>12</dist>
+      <lat>32.9446829288</lat>
+      <lon>-116.378860094</lon>
+      <name>Julian</name>
+      <state>CA</state>
+    </location>
+    <location name="92040">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>44</dist>
+      <lat>32.9132430478</lat>
+      <lon>-116.882406668</lon>
+      <name>Lakeside</name>
+      <state>CA</state>
+    </location>
+    <location name="92057">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>33.2521805922</lat>
+      <lon>-117.290325245</lon>
+      <name>Oceanside</name>
+      <state>CA</state>
+    </location>
+    <location name="92065">
+      <cdi>2.3172</cdi>
+      <nresp>6</nresp>
+      <dist>39</dist>
+      <lat>33.042819068</lat>
+      <lon>-116.848126526</lon>
+      <name>Ramona</name>
+      <state>CA</state>
+    </location>
+    <location name="92070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>33.1880931737</lat>
+      <lon>-116.755355854</lon>
+      <name>Santa Ysabel</name>
+      <state>CA</state>
+    </location>
+    <location name="92071">
+      <cdi>2.1553</cdi>
+      <nresp>6</nresp>
+      <dist>57</dist>
+      <lat>32.865493358</lat>
+      <lon>-117.014425567</lon>
+      <name>Santee</name>
+      <state>CA</state>
+    </location>
+    <location name="92082">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>33.2538529897</lat>
+      <lon>-116.994477053</lon>
+      <name>Valley Center</name>
+      <state>CA</state>
+    </location>
+    <location name="92122">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>32.8567616775</lat>
+      <lon>-117.210194898</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92129">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>32.9681310703</lat>
+      <lon>-117.127669786</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92131">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>32.919242608</lat>
+      <lon>-117.068053394</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92311">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>209</dist>
+      <lat>34.8400535</lat>
+      <lon>-117.043139595</lon>
+      <name>Barstow</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

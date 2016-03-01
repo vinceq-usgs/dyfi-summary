@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94040">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>37.3803257432</lat>
+      <lon>-122.085468091</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94043">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>37.4186501185</lat>
+      <lon>-122.076805997</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94105">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>37.7885713861</lat>
+      <lon>-122.393818386</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94115">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>37.7858951001</lat>
+      <lon>-122.437453444</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94123">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>37.8007843899</lat>
+      <lon>-122.436373624</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94127">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>37.7353467968</lat>
+      <lon>-122.459866554</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94132">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>37.7218737448</lat>
+      <lon>-122.486382201</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94564">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>37.9943624284</lat>
+      <lon>-122.285174153</lon>
+      <name>Pinole</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>136</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94596">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>37.8884024161</lat>
+      <lon>-122.036464813</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="95988">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>39.519909753</lat>
+      <lon>-122.308698959</lon>
+      <name>Willows</name>
+      <state>CA</state>
+    </location>
+    <location name="96075">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>194</dist>
+      <lat>40.3667707202</lat>
+      <lon>-121.800810811</lon>
+      <name>Paynes Creek</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bokokhat::Assam::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>26.64</lat>
+      <lon>93.60</lon>
+      <name>Bokokhat</name>
+    </location>
+    <location name="Dibrugarh::Assam::India">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>139</dist>
+      <lat>27.49</lat>
+      <lon>94.91</lon>
+      <name>Dibrugarh</name>
+    </location>
+    <location name="Jorhat::Assam::India">
+      <cdi>4.3417</cdi>
+      <nresp>3</nresp>
+      <dist>84</dist>
+      <lat>26.76</lat>
+      <lon>94.20</lon>
+      <name>Jorhat</name>
+    </location>
+    <location name="Tezpur::Assam::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>206</dist>
+      <lat>26.63</lat>
+      <lon>92.79</lon>
+      <name>Tezpur</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>639</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Phulwari::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>972</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Dimapur::Nagaland::India">
+      <cdi>4.2355</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>25.92</lat>
+      <lon>93.73</lon>
+      <name>Dimapur</name>
+    </location>
+    <location name="Mokokchūng::Nagaland::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>26.33</lat>
+      <lon>94.51</lon>
+      <name>Mokokchūng</name>
+    </location>
+  </cdi>
+</cdidata>

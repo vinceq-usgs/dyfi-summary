@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67211">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>37.6671074036</lat>
+      <lon>-97.3175664461</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67749">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>490</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="73025">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73084">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>35.5264751791</lat>
+      <lon>-97.3432436184</lon>
+      <name>Spencer</name>
+      <state>OK</state>
+    </location>
+    <location name="74604">
+      <cdi>3.2754</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>36.6894344421</lat>
+      <lon>-96.9613505909</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

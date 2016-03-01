@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="64050">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>397</dist>
+      <lat>39.1139307678</lat>
+      <lon>-94.4071453295</lon>
+      <name>Independence</name>
+      <state>MO</state>
+    </location>
+    <location name="67003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="73077">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74063">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>36.1018895691</lat>
+      <lon>-96.2093090001</lon>
+      <name>Sand Springs</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

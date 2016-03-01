@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96718">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>19.3764529899</lat>
+      <lon>-155.361643368</lon>
+      <name>Hawaii National Park</name>
+      <state>HI</state>
+    </location>
+    <location name="96720">
+      <cdi>2.4490</cdi>
+      <nresp>4</nresp>
+      <dist>42</dist>
+      <lat>19.6696050142</lat>
+      <lon>-155.307460679</lon>
+      <name>Hilo</name>
+      <state>HI</state>
+    </location>
+    <location name="96728">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>63</dist>
+      <lat>19.8603690526</lat>
+      <lon>-155.130695657</lon>
+      <name>Honomu</name>
+      <state>HI</state>
+    </location>
+    <location name="96732">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>20.876155739</lat>
+      <lon>-156.458440681</lon>
+      <name>Kahului</name>
+      <state>HI</state>
+    </location>
+    <location name="96778">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>19.4316020081</lat>
+      <lon>-155.011419042</lon>
+      <name>Pahoa</name>
+      <state>HI</state>
+    </location>
+    <location name="96781">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>19.7878309204</lat>
+      <lon>-155.189185432</lon>
+      <name>Papaikou</name>
+      <state>HI</state>
+    </location>
+    <location name="96783">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>19.8240572979</lat>
+      <lon>-155.158954428</lon>
+      <name>Pepeekeo</name>
+      <state>HI</state>
+    </location>
+    <location name="96785">
+      <cdi>2.5832</cdi>
+      <nresp>4</nresp>
+      <dist>23</dist>
+      <lat>19.4941740559</lat>
+      <lon>-155.209215778</lon>
+      <name>Volcano</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

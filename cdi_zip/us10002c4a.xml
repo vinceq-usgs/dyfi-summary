@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73003">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>35.6683436545</lat>
+      <lon>-97.4969186829</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.0916</cdi>
+      <nresp>6</nresp>
+      <dist>9</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73099">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>35.5251099208</lat>
+      <lon>-97.7584631196</lon>
+      <name>Yukon</name>
+      <state>OK</state>
+    </location>
+    <location name="73108">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>35.4499840591</lat>
+      <lon>-97.5664580898</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

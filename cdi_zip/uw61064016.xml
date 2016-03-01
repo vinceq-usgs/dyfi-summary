@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="97204">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>242</dist>
+      <lat>45.518379046</lat>
+      <lon>-122.673870427</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="98027">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>96</dist>
+      <lat>47.4908700225</lat>
+      <lon>-121.974492819</lon>
+      <name>Issaquah</name>
+      <state>WA</state>
+    </location>
+    <location name="98038">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>47.4038894051</lat>
+      <lon>-122.021086476</lon>
+      <name>Maple Valley</name>
+      <state>WA</state>
+    </location>
+    <location name="98117">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>47.6883344325</lat>
+      <lon>-122.381002796</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98294">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>47.875835406</lat>
+      <lon>-121.452270172</lon>
+      <name>Sultan</name>
+      <state>WA</state>
+    </location>
+    <location name="98501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>46.9736084891</lat>
+      <lon>-122.869684906</lon>
+      <name>Olympia</name>
+      <state>WA</state>
+    </location>
+    <location name="98625">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>202</dist>
+      <lat>46.0464085502</lat>
+      <lon>-122.728859617</lon>
+      <name>Kalama</name>
+      <state>WA</state>
+    </location>
+    <location name="98922">
+      <cdi>3.0821</cdi>
+      <nresp>8</nresp>
+      <dist>22</dist>
+      <lat>47.3307595243</lat>
+      <lon>-121.015457951</lon>
+      <name>Cle Elum</name>
+      <state>WA</state>
+    </location>
+    <location name="98926">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>41</dist>
+      <lat>47.017268085</lat>
+      <lon>-120.326310099</lon>
+      <name>Ellensburg</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

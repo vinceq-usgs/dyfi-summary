@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73028">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>7</dist>
+      <lat>35.9736322317</lat>
+      <lon>-97.5941537472</lon>
+      <name>Crescent</name>
+      <state>OK</state>
+    </location>
+    <location name="73131">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>35.5750702853</lat>
+      <lon>-97.4624606899</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74116">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>36.1848986441</lat>
+      <lon>-95.8325638899</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74330">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>36.4164188799</lat>
+      <lon>-95.2764524809</lon>
+      <name>Adair</name>
+      <state>OK</state>
+    </location>
+    <location name="75038">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>349</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>348</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

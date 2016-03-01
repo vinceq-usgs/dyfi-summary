@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94558">
+      <cdi>2.6376</cdi>
+      <nresp>9</nresp>
+      <dist>11</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94559">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>38.2394047273</lat>
+      <lon>-122.330669802</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94599">
+      <cdi>2.9633</cdi>
+      <nresp>4</nresp>
+      <dist>14</dist>
+      <lat>38.4092496224</lat>
+      <lon>-122.367482923</lon>
+      <name>Yountville</name>
+      <state>CA</state>
+    </location>
+    <location name="94941">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>37.8934006252</lat>
+      <lon>-122.565192731</lon>
+      <name>Mill Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95454">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>39.7676605451</lat>
+      <lon>-123.490352366</lon>
+      <name>Laytonville</name>
+      <state>CA</state>
+    </location>
+    <location name="95662">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>38.6891077225</lat>
+      <lon>-121.220210168</lon>
+      <name>Orangevale</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

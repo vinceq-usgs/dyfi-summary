@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chaguanas::Chaguanas::Trinidad and Tobago">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>10.52</lat>
+      <lon>-61.43</lon>
+      <name>Chaguanas</name>
+    </location>
+    <location name="Mucurapo::Diego MartÃ­n::Trinidad and Tobago">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>179</dist>
+      <lat>10.67</lat>
+      <lon>-61.54</lon>
+      <name>Mucurapo</name>
+    </location>
+    <location name="Ciudad Guayana::BolÃ­var::Venezuela">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>279</dist>
+      <lat>8.37</lat>
+      <lon>-62.62</lon>
+      <name>Ciudad Guayana</name>
+    </location>
+  </cdi>
+</cdidata>

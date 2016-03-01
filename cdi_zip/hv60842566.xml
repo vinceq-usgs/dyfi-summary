@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96720">
+      <cdi>2.2219</cdi>
+      <nresp>10</nresp>
+      <dist>42</dist>
+      <lat>19.6696050142</lat>
+      <lon>-155.307460679</lon>
+      <name>Hilo</name>
+      <state>HI</state>
+    </location>
+    <location name="96728">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>56</dist>
+      <lat>19.8603690526</lat>
+      <lon>-155.130695657</lon>
+      <name>Honomu</name>
+      <state>HI</state>
+    </location>
+    <location name="96760">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>19.5627940117</lat>
+      <lon>-155.031909027</lon>
+      <name>Kurtistown</name>
+      <state>HI</state>
+    </location>
+    <location name="96773">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>19.8751351629</lat>
+      <lon>-155.204414824</lon>
+      <name>Ninole</name>
+      <state>HI</state>
+    </location>
+    <location name="96778">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>19.4316020081</lat>
+      <lon>-155.011419042</lon>
+      <name>Pahoa</name>
+      <state>HI</state>
+    </location>
+    <location name="96781">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>19.7878309204</lat>
+      <lon>-155.189185432</lon>
+      <name>Papaikou</name>
+      <state>HI</state>
+    </location>
+    <location name="96783">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>19.8240572979</lat>
+      <lon>-155.158954428</lon>
+      <name>Pepeekeo</name>
+      <state>HI</state>
+    </location>
+    <location name="96785">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>19.4941740559</lat>
+      <lon>-155.209215778</lon>
+      <name>Volcano</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

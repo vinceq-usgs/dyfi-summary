@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="76009">
+      <cdi>2.8570</cdi>
+      <nresp>6</nresp>
+      <dist>9</dist>
+      <lat>32.4185305831</lat>
+      <lon>-97.2044749595</lon>
+      <name>Alvarado</name>
+      <state>TX</state>
+    </location>
+    <location name="76084">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>6</dist>
+      <lat>32.4358033098</lat>
+      <lon>-97.0921615573</lon>
+      <name>Venus</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

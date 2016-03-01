@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1009</dist>
+      <lat>46.195923345</lat>
+      <lon>-116.868962453</lon>
+      <name>Lewiston</name>
+      <state>ID</state>
+    </location>
+    <location name="97034">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>549</dist>
+      <lat>45.4101535159</lat>
+      <lon>-122.684758809</lon>
+      <name>Lake Oswego</name>
+      <state>OR</state>
+    </location>
+    <location name="97124">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>531</dist>
+      <lat>45.5713571483</lat>
+      <lon>-122.946731352</lon>
+      <name>Hillsboro</name>
+      <state>OR</state>
+    </location>
+    <location name="97132">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>524</dist>
+      <lat>45.3226655269</lat>
+      <lon>-122.985916731</lon>
+      <name>Newberg</name>
+      <state>OR</state>
+    </location>
+    <location name="97222">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>555</dist>
+      <lat>45.4411232244</lat>
+      <lon>-122.616289744</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97367">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>450</dist>
+      <lat>44.9370969971</lat>
+      <lon>-123.877710344</lon>
+      <name>Lincoln City</name>
+      <state>OR</state>
+    </location>
+    <location name="97391">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>447</dist>
+      <lat>44.6112864135</lat>
+      <lon>-123.912339052</lon>
+      <name>Toledo</name>
+      <state>OR</state>
+    </location>
+    <location name="98188">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>648</dist>
+      <lat>47.4480709286</lat>
+      <lon>-122.274369888</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Barabazar::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>721</dist>
+      <lat>22.57</lat>
+      <lon>88.35</lon>
+      <name>Barabazar</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>410</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Dalsingh Sarai::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>297</dist>
+      <lat>25.67</lat>
+      <lon>85.83</lon>
+      <name>Dalsingh Sarai</name>
+    </location>
+    <location name="Darbhanga::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>251</dist>
+      <lat>26.16</lat>
+      <lon>85.88</lon>
+      <name>Darbhanga</name>
+    </location>
+    <location name="Gopalganj::Bihar::India">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>26.47</lat>
+      <lon>84.43</lon>
+      <name>Gopalganj</name>
+    </location>
+    <location name="Motihari::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>26.66</lat>
+      <lon>84.91</lon>
+      <name>Motihari</name>
+    </location>
+    <location name="Jamai::Madhya Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>889</dist>
+      <lat>22.20</lat>
+      <lon>78.58</lon>
+      <name>Jamai</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>385</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Renukūt::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>458</dist>
+      <lat>24.20</lat>
+      <lon>83.03</lon>
+      <name>Renukūt</name>
+    </location>
+  </cdi>
+</cdidata>

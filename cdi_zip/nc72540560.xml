@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94103">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>37.7731288064</lat>
+      <lon>-122.411274893</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2.5018</cdi>
+      <nresp>6</nresp>
+      <dist>8</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>3.2754</cdi>
+      <nresp>4</nresp>
+      <dist>7</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.3954</cdi>
+      <nresp>6</nresp>
+      <dist>9</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>7</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94596">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.8884024161</lat>
+      <lon>-122.036464813</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

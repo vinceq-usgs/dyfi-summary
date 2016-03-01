@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Popayán::Cauca::Colombia">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>153</dist>
+      <lat>2.42</lat>
+      <lon>-76.61</lon>
+      <name>Popayán</name>
+    </location>
+    <location name="Calamar::Guaviare::Colombia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>460</dist>
+      <lat>1.96</lat>
+      <lon>-72.65</lon>
+      <name>Calamar</name>
+    </location>
+    <location name="Ansermanuevo::Valle del Cauca::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>278</dist>
+      <lat>4.80</lat>
+      <lon>-76.00</lon>
+      <name>Ansermanuevo</name>
+    </location>
+    <location name="Cali::Valle del Cauca::Colombia">
+      <cdi>2.8026</cdi>
+      <nresp>16</nresp>
+      <dist>168</dist>
+      <lat>3.44</lat>
+      <lon>-76.52</lon>
+      <name>Cali</name>
+    </location>
+    <location name="Vijes::Valle del Cauca::Colombia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>183</dist>
+      <lat>3.70</lat>
+      <lon>-76.43</lon>
+      <name>Vijes</name>
+    </location>
+  </cdi>
+</cdidata>

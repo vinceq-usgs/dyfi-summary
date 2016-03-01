@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93212">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>261</dist>
+      <lat>36.0527131465</lat>
+      <lon>-119.538044446</lon>
+      <name>Corcoran</name>
+      <state>CA</state>
+    </location>
+    <location name="93657">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>36.8134237005</lat>
+      <lon>-119.413224411</lon>
+      <name>Sanger</name>
+      <state>CA</state>
+    </location>
+    <location name="94501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>213</dist>
+      <lat>37.7746713921</lat>
+      <lon>-122.275647073</lon>
+      <name>Alameda</name>
+      <state>CA</state>
+    </location>
+    <location name="94541">
+      <cdi>2.6660</cdi>
+      <nresp>8</nresp>
+      <dist>201</dist>
+      <lat>37.6745039472</lat>
+      <lon>-122.08434059</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94542">
+      <cdi>2.5168</cdi>
+      <nresp>4</nresp>
+      <dist>198</dist>
+      <lat>37.6562925513</lat>
+      <lon>-122.032589888</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94544">
+      <cdi>2.3954</cdi>
+      <nresp>6</nresp>
+      <dist>201</dist>
+      <lat>37.6330043297</lat>
+      <lon>-122.056890432</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94545">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>206</dist>
+      <lat>37.6321633726</lat>
+      <lon>-122.11840959</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94546">
+      <cdi>2.7659</cdi>
+      <nresp>9</nresp>
+      <dist>199</dist>
+      <lat>37.7535145162</lat>
+      <lon>-122.097032395</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94552">
+      <cdi>2.3435</cdi>
+      <nresp>9</nresp>
+      <dist>194</dist>
+      <lat>37.7052675163</lat>
+      <lon>-122.007465818</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94578">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>203</dist>
+      <lat>37.7063627987</lat>
+      <lon>-122.125302829</lon>
+      <name>San Leandro</name>
+      <state>CA</state>
+    </location>
+    <location name="94587">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>201</dist>
+      <lat>37.599599331</lat>
+      <lon>-122.045389358</lon>
+      <name>Union City</name>
+      <state>CA</state>
+    </location>
+    <location name="95065">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>232</dist>
+      <lat>37.0324334294</lat>
+      <lon>-121.983257671</lon>
+      <name>Santa Cruz</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

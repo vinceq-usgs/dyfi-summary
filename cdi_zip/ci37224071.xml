@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91901">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>29</dist>
+      <lat>32.8065319752</lat>
+      <lon>-116.715227584</lon>
+      <name>Alpine</name>
+      <state>CA</state>
+    </location>
+    <location name="91906">
+      <cdi>3.3926</cdi>
+      <nresp>4</nresp>
+      <dist>18</dist>
+      <lat>32.6963449382</lat>
+      <lon>-116.516757429</lon>
+      <name>Campo</name>
+      <state>CA</state>
+    </location>
+    <location name="91935">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>29</dist>
+      <lat>32.6839164923</lat>
+      <lon>-116.815098833</lon>
+      <name>Jamul</name>
+      <state>CA</state>
+    </location>
+    <location name="91980">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>32.587148665</lat>
+      <lon>-116.660721601</lon>
+      <name>Tecate</name>
+      <state>CA</state>
+    </location>
+    <location name="92040">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>32.9132430478</lat>
+      <lon>-116.882406668</lon>
+      <name>Lakeside</name>
+      <state>CA</state>
+    </location>
+    <location name="92563">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>33.5806671466</lat>
+      <lon>-117.146478541</lon>
+      <name>Murrieta</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

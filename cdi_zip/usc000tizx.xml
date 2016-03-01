@@ -1,0 +1,260 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiba::Chiba::Japan">
+      <cdi>3.5831</cdi>
+      <nresp>5</nresp>
+      <dist>57</dist>
+      <lat>35.61</lat>
+      <lon>140.11</lon>
+      <name>Chiba</name>
+    </location>
+    <location name="Funabashi::Chiba::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>35.70</lat>
+      <lon>139.99</lon>
+      <name>Funabashi</name>
+    </location>
+    <location name="Ichikawa::Chiba::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>35.72</lat>
+      <lon>139.93</lon>
+      <name>Ichikawa</name>
+    </location>
+    <location name="Kashiwa::Chiba::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>35.87</lat>
+      <lon>139.97</lon>
+      <name>Kashiwa</name>
+    </location>
+    <location name="Matsudo::Chiba::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>35.78</lat>
+      <lon>139.90</lon>
+      <name>Matsudo</name>
+    </location>
+    <location name="Narashino::Chiba::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>35.69</lat>
+      <lon>140.04</lon>
+      <name>Narashino</name>
+    </location>
+    <location name="Narita::Chiba::Japan">
+      <cdi>4.3417</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>35.79</lat>
+      <lon>140.32</lon>
+      <name>Narita</name>
+    </location>
+    <location name="Urayasu::Chiba::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>35.67</lat>
+      <lon>139.90</lon>
+      <name>Urayasu</name>
+    </location>
+    <location name="Yachiyo::Chiba::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>35.74</lat>
+      <lon>140.10</lon>
+      <name>Yachiyo</name>
+    </location>
+    <location name="Maebashi::Gumma::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>36.39</lat>
+      <lon>139.06</lon>
+      <name>Maebashi</name>
+    </location>
+    <location name="Takasaki::Gumma::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>36.33</lat>
+      <lon>139.02</lon>
+      <name>Takasaki</name>
+    </location>
+    <location name="Tatebayashi::Gumma::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>36.25</lat>
+      <lon>139.53</lon>
+      <name>Tatebayashi</name>
+    </location>
+    <location name="Ami::Ibaraki::Japan">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>36.04</lat>
+      <lon>140.24</lon>
+      <name>Ami</name>
+    </location>
+    <location name="Hitachi::Ibaraki::Japan">
+      <cdi>3.9738</cdi>
+      <nresp>3</nresp>
+      <dist>92</dist>
+      <lat>36.59</lat>
+      <lon>140.66</lon>
+      <name>Hitachi</name>
+    </location>
+    <location name="Hitachinaka::Ibaraki::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>36.40</lat>
+      <lon>140.52</lon>
+      <name>Hitachinaka</name>
+    </location>
+    <location name="Kasama::Ibaraki::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>36.38</lat>
+      <lon>140.25</lon>
+      <name>Kasama</name>
+    </location>
+    <location name="Kasumigaura::Ibaraki::Japan">
+      <cdi>5.0476</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>36.08</lat>
+      <lon>140.32</lon>
+      <name>Kasumigaura</name>
+    </location>
+    <location name="Mito::Ibaraki::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>36.38</lat>
+      <lon>140.47</lon>
+      <name>Mito</name>
+    </location>
+    <location name="Naka::Ibaraki::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>36.05</lat>
+      <lon>140.17</lon>
+      <name>Naka</name>
+    </location>
+    <location name="Toride::Ibaraki::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>35.90</lat>
+      <lon>140.07</lon>
+      <name>Toride</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>4.2084</cdi>
+      <nresp>4</nresp>
+      <dist>54</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Yokohama::Kanagawa::Japan">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>98</dist>
+      <lat>35.47</lat>
+      <lon>139.62</lon>
+      <name>Yokohama</name>
+    </location>
+    <location name="Yokosuka::Kanagawa::Japan">
+      <cdi>4.1535</cdi>
+      <nresp>2</nresp>
+      <dist>105</dist>
+      <lat>35.27</lat>
+      <lon>139.67</lon>
+      <name>Yokosuka</name>
+    </location>
+    <location name="Kasukabe::Saitama::Japan">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>79</dist>
+      <lat>35.98</lat>
+      <lon>139.77</lon>
+      <name>Kasukabe</name>
+    </location>
+    <location name="Kawaguchi::Saitama::Japan">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>35.81</lat>
+      <lon>139.73</lon>
+      <name>Kawaguchi</name>
+    </location>
+    <location name="Saitama::Saitama::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>88</dist>
+      <lat>35.87</lat>
+      <lon>139.64</lon>
+      <name>Saitama</name>
+    </location>
+    <location name="Oyama::Tochigi::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>36.32</lat>
+      <lon>139.80</lon>
+      <name>Oyama</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>105</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+    <location name="Chōfu::Tokio::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>35.65</lat>
+      <lon>139.55</lon>
+      <name>Chōfu</name>
+    </location>
+    <location name="Kokubunji::Tokio::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>35.70</lat>
+      <lon>139.48</lon>
+      <name>Kokubunji</name>
+    </location>
+    <location name="Machida::Tokio::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>35.56</lat>
+      <lon>139.43</lon>
+      <name>Machida</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.9469</cdi>
+      <nresp>18</nresp>
+      <dist>79</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

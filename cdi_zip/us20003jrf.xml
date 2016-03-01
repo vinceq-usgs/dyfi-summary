@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Hualian::Hualien::Taiwan">
+      <cdi>5.9721</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>23.99</lat>
+      <lon>121.59</lon>
+      <name>Hualian</name>
+    </location>
+    <location name="Toucheng::Ilan::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>24.86</lat>
+      <lon>121.81</lon>
+      <name>Toucheng</name>
+    </location>
+    <location name="Taichung::Taichung Shih::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>24.15</lat>
+      <lon>120.68</lon>
+      <name>Taichung</name>
+    </location>
+    <location name="Chungho::Taipei Hsien::Taiwan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>24.99</lat>
+      <lon>121.50</lon>
+      <name>Chungho</name>
+    </location>
+    <location name="Hsinchuang::Taipei Hsien::Taiwan">
+      <cdi>3.1540</cdi>
+      <nresp>4</nresp>
+      <dist>100</dist>
+      <lat>25.04</lat>
+      <lon>121.44</lon>
+      <name>Hsinchuang</name>
+    </location>
+    <location name="Luchou::Taipei Hsien::Taiwan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>25.08</lat>
+      <lon>121.47</lon>
+      <name>Luchou</name>
+    </location>
+    <location name="Sanchung::Taipei Hsien::Taiwan">
+      <cdi>3.5337</cdi>
+      <nresp>4</nresp>
+      <dist>101</dist>
+      <lat>25.07</lat>
+      <lon>121.48</lon>
+      <name>Sanchung</name>
+    </location>
+    <location name="Taipei::Taipei Hsien::Taiwan">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>25.02</lat>
+      <lon>121.45</lon>
+      <name>Taipei</name>
+    </location>
+    <location name="Tanshui::Taipei Hsien::Taiwan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>25.19</lat>
+      <lon>121.42</lon>
+      <name>Tanshui</name>
+    </location>
+    <location name="Yungho::Taipei Hsien::Taiwan">
+      <cdi>3.0129</cdi>
+      <nresp>17</nresp>
+      <dist>95</dist>
+      <lat>25.02</lat>
+      <lon>121.51</lon>
+      <name>Yungho</name>
+    </location>
+  </cdi>
+</cdidata>

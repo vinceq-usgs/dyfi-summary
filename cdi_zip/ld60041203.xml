@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="17349">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>39.7341283214</lat>
+      <lon>-76.6845139867</lon>
+      <name>New Freedom</name>
+      <state>PA</state>
+    </location>
+    <location name="18078">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>40.6714400656</lat>
+      <lon>-75.6230785687</lon>
+      <name>Schnecksville</name>
+      <state>PA</state>
+    </location>
+    <location name="19301">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>40.0414339641</lat>
+      <lon>-75.480904209</lon>
+      <name>Paoli</name>
+      <state>PA</state>
+    </location>
+    <location name="19335">
+      <cdi>2</cdi>
+      <nresp>15</nresp>
+      <dist>6</dist>
+      <lat>40.0236408619</lat>
+      <lon>-75.7209186451</lon>
+      <name>Downingtown</name>
+      <state>PA</state>
+    </location>
+    <location name="19341">
+      <cdi>2.4414</cdi>
+      <nresp>12</nresp>
+      <dist>5</dist>
+      <lat>40.0412648322</lat>
+      <lon>-75.6378717758</lon>
+      <name>Exton</name>
+      <state>PA</state>
+    </location>
+    <location name="19343">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>40.1015286902</lat>
+      <lon>-75.7564410622</lon>
+      <name>Glenmoore</name>
+      <state>PA</state>
+    </location>
+    <location name="19355">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>40.0476479492</lat>
+      <lon>-75.5317201433</lon>
+      <name>Malvern</name>
+      <state>PA</state>
+    </location>
+    <location name="19380">
+      <cdi>2</cdi>
+      <nresp>8</nresp>
+      <dist>5</dist>
+      <lat>39.9857564781</lat>
+      <lon>-75.6046532597</lon>
+      <name>West Chester</name>
+      <state>PA</state>
+    </location>
+    <location name="19382">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>39.9275450037</lat>
+      <lon>-75.6143845459</lon>
+      <name>West Chester</name>
+      <state>PA</state>
+    </location>
+    <location name="19520">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>40.1585948786</lat>
+      <lon>-75.7995221444</lon>
+      <name>Elverson</name>
+      <state>PA</state>
+    </location>
+  </cdi>
+</cdidata>

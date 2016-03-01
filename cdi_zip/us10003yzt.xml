@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ortaovul::Taschkent::Uzbekistan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>355</dist>
+      <lat>41.19</lat>
+      <lon>69.13</lon>
+      <name>Ortaovul</name>
+    </location>
+    <location name="Tashkent::Taschkent::Uzbekistan">
+      <cdi>2.9257</cdi>
+      <nresp>7</nresp>
+      <dist>345</dist>
+      <lat>41.31</lat>
+      <lon>69.30</lon>
+      <name>Tashkent</name>
+    </location>
+    <location name="Kashi::Xinjiang::China">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>257</dist>
+      <lat>39.48</lat>
+      <lon>75.97</lon>
+      <name>Kashi</name>
+    </location>
+    <location name="Almaty::Almaty::Kazakhstan">
+      <cdi>2.4989</cdi>
+      <nresp>5</nresp>
+      <dist>449</dist>
+      <lat>43.32</lat>
+      <lon>76.92</lon>
+      <name>Almaty</name>
+    </location>
+    <location name="Granitogorsk::Taraz::Kazakhstan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>264</dist>
+      <lat>42.75</lat>
+      <lon>73.46</lon>
+      <name>Granitogorsk</name>
+    </location>
+    <location name="Bişkek::Bişkek::Kyrgyzstan">
+      <cdi>3.7841</cdi>
+      <nresp>7</nresp>
+      <dist>299</dist>
+      <lat>42.87</lat>
+      <lon>74.57</lon>
+      <name>Bişkek</name>
+    </location>
+    <location name="Oş::Oş::Kyrgyzstan">
+      <cdi>4.6538</cdi>
+      <nresp>3</nresp>
+      <dist>43</dist>
+      <lat>40.54</lat>
+      <lon>72.79</lon>
+      <name>Oş</name>
+    </location>
+    <location name="Kant::Çuy::Kyrgyzstan">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>310</dist>
+      <lat>42.89</lat>
+      <lon>74.84</lon>
+      <name>Kant</name>
+    </location>
+  </cdi>
+</cdidata>

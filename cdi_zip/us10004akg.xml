@@ -1,0 +1,132 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Diriamba::Carazo::Nicaragua">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>11.86</lat>
+      <lon>-86.25</lon>
+      <name>Diriamba</name>
+    </location>
+    <location name="Granada::Granada::Nicaragua">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>11.94</lat>
+      <lon>-85.96</lon>
+      <name>Granada</name>
+    </location>
+    <location name="Managua::Managua::Nicaragua">
+      <cdi>2.6498</cdi>
+      <nresp>9</nresp>
+      <dist>120</dist>
+      <lat>12.15</lat>
+      <lon>-86.27</lon>
+      <name>Managua</name>
+    </location>
+    <location name="Ticuantepe::Managua::Nicaragua">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>111</dist>
+      <lat>12.02</lat>
+      <lon>-86.20</lon>
+      <name>Ticuantepe</name>
+    </location>
+    <location name="Villa El Carmen::Managua::Nicaragua">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>97</dist>
+      <lat>11.98</lat>
+      <lon>-86.52</lon>
+      <name>Villa El Carmen</name>
+    </location>
+    <location name="Río Blanco::Matagalpa::Nicaragua">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>12.93</lat>
+      <lon>-85.23</lon>
+      <name>Río Blanco</name>
+    </location>
+    <location name="El Jícaro::Nueva Segovia::Nicaragua">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>82</dist>
+      <lat>11.58</lat>
+      <lon>-86.10</lon>
+      <name>El Jícaro</name>
+    </location>
+    <location name="Buenos Aires::Rivas::Nicaragua">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>11.47</lat>
+      <lon>-85.82</lon>
+      <name>Buenos Aires</name>
+    </location>
+    <location name="Rivas::Rivas::Nicaragua">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>11.44</lat>
+      <lon>-85.82</lon>
+      <name>Rivas</name>
+    </location>
+    <location name="San Juan del Sur::Rivas::Nicaragua">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>92</dist>
+      <lat>11.25</lat>
+      <lon>-85.86</lon>
+      <name>San Juan del Sur</name>
+    </location>
+    <location name="Tola::Rivas::Nicaragua">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>11.43</lat>
+      <lon>-85.93</lon>
+      <name>Tola</name>
+    </location>
+    <location name="San Ramón::Alajuela::Costa Rica">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>268</dist>
+      <lat>10.09</lat>
+      <lon>-84.47</lon>
+      <name>San Ramón</name>
+    </location>
+    <location name="Bagaces::Guanacaste::Costa Rica">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>10.52</lat>
+      <lon>-85.25</lon>
+      <name>Bagaces</name>
+    </location>
+    <location name="La Cruz::Guanacaste::Costa Rica">
+      <cdi>3.2031</cdi>
+      <nresp>2</nresp>
+      <dist>116</dist>
+      <lat>11.07</lat>
+      <lon>-85.63</lon>
+      <name>La Cruz</name>
+    </location>
+    <location name="Tilarán::Guanacaste::Costa Rica">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>201</dist>
+      <lat>10.47</lat>
+      <lon>-84.97</lon>
+      <name>Tilarán</name>
+    </location>
+    <location name="Jacó::Puntarenas::Costa Rica">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>281</dist>
+      <lat>9.62</lat>
+      <lon>-84.63</lon>
+      <name>Jacó</name>
+    </location>
+  </cdi>
+</cdidata>

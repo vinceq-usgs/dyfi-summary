@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dushanbe::Dushanbe::Tajikistan">
+      <cdi>3.4285</cdi>
+      <nresp>8</nresp>
+      <dist>124</dist>
+      <lat>38.57</lat>
+      <lon>68.78</lon>
+      <name>Dushanbe</name>
+    </location>
+    <location name="Hisor::Karotegin::Tajikistan">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>38.53</lat>
+      <lon>68.55</lon>
+      <name>Hisor</name>
+    </location>
+    <location name="Navabadski::Karotegin::Tajikistan">
+      <cdi>2.4261</cdi>
+      <nresp>3</nresp>
+      <dist>127</dist>
+      <lat>38.58</lat>
+      <lon>68.75</lon>
+      <name>Navabadski</name>
+    </location>
+    <location name="Rogun::Karotegin::Tajikistan">
+      <cdi>6.1302</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>38.78</lat>
+      <lon>69.87</lon>
+      <name>Rogun</name>
+    </location>
+    <location name="Qurgonteppa::Khatlon::Tajikistan">
+      <cdi>4.2757</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>37.84</lat>
+      <lon>68.77</lon>
+      <name>Qurgonteppa</name>
+    </location>
+    <location name="Bektemir::Taschkent::Uzbekistan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>302</dist>
+      <lat>41.24</lat>
+      <lon>69.33</lon>
+      <name>Bektemir</name>
+    </location>
+    <location name="Tashkent::Taschkent::Uzbekistan">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>310</dist>
+      <lat>41.31</lat>
+      <lon>69.30</lon>
+      <name>Tashkent</name>
+    </location>
+  </cdi>
+</cdidata>

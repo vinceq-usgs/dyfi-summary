@@ -1,0 +1,39 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98225">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>48.7759601548</lat>
+      <lon>-122.522355499</lon>
+      <name>Bellingham</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Abbotsford::British Columbia::Canada">
+      <cdi>2.7357</cdi>
+      <nresp>25</nresp>
+      <dist>13</dist>
+      <lat>49.06</lat>
+      <lon>-122.30</lon>
+      <name>Abbotsford</name>
+    </location>
+    <location name="Chilliwack::British Columbia::Canada">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>49.17</lat>
+      <lon>-121.96</lon>
+      <name>Chilliwack</name>
+    </location>
+    <location name="Vancouver::British Columbia::Canada">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>68</dist>
+      <lat>49.28</lat>
+      <lon>-123.13</lon>
+      <name>Vancouver</name>
+    </location>
+  </cdi>
+</cdidata>

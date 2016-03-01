@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="28613">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>35.7389497363</lat>
+      <lon>-81.2086191389</lon>
+      <name>Conover</name>
+      <state>NC</state>
+    </location>
+    <location name="28658">
+      <cdi>3.4037</cdi>
+      <nresp>13</nresp>
+      <dist>1</dist>
+      <lat>35.6362602609</lat>
+      <lon>-81.2404412942</lon>
+      <name>Newton</name>
+      <state>NC</state>
+    </location>
+    <location name="28792">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>35.3914557808</lat>
+      <lon>-82.3685252217</lon>
+      <name>Hendersonville</name>
+      <state>NC</state>
+    </location>
+    <location name="37312">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>332</dist>
+      <lat>35.2276837838</lat>
+      <lon>-84.8754519302</lon>
+      <name>Cleveland</name>
+      <state>TN</state>
+    </location>
+  </cdi>
+</cdidata>

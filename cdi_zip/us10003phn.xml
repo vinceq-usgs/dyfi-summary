@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chillán::Bío Bío::Chile">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>99</dist>
+      <lat>-36.60</lat>
+      <lon>-72.11</lon>
+      <name>Chillán</name>
+    </location>
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="San Fernando::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>222</dist>
+      <lat>-34.58</lat>
+      <lon>-70.99</lon>
+      <name>San Fernando</name>
+    </location>
+    <location name="Cauquenes::Maule::Chile">
+      <cdi>4.8282</cdi>
+      <nresp>2</nresp>
+      <dist>59</dist>
+      <lat>-35.96</lat>
+      <lon>-72.32</lon>
+      <name>Cauquenes</name>
+    </location>
+    <location name="Talca::Maule::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>-35.42</lat>
+      <lon>-71.66</lon>
+      <name>Talca</name>
+    </location>
+  </cdi>
+</cdidata>

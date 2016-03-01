@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67216">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>213</dist>
+      <lat>37.6082148038</lat>
+      <lon>-97.314056177</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73003">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>35.6683436545</lat>
+      <lon>-97.4969186829</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73020">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>35.456075286</lat>
+      <lon>-97.2632650514</lon>
+      <name>Choctaw</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.5209</cdi>
+      <nresp>11</nresp>
+      <dist>6</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73106">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>35.4823603164</lat>
+      <lon>-97.5367060492</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73742">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>36.0625780267</lat>
+      <lon>-97.8797525148</lon>
+      <name>Hennessey</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

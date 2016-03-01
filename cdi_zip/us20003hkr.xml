@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>56</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

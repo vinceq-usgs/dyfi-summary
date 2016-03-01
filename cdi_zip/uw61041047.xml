@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="97031">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>297</dist>
+      <lat>45.575908832</lat>
+      <lon>-121.654609748</lon>
+      <name>Hood River</name>
+      <state>OR</state>
+    </location>
+    <location name="98045">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>47.4516538059</lat>
+      <lon>-121.604044606</lon>
+      <name>North Bend</name>
+      <state>WA</state>
+    </location>
+    <location name="98121">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>47.6151349643</lat>
+      <lon>-122.346715449</lon>
+      <name>Seattle</name>
+      <state>WA</state>
+    </location>
+    <location name="98223">
+      <cdi>3.4836</cdi>
+      <nresp>5</nresp>
+      <dist>22</dist>
+      <lat>48.2072560911</lat>
+      <lon>-121.949170135</lon>
+      <name>Arlington</name>
+      <state>WA</state>
+    </location>
+    <location name="98241">
+      <cdi>3.2031</cdi>
+      <nresp>7</nresp>
+      <dist>31</dist>
+      <lat>48.1641380081</lat>
+      <lon>-121.29965921</lon>
+      <name>Darrington</name>
+      <state>WA</state>
+    </location>
+    <location name="98501">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>46.9736084891</lat>
+      <lon>-122.869684906</lon>
+      <name>Olympia</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

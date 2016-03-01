@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Misawa::Aomori::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>182</dist>
+      <lat>40.68</lat>
+      <lon>141.34</lon>
+      <name>Misawa</name>
+    </location>
+    <location name="Sapporo::Hokkaido::Japan">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>181</dist>
+      <lat>43.06</lat>
+      <lon>141.34</lon>
+      <name>Sapporo</name>
+    </location>
+  </cdi>
+</cdidata>

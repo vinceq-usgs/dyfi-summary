@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73013">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73077">
+      <cdi>3.9249</cdi>
+      <nresp>3</nresp>
+      <dist>6</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="73632">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>35.2446013359</lat>
+      <lon>-98.8509130327</lon>
+      <name>Cordell</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94025">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>267</dist>
+      <lat>37.4463637453</lat>
+      <lon>-122.186041488</lon>
+      <name>Menlo Park</name>
+      <state>CA</state>
+    </location>
+    <location name="94530">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>213</dist>
+      <lat>37.9229540734</lat>
+      <lon>-122.292315771</lon>
+      <name>El Cerrito</name>
+      <state>CA</state>
+    </location>
+    <location name="94609">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>224</dist>
+      <lat>37.8347302593</lat>
+      <lon>-122.264110335</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94618">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>223</dist>
+      <lat>37.8445345419</lat>
+      <lon>-122.238119356</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="96021">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>42</dist>
+      <lat>39.9110269339</lat>
+      <lon>-122.272330716</lon>
+      <name>Corning</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

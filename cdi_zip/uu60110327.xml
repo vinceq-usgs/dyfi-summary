@@ -1,0 +1,157 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="84003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>40.4134676813</lat>
+      <lon>-111.816560193</lon>
+      <name>American Fork</name>
+      <state>UT</state>
+    </location>
+    <location name="84010">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>40.8722548821</lat>
+      <lon>-111.830324866</lon>
+      <name>Bountiful</name>
+      <state>UT</state>
+    </location>
+    <location name="84017">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>40.9627542397</lat>
+      <lon>-111.236922858</lon>
+      <name>Coalville</name>
+      <state>UT</state>
+    </location>
+    <location name="84036">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>40.8176203254</lat>
+      <lon>-110.710273784</lon>
+      <name>Kamas</name>
+      <state>UT</state>
+    </location>
+    <location name="84095">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>40.5568208141</lat>
+      <lon>-111.975023885</lon>
+      <name>South Jordan</name>
+      <state>UT</state>
+    </location>
+    <location name="84098">
+      <cdi>2.6524</cdi>
+      <nresp>36</nresp>
+      <dist>17</dist>
+      <lat>40.7347931875</lat>
+      <lon>-111.554516101</lon>
+      <name>Park City</name>
+      <state>UT</state>
+    </location>
+    <location name="84101">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>40.7561341207</lat>
+      <lon>-111.899984778</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84102">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>40.7597997133</lat>
+      <lon>-111.864399237</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84105">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>28</dist>
+      <lat>40.7377803563</lat>
+      <lon>-111.859603148</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84106">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>40.7062293221</lat>
+      <lon>-111.855425571</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84107">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>34</dist>
+      <lat>40.657892327</lat>
+      <lon>-111.88410812</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84108">
+      <cdi>2.6484</cdi>
+      <nresp>13</nresp>
+      <dist>18</dist>
+      <lat>40.7800010453</lat>
+      <lon>-111.73338293</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84109">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>40.714073999</lat>
+      <lon>-111.714134236</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84111">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>40.7557010988</lat>
+      <lon>-111.883931735</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84117">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>40.6616275869</lat>
+      <lon>-111.834691157</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84119">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>40.7002433958</lat>
+      <lon>-111.945700713</lon>
+      <name>Salt Lake City</name>
+      <state>UT</state>
+    </location>
+    <location name="84404">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>41.2792345983</lat>
+      <lon>-112.127498852</lon>
+      <name>Ogden</name>
+      <state>UT</state>
+    </location>
+  </cdi>
+</cdidata>

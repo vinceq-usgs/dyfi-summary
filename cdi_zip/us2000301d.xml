@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="74063">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>36.1018895691</lat>
+      <lon>-96.2093090001</lon>
+      <name>Sand Springs</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.5337</cdi>
+      <nresp>2</nresp>
+      <dist>74</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>68</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

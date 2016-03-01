@@ -1,0 +1,100 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Concepción de Ataco::Ahuachapán::El Salvador">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>13.87</lat>
+      <lon>-89.85</lon>
+      <name>Concepción de Ataco</name>
+    </location>
+    <location name="San Francisco Menéndez::Ahuachapán::El Salvador">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>13.85</lat>
+      <lon>-90.02</lon>
+      <name>San Francisco Menéndez</name>
+    </location>
+    <location name="Antiguo Cuscatlán::La Libertad::El Salvador">
+      <cdi>3.0916</cdi>
+      <nresp>5</nresp>
+      <dist>95</dist>
+      <lat>13.68</lat>
+      <lon>-89.23</lon>
+      <name>Antiguo Cuscatlán</name>
+    </location>
+    <location name="La Libertad::La Libertad::El Salvador">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>13.48</lat>
+      <lon>-89.33</lon>
+      <name>La Libertad</name>
+    </location>
+    <location name="Nueva San Salvador::La Libertad::El Salvador">
+      <cdi>3.2754</cdi>
+      <nresp>6</nresp>
+      <dist>97</dist>
+      <lat>13.68</lat>
+      <lon>-89.29</lon>
+      <name>Nueva San Salvador</name>
+    </location>
+    <location name="Nuevo Cuscatlán::La Libertad::El Salvador">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>13.65</lat>
+      <lon>-89.27</lon>
+      <name>Nuevo Cuscatlán</name>
+    </location>
+    <location name="Zaragoza::La Libertad::El Salvador">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>13.58</lat>
+      <lon>-89.29</lon>
+      <name>Zaragoza</name>
+    </location>
+    <location name="Mejicanos::San Salvador::El Salvador">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>98</dist>
+      <lat>13.73</lat>
+      <lon>-89.20</lon>
+      <name>Mejicanos</name>
+    </location>
+    <location name="Panchimalco::San Salvador::El Salvador">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>13.62</lat>
+      <lon>-89.18</lon>
+      <name>Panchimalco</name>
+    </location>
+    <location name="San Salvador::San Salvador::El Salvador">
+      <cdi>3.4498</cdi>
+      <nresp>4</nresp>
+      <dist>94</dist>
+      <lat>13.69</lat>
+      <lon>-89.19</lon>
+      <name>San Salvador</name>
+    </location>
+    <location name="Tonacatepeque::San Salvador::El Salvador">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>13.79</lat>
+      <lon>-89.12</lon>
+      <name>Tonacatepeque</name>
+    </location>
+    <location name="Jacó::Puntarenas::Costa Rica">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>612</dist>
+      <lat>9.62</lat>
+      <lon>-84.63</lon>
+      <name>Jacó</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Guasdualito::Apure::Venezuela">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>7.24</lat>
+      <lon>-70.74</lon>
+      <name>Guasdualito</name>
+    </location>
+    <location name="Ejido::Mérida::Venezuela">
+      <cdi>3.8249</cdi>
+      <nresp>11</nresp>
+      <dist>20</dist>
+      <lat>8.56</lat>
+      <lon>-71.23</lon>
+      <name>Ejido</name>
+    </location>
+    <location name="El Vigía::Mérida::Venezuela">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>8.63</lat>
+      <lon>-71.65</lon>
+      <name>El Vigía</name>
+    </location>
+    <location name="Táriba::Táchira::Venezuela">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>122</dist>
+      <lat>7.82</lat>
+      <lon>-72.24</lon>
+      <name>Táriba</name>
+    </location>
+    <location name="Maracaibo::Zulia::Venezuela">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>246</dist>
+      <lat>10.73</lat>
+      <lon>-71.66</lon>
+      <name>Maracaibo</name>
+    </location>
+    <location name="San Carlos del Zulia::Zulia::Venezuela">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>9.01</lat>
+      <lon>-71.92</lon>
+      <name>San Carlos del Zulia</name>
+    </location>
+    <location name="Cúcuta::Norte de Santander::Colombia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>7.88</lat>
+      <lon>-72.51</lon>
+      <name>Cúcuta</name>
+    </location>
+    <location name="Bucaramanga::Santander::Colombia">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>246</dist>
+      <lat>7.13</lat>
+      <lon>-73.13</lon>
+      <name>Bucaramanga</name>
+    </location>
+    <location name="Floridablanca::Santander::Colombia">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>247</dist>
+      <lat>7.06</lat>
+      <lon>-73.09</lon>
+      <name>Floridablanca</name>
+    </location>
+  </cdi>
+</cdidata>

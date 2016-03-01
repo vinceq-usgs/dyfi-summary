@@ -1,0 +1,131 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98002">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>47.3082067557</lat>
+      <lon>-122.21484514</lon>
+      <name>Auburn</name>
+      <state>WA</state>
+    </location>
+    <location name="98032">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>47.3909598728</lat>
+      <lon>-122.25952817</lon>
+      <name>Kent</name>
+      <state>WA</state>
+    </location>
+    <location name="98201">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>47.9902597777</lat>
+      <lon>-122.200474189</lon>
+      <name>Everett</name>
+      <state>WA</state>
+    </location>
+    <location name="98223">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>34</dist>
+      <lat>48.2072560911</lat>
+      <lon>-121.949170135</lon>
+      <name>Arlington</name>
+      <state>WA</state>
+    </location>
+    <location name="98260">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>48.0290125947</lat>
+      <lon>-122.447159264</lon>
+      <name>Langley</name>
+      <state>WA</state>
+    </location>
+    <location name="98270">
+      <cdi>3.9543</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>48.0598869791</lat>
+      <lon>-122.150372373</lon>
+      <name>Marysville</name>
+      <state>WA</state>
+    </location>
+    <location name="98271">
+      <cdi>3.0408</cdi>
+      <nresp>3</nresp>
+      <dist>22</dist>
+      <lat>48.0938615895</lat>
+      <lon>-122.236765289</lon>
+      <name>Marysville</name>
+      <state>WA</state>
+    </location>
+    <location name="98272">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>55</dist>
+      <lat>47.8507669496</lat>
+      <lon>-121.888920286</lon>
+      <name>Monroe</name>
+      <state>WA</state>
+    </location>
+    <location name="98273">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>48.4046170456</lat>
+      <lon>-122.365572715</lon>
+      <name>Mount Vernon</name>
+      <state>WA</state>
+    </location>
+    <location name="98274">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>48.3421412647</lat>
+      <lon>-122.180029298</lon>
+      <name>Mount Vernon</name>
+      <state>WA</state>
+    </location>
+    <location name="98282">
+      <cdi>2.2372</cdi>
+      <nresp>5</nresp>
+      <dist>20</dist>
+      <lat>48.125329482</lat>
+      <lon>-122.44785951</lon>
+      <name>Camano Island</name>
+      <state>WA</state>
+    </location>
+    <location name="98292">
+      <cdi>2.7147</cdi>
+      <nresp>10</nresp>
+      <dist>16</dist>
+      <lat>48.2203852848</lat>
+      <lon>-122.30885378</lon>
+      <name>Stanwood</name>
+      <state>WA</state>
+    </location>
+    <location name="98346">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>47.8193771589</lat>
+      <lon>-122.531878134</lon>
+      <name>Kingston</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Cowichan Valley::British Columbia::Canada">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>48.73</lat>
+      <lon>-123.62</lon>
+      <name>Cowichan Valley</name>
+    </location>
+  </cdi>
+</cdidata>

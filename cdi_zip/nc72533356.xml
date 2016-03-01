@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94538">
+      <cdi>2.5583</cdi>
+      <nresp>5</nresp>
+      <dist>9</dist>
+      <lat>37.4995299957</lat>
+      <lon>-121.977885195</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94539">
+      <cdi>2.4453</cdi>
+      <nresp>25</nresp>
+      <dist>6</dist>
+      <lat>37.5266513594</lat>
+      <lon>-121.911791132</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94587">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.599599331</lat>
+      <lon>-122.045389358</lon>
+      <name>Union City</name>
+      <state>CA</state>
+    </location>
+    <location name="95128">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>37.3162104971</lat>
+      <lon>-121.936547909</lon>
+      <name>San Jose</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

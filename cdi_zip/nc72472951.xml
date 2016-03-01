@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94066">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.6234575836</lat>
+      <lon>-122.434442339</lon>
+      <name>San Bruno</name>
+      <state>CA</state>
+    </location>
+    <location name="94115">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>37.7858951001</lat>
+      <lon>-122.437453444</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94549">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>37.9011071203</lat>
+      <lon>-122.117193174</lon>
+      <name>Lafayette</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94965">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>51</dist>
+      <lat>37.846033599</lat>
+      <lon>-122.516835412</lon>
+      <name>Sausalito</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

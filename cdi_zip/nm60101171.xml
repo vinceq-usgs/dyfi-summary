@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="45693">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>862</dist>
+      <lat>38.8006898691</lat>
+      <lon>-83.523785134</lon>
+      <name>West Union</name>
+      <state>OH</state>
+    </location>
+    <location name="61021">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>666</dist>
+      <lat>41.8305421411</lat>
+      <lon>-89.4847196193</lon>
+      <name>Dixon</name>
+      <state>IL</state>
+    </location>
+    <location name="65714">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>37.0368294234</lat>
+      <lon>-93.3203837351</lon>
+      <name>Nixa</name>
+      <state>MO</state>
+    </location>
+    <location name="65731">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>36.6487306961</lat>
+      <lon>-93.1227222751</lon>
+      <name>Powersite</name>
+      <state>MO</state>
+    </location>
+    <location name="72601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>36.2472358162</lat>
+      <lon>-93.0932569865</lon>
+      <name>Harrison</name>
+      <state>AR</state>
+    </location>
+    <location name="72619">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>36.3689134749</lat>
+      <lon>-92.6376833772</lon>
+      <name>Bull Shoals</name>
+      <state>AR</state>
+    </location>
+    <location name="72653">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>40</dist>
+      <lat>36.3417504433</lat>
+      <lon>-92.3849915719</lon>
+      <name>Mountain Home</name>
+      <state>AR</state>
+    </location>
+    <location name="72658">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>36.1781407519</lat>
+      <lon>-92.3112150513</lon>
+      <name>Norfork</name>
+      <state>AR</state>
+    </location>
+    <location name="72687">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>36.2425039649</lat>
+      <lon>-92.7345956626</lon>
+      <name>Yellville</name>
+      <state>AR</state>
+    </location>
+    <location name="76021">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>558</dist>
+      <lat>32.8523666415</lat>
+      <lon>-97.1315214587</lon>
+      <name>Bedford</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

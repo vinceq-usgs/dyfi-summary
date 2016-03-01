@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98844">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>245</dist>
+      <lat>48.9170884205</lat>
+      <lon>-119.29657741</lon>
+      <name>Oroville</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Kamloops::British Columbia::Canada">
+      <cdi>3.5831</cdi>
+      <nresp>5</nresp>
+      <dist>50</dist>
+      <lat>50.68</lat>
+      <lon>-120.34</lon>
+      <name>Kamloops</name>
+    </location>
+    <location name="Salmon Arm::British Columbia::Canada">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>50.70</lat>
+      <lon>-119.29</lon>
+      <name>Salmon Arm</name>
+    </location>
+  </cdi>
+</cdidata>

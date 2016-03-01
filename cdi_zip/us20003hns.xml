@@ -1,0 +1,64 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="07424">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>568</dist>
+      <lat>40.8830578719</lat>
+      <lon>-74.20716349</lon>
+      <name>Little Falls</name>
+      <state>NJ</state>
+    </location>
+    <location name="14618">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>43.1134995623</lat>
+      <lon>-77.5562297721</lon>
+      <name>Rochester</name>
+      <state>NY</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Arnprior::Ontario::Canada">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>45.43</lat>
+      <lon>-76.37</lon>
+      <name>Arnprior</name>
+    </location>
+    <location name="Ottawa::Ontario::Canada">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>45.42</lat>
+      <lon>-75.71</lon>
+      <name>Ottawa</name>
+    </location>
+    <location name="Fort-Coulonge::Québec::Canada">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>45.85</lat>
+      <lon>-76.75</lon>
+      <name>Fort-Coulonge</name>
+    </location>
+    <location name="Saint-André-Avellin::Québec::Canada">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>45.72</lat>
+      <lon>-75.05</lon>
+      <name>Saint-André-Avellin</name>
+    </location>
+    <location name="Shawville::Québec::Canada">
+      <cdi>3.0916</cdi>
+      <nresp>6</nresp>
+      <dist>27</dist>
+      <lat>45.60</lat>
+      <lon>-76.48</lon>
+      <name>Shawville</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="75038">
+      <cdi>2.6912</cdi>
+      <nresp>5</nresp>
+      <dist>11</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75039">
+      <cdi>2.5056</cdi>
+      <nresp>8</nresp>
+      <dist>10</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75062">
+      <cdi>2.9326</cdi>
+      <nresp>23</nresp>
+      <dist>10</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75063">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>32.9206335879</lat>
+      <lon>-96.9754663768</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75070">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>33.1716614397</lat>
+      <lon>-96.6975108923</lon>
+      <name>McKinney</name>
+      <state>TX</state>
+    </location>
+    <location name="75220">
+      <cdi>2.6912</cdi>
+      <nresp>5</nresp>
+      <dist>10</dist>
+      <lat>32.8669930898</lat>
+      <lon>-96.8778633804</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75235">
+      <cdi>2.4808</cdi>
+      <nresp>5</nresp>
+      <dist>12</dist>
+      <lat>32.8315449377</lat>
+      <lon>-96.8479558357</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76248">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>32.9299661583</lat>
+      <lon>-97.2583802908</lon>
+      <name>Keller</name>
+      <state>TX</state>
+    </location>
+    <location name="76258">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>33.3740756658</lat>
+      <lon>-96.9225177666</lon>
+      <name>Pilot Point</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

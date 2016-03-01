@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cranbourne::Victoria::Australia">
+      <cdi>3.0383</cdi>
+      <nresp>10</nresp>
+      <dist>20</dist>
+      <lat>-38.11</lat>
+      <lon>145.27</lon>
+      <name>Cranbourne</name>
+    </location>
+    <location name="Healesville::Victoria::Australia">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>42</dist>
+      <lat>-37.66</lat>
+      <lon>145.52</lon>
+      <name>Healesville</name>
+    </location>
+    <location name="Melbourne::Victoria::Australia">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>53</dist>
+      <lat>-37.81</lat>
+      <lon>144.96</lon>
+      <name>Melbourne</name>
+    </location>
+    <location name="Pakenham::Victoria::Australia">
+      <cdi>3.3990</cdi>
+      <nresp>22</nresp>
+      <dist>8</dist>
+      <lat>-38.06</lat>
+      <lon>145.40</lon>
+      <name>Pakenham</name>
+    </location>
+    <location name="Somerville::Victoria::Australia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>-38.22</lat>
+      <lon>145.17</lon>
+      <name>Somerville</name>
+    </location>
+    <location name="Warragul::Victoria::Australia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>-38.16</lat>
+      <lon>145.93</lon>
+      <name>Warragul</name>
+    </location>
+  </cdi>
+</cdidata>

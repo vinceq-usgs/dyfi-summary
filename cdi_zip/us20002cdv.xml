@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Krabi::Krabi::Thailand">
+      <cdi>3.2502</cdi>
+      <nresp>10</nresp>
+      <dist>36</dist>
+      <lat>8.05</lat>
+      <lon>98.91</lon>
+      <name>Krabi</name>
+    </location>
+    <location name="Phangnga::Phangnga::Thailand">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>8.45</lat>
+      <lon>98.53</lon>
+      <name>Phangnga</name>
+    </location>
+    <location name="Kathu::Phuket::Thailand">
+      <cdi>2.5391</cdi>
+      <nresp>4</nresp>
+      <dist>37</dist>
+      <lat>7.92</lat>
+      <lon>98.35</lon>
+      <name>Kathu</name>
+    </location>
+    <location name="Phuket::Phuket::Thailand">
+      <cdi>2.8516</cdi>
+      <nresp>10</nresp>
+      <dist>34</dist>
+      <lat>7.88</lat>
+      <lon>98.38</lon>
+      <name>Phuket</name>
+    </location>
+  </cdi>
+</cdidata>

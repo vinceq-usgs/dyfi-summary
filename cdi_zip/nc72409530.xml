@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94061">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>427</dist>
+      <lat>37.4617485074</lat>
+      <lon>-122.236471123</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+    <location name="94062">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>428</dist>
+      <lat>37.4076638109</lat>
+      <lon>-122.303813288</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+    <location name="94530">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>385</dist>
+      <lat>37.9229540734</lat>
+      <lon>-122.292315771</lon>
+      <name>El Cerrito</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>416</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94954">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>344</dist>
+      <lat>38.225397908</lat>
+      <lon>-122.557485272</lon>
+      <name>Petaluma</name>
+      <state>CA</state>
+    </location>
+    <location name="95404">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>327</dist>
+      <lat>38.3832370515</lat>
+      <lon>-122.640583489</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95472">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>312</dist>
+      <lat>38.3966316165</lat>
+      <lon>-122.867666863</lon>
+      <name>Sebastopol</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

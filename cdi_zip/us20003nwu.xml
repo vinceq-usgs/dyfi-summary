@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67749">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>538</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="74023">
+      <cdi>4.2868</cdi>
+      <nresp>6</nresp>
+      <dist>6</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74824">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>35.8747253046</lat>
+      <lon>-96.8850890131</lon>
+      <name>Agra</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,203 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="04924">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>432</dist>
+      <lat>44.7555365342</lat>
+      <lon>-69.5364751257</lon>
+      <name>Canaan</name>
+      <state>ME</state>
+    </location>
+    <location name="06897">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>41.2070274264</lat>
+      <lon>-73.4402066928</lon>
+      <name>Wilton</name>
+      <state>CT</state>
+    </location>
+    <location name="07675">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>41.0092402233</lat>
+      <lon>-74.0044989087</lon>
+      <name>Westwood</name>
+      <state>NJ</state>
+    </location>
+    <location name="12010">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>21</dist>
+      <lat>42.935439289</lat>
+      <lon>-74.178548758</lon>
+      <name>Amsterdam</name>
+      <state>NY</state>
+    </location>
+    <location name="12025">
+      <cdi>2.4490</cdi>
+      <nresp>4</nresp>
+      <dist>20</dist>
+      <lat>43.0887060379</lat>
+      <lon>-74.1425754715</lon>
+      <name>Broadalbin</name>
+      <state>NY</state>
+    </location>
+    <location name="12027">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>42.9267967543</lat>
+      <lon>-73.9060609717</lon>
+      <name>Burnt Hills</name>
+      <state>NY</state>
+    </location>
+    <location name="12032">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>43.28092167</lat>
+      <lon>-74.5483097883</lon>
+      <name>Caroga Lake</name>
+      <state>NY</state>
+    </location>
+    <location name="12058">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>42.3522782346</lat>
+      <lon>-73.9262965049</lon>
+      <name>Earlton</name>
+      <state>NY</state>
+    </location>
+    <location name="12070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>42.9845924756</lat>
+      <lon>-74.2534805758</lon>
+      <name>Fort Johnson</name>
+      <state>NY</state>
+    </location>
+    <location name="12078">
+      <cdi>3.2713</cdi>
+      <nresp>48</nresp>
+      <dist>10</dist>
+      <lat>43.1224705328</lat>
+      <lon>-74.3673071632</lon>
+      <name>Gloversville</name>
+      <state>NY</state>
+    </location>
+    <location name="12095">
+      <cdi>2.9770</cdi>
+      <nresp>18</nresp>
+      <dist>6</dist>
+      <lat>43.0305414627</lat>
+      <lon>-74.3995732244</lon>
+      <name>Johnstown</name>
+      <state>NY</state>
+    </location>
+    <location name="12110">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>42.7529727419</lat>
+      <lon>-73.7790312735</lon>
+      <name>Latham</name>
+      <state>NY</state>
+    </location>
+    <location name="12117">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>17</dist>
+      <lat>43.1623013652</lat>
+      <lon>-74.2454758642</lon>
+      <name>Mayfield</name>
+      <state>NY</state>
+    </location>
+    <location name="12134">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>28</dist>
+      <lat>43.2719217022</lat>
+      <lon>-74.2114906216</lon>
+      <name>Northville</name>
+      <state>NY</state>
+    </location>
+    <location name="12143">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>42.4884282062</lat>
+      <lon>-73.8532381045</lon>
+      <name>Ravena</name>
+      <state>NY</state>
+    </location>
+    <location name="12158">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>42.5432246857</lat>
+      <lon>-73.8225904812</lon>
+      <name>Selkirk</name>
+      <state>NY</state>
+    </location>
+    <location name="12211">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>42.7061145697</lat>
+      <lon>-73.7620102746</lon>
+      <name>Albany</name>
+      <state>NY</state>
+    </location>
+    <location name="12832">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>43.3724594779</lat>
+      <lon>-73.3175780147</lon>
+      <name>Granville</name>
+      <state>NY</state>
+    </location>
+    <location name="13365">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>43.0951210287</lat>
+      <lon>-74.8492315423</lon>
+      <name>Little Falls</name>
+      <state>NY</state>
+    </location>
+    <location name="13452">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>43.0386236576</lat>
+      <lon>-74.617261414</lon>
+      <name>Saint Johnsville</name>
+      <state>NY</state>
+    </location>
+    <location name="48039">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>669</dist>
+      <lat>42.6978103338</lat>
+      <lon>-82.5541147897</lon>
+      <name>Marine City</name>
+      <state>MI</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Orangeville::Ontario::Canada">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>472</dist>
+      <lat>43.92</lat>
+      <lon>-80.10</lon>
+      <name>Orangeville</name>
+    </location>
+  </cdi>
+</cdidata>

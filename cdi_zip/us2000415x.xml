@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Durrës::Durrës::Albania">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>41.33</lat>
+      <lon>19.45</lon>
+      <name>Durrës</name>
+    </location>
+    <location name="Tirana::Tirana::Albania">
+      <cdi>3.2754</cdi>
+      <nresp>4</nresp>
+      <dist>42</dist>
+      <lat>41.33</lat>
+      <lon>19.82</lon>
+      <name>Tirana</name>
+    </location>
+    <location name="Studeničani::Skopje::Macedonia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>41.93</lat>
+      <lon>21.52</lon>
+      <name>Studeničani</name>
+    </location>
+  </cdi>
+</cdidata>

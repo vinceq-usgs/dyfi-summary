@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kobilja Glava::Federacija Bosna i Hercegovina::Bosnia and Herzegovina">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>43.88</lat>
+      <lon>18.39</lon>
+      <name>Kobilja Glava</name>
+    </location>
+    <location name="Sarajevo::Federacija Bosna i Hercegovina::Bosnia and Herzegovina">
+      <cdi>3.1552</cdi>
+      <nresp>5</nresp>
+      <dist>31</dist>
+      <lat>43.85</lat>
+      <lon>18.38</lon>
+      <name>Sarajevo</name>
+    </location>
+    <location name="Pula::Istra::Croatia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>394</dist>
+      <lat>44.88</lat>
+      <lon>13.84</lon>
+      <name>Pula</name>
+    </location>
+  </cdi>
+</cdidata>

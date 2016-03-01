@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96719">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>20.2067589704</lat>
+      <lon>-155.862375925</lon>
+      <name>Hawi</name>
+      <state>HI</state>
+    </location>
+    <location name="96727">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>39</dist>
+      <lat>20.0606169257</lat>
+      <lon>-155.542666088</lon>
+      <name>Honokaa</name>
+      <state>HI</state>
+    </location>
+    <location name="96738">
+      <cdi>2.8772</cdi>
+      <nresp>4</nresp>
+      <dist>30</dist>
+      <lat>19.9278736268</lat>
+      <lon>-155.809803675</lon>
+      <name>Waikoloa</name>
+      <state>HI</state>
+    </location>
+    <location name="96743">
+      <cdi>3.0764</cdi>
+      <nresp>10</nresp>
+      <dist>31</dist>
+      <lat>19.931537941</lat>
+      <lon>-155.724082526</lon>
+      <name>Kamuela</name>
+      <state>HI</state>
+    </location>
+    <location name="96755">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>20.1678850117</lat>
+      <lon>-155.783145136</lon>
+      <name>Kapaau</name>
+      <state>HI</state>
+    </location>
+    <location name="96762">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>288</dist>
+      <lat>21.6302279861</lat>
+      <lon>-157.944576286</lon>
+      <name>Laie</name>
+      <state>HI</state>
+    </location>
+    <location name="96776">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>19.801926795</lat>
+      <lon>-155.525904156</lon>
+      <name>Paauilo</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

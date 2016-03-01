@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67002">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>86</dist>
+      <lat>37.6978785988</lat>
+      <lon>-97.1097897813</lon>
+      <name>Andover</name>
+      <state>KS</state>
+    </location>
+    <location name="67003">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>5.1522</cdi>
+      <nresp>3</nresp>
+      <dist>14</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67058">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.3066539451</lat>
+      <lon>-98.0003593977</lon>
+      <name>Harper</name>
+      <state>KS</state>
+    </location>
+    <location name="74820">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>281</dist>
+      <lat>34.7976487982</lat>
+      <lon>-96.7884097609</lon>
+      <name>Ada</name>
+      <state>OK</state>
+    </location>
+    <location name="74864">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>207</dist>
+      <lat>35.5532278614</lat>
+      <lon>-96.7135501732</lon>
+      <name>Prague</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

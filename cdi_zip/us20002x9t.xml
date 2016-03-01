@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73028">
+      <cdi>2.8973</cdi>
+      <nresp>3</nresp>
+      <dist>4</dist>
+      <lat>35.9736322317</lat>
+      <lon>-97.5941537472</lon>
+      <name>Crescent</name>
+      <state>OK</state>
+    </location>
+    <location name="75220">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>350</dist>
+      <lat>32.8669930898</lat>
+      <lon>-96.8778633804</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76226">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>319</dist>
+      <lat>33.1132885783</lat>
+      <lon>-97.1767220878</lon>
+      <name>Argyle</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

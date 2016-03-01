@@ -1,0 +1,92 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Aomori::Aomori::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>40.83</lat>
+      <lon>140.74</lon>
+      <name>Aomori</name>
+    </location>
+    <location name="Goshogawara::Aomori::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>40.81</lat>
+      <lon>140.44</lon>
+      <name>Goshogawara</name>
+    </location>
+    <location name="Hachinohe::Aomori::Japan">
+      <cdi>5.2537</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>40.52</lat>
+      <lon>141.53</lon>
+      <name>Hachinohe</name>
+    </location>
+    <location name="Misawa::Aomori::Japan">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>87</dist>
+      <lat>40.68</lat>
+      <lon>141.34</lon>
+      <name>Misawa</name>
+    </location>
+    <location name="Mutsu::Aomori::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>41.29</lat>
+      <lon>141.21</lon>
+      <name>Mutsu</name>
+    </location>
+    <location name="Fukushima::Fukushima::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>313</dist>
+      <lat>37.75</lat>
+      <lon>140.47</lon>
+      <name>Fukushima</name>
+    </location>
+    <location name="Iwate::Iwate::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>39.98</lat>
+      <lon>141.23</lon>
+      <name>Iwate</name>
+    </location>
+    <location name="Morioka::Iwate::Japan">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>111</dist>
+      <lat>39.70</lat>
+      <lon>141.15</lon>
+      <name>Morioka</name>
+    </location>
+    <location name="Yamada::Iwate::Japan">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>39.47</lat>
+      <lon>141.94</lon>
+      <name>Yamada</name>
+    </location>
+    <location name="Sendai::Miyagi::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>251</dist>
+      <lat>38.26</lat>
+      <lon>140.89</lon>
+      <name>Sendai</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>451</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+  </cdi>
+</cdidata>

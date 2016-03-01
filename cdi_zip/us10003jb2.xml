@@ -1,0 +1,212 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Colima::Colima::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>294</dist>
+      <lat>19.24</lat>
+      <lon>-103.73</lon>
+      <name>Colima</name>
+    </location>
+    <location name="Mexico City::Distrito Federal::Mexico">
+      <cdi>2</cdi>
+      <nresp>34</nresp>
+      <dist>277</dist>
+      <lat>19.43</lat>
+      <lon>-99.14</lon>
+      <name>Mexico City</name>
+    </location>
+    <location name="Acapulco::Guerrero::Mexico">
+      <cdi>4.3417</cdi>
+      <nresp>2</nresp>
+      <dist>210</dist>
+      <lat>16.85</lat>
+      <lon>-99.92</lon>
+      <name>Acapulco</name>
+    </location>
+    <location name="Chilapa::Guerrero::Mexico">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>239</dist>
+      <lat>17.60</lat>
+      <lon>-99.17</lon>
+      <name>Chilapa</name>
+    </location>
+    <location name="Chilpancingo::Guerrero::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>208</dist>
+      <lat>17.55</lat>
+      <lon>-99.50</lon>
+      <name>Chilpancingo</name>
+    </location>
+    <location name="Coacoyul::Guerrero::Mexico">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>17.62</lat>
+      <lon>-101.43</lon>
+      <name>Coacoyul</name>
+    </location>
+    <location name="Ixtapa::Guerrero::Mexico">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>17.67</lat>
+      <lon>-101.65</lon>
+      <name>Ixtapa</name>
+    </location>
+    <location name="Zihuatanejo::Guerrero::Mexico">
+      <cdi>3.6956</cdi>
+      <nresp>2</nresp>
+      <dist>87</dist>
+      <lat>17.63</lat>
+      <lon>-101.57</lon>
+      <name>Zihuatanejo</name>
+    </location>
+    <location name="Lázaro Cárdenas::Michoacán::Mexico">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>115</dist>
+      <lat>17.95</lat>
+      <lon>-102.18</lon>
+      <name>Lázaro Cárdenas</name>
+    </location>
+    <location name="Morelia::Michoacán::Mexico">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>19.72</lat>
+      <lon>-101.18</lon>
+      <name>Morelia</name>
+    </location>
+    <location name="Pátzcuaro::Michoacán::Mexico">
+      <cdi>2.9172</cdi>
+      <nresp>2</nresp>
+      <dist>174</dist>
+      <lat>19.52</lat>
+      <lon>-101.62</lon>
+      <name>Pátzcuaro</name>
+    </location>
+    <location name="Uruapan::Michoacán::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>180</dist>
+      <lat>19.42</lat>
+      <lon>-102.07</lon>
+      <name>Uruapan</name>
+    </location>
+    <location name="Zamora::Michoacán::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>241</dist>
+      <lat>19.98</lat>
+      <lon>-102.27</lon>
+      <name>Zamora</name>
+    </location>
+    <location name="Cuernavaca::Morelos::Mexico">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>242</dist>
+      <lat>18.92</lat>
+      <lon>-99.25</lon>
+      <name>Cuernavaca</name>
+    </location>
+    <location name="Bocanegra::México::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>305</dist>
+      <lat>19.84</lat>
+      <lon>-99.12</lon>
+      <name>Bocanegra</name>
+    </location>
+    <location name="Coatepec (San Bartolomé Coatepec)::México::Mexico">
+      <cdi>3.0790</cdi>
+      <nresp>6</nresp>
+      <dist>260</dist>
+      <lat>19.39</lat>
+      <lon>-99.31</lon>
+      <name>Coatepec (San Bartolomé Coatepec)</name>
+    </location>
+    <location name="Los Reyes::México::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>287</dist>
+      <lat>19.36</lat>
+      <lon>-98.98</lon>
+      <name>Los Reyes</name>
+    </location>
+    <location name="Naucalpan::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>273</dist>
+      <lat>19.48</lat>
+      <lon>-99.23</lon>
+      <name>Naucalpan</name>
+    </location>
+    <location name="Nezahualcóyotl::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>286</dist>
+      <lat>19.41</lat>
+      <lon>-99.03</lon>
+      <name>Nezahualcóyotl</name>
+    </location>
+    <location name="Ocotlán::México::Mexico">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>225</dist>
+      <lat>19.19</lat>
+      <lon>-99.59</lon>
+      <name>Ocotlán</name>
+    </location>
+    <location name="Otzacatipán::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>232</dist>
+      <lat>19.33</lat>
+      <lon>-99.61</lon>
+      <name>Otzacatipán</name>
+    </location>
+    <location name="Tenancingo::México::Mexico">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>211</dist>
+      <lat>18.97</lat>
+      <lon>-99.61</lon>
+      <name>Tenancingo</name>
+    </location>
+    <location name="Tlalnepantla::México::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>280</dist>
+      <lat>19.54</lat>
+      <lon>-99.19</lon>
+      <name>Tlalnepantla</name>
+    </location>
+    <location name="Toluca::México::Mexico">
+      <cdi>3.1229</cdi>
+      <nresp>4</nresp>
+      <dist>225</dist>
+      <lat>19.29</lat>
+      <lon>-99.67</lon>
+      <name>Toluca</name>
+    </location>
+    <location name="Vista Hermosa::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>276</dist>
+      <lat>19.52</lat>
+      <lon>-99.22</lon>
+      <name>Vista Hermosa</name>
+    </location>
+    <location name="Zacamulpa::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>257</dist>
+      <lat>19.36</lat>
+      <lon>-99.33</lon>
+      <name>Zacamulpa</name>
+    </location>
+  </cdi>
+</cdidata>

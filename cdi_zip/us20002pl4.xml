@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83501">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>230</dist>
+      <lat>46.195923345</lat>
+      <lon>-116.868962453</lon>
+      <name>Lewiston</name>
+      <state>ID</state>
+    </location>
+    <location name="83801">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>47.9455309956</lat>
+      <lon>-116.649195932</lon>
+      <name>Athol</name>
+      <state>ID</state>
+    </location>
+    <location name="83803">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>47.9707758615</lat>
+      <lon>-116.562753389</lon>
+      <name>Bayview</name>
+      <state>ID</state>
+    </location>
+    <location name="83809">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>48.0739323625</lat>
+      <lon>-116.570330114</lon>
+      <name>Careywood</name>
+      <state>ID</state>
+    </location>
+    <location name="83811">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>48.0972134487</lat>
+      <lon>-116.276912504</lon>
+      <name>Clark Fork</name>
+      <state>ID</state>
+    </location>
+    <location name="83813">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>48.1092559488</lat>
+      <lon>-116.663510524</lon>
+      <name>Cocolalla</name>
+      <state>ID</state>
+    </location>
+    <location name="83836">
+      <cdi>2.4414</cdi>
+      <nresp>3</nresp>
+      <dist>17</dist>
+      <lat>48.3267915519</lat>
+      <lon>-116.175802787</lon>
+      <name>Hope</name>
+      <state>ID</state>
+    </location>
+    <location name="83856">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>48.3101096452</lat>
+      <lon>-116.860575379</lon>
+      <name>Priest River</name>
+      <state>ID</state>
+    </location>
+    <location name="83858">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>47.8518911291</lat>
+      <lon>-116.906989061</lon>
+      <name>Rathdrum</name>
+      <state>ID</state>
+    </location>
+    <location name="83860">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>48.1954452017</lat>
+      <lon>-116.545587275</lon>
+      <name>Sagle</name>
+      <state>ID</state>
+    </location>
+    <location name="83864">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>48.3884295813</lat>
+      <lon>-116.473634745</lon>
+      <name>Sandpoint</name>
+      <state>ID</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83118">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>43.2003940096</lat>
+      <lon>-110.926965363</lon>
+      <name>Etna</name>
+      <state>WY</state>
+    </location>
+    <location name="83220">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>42.3175270837</lat>
+      <lon>-111.377908866</lon>
+      <name>Bern</name>
+      <state>ID</state>
+    </location>
+    <location name="83254">
+      <cdi>2.8570</cdi>
+      <nresp>4</nresp>
+      <dist>11</dist>
+      <lat>42.3365018797</lat>
+      <lon>-111.30330789</lon>
+      <name>Montpelier</name>
+      <state>ID</state>
+    </location>
+  </cdi>
+</cdidata>

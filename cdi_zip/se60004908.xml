@@ -1,0 +1,211 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="20170">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>38.9807246717</lat>
+      <lon>-77.380376873</lon>
+      <name>Herndon</name>
+      <state>VA</state>
+    </location>
+    <location name="22030">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>38.8397218834</lat>
+      <lon>-77.3414381491</lon>
+      <name>Fairfax</name>
+      <state>VA</state>
+    </location>
+    <location name="22553">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>38.2669191328</lat>
+      <lon>-77.6415692037</lon>
+      <name>Spotsylvania</name>
+      <state>VA</state>
+    </location>
+    <location name="22556">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>38.5072420148</lat>
+      <lon>-77.4976696768</lon>
+      <name>Stafford</name>
+      <state>VA</state>
+    </location>
+    <location name="22701">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>38.4433536357</lat>
+      <lon>-77.9884244468</lon>
+      <name>Culpeper</name>
+      <state>VA</state>
+    </location>
+    <location name="22903">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>73</dist>
+      <lat>38.0158309506</lat>
+      <lon>-78.6009245001</lon>
+      <name>Charlottesville</name>
+      <state>VA</state>
+    </location>
+    <location name="22960">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>38.2108397293</lat>
+      <lon>-78.0512494835</lon>
+      <name>Orange</name>
+      <state>VA</state>
+    </location>
+    <location name="23024">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>26</dist>
+      <lat>37.9219607725</lat>
+      <lon>-77.7801348726</lon>
+      <name>Bumpass</name>
+      <state>VA</state>
+    </location>
+    <location name="23063">
+      <cdi>3.0238</cdi>
+      <nresp>9</nresp>
+      <dist>14</dist>
+      <lat>37.7188987195</lat>
+      <lon>-77.998721077</lon>
+      <name>Goochland</name>
+      <state>VA</state>
+    </location>
+    <location name="23065">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.8034892805</lat>
+      <lon>-77.92805907</lon>
+      <name>Gum Spring</name>
+      <state>VA</state>
+    </location>
+    <location name="23102">
+      <cdi>3.1847</cdi>
+      <nresp>4</nresp>
+      <dist>8</dist>
+      <lat>37.7156039873</lat>
+      <lon>-77.8319928762</lon>
+      <name>Maidens</name>
+      <state>VA</state>
+    </location>
+    <location name="23103">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>16</dist>
+      <lat>37.6496450273</lat>
+      <lon>-77.7271909069</lon>
+      <name>Manakin Sabot</name>
+      <state>VA</state>
+    </location>
+    <location name="23138">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>37.380131021</lat>
+      <lon>-76.3044065282</lon>
+      <name>Port Haywood</name>
+      <state>VA</state>
+    </location>
+    <location name="23146">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>37.7263031924</lat>
+      <lon>-77.7083736656</lon>
+      <name>Rockville</name>
+      <state>VA</state>
+    </location>
+    <location name="23153">
+      <cdi>3.2031</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>37.7838251274</lat>
+      <lon>-77.9581838188</lon>
+      <name>Sandy Hook</name>
+      <state>VA</state>
+    </location>
+    <location name="23192">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>37.8175201659</lat>
+      <lon>-77.6837369071</lon>
+      <name>Montpelier</name>
+      <state>VA</state>
+    </location>
+    <location name="23223">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.5559623281</lat>
+      <lon>-77.3785953025</lon>
+      <name>Richmond</name>
+      <state>VA</state>
+    </location>
+    <location name="23225">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>37.5175026176</lat>
+      <lon>-77.5124167466</lon>
+      <name>Richmond</name>
+      <state>VA</state>
+    </location>
+    <location name="23229">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>37.587776451</lat>
+      <lon>-77.569538494</lon>
+      <name>Richmond</name>
+      <state>VA</state>
+    </location>
+    <location name="23233">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.6447605254</lat>
+      <lon>-77.624107079</lon>
+      <name>Richmond</name>
+      <state>VA</state>
+    </location>
+    <location name="23608">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>37.1519955155</lat>
+      <lon>-76.5443233291</lon>
+      <name>Newport News</name>
+      <state>VA</state>
+    </location>
+    <location name="23832">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>37.3936910147</lat>
+      <lon>-77.5961744449</lon>
+      <name>Chesterfield</name>
+      <state>VA</state>
+    </location>
+    <location name="24503">
+      <cdi>2.4718</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>37.4539899298</lat>
+      <lon>-79.247054302</lon>
+      <name>Lynchburg</name>
+      <state>VA</state>
+    </location>
+  </cdi>
+</cdidata>

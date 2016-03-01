@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67025">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>37.6317979716</lat>
+      <lon>-97.7606812407</lon>
+      <name>Cheney</name>
+      <state>KS</state>
+    </location>
+    <location name="67050">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>37.67264084</lat>
+      <lon>-97.6768303155</lon>
+      <name>Garden Plain</name>
+      <state>KS</state>
+    </location>
+    <location name="73716">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>36.5023359074</lat>
+      <lon>-98.5031443415</lon>
+      <name>Aline</name>
+      <state>OK</state>
+    </location>
+    <location name="73726">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>11</dist>
+      <lat>36.5952202687</lat>
+      <lon>-98.4585467157</lon>
+      <name>Carmen</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

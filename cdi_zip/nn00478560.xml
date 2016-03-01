@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="89423">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>319</dist>
+      <lat>39.0094510924</lat>
+      <lon>-119.562086354</lon>
+      <name>Minden</name>
+      <state>NV</state>
+    </location>
+    <location name="95947">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>40.1780003086</lat>
+      <lon>-120.887963583</lon>
+      <name>Greenville</name>
+      <state>CA</state>
+    </location>
+    <location name="96101">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>41.4957915496</lat>
+      <lon>-120.486535175</lon>
+      <name>Alturas</name>
+      <state>CA</state>
+    </location>
+    <location name="97620">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>42.1909539875</lat>
+      <lon>-119.719679225</lon>
+      <name>Adel</name>
+      <state>OR</state>
+    </location>
+    <location name="97630">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>89</dist>
+      <lat>42.2275396664</lat>
+      <lon>-120.604517594</lon>
+      <name>Lakeview</name>
+      <state>OR</state>
+    </location>
+  </cdi>
+</cdidata>

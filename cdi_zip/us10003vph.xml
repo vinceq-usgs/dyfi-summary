@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Singapore::_no region::Singapore">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>559</dist>
+      <lat>1.30</lat>
+      <lon>103.85</lon>
+      <name>Singapore</name>
+    </location>
+    <location name="Langsa::Aceh::Indonesia">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>425</dist>
+      <lat>4.47</lat>
+      <lon>97.96</lon>
+      <name>Langsa</name>
+    </location>
+    <location name="Tembilahan::Riau::Indonesia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>486</dist>
+      <lat>-0.40</lat>
+      <lon>103.05</lon>
+      <name>Tembilahan</name>
+    </location>
+    <location name="Padang::Sumatera Barat::Indonesia">
+      <cdi>5.2537</cdi>
+      <nresp>1</nresp>
+      <dist>260</dist>
+      <lat>-0.95</lat>
+      <lon>100.35</lon>
+      <name>Padang</name>
+    </location>
+    <location name="Padang Pariaman::Sumatera Barat::Indonesia">
+      <cdi>5.4480</cdi>
+      <nresp>1</nresp>
+      <dist>219</dist>
+      <lat>-0.63</lat>
+      <lon>100.13</lon>
+      <name>Padang Pariaman</name>
+    </location>
+    <location name="Lubuk Linggau::Sumatera Selatan::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>634</dist>
+      <lat>-3.29</lat>
+      <lon>102.85</lon>
+      <name>Lubuk Linggau</name>
+    </location>
+    <location name="Kabanjahe::Sumatera Utara::Indonesia">
+      <cdi>5.9721</cdi>
+      <nresp>1</nresp>
+      <dist>268</dist>
+      <lat>3.10</lat>
+      <lon>98.48</lon>
+      <name>Kabanjahe</name>
+    </location>
+    <location name="Padang Sidempuan::Sumatera Utara::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>1.39</lat>
+      <lon>99.27</lon>
+      <name>Padang Sidempuan</name>
+    </location>
+    <location name="Tebingtinggi::Sumatera Utara::Indonesia">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>290</dist>
+      <lat>3.33</lat>
+      <lon>99.14</lon>
+      <name>Tebingtinggi</name>
+    </location>
+    <location name="Pasir Gudang::Johor::Malaysia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>565</dist>
+      <lat>1.45</lat>
+      <lon>103.89</lon>
+      <name>Pasir Gudang</name>
+    </location>
+    <location name="Kuala Lumpur::Kuala Lumpur::Malaysia">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>414</dist>
+      <lat>3.16</lat>
+      <lon>101.71</lon>
+      <name>Kuala Lumpur</name>
+    </location>
+    <location name="Ipoh::Perak::Malaysia">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>491</dist>
+      <lat>4.60</lat>
+      <lon>101.07</lon>
+      <name>Ipoh</name>
+    </location>
+    <location name="Sungai Ara::Pulau Pinang::Malaysia">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>529</dist>
+      <lat>5.33</lat>
+      <lon>100.27</lon>
+      <name>Sungai Ara</name>
+    </location>
+    <location name="Petaling Jaya::Selangor::Malaysia">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>403</dist>
+      <lat>3.10</lat>
+      <lon>101.62</lon>
+      <name>Petaling Jaya</name>
+    </location>
+  </cdi>
+</cdidata>

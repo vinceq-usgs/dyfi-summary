@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93908">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>36.601467433</lat>
+      <lon>-121.587110997</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="94043">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>37.4186501185</lat>
+      <lon>-122.076805997</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94304">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>37.3990962354</lat>
+      <lon>-122.172460116</lon>
+      <name>Palo Alto</name>
+      <state>CA</state>
+    </location>
+    <location name="94541">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>37.6745039472</lat>
+      <lon>-122.08434059</lon>
+      <name>Hayward</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95023">
+      <cdi>2.6784</cdi>
+      <nresp>5</nresp>
+      <dist>23</dist>
+      <lat>36.8566762391</lat>
+      <lon>-121.249223359</lon>
+      <name>Hollister</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

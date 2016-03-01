@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Tarogong::Jawa Barat::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>-7.20</lat>
+      <lon>107.87</lon>
+      <name>Tarogong</name>
+    </location>
+    <location name="Tasikmalaya::Jawa Barat::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>-7.32</lat>
+      <lon>108.21</lon>
+      <name>Tasikmalaya</name>
+    </location>
+    <location name="Klaten::Jawa Tengah::Indonesia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>195</dist>
+      <lat>-7.71</lat>
+      <lon>110.59</lon>
+      <name>Klaten</name>
+    </location>
+    <location name="Kroya::Jawa Tengah::Indonesia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>-7.63</lat>
+      <lon>109.23</lon>
+      <name>Kroya</name>
+    </location>
+    <location name="Magelang::Jawa Tengah::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>-7.48</lat>
+      <lon>110.21</lon>
+      <name>Magelang</name>
+    </location>
+    <location name="Taman::Jawa Tengah::Indonesia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>-6.90</lat>
+      <lon>109.38</lon>
+      <name>Taman</name>
+    </location>
+    <location name="Temanggung::Jawa Tengah::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>177</dist>
+      <lat>-7.32</lat>
+      <lon>110.17</lon>
+      <name>Temanggung</name>
+    </location>
+    <location name="Wengon::Jawa Tengah::Indonesia">
+      <cdi>4.0696</cdi>
+      <nresp>3</nresp>
+      <dist>100</dist>
+      <lat>-7.51</lat>
+      <lon>109.05</lon>
+      <name>Wengon</name>
+    </location>
+    <location name="Nganjuk::Jawa Timur::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>335</dist>
+      <lat>-7.59</lat>
+      <lon>111.90</lon>
+      <name>Nganjuk</name>
+    </location>
+    <location name="Trenggalek::Jawa Timur::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>305</dist>
+      <lat>-8.05</lat>
+      <lon>111.70</lon>
+      <name>Trenggalek</name>
+    </location>
+    <location name="Bambanglipuro::Yogyakarta::Indonesia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>-7.95</lat>
+      <lon>110.28</lon>
+      <name>Bambanglipuro</name>
+    </location>
+    <location name="Depok::Yogyakarta::Indonesia">
+      <cdi>3.3811</cdi>
+      <nresp>2</nresp>
+      <dist>176</dist>
+      <lat>-7.75</lat>
+      <lon>110.41</lon>
+      <name>Depok</name>
+    </location>
+    <location name="Kasihan::Yogyakarta::Indonesia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>-7.82</lat>
+      <lon>110.32</lon>
+      <name>Kasihan</name>
+    </location>
+    <location name="Mlati::Yogyakarta::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>-7.73</lat>
+      <lon>110.36</lon>
+      <name>Mlati</name>
+    </location>
+    <location name="Ngaglik::Yogyakarta::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>-7.70</lat>
+      <lon>110.38</lon>
+      <name>Ngaglik</name>
+    </location>
+    <location name="Pundong::Yogyakarta::Indonesia">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>163</dist>
+      <lat>-7.95</lat>
+      <lon>110.35</lon>
+      <name>Pundong</name>
+    </location>
+    <location name="Sewon::Yogyakarta::Indonesia">
+      <cdi>3.7738</cdi>
+      <nresp>4</nresp>
+      <dist>165</dist>
+      <lat>-7.88</lat>
+      <lon>110.35</lon>
+      <name>Sewon</name>
+    </location>
+    <location name="Yogyakarta::Yogyakarta::Indonesia">
+      <cdi>3.1994</cdi>
+      <nresp>10</nresp>
+      <dist>170</dist>
+      <lat>-7.78</lat>
+      <lon>110.37</lon>
+      <name>Yogyakarta</name>
+    </location>
+  </cdi>
+</cdidata>

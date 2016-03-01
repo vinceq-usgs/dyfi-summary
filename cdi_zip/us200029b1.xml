@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>416</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Muzaffarpur::Bihar::India">
+      <cdi>3.2754</cdi>
+      <nresp>1</nresp>
+      <dist>242</dist>
+      <lat>26.13</lat>
+      <lon>85.38</lon>
+      <name>Muzaffarpur</name>
+    </location>
+    <location name="Phulwari::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>292</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Jaipur::Rajasthan::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>873</dist>
+      <lat>26.92</lat>
+      <lon>75.80</lon>
+      <name>Jaipur</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>386</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+  </cdi>
+</cdidata>

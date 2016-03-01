@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94062">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>383</dist>
+      <lat>37.4076638109</lat>
+      <lon>-122.303813288</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+    <location name="94611">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>348</dist>
+      <lat>37.8308833038</lat>
+      <lon>-122.215136936</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95501">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>68</dist>
+      <lat>40.7953313015</lat>
+      <lon>-124.153385167</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95503">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>40.7119988087</lat>
+      <lon>-124.097405236</lon>
+      <name>Eureka</name>
+      <state>CA</state>
+    </location>
+    <location name="95528">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>40.4876765719</lat>
+      <lon>-123.910528309</lon>
+      <name>Carlotta</name>
+      <state>CA</state>
+    </location>
+    <location name="95536">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>40</dist>
+      <lat>40.4647699382</lat>
+      <lon>-124.250835346</lon>
+      <name>Ferndale</name>
+      <state>CA</state>
+    </location>
+    <location name="95540">
+      <cdi>2.7751</cdi>
+      <nresp>4</nresp>
+      <dist>55</dist>
+      <lat>40.5903951405</lat>
+      <lon>-124.130433801</lon>
+      <name>Fortuna</name>
+      <state>CA</state>
+    </location>
+    <location name="95542">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>72</dist>
+      <lat>40.1168241031</lat>
+      <lon>-123.868356562</lon>
+      <name>Garberville</name>
+      <state>CA</state>
+    </location>
+    <location name="95547">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>56</dist>
+      <lat>40.5508998727</lat>
+      <lon>-124.082776321</lon>
+      <name>Hydesville</name>
+      <state>CA</state>
+    </location>
+    <location name="95558">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>40.2881620643</lat>
+      <lon>-124.221826337</lon>
+      <name>Petrolia</name>
+      <state>CA</state>
+    </location>
+    <location name="95562">
+      <cdi>2.8973</cdi>
+      <nresp>6</nresp>
+      <dist>48</dist>
+      <lat>40.4799439242</lat>
+      <lon>-124.14320836</lon>
+      <name>Rio Dell</name>
+      <state>CA</state>
+    </location>
+    <location name="95565">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>40.4452805485</lat>
+      <lon>-124.030606023</lon>
+      <name>Scotia</name>
+      <state>CA</state>
+    </location>
+    <location name="95589">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>40.0406855713</lat>
+      <lon>-123.994740274</lon>
+      <name>Whitethorn</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

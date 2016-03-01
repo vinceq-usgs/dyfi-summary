@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91784">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>34.1410423477</lat>
+      <lon>-117.659201919</lon>
+      <name>Upland</name>
+      <state>CA</state>
+    </location>
+    <location name="92025">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>33.0847126692</lat>
+      <lon>-117.025800674</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92270">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>33.7671512149</lat>
+      <lon>-116.422775835</lon>
+      <name>Rancho Mirage</name>
+      <state>CA</state>
+    </location>
+    <location name="92697">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>33.6469759172</lat>
+      <lon>-117.841396703</lon>
+      <name>Irvine</name>
+      <state>CA</state>
+    </location>
+    <location name="92806">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>33.838352873</lat>
+      <lon>-117.870242707</lon>
+      <name>Anaheim</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

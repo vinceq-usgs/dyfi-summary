@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="40475">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>516</dist>
+      <lat>37.7647874755</lat>
+      <lon>-84.3017768646</lon>
+      <name>Richmond</name>
+      <state>KY</state>
+    </location>
+    <location name="53565">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>492</dist>
+      <lat>42.8391379574</lat>
+      <lon>-90.1661984537</lon>
+      <name>Mineral Point</name>
+      <state>WI</state>
+    </location>
+    <location name="62221">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>38.5133711897</lat>
+      <lon>-89.9029192087</lon>
+      <name>Belleville</name>
+      <state>IL</state>
+    </location>
+    <location name="62278">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>38.2073910245</lat>
+      <lon>-89.9940656107</lon>
+      <name>Red Bud</name>
+      <state>IL</state>
+    </location>
+    <location name="63123">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>32</dist>
+      <lat>38.5491483557</lat>
+      <lon>-90.3277816076</lon>
+      <name>Saint Louis</name>
+      <state>MO</state>
+    </location>
+    <location name="63126">
+      <cdi>2.1883</cdi>
+      <nresp>2</nresp>
+      <dist>35</dist>
+      <lat>38.5498195774</lat>
+      <lon>-90.3786213833</lon>
+      <name>Saint Louis</name>
+      <state>MO</state>
+    </location>
+    <location name="67749">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>913</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

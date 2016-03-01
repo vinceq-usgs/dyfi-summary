@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Meshkinshahr::ArdabÄ«l::Iran">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>38.38</lat>
+      <lon>47.68</lon>
+      <name>Meshkinshahr</name>
+    </location>
+    <location name="Tebriz::AzarbayejÄn-e Sharqi::Iran">
+      <cdi>2.8973</cdi>
+      <nresp>5</nresp>
+      <dist>64</dist>
+      <lat>38.08</lat>
+      <lon>46.30</lon>
+      <name>Tebriz</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dacca::Dhāka::Bangladesh">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>603</dist>
+      <lat>23.70</lat>
+      <lon>90.39</lon>
+      <name>Dacca</name>
+    </location>
+    <location name="Patna::Bihar::India">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>376</dist>
+      <lat>25.62</lat>
+      <lon>85.13</lon>
+      <name>Patna</name>
+    </location>
+    <location name="Sonepur::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>366</dist>
+      <lat>25.70</lat>
+      <lon>85.18</lon>
+      <name>Sonepur</name>
+    </location>
+    <location name="Bansgaon::Uttar Pradesh::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>442</dist>
+      <lat>26.55</lat>
+      <lon>83.35</lon>
+      <name>Bansgaon</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96704">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>19.3358149217</lat>
+      <lon>-155.811715146</lon>
+      <name>Captain Cook</name>
+      <state>HI</state>
+    </location>
+    <location name="96772">
+      <cdi>2.4989</cdi>
+      <nresp>5</nresp>
+      <dist>15</dist>
+      <lat>19.0812641122</lat>
+      <lon>-155.68553121</lon>
+      <name>Naalehu</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

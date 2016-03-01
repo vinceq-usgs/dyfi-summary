@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67204">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>37.7778075354</lat>
+      <lon>-97.365258801</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67210">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>37.6332691731</lat>
+      <lon>-97.2435551436</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67218">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>157</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73061">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>36.3125269551</lat>
+      <lon>-97.0396483924</lon>
+      <name>Morrison</name>
+      <state>OK</state>
+    </location>
+    <location name="73742">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>36.0625780267</lat>
+      <lon>-97.8797525148</lon>
+      <name>Hennessey</name>
+      <state>OK</state>
+    </location>
+    <location name="74030">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>35.9828204849</lat>
+      <lon>-96.5564969222</lon>
+      <name>Drumright</name>
+      <state>OK</state>
+    </location>
+    <location name="74032">
+      <cdi>3.6156</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>36.2090916512</lat>
+      <lon>-96.9126312998</lon>
+      <name>Glencoe</name>
+      <state>OK</state>
+    </location>
+    <location name="74039">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>35.8975629435</lat>
+      <lon>-96.2394512563</lon>
+      <name>Kellyville</name>
+      <state>OK</state>
+    </location>
+    <location name="74044">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>36.0838683193</lat>
+      <lon>-96.3986005317</lon>
+      <name>Mannford</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>4.4193</cdi>
+      <nresp>5</nresp>
+      <dist>8</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74075">
+      <cdi>3.0152</cdi>
+      <nresp>5</nresp>
+      <dist>22</dist>
+      <lat>36.175402583</lat>
+      <lon>-97.0633810292</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74085">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>36.1079031234</lat>
+      <lon>-96.7217558094</lon>
+      <name>Yale</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

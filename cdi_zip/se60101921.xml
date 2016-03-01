@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="30004">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>34.1341433208</lat>
+      <lon>-84.2991220823</lon>
+      <name>Alpharetta</name>
+      <state>GA</state>
+    </location>
+    <location name="30601">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>33.998208341</lat>
+      <lon>-83.346696378</lon>
+      <name>Athens</name>
+      <state>GA</state>
+    </location>
+    <location name="30605">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>33.9072660182</lat>
+      <lon>-83.321819776</lon>
+      <name>Athens</name>
+      <state>GA</state>
+    </location>
+    <location name="30631">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>2</dist>
+      <lat>33.5601512005</lat>
+      <lon>-82.873765874</lon>
+      <name>Crawfordville</name>
+      <state>GA</state>
+    </location>
+    <location name="30642">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>33.5489734558</lat>
+      <lon>-83.1914679815</lon>
+      <name>Greensboro</name>
+      <state>GA</state>
+    </location>
+    <location name="30810">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>33.2328520365</lat>
+      <lon>-82.5867931272</lon>
+      <name>Gibson</name>
+      <state>GA</state>
+    </location>
+  </cdi>
+</cdidata>

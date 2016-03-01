@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Saint Peter Port::Saint Peter Port::Guernsey and Alderney">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>53</dist>
+      <lat>49.47</lat>
+      <lon>-2.55</lon>
+      <name>Saint Peter Port</name>
+    </location>
+    <location name="Grouville::Grouville::Jersey">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>49.18</lat>
+      <lon>-2.05</lon>
+      <name>Grouville</name>
+    </location>
+    <location name="Saint Brelade::Saint Brelade::Jersey">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>49.18</lat>
+      <lon>-2.20</lon>
+      <name>Saint Brelade</name>
+    </location>
+    <location name="Saint Helier::Saint Helier::Jersey">
+      <cdi>3.0699</cdi>
+      <nresp>7</nresp>
+      <dist>29</dist>
+      <lat>49.19</lat>
+      <lon>-2.11</lon>
+      <name>Saint Helier</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chippenham::England::United Kingdom">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>238</dist>
+      <lat>51.47</lat>
+      <lon>-2.13</lon>
+      <name>Chippenham</name>
+    </location>
+    <location name="Caernarfon::Wales::United Kingdom">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>53.15</lat>
+      <lon>-4.28</lon>
+      <name>Caernarfon</name>
+    </location>
+    <location name="Llanrug::Wales::United Kingdom">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>53.13</lat>
+      <lon>-4.20</lon>
+      <name>Llanrug</name>
+    </location>
+  </cdi>
+</cdidata>

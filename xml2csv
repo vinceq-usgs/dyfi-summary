@@ -1,0 +1,39 @@
+#! /usr/bin/perl
+
+use strict;
+use warnings;
+
+use XML::Simple;
+use Data::Dumper;
+
+my $file = shift @ARGV or die "Usage: $0 xmlfile\n";
+
+my $data;
+eval {$data = XMLin($file) };
+die "Cannot read $file as XML" unless ($data);
+
+foreach my $loc (@{$data->{'loc'}}) {
+  my $zip = $loc->{'zip'};
+  my $cdi = $loc->{'cdi'};
+  my $nresp = $loc->{'nresp'};
+  my ($lat,$lon,$pop);
+
+  if ($zip) {
+    $lat = ''; $lon = ''; $pop = '';
+  }
+  else {
+    $zip = '';
+    $lat = $loc->{'lat'};
+    $lon = $loc->{'lon'};
+    $pop = $loc->{'pop'};
+    unless ($lat and $lon and $pop) {
+      Common::dump($loc);
+      die;
+    }
+  }
+  my $out = join ',',($loc->{'type'},$cdi,$nresp,$zip,$lat,$lon,$pop);
+  print "$out\n";
+}
+
+
+exit;

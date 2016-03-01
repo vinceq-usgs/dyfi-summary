@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93906">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>36.7246845946</lat>
+      <lon>-121.627630026</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="94107">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>37.7648450669</lat>
+      <lon>-122.394608669</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94549">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>37.9011071203</lat>
+      <lon>-122.117193174</lon>
+      <name>Lafayette</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.6484</cdi>
+      <nresp>4</nresp>
+      <dist>21</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

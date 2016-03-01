@@ -1,0 +1,193 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="85361">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>356</dist>
+      <lat>33.7296163149</lat>
+      <lon>-112.596783026</lon>
+      <name>Wittmann</name>
+      <state>AZ</state>
+    </location>
+    <location name="90280">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>33.9444101031</lat>
+      <lon>-118.192014098</lon>
+      <name>South Gate</name>
+      <state>CA</state>
+    </location>
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="91105">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>34.1399011935</lat>
+      <lon>-118.168205313</lon>
+      <name>Pasadena</name>
+      <state>CA</state>
+    </location>
+    <location name="91343">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>34.2384236293</lat>
+      <lon>-118.480746304</lon>
+      <name>North Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="92211">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>33.7642960411</lat>
+      <lon>-116.330157044</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92220">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>33.9415090234</lat>
+      <lon>-116.851737004</lon>
+      <name>Banning</name>
+      <state>CA</state>
+    </location>
+    <location name="92230">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>33.9105411941</lat>
+      <lon>-116.778451574</lon>
+      <name>Cabazon</name>
+      <state>CA</state>
+    </location>
+    <location name="92234">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>22</dist>
+      <lat>33.8157080121</lat>
+      <lon>-116.466479106</lon>
+      <name>Cathedral City</name>
+      <state>CA</state>
+    </location>
+    <location name="92239">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>33.7797374549</lat>
+      <lon>-115.356006235</lon>
+      <name>Desert Center</name>
+      <state>CA</state>
+    </location>
+    <location name="92240">
+      <cdi>3.0499</cdi>
+      <nresp>47</nresp>
+      <dist>10</dist>
+      <lat>33.9626342861</lat>
+      <lon>-116.529693934</lon>
+      <name>Desert Hot Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92241">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>19</dist>
+      <lat>33.8658671711</lat>
+      <lon>-116.333771968</lon>
+      <name>Desert Hot Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92252">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>34.1566779859</lat>
+      <lon>-116.288023465</lon>
+      <name>Joshua Tree</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92262">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>33.8625160663</lat>
+      <lon>-116.56832194</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92282">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>33.9616458219</lat>
+      <lon>-116.662350233</lon>
+      <name>White Water</name>
+      <state>CA</state>
+    </location>
+    <location name="92284">
+      <cdi>2.9807</cdi>
+      <nresp>9</nresp>
+      <dist>17</dist>
+      <lat>34.1720242491</lat>
+      <lon>-116.468234152</lon>
+      <name>Yucca Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92337">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>34.0491763581</lat>
+      <lon>-117.471344778</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92506">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>33.9345422726</lat>
+      <lon>-117.361830818</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92571">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>33.8338936763</lat>
+      <lon>-117.189733814</lon>
+      <name>Perris</name>
+      <state>CA</state>
+    </location>
+    <location name="92860">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>33.9246632061</lat>
+      <lon>-117.55268765</lon>
+      <name>Norco</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

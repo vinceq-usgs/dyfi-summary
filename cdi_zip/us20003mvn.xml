@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>3.0152</cdi>
+      <nresp>5</nresp>
+      <dist>195</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Valparaíso::Valparaíso::Chile">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>105</dist>
+      <lat>-33.04</lat>
+      <lon>-71.64</lon>
+      <name>Valparaíso</name>
+    </location>
+    <location name="Villa Alemana::Valparaíso::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>-33.04</lat>
+      <lon>-71.36</lon>
+      <name>Villa Alemana</name>
+    </location>
+  </cdi>
+</cdidata>

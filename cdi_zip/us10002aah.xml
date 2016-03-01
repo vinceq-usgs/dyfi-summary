@@ -1,0 +1,100 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Lanquín::Alta Verapaz::Guatemala">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>255</dist>
+      <lat>15.57</lat>
+      <lon>-89.97</lon>
+      <name>Lanquín</name>
+    </location>
+    <location name="Escuintla::Escuintla::Guatemala">
+      <cdi>2.8570</cdi>
+      <nresp>2</nresp>
+      <dist>143</dist>
+      <lat>14.30</lat>
+      <lon>-90.78</lon>
+      <name>Escuintla</name>
+    </location>
+    <location name="Guatemala::Guatemala::Guatemala">
+      <cdi>2.8061</cdi>
+      <nresp>10</nresp>
+      <dist>166</dist>
+      <lat>14.63</lat>
+      <lon>-90.55</lon>
+      <name>Guatemala</name>
+    </location>
+    <location name="Mixco::Guatemala::Guatemala">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>14.64</lat>
+      <lon>-90.60</lon>
+      <name>Mixco</name>
+    </location>
+    <location name="San José Pinula::Guatemala::Guatemala">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>178</dist>
+      <lat>14.55</lat>
+      <lon>-90.41</lon>
+      <name>San José Pinula</name>
+    </location>
+    <location name="Santa Catarina Pinula::Guatemala::Guatemala">
+      <cdi>2.8026</cdi>
+      <nresp>6</nresp>
+      <dist>170</dist>
+      <lat>14.57</lat>
+      <lon>-90.50</lon>
+      <name>Santa Catarina Pinula</name>
+    </location>
+    <location name="Joyabaj::Quiché::Guatemala">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>14.99</lat>
+      <lon>-90.81</lon>
+      <name>Joyabaj</name>
+    </location>
+    <location name="Antigua Guatemala::Sacatepéquez::Guatemala">
+      <cdi>3.8249</cdi>
+      <nresp>4</nresp>
+      <dist>147</dist>
+      <lat>14.56</lat>
+      <lon>-90.74</lon>
+      <name>Antigua Guatemala</name>
+    </location>
+    <location name="Jocotenango::Sacatepéquez::Guatemala">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>148</dist>
+      <lat>14.58</lat>
+      <lon>-90.73</lon>
+      <name>Jocotenango</name>
+    </location>
+    <location name="Panajachel::Sololá::Guatemala">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>116</dist>
+      <lat>14.73</lat>
+      <lon>-91.15</lon>
+      <name>Panajachel</name>
+    </location>
+    <location name="San Pablo la Laguna::Sololá::Guatemala">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>14.72</lat>
+      <lon>-91.27</lon>
+      <name>San Pablo la Laguna</name>
+    </location>
+    <location name="Tapachula::Chiapas::Mexico">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>14.91</lat>
+      <lon>-92.27</lon>
+      <name>Tapachula</name>
+    </location>
+  </cdi>
+</cdidata>

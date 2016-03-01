@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Colima::Colima::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>19.24</lat>
+      <lon>-103.73</lon>
+      <name>Colima</name>
+    </location>
+    <location name="Madrid::Colima::Mexico">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>19.08</lat>
+      <lon>-103.87</lon>
+      <name>Madrid</name>
+    </location>
+    <location name="Mexico City::Distrito Federal::Mexico">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>475</dist>
+      <lat>19.43</lat>
+      <lon>-99.14</lon>
+      <name>Mexico City</name>
+    </location>
+    <location name="Guzmán::Jalisco::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>19.71</lat>
+      <lon>-103.46</lon>
+      <name>Guzmán</name>
+    </location>
+    <location name="Santa Clara del Cobre::Michoacán::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>233</dist>
+      <lat>19.41</lat>
+      <lon>-101.65</lon>
+      <name>Santa Clara del Cobre</name>
+    </location>
+  </cdi>
+</cdidata>

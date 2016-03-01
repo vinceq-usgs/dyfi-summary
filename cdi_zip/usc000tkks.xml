@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ostumán::Copán::Honduras">
+      <cdi>3.4836</cdi>
+      <nresp>2</nresp>
+      <dist>35</dist>
+      <lat>14.83</lat>
+      <lon>-89.17</lon>
+      <name>Ostumán</name>
+    </location>
+    <location name="Santa Rosa de Copán::Copán::Honduras">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>14.77</lat>
+      <lon>-88.78</lon>
+      <name>Santa Rosa de Copán</name>
+    </location>
+    <location name="Armenta::Cortés::Honduras">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>15.50</lat>
+      <lon>-88.05</lon>
+      <name>Armenta</name>
+    </location>
+    <location name="Gracias::Lempira::Honduras">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>14.59</lat>
+      <lon>-88.58</lon>
+      <name>Gracias</name>
+    </location>
+  </cdi>
+</cdidata>

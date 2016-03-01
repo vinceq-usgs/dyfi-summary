@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90263">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>34.0392218628</lat>
+      <lon>-118.708194547</lon>
+      <name>Malibu</name>
+      <state>CA</state>
+    </location>
+    <location name="90265">
+      <cdi>2.5227</cdi>
+      <nresp>14</nresp>
+      <dist>10</dist>
+      <lat>34.0655705594</lat>
+      <lon>-118.816415475</lon>
+      <name>Malibu</name>
+      <state>CA</state>
+    </location>
+    <location name="91302">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>34.1246741688</lat>
+      <lon>-118.673621553</lon>
+      <name>Calabasas</name>
+      <state>CA</state>
+    </location>
+    <location name="91361">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>34.1460007715</lat>
+      <lon>-118.878229817</lon>
+      <name>Westlake Village</name>
+      <state>CA</state>
+    </location>
+    <location name="91750">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>34.1431528654</lat>
+      <lon>-117.762221147</lon>
+      <name>La Verne</name>
+      <state>CA</state>
+    </location>
+    <location name="92660">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>33.6326877321</lat>
+      <lon>-117.875784868</lon>
+      <name>Newport Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92844">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>33.7655008968</lat>
+      <lon>-117.969557627</lon>
+      <name>Garden Grove</name>
+      <state>CA</state>
+    </location>
+    <location name="93041">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>34.1768869892</lat>
+      <lon>-119.203873992</lon>
+      <name>Port Hueneme</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

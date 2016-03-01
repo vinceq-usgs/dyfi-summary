@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="97355">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>44.5258039203</lat>
+      <lon>-122.802163924</lon>
+      <name>Lebanon</name>
+      <state>OR</state>
+    </location>
+    <location name="97401">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>3</dist>
+      <lat>44.0681290449</lat>
+      <lon>-123.081744225</lon>
+      <name>Eugene</name>
+      <state>OR</state>
+    </location>
+    <location name="97402">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>44.0366961684</lat>
+      <lon>-123.244875694</lon>
+      <name>Eugene</name>
+      <state>OR</state>
+    </location>
+    <location name="97404">
+      <cdi>2.5926</cdi>
+      <nresp>7</nresp>
+      <dist>3</dist>
+      <lat>44.1054025866</lat>
+      <lon>-123.13382482</lon>
+      <name>Eugene</name>
+      <state>OR</state>
+    </location>
+    <location name="97408">
+      <cdi>2.5905</cdi>
+      <nresp>6</nresp>
+      <dist>5</dist>
+      <lat>44.1471675459</lat>
+      <lon>-123.064809472</lon>
+      <name>Eugene</name>
+      <state>OR</state>
+    </location>
+    <location name="97426">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>43.8948752781</lat>
+      <lon>-123.038060124</lon>
+      <name>Creswell</name>
+      <state>OR</state>
+    </location>
+    <location name="97446">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>44.2745377944</lat>
+      <lon>-123.084927335</lon>
+      <name>Harrisburg</name>
+      <state>OR</state>
+    </location>
+  </cdi>
+</cdidata>

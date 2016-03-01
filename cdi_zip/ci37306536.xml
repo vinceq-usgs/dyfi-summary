@@ -1,0 +1,328 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91901">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>70</dist>
+      <lat>32.8065319752</lat>
+      <lon>-116.715227584</lon>
+      <name>Alpine</name>
+      <state>CA</state>
+    </location>
+    <location name="91935">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>86</dist>
+      <lat>32.6839164923</lat>
+      <lon>-116.815098833</lon>
+      <name>Jamul</name>
+      <state>CA</state>
+    </location>
+    <location name="91941">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>90</dist>
+      <lat>32.7612331769</lat>
+      <lon>-117.001733864</lon>
+      <name>La Mesa</name>
+      <state>CA</state>
+    </location>
+    <location name="92004">
+      <cdi>2.0770</cdi>
+      <nresp>10</nresp>
+      <dist>20</dist>
+      <lat>33.2073330892</lat>
+      <lon>-116.282458881</lon>
+      <name>Borrego Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92019">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>32.7803689007</lat>
+      <lon>-116.879785016</lon>
+      <name>El Cajon</name>
+      <state>CA</state>
+    </location>
+    <location name="92020">
+      <cdi>2.1136</cdi>
+      <nresp>4</nresp>
+      <dist>85</dist>
+      <lat>32.7964990772</lat>
+      <lon>-116.97049349</lon>
+      <name>El Cajon</name>
+      <state>CA</state>
+    </location>
+    <location name="92027">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>66</dist>
+      <lat>33.1372772456</lat>
+      <lon>-116.984677345</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92029">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>33.0815006348</lat>
+      <lon>-117.132313979</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92036">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>45</dist>
+      <lat>32.9446829288</lat>
+      <lon>-116.378860094</lon>
+      <name>Julian</name>
+      <state>CA</state>
+    </location>
+    <location name="92040">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>32.9132430478</lat>
+      <lon>-116.882406668</lon>
+      <name>Lakeside</name>
+      <state>CA</state>
+    </location>
+    <location name="92064">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>76</dist>
+      <lat>32.9850686794</lat>
+      <lon>-117.020713724</lon>
+      <name>Poway</name>
+      <state>CA</state>
+    </location>
+    <location name="92065">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>59</dist>
+      <lat>33.042819068</lat>
+      <lon>-116.848126526</lon>
+      <name>Ramona</name>
+      <state>CA</state>
+    </location>
+    <location name="92071">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>83</dist>
+      <lat>32.865493358</lat>
+      <lon>-117.014425567</lon>
+      <name>Santee</name>
+      <state>CA</state>
+    </location>
+    <location name="92081">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>33.164805762</lat>
+      <lon>-117.240875441</lon>
+      <name>Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="92082">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>33.2538529897</lat>
+      <lon>-116.994477053</lon>
+      <name>Valley Center</name>
+      <state>CA</state>
+    </location>
+    <location name="92086">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>35</dist>
+      <lat>33.3052143168</lat>
+      <lon>-116.680202128</lon>
+      <name>Warner Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92103">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>32.7473427343</lat>
+      <lon>-117.166839699</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92108">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>99</dist>
+      <lat>32.7736067464</lat>
+      <lon>-117.143828476</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92116">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>32.7649498308</lat>
+      <lon>-117.123211061</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92117">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>32.8248557442</lat>
+      <lon>-117.199960976</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92122">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>32.8567616775</lat>
+      <lon>-117.210194898</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92124">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>92</dist>
+      <lat>32.8236625438</lat>
+      <lon>-117.094494446</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92127">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>33.02303349</lat>
+      <lon>-117.122244895</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92129">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>85</dist>
+      <lat>32.9681310703</lat>
+      <lon>-117.127669786</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92130">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>32.9492126979</lat>
+      <lon>-117.205557031</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92131">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>84</dist>
+      <lat>32.919242608</lat>
+      <lon>-117.068053394</lon>
+      <name>San Diego</name>
+      <state>CA</state>
+    </location>
+    <location name="92234">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>55</dist>
+      <lat>33.8157080121</lat>
+      <lon>-116.466479106</lon>
+      <name>Cathedral City</name>
+      <state>CA</state>
+    </location>
+    <location name="92236">
+      <cdi>2.6484</cdi>
+      <nresp>2</nresp>
+      <dist>43</dist>
+      <lat>33.6893133646</lat>
+      <lon>-116.168400069</lon>
+      <name>Coachella</name>
+      <state>CA</state>
+    </location>
+    <location name="92253">
+      <cdi>2.1883</cdi>
+      <nresp>4</nresp>
+      <dist>37</dist>
+      <lat>33.654505594</lat>
+      <lon>-116.281141058</lon>
+      <name>La Quinta</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>41</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92262">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>63</dist>
+      <lat>33.8625160663</lat>
+      <lon>-116.56832194</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92264">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>50</dist>
+      <lat>33.7408622467</lat>
+      <lon>-116.535954528</lon>
+      <name>Palm Springs</name>
+      <state>CA</state>
+    </location>
+    <location name="92270">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>50</dist>
+      <lat>33.7671512149</lat>
+      <lon>-116.422775835</lon>
+      <name>Rancho Mirage</name>
+      <state>CA</state>
+    </location>
+    <location name="92561">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>33.5873178055</lat>
+      <lon>-116.480354476</lon>
+      <name>Mountain Center</name>
+      <state>CA</state>
+    </location>
+    <location name="92585">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>33.7422987411</lat>
+      <lon>-117.171316277</lon>
+      <name>Sun City</name>
+      <state>CA</state>
+    </location>
+    <location name="92596">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>33.6355435193</lat>
+      <lon>-117.073133704</lon>
+      <name>Winchester</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

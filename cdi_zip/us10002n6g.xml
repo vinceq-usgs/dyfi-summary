@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67010">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>37.6594194979</lat>
+      <lon>-96.9652711107</lon>
+      <name>Augusta</name>
+      <state>KS</state>
+    </location>
+    <location name="67156">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>37.2468518161</lat>
+      <lon>-96.9651090421</lon>
+      <name>Winfield</name>
+      <state>KS</state>
+    </location>
+    <location name="73077">
+      <cdi>3.6156</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>36.2984192705</lat>
+      <lon>-97.2987540148</lon>
+      <name>Perry</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>30</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>5</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="74047">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>35.8605257029</lat>
+      <lon>-95.9998977805</lon>
+      <name>Mounds</name>
+      <state>OK</state>
+    </location>
+    <location name="74120">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>36.1500754484</lat>
+      <lon>-95.9765243594</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

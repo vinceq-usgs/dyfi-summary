@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90715">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>33.8405139674</lat>
+      <lon>-118.078829927</lon>
+      <name>Lakewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90804">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>33.7827735966</lat>
+      <lon>-118.149743621</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="90814">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>33.7717017648</lat>
+      <lon>-118.144058707</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92027">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>33.1372772456</lat>
+      <lon>-116.984677345</lon>
+      <name>Escondido</name>
+      <state>CA</state>
+    </location>
+    <location name="92630">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>33.6460770575</lat>
+      <lon>-117.685681724</lon>
+      <name>Lake Forest</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

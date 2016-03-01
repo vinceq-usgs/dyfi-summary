@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95006">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>293</dist>
+      <lat>37.1708196502</lat>
+      <lon>-122.150500522</lon>
+      <name>Boulder Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="95919">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>39.4142471927</lat>
+      <lon>-121.279264901</lon>
+      <name>Brownsville</name>
+      <state>CA</state>
+    </location>
+    <location name="95941">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>39.5882164074</lat>
+      <lon>-121.20118616</lon>
+      <name>Forbestown</name>
+      <state>CA</state>
+    </location>
+    <location name="95945">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>39.2138541316</lat>
+      <lon>-120.926496583</lon>
+      <name>Grass Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95959">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>39.3405158705</lat>
+      <lon>-120.901725991</lon>
+      <name>Nevada City</name>
+      <state>CA</state>
+    </location>
+    <location name="95966">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>39.4777189323</lat>
+      <lon>-121.425456415</lon>
+      <name>Oroville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

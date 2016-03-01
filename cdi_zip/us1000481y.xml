@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67212">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>196</dist>
+      <lat>37.7025556179</lat>
+      <lon>-97.4359238772</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73730">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="74020">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>36.2409919596</lat>
+      <lon>-96.4652056739</lon>
+      <name>Cleveland</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>3.8249</cdi>
+      <nresp>10</nresp>
+      <dist>8</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74107">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>36.1063460814</lat>
+      <lon>-96.0389847005</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="76052">
+      <cdi>2.4718</cdi>
+      <nresp>5</nresp>
+      <dist>338</dist>
+      <lat>32.9781796401</lat>
+      <lon>-97.3815857294</lon>
+      <name>Haslet</name>
+      <state>TX</state>
+    </location>
+    <location name="76078">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>327</dist>
+      <lat>33.0951296208</lat>
+      <lon>-97.474462203</lon>
+      <name>Rhome</name>
+      <state>TX</state>
+    </location>
+    <location name="76177">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>339</dist>
+      <lat>32.967128343</lat>
+      <lon>-97.3048038056</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+    <location name="76179">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>347</dist>
+      <lat>32.9101452175</lat>
+      <lon>-97.4356745067</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+    <location name="76247">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>325</dist>
+      <lat>33.0891929739</lat>
+      <lon>-97.3258032491</lon>
+      <name>Justin</name>
+      <state>TX</state>
+    </location>
+    <location name="76262">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>333</dist>
+      <lat>33.0062709451</lat>
+      <lon>-97.2163001182</lon>
+      <name>Roanoke</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Choiseul::Choiseul::Saint Lucia">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>13.77</lat>
+      <lon>-61.05</lon>
+      <name>Choiseul</name>
+    </location>
+    <location name="Bulkeley::Saint George::Barbados">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>13.12</lat>
+      <lon>-59.54</lon>
+      <name>Bulkeley</name>
+    </location>
+    <location name="Le Lamentin::Fort-de-France::Martinique">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>115</dist>
+      <lat>14.60</lat>
+      <lon>-61.00</lon>
+      <name>Le Lamentin</name>
+    </location>
+    <location name="Le Robert::La Trinité::Martinique">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>14.67</lat>
+      <lon>-60.94</lon>
+      <name>Le Robert</name>
+    </location>
+    <location name="Le François::Le Marin::Martinique">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>107</dist>
+      <lat>14.60</lat>
+      <lon>-60.90</lon>
+      <name>Le François</name>
+    </location>
+    <location name="Le Marin::Le Marin::Martinique">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>14.47</lat>
+      <lon>-60.87</lon>
+      <name>Le Marin</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>35.6683436545</lat>
+      <lon>-97.4969186829</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73025">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.1931</cdi>
+      <nresp>16</nresp>
+      <dist>9</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73114">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>35.579568444</lat>
+      <lon>-97.5180480544</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="76531">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>455</dist>
+      <lat>31.6769434963</lat>
+      <lon>-98.0824601874</lon>
+      <name>Hamilton</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

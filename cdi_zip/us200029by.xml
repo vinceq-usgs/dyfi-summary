@@ -1,0 +1,140 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dacca::Dhāka::Bangladesh">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>631</dist>
+      <lat>23.70</lat>
+      <lon>90.39</lon>
+      <name>Dacca</name>
+    </location>
+    <location name="Mirzapur::Tangāyal::Bangladesh">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>579</dist>
+      <lat>24.10</lat>
+      <lon>90.10</lon>
+      <name>Mirzapur</name>
+    </location>
+    <location name="Barabazar::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>620</dist>
+      <lat>22.57</lat>
+      <lon>88.35</lon>
+      <name>Barabazar</name>
+    </location>
+    <location name="Bhatpara::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>590</dist>
+      <lat>22.89</lat>
+      <lon>88.42</lon>
+      <name>Bhatpara</name>
+    </location>
+    <location name="Darjeeling::Bangla::India">
+      <cdi>4.2084</cdi>
+      <nresp>1</nresp>
+      <dist>242</dist>
+      <lat>27.05</lat>
+      <lon>88.26</lon>
+      <name>Darjeeling</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>270</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Colgong::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>300</dist>
+      <lat>25.27</lat>
+      <lon>87.22</lon>
+      <name>Colgong</name>
+    </location>
+    <location name="Delhi::Delhi::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>862</dist>
+      <lat>28.67</lat>
+      <lon>77.21</lon>
+      <name>Delhi</name>
+    </location>
+    <location name="Dilli Cantonment::Delhi::India">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>866</dist>
+      <lat>28.57</lat>
+      <lon>77.16</lon>
+      <name>Dilli Cantonment</name>
+    </location>
+    <location name="Sahibganj::Jharkhand::India">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>321</dist>
+      <lat>25.25</lat>
+      <lon>87.62</lon>
+      <name>Sahibganj</name>
+    </location>
+    <location name="Dadri::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>828</dist>
+      <lat>28.57</lat>
+      <lon>77.55</lon>
+      <name>Dadri</name>
+    </location>
+    <location name="Gonda::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>398</dist>
+      <lat>27.14</lat>
+      <lon>81.95</lon>
+      <name>Gonda</name>
+    </location>
+    <location name="Harraiya::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>357</dist>
+      <lat>26.80</lat>
+      <lon>82.47</lon>
+      <name>Harraiya</name>
+    </location>
+    <location name="Jhūsi::Uttar Pradesh::India">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>472</dist>
+      <lat>25.43</lat>
+      <lon>81.93</lon>
+      <name>Jhūsi</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>505</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Rura::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>613</dist>
+      <lat>26.48</lat>
+      <lon>79.90</lon>
+      <name>Rura</name>
+    </location>
+    <location name="Siswa Bazar::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>222</dist>
+      <lat>27.15</lat>
+      <lon>83.77</lon>
+      <name>Siswa Bazar</name>
+    </location>
+  </cdi>
+</cdidata>

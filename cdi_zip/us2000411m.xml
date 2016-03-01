@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="74023">
+      <cdi>3.4041</cdi>
+      <nresp>8</nresp>
+      <dist>7</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74820">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>34.7976487982</lat>
+      <lon>-96.7884097609</lon>
+      <name>Ada</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

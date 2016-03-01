@@ -1,0 +1,212 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Arenys de Mar::Barcelona::Spain">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>41.59</lat>
+      <lon>2.54</lon>
+      <name>Arenys de Mar</name>
+    </location>
+    <location name="Barcelona::Barcelona::Spain">
+      <cdi>2.5749</cdi>
+      <nresp>14</nresp>
+      <dist>121</dist>
+      <lat>41.40</lat>
+      <lon>2.17</lon>
+      <name>Barcelona</name>
+    </location>
+    <location name="Calella::Barcelona::Spain">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>41.62</lat>
+      <lon>2.66</lon>
+      <name>Calella</name>
+    </location>
+    <location name="Cardedeu::Barcelona::Spain">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>41.64</lat>
+      <lon>2.37</lon>
+      <name>Cardedeu</name>
+    </location>
+    <location name="La Llagosta::Barcelona::Spain">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>41.52</lat>
+      <lon>2.18</lon>
+      <name>La Llagosta</name>
+    </location>
+    <location name="Sant Adrià de Besòs::Barcelona::Spain">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>41.43</lat>
+      <lon>2.21</lon>
+      <name>Sant Adrià de Besòs</name>
+    </location>
+    <location name="Sant Boi de Llobregat::Barcelona::Spain">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>41.36</lat>
+      <lon>2.03</lon>
+      <name>Sant Boi de Llobregat</name>
+    </location>
+    <location name="Santa Maria de Palautordera::Barcelona::Spain">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>41.70</lat>
+      <lon>2.45</lon>
+      <name>Santa Maria de Palautordera</name>
+    </location>
+    <location name="Albons::Girona::Spain">
+      <cdi>3.6156</cdi>
+      <nresp>3</nresp>
+      <dist>14</dist>
+      <lat>42.10</lat>
+      <lon>3.08</lon>
+      <name>Albons</name>
+    </location>
+    <location name="Begur::Girona::Spain">
+      <cdi>4.1535</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>41.95</lat>
+      <lon>3.22</lon>
+      <name>Begur</name>
+    </location>
+    <location name="Cadaqués::Girona::Spain">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>42.28</lat>
+      <lon>3.28</lon>
+      <name>Cadaqués</name>
+    </location>
+    <location name="Calonge::Girona::Spain">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>41.87</lat>
+      <lon>3.08</lon>
+      <name>Calonge</name>
+    </location>
+    <location name="Cassà de la Selva::Girona::Spain">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>41.88</lat>
+      <lon>2.88</lon>
+      <name>Cassà de la Selva</name>
+    </location>
+    <location name="LʿArmentera::Girona::Spain">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>42.17</lat>
+      <lon>3.08</lon>
+      <name>LʿArmentera</name>
+    </location>
+    <location name="Mont-ras::Girona::Spain">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>41.90</lat>
+      <lon>3.15</lon>
+      <name>Mont-ras</name>
+    </location>
+    <location name="Palafrugell::Girona::Spain">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>31</dist>
+      <lat>41.93</lat>
+      <lon>3.15</lon>
+      <name>Palafrugell</name>
+    </location>
+    <location name="Palamós::Girona::Spain">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>41.86</lat>
+      <lon>3.13</lon>
+      <name>Palamós</name>
+    </location>
+    <location name="Pau::Girona::Spain">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>42.32</lat>
+      <lon>3.12</lon>
+      <name>Pau</name>
+    </location>
+    <location name="Roses::Girona::Spain">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>8</dist>
+      <lat>42.27</lat>
+      <lon>3.17</lon>
+      <name>Roses</name>
+    </location>
+    <location name="Ullà::Girona::Spain">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>42.05</lat>
+      <lon>3.12</lon>
+      <name>Ullà</name>
+    </location>
+    <location name="Vilamacolum::Girona::Spain">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>42.20</lat>
+      <lon>3.07</lon>
+      <name>Vilamacolum</name>
+    </location>
+    <location name="Cabestany::Languedoc-Roussillon::France">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>42.68</lat>
+      <lon>2.93</lon>
+      <name>Cabestany</name>
+    </location>
+    <location name="Collioure::Languedoc-Roussillon::France">
+      <cdi>3.3811</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>42.52</lat>
+      <lon>3.08</lon>
+      <name>Collioure</name>
+    </location>
+    <location name="Le Crès::Languedoc-Roussillon::France">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>43.65</lat>
+      <lon>3.93</lon>
+      <name>Le Crès</name>
+    </location>
+    <location name="Port-Vendres::Languedoc-Roussillon::France">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>42.52</lat>
+      <lon>3.12</lon>
+      <name>Port-Vendres</name>
+    </location>
+    <location name="Rodès::Languedoc-Roussillon::France">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>42.65</lat>
+      <lon>2.57</lon>
+      <name>Rodès</name>
+    </location>
+  </cdi>
+</cdidata>

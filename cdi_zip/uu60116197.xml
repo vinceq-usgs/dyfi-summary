@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="84717">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>37.640749</lat>
+      <lon>-112.130306</lon>
+      <name>BRYCE CANYON</name>
+      <state>UT</state>
+    </location>
+    <location name="84759">
+      <cdi>3.7769</cdi>
+      <nresp>10</nresp>
+      <dist>7</dist>
+      <lat>37.785742353</lat>
+      <lon>-112.449223693</lon>
+      <name>Panguitch</name>
+      <state>UT</state>
+    </location>
+  </cdi>
+</cdidata>

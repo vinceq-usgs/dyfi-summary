@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="George Town::Grand Cayman::Cayman Islands">
+      <cdi>2.6311</cdi>
+      <nresp>5</nresp>
+      <dist>98</dist>
+      <lat>19.28</lat>
+      <lon>-81.39</lon>
+      <name>George Town</name>
+    </location>
+    <location name="West Bay::Grand Cayman::Cayman Islands">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>19.38</lat>
+      <lon>-81.42</lon>
+      <name>West Bay</name>
+    </location>
+  </cdi>
+</cdidata>

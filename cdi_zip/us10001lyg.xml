@@ -1,0 +1,139 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="66048">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>376</dist>
+      <lat>39.2767175141</lat>
+      <lon>-94.9899406961</lon>
+      <name>Leavenworth</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67133">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>37.5767304997</lat>
+      <lon>-97.1039969268</lon>
+      <name>Rose Hill</name>
+      <state>KS</state>
+    </location>
+    <location name="67218">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>120</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="70037">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>1051</dist>
+      <lat>29.6752467313</lat>
+      <lon>-89.9971044971</lon>
+      <name>Belle Chasse</name>
+      <state>LA</state>
+    </location>
+    <location name="73034">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>3.1847</cdi>
+      <nresp>2</nresp>
+      <dist>28</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>36</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="74008">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>35.9148562447</lat>
+      <lon>-95.8381122962</lon>
+      <name>Bixby</name>
+      <state>OK</state>
+    </location>
+    <location name="74011">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>35.9844979881</lat>
+      <lon>-95.8098860351</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74604">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>36.6894344421</lat>
+      <lon>-96.9613505909</lon>
+      <name>Ponca City</name>
+      <state>OK</state>
+    </location>
+    <location name="74632">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>36.9433376764</lat>
+      <lon>-97.3377689146</lon>
+      <name>Braman</name>
+      <state>OK</state>
+    </location>
+    <location name="74643">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>36.712900915</lat>
+      <lon>-97.5544861003</lon>
+      <name>Lamont</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

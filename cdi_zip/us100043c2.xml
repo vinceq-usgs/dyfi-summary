@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67221">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>37.6249365618</lat>
+      <lon>-97.2632326114</lon>
+      <name>McConnell AFB</name>
+      <state>KS</state>
+    </location>
+    <location name="74008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>220</dist>
+      <lat>35.9148562447</lat>
+      <lon>-95.8381122962</lon>
+      <name>Bixby</name>
+      <state>OK</state>
+    </location>
+    <location name="75039">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>441</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>442</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76053">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>446</dist>
+      <lat>32.8091636196</lat>
+      <lon>-97.1734959974</lon>
+      <name>Hurst</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

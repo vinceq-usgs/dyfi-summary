@@ -1,0 +1,100 @@
+<cdidata>
+  <cdi type="city">
+    <location name="AhuachapÃ¡n::AhuachapÃ¡n::El Salvador">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>13.93</lat>
+      <lon>-89.86</lon>
+      <name>AhuachapÃ¡n</name>
+    </location>
+    <location name="Antiguo CuscatlÃ¡n::La Libertad::El Salvador">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>205</dist>
+      <lat>13.68</lat>
+      <lon>-89.23</lon>
+      <name>Antiguo CuscatlÃ¡n</name>
+    </location>
+    <location name="San AgustÃ­n::UsulutÃ¡n::El Salvador">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>271</dist>
+      <lat>13.43</lat>
+      <lon>-88.60</lon>
+      <name>San AgustÃ­n</name>
+    </location>
+    <location name="Guastatoya::El Progreso::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>14.85</lat>
+      <lon>-90.07</lon>
+      <name>Guastatoya</name>
+    </location>
+    <location name="Escuintla::Escuintla::Guatemala">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>14.30</lat>
+      <lon>-90.78</lon>
+      <name>Escuintla</name>
+    </location>
+    <location name="Guatemala::Guatemala::Guatemala">
+      <cdi>3.2249</cdi>
+      <nresp>5</nresp>
+      <dist>121</dist>
+      <lat>14.63</lat>
+      <lon>-90.55</lon>
+      <name>Guatemala</name>
+    </location>
+    <location name="Santa Catarina Pinula::Guatemala::Guatemala">
+      <cdi>2.6051</cdi>
+      <nresp>4</nresp>
+      <dist>119</dist>
+      <lat>14.57</lat>
+      <lon>-90.50</lon>
+      <name>Santa Catarina Pinula</name>
+    </location>
+    <location name="San MartÃ­n SacatepÃ©quez::Quezaltenango::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>14.82</lat>
+      <lon>-91.65</lon>
+      <name>San MartÃ­n SacatepÃ©quez</name>
+    </location>
+    <location name="Antigua Guatemala::SacatepÃ©quez::Guatemala">
+      <cdi>3.3110</cdi>
+      <nresp>6</nresp>
+      <dist>113</dist>
+      <lat>14.56</lat>
+      <lon>-90.74</lon>
+      <name>Antigua Guatemala</name>
+    </location>
+    <location name="Ciudad Vieja::SacatepÃ©quez::Guatemala">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>14.52</lat>
+      <lon>-90.77</lon>
+      <name>Ciudad Vieja</name>
+    </location>
+    <location name="Cuilapa::Santa Rosa::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>14.28</lat>
+      <lon>-90.31</lon>
+      <name>Cuilapa</name>
+    </location>
+    <location name="Panajachel::SololÃ¡::Guatemala">
+      <cdi>3.9249</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>14.73</lat>
+      <lon>-91.15</lon>
+      <name>Panajachel</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98223">
+      <cdi>2.9106</cdi>
+      <nresp>6</nresp>
+      <dist>23</dist>
+      <lat>48.2072560911</lat>
+      <lon>-121.949170135</lon>
+      <name>Arlington</name>
+      <state>WA</state>
+    </location>
+    <location name="98241">
+      <cdi>2.6124</cdi>
+      <nresp>12</nresp>
+      <dist>27</dist>
+      <lat>48.1641380081</lat>
+      <lon>-121.29965921</lon>
+      <name>Darrington</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Rengo::Libertador General Bernardo OÊ¿Higgins::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>-34.41</lat>
+      <lon>-70.87</lon>
+      <name>Rengo</name>
+    </location>
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.4868</cdi>
+      <nresp>3</nresp>
+      <dist>144</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="ViÃ±a del Mar::ValparaÃ­so::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>ViÃ±a del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

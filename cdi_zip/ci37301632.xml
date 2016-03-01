@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90032">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>34.0809575365</lat>
+      <lon>-118.178001889</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90048">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>34.0730844039</lat>
+      <lon>-118.372804071</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="91301">
+      <cdi>2.5148</cdi>
+      <nresp>10</nresp>
+      <dist>8</dist>
+      <lat>34.1361998919</lat>
+      <lon>-118.756948731</lon>
+      <name>Agoura Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91302">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>34.1246741688</lat>
+      <lon>-118.673621553</lon>
+      <name>Calabasas</name>
+      <state>CA</state>
+    </location>
+    <location name="91307">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>11</dist>
+      <lat>34.2051664726</lat>
+      <lon>-118.678626044</lon>
+      <name>West Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91320">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>34.1416299359</lat>
+      <lon>-118.978888954</lon>
+      <name>Newbury Park</name>
+      <state>CA</state>
+    </location>
+    <location name="91360">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>34.2140411905</lat>
+      <lon>-118.880791506</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91361">
+      <cdi>2</cdi>
+      <nresp>9</nresp>
+      <dist>15</dist>
+      <lat>34.1460007715</lat>
+      <lon>-118.878229817</lon>
+      <name>Westlake Village</name>
+      <state>CA</state>
+    </location>
+    <location name="91362">
+      <cdi>2.1477</cdi>
+      <nresp>11</nresp>
+      <dist>12</dist>
+      <lat>34.1924686909</lat>
+      <lon>-118.819449981</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91364">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.1550610547</lat>
+      <lon>-118.595389231</lon>
+      <name>Woodland Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91367">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.176389334</lat>
+      <lon>-118.61601363</lon>
+      <name>Woodland Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91377">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.1858693999</lat>
+      <lon>-118.765270153</lon>
+      <name>Oak Park</name>
+      <state>CA</state>
+    </location>
+    <location name="93063">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>34.2882593211</lat>
+      <lon>-118.688958163</lon>
+      <name>Simi Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="93065">
+      <cdi>2.4718</cdi>
+      <nresp>4</nresp>
+      <dist>17</dist>
+      <lat>34.2835466325</lat>
+      <lon>-118.769317054</lon>
+      <name>Simi Valley</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Lima::Lima Provincias::Peru">
+      <cdi>3.3177</cdi>
+      <nresp>9</nresp>
+      <dist>60</dist>
+      <lat>-12.07</lat>
+      <lon>-77.05</lon>
+      <name>Lima</name>
+    </location>
+    <location name="Huancavelica::Huancavelica::Peru">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>212</dist>
+      <lat>-12.79</lat>
+      <lon>-74.99</lon>
+      <name>Huancavelica</name>
+    </location>
+    <location name="Chilca::Lima Provincias::Peru">
+      <cdi>3.1478</cdi>
+      <nresp>4</nresp>
+      <dist>68</dist>
+      <lat>-12.52</lat>
+      <lon>-76.74</lon>
+      <name>Chilca</name>
+    </location>
+    <location name="Mala::Lima Provincias::Peru">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>-12.66</lat>
+      <lon>-76.64</lon>
+      <name>Mala</name>
+    </location>
+    <location name="Matucana::Lima Provincias::Peru">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>-11.85</lat>
+      <lon>-76.40</lon>
+      <name>Matucana</name>
+    </location>
+    <location name="San Luis::Lima Provincias::Peru">
+      <cdi>3.0440</cdi>
+      <nresp>10</nresp>
+      <dist>58</dist>
+      <lat>-12.08</lat>
+      <lon>-77.00</lon>
+      <name>San Luis</name>
+    </location>
+    <location name="Santa María::Lima Provincias::Peru">
+      <cdi>3.7738</cdi>
+      <nresp>3</nresp>
+      <dist>55</dist>
+      <lat>-12.00</lat>
+      <lon>-76.90</lon>
+      <name>Santa María</name>
+    </location>
+  </cdi>
+</cdidata>

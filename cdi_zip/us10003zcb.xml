@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Curup::Bengkulu::Indonesia">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>341</dist>
+      <lat>-3.46</lat>
+      <lon>102.52</lon>
+      <name>Curup</name>
+    </location>
+    <location name="Jakarta::Jakarta::Indonesia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>352</dist>
+      <lat>-6.18</lat>
+      <lon>106.83</lon>
+      <name>Jakarta</name>
+    </location>
+    <location name="Bandar Lampung::Lampung::Indonesia">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>205</dist>
+      <lat>-5.44</lat>
+      <lon>105.27</lon>
+      <name>Bandar Lampung</name>
+    </location>
+    <location name="Metro::Lampung::Indonesia">
+      <cdi>4.7363</cdi>
+      <nresp>1</nresp>
+      <dist>230</dist>
+      <lat>-5.10</lat>
+      <lon>105.33</lon>
+      <name>Metro</name>
+    </location>
+    <location name="Baturaja::Sumatera Selatan::Indonesia">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>250</dist>
+      <lat>-4.13</lat>
+      <lon>104.17</lon>
+      <name>Baturaja</name>
+    </location>
+    <location name="Palembang::Sumatera Selatan::Indonesia">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>388</dist>
+      <lat>-2.99</lat>
+      <lon>104.75</lon>
+      <name>Palembang</name>
+    </location>
+  </cdi>
+</cdidata>

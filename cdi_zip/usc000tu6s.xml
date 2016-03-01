@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Arequipa::Arequipa::Peru">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>116</dist>
+      <lat>-16.39</lat>
+      <lon>-71.53</lon>
+      <name>Arequipa</name>
+    </location>
+    <location name="Lluta::Arequipa::Peru">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>-16.02</lat>
+      <lon>-72.02</lon>
+      <name>Lluta</name>
+    </location>
+    <location name="Punta de BombÃ³n::Arequipa::Peru">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>-17.18</lat>
+      <lon>-71.81</lon>
+      <name>Punta de BombÃ³n</name>
+    </location>
+    <location name="Ilo::Moquegua::Peru">
+      <cdi>3.0152</cdi>
+      <nresp>2</nresp>
+      <dist>96</dist>
+      <lat>-17.64</lat>
+      <lon>-71.34</lon>
+      <name>Ilo</name>
+    </location>
+    <location name="Corrales::Tumbes::Peru">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>-15.93</lat>
+      <lon>-72.65</lon>
+      <name>Corrales</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94533">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>19</dist>
+      <lat>38.2800278927</lat>
+      <lon>-122.014736855</lon>
+      <name>Fairfield</name>
+      <state>CA</state>
+    </location>
+    <location name="94558">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94559">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>38.2394047273</lat>
+      <lon>-122.330669802</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

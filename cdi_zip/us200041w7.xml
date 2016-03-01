@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Lima::Lima Provincias::Peru">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>300</dist>
+      <lat>-12.07</lat>
+      <lon>-77.05</lon>
+      <name>Lima</name>
+    </location>
+    <location name="Huánuco::Huánuco::Peru">
+      <cdi>2.4566</cdi>
+      <nresp>6</nresp>
+      <dist>109</dist>
+      <lat>-9.92</lat>
+      <lon>-76.24</lon>
+      <name>Huánuco</name>
+    </location>
+    <location name="San Ramón::Junín::Peru">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>-11.13</lat>
+      <lon>-75.34</lon>
+      <name>San Ramón</name>
+    </location>
+    <location name="Santa María::Lima Provincias::Peru">
+      <cdi>1</cdi>
+      <nresp>7</nresp>
+      <dist>285</dist>
+      <lat>-12.00</lat>
+      <lon>-76.90</lon>
+      <name>Santa María</name>
+    </location>
+    <location name="Oxapampa::Pasco::Peru">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>-10.57</lat>
+      <lon>-75.40</lon>
+      <name>Oxapampa</name>
+    </location>
+    <location name="Villa Rica::Pasco::Peru">
+      <cdi>2.7025</cdi>
+      <nresp>10</nresp>
+      <dist>99</dist>
+      <lat>-10.72</lat>
+      <lon>-75.29</lon>
+      <name>Villa Rica</name>
+    </location>
+    <location name="Pucallpa::Ucayali::Peru">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>204</dist>
+      <lat>-8.39</lat>
+      <lon>-74.53</lon>
+      <name>Pucallpa</name>
+    </location>
+  </cdi>
+</cdidata>

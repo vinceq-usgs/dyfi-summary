@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Podgorica::Montenegro::Serbia and Montenegro">
+      <cdi>3.6956</cdi>
+      <nresp>4</nresp>
+      <dist>24</dist>
+      <lat>42.47</lat>
+      <lon>19.28</lon>
+      <name>Podgorica</name>
+    </location>
+    <location name="Shkodër::Shkodër::Albania">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>41</dist>
+      <lat>42.07</lat>
+      <lon>19.51</lon>
+      <name>Shkodër</name>
+    </location>
+  </cdi>
+</cdidata>

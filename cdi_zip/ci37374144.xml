@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90008">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.0090284247</lat>
+      <lon>-118.348152463</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90012">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>34.065853328</lat>
+      <lon>-118.238609901</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90015">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.0396124666</lat>
+      <lon>-118.266701508</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90016">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.0284267953</lat>
+      <lon>-118.354165453</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90019">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>34.0486609967</lat>
+      <lon>-118.338626345</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90024">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>34.0653110033</lat>
+      <lon>-118.435043099</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90034">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>12</dist>
+      <lat>34.0306792567</lat>
+      <lon>-118.399508404</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90043">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.9887240668</lat>
+      <lon>-118.335094215</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90045">
+      <cdi>2.3985</cdi>
+      <nresp>13</nresp>
+      <dist>13</dist>
+      <lat>33.9530946364</lat>
+      <lon>-118.401227411</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90056">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.9930841621</lat>
+      <lon>-118.373733934</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90064">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>13</dist>
+      <lat>34.0371990413</lat>
+      <lon>-118.424244657</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90066">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>34.0019600736</lat>
+      <lon>-118.431197505</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90230">
+      <cdi>2</cdi>
+      <nresp>8</nresp>
+      <dist>12</dist>
+      <lat>33.9949395874</lat>
+      <lon>-118.399346234</lon>
+      <name>Culver City</name>
+      <state>CA</state>
+    </location>
+    <location name="90232">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>34.0179145665</lat>
+      <lon>-118.391987459</lon>
+      <name>Culver City</name>
+      <state>CA</state>
+    </location>
+    <location name="90302">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>33.9746412695</lat>
+      <lon>-118.355166746</lon>
+      <name>Inglewood</name>
+      <state>CA</state>
+    </location>
+    <location name="90623">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>33.8504803622</lat>
+      <lon>-118.040965967</lon>
+      <name>La Palma</name>
+      <state>CA</state>
+    </location>
+    <location name="91201">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>34.1702785367</lat>
+      <lon>-118.289070935</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91607">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>34.1664423502</lat>
+      <lon>-118.399895143</lon>
+      <name>Valley Village</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

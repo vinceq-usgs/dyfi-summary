@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90026">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>401</dist>
+      <lat>34.0787685886</lat>
+      <lon>-118.263775106</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="91301">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>437</dist>
+      <lat>34.1361998919</lat>
+      <lon>-118.756948731</lon>
+      <name>Agoura Hills</name>
+      <state>CA</state>
+    </location>
+    <location name="91316">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>424</dist>
+      <lat>34.1651890832</lat>
+      <lon>-118.516005802</lon>
+      <name>Encino</name>
+      <state>CA</state>
+    </location>
+    <location name="91320">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>453</dist>
+      <lat>34.1416299359</lat>
+      <lon>-118.978888954</lon>
+      <name>Newbury Park</name>
+      <state>CA</state>
+    </location>
+    <location name="91360">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>452</dist>
+      <lat>34.2140411905</lat>
+      <lon>-118.880791506</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91362">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>446</dist>
+      <lat>34.1924686909</lat>
+      <lon>-118.819449981</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="93010">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>466</dist>
+      <lat>34.229149675</lat>
+      <lon>-119.075762949</lon>
+      <name>Camarillo</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

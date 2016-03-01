@@ -1,0 +1,157 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73739">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>36.5358234222</lat>
+      <lon>-98.1581411831</lon>
+      <name>Goltry</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>3.9249</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="75038">
+      <cdi>3.3345</cdi>
+      <nresp>3</nresp>
+      <dist>415</dist>
+      <lat>32.8722318141</lat>
+      <lon>-96.9804105835</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75039">
+      <cdi>2.2372</cdi>
+      <nresp>7</nresp>
+      <dist>414</dist>
+      <lat>32.8877490655</lat>
+      <lon>-96.9421581332</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75061">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>420</dist>
+      <lat>32.8260491449</lat>
+      <lon>-96.9647420181</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75062">
+      <cdi>2.7992</cdi>
+      <nresp>8</nresp>
+      <dist>418</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75063">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>410</dist>
+      <lat>32.9206335879</lat>
+      <lon>-96.9754663768</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75080">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>411</dist>
+      <lat>32.971346723</lat>
+      <lon>-96.7429691161</lon>
+      <name>Richardson</name>
+      <state>TX</state>
+    </location>
+    <location name="75201">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>429</dist>
+      <lat>32.7872736111</lat>
+      <lon>-96.7990090562</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75209">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>421</dist>
+      <lat>32.8487972366</lat>
+      <lon>-96.8263010441</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75220">
+      <cdi>2.1186</cdi>
+      <nresp>5</nresp>
+      <dist>418</dist>
+      <lat>32.8669930898</lat>
+      <lon>-96.8778633804</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75225">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>421</dist>
+      <lat>32.865168445</lat>
+      <lon>-96.7910223422</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75234">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>412</dist>
+      <lat>32.9238373245</lat>
+      <lon>-96.8903418275</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75235">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>423</dist>
+      <lat>32.8315449377</lat>
+      <lon>-96.8479558357</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76137">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>410</dist>
+      <lat>32.8588375829</lat>
+      <lon>-97.2912346013</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,112 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93657">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>471</dist>
+      <lat>36.8134237005</lat>
+      <lon>-119.413224411</lon>
+      <name>Sanger</name>
+      <state>CA</state>
+    </location>
+    <location name="93920">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>418</dist>
+      <lat>36.083362228</lat>
+      <lon>-121.544969461</lon>
+      <name>Big sur</name>
+      <state>CA</state>
+    </location>
+    <location name="94501">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>221</dist>
+      <lat>37.7746713921</lat>
+      <lon>-122.275647073</lon>
+      <name>Alameda</name>
+      <state>CA</state>
+    </location>
+    <location name="95420">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>39.3616862034</lat>
+      <lon>-123.782436531</lon>
+      <name>Caspar</name>
+      <state>CA</state>
+    </location>
+    <location name="95437">
+      <cdi>3.0788</cdi>
+      <nresp>64</nresp>
+      <dist>10</dist>
+      <lat>39.4643563766</lat>
+      <lon>-123.69642113</lon>
+      <name>Fort Bragg</name>
+      <state>CA</state>
+    </location>
+    <location name="95456">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>39.2626253714</lat>
+      <lon>-123.749191449</lon>
+      <name>Littleriver</name>
+      <state>CA</state>
+    </location>
+    <location name="95459">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>52</dist>
+      <lat>39.006802054</lat>
+      <lon>-123.615600107</lon>
+      <name>Manchester</name>
+      <state>CA</state>
+    </location>
+    <location name="95460">
+      <cdi>3.1333</cdi>
+      <nresp>9</nresp>
+      <dist>22</dist>
+      <lat>39.3101880737</lat>
+      <lon>-123.718137663</lon>
+      <name>Mendocino</name>
+      <state>CA</state>
+    </location>
+    <location name="95488">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>39.6741222962</lat>
+      <lon>-123.742393642</lon>
+      <name>Westport</name>
+      <state>CA</state>
+    </location>
+    <location name="95490">
+      <cdi>2.7958</cdi>
+      <nresp>4</nresp>
+      <dist>20</dist>
+      <lat>39.4716278515</lat>
+      <lon>-123.365954363</lon>
+      <name>Willits</name>
+      <state>CA</state>
+    </location>
+    <location name="95585">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>39.8291976622</lat>
+      <lon>-123.690514213</lon>
+      <name>Leggett</name>
+      <state>CA</state>
+    </location>
+    <location name="96003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>40.6695191792</lat>
+      <lon>-122.312232909</lon>
+      <name>Redding</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99801">
+      <cdi>2</cdi>
+      <nresp>8</nresp>
+      <dist>161</dist>
+      <lat>58.4664469596</lat>
+      <lon>-134.152275105</lon>
+      <name>Juneau</name>
+      <state>AK</state>
+    </location>
+    <location name="99824">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>147</dist>
+      <lat>58.2732995137</lat>
+      <lon>-134.39908258</lon>
+      <name>Douglas</name>
+      <state>AK</state>
+    </location>
+    <location name="99825">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>58.1865348506</lat>
+      <lon>-136.308878605</lon>
+      <name>Elfin Cove</name>
+      <state>AK</state>
+    </location>
+    <location name="99826">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>58.8339049552</lat>
+      <lon>-136.85581289</lon>
+      <name>Gustavus</name>
+      <state>AK</state>
+    </location>
+    <location name="99827">
+      <cdi>2.1718</cdi>
+      <nresp>3</nresp>
+      <dist>117</dist>
+      <lat>59.1322459297</lat>
+      <lon>-135.503955347</lon>
+      <name>Haines</name>
+      <state>AK</state>
+    </location>
+    <location name="99829">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>78</dist>
+      <lat>58.0131579339</lat>
+      <lon>-135.748356162</lon>
+      <name>Hoonah</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

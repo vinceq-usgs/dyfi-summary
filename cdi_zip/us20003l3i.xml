@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="La Calera::Cundinamarca::Colombia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>207</dist>
+      <lat>4.72</lat>
+      <lon>-73.97</lon>
+      <name>La Calera</name>
+    </location>
+    <location name="Armenia::Quindió::Colombia">
+      <cdi>3.6156</cdi>
+      <nresp>4</nresp>
+      <dist>42</dist>
+      <lat>4.53</lat>
+      <lon>-75.69</lon>
+      <name>Armenia</name>
+    </location>
+    <location name="Calarcá::Quindió::Colombia">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>44</dist>
+      <lat>4.54</lat>
+      <lon>-75.64</lon>
+      <name>Calarcá</name>
+    </location>
+    <location name="La Virginia::Risaralda::Colombia">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>4.90</lat>
+      <lon>-75.89</lon>
+      <name>La Virginia</name>
+    </location>
+    <location name="Pereira::Risaralda::Colombia">
+      <cdi>3.0372</cdi>
+      <nresp>7</nresp>
+      <dist>72</dist>
+      <lat>4.81</lat>
+      <lon>-75.68</lon>
+      <name>Pereira</name>
+    </location>
+    <location name="Sevilla::Valle del Cauca::Colombia">
+      <cdi>4.7710</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>4.28</lat>
+      <lon>-75.93</lon>
+      <name>Sevilla</name>
+    </location>
+  </cdi>
+</cdidata>

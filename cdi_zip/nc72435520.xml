@@ -1,0 +1,121 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94507">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>37.8529789211</lat>
+      <lon>-122.00597462</lon>
+      <name>Alamo</name>
+      <state>CA</state>
+    </location>
+    <location name="94520">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>38.0188740799</lat>
+      <lon>-122.040302233</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94521">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>17</dist>
+      <lat>37.9713331484</lat>
+      <lon>-121.957127634</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94523">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>10</dist>
+      <lat>37.9543225437</lat>
+      <lon>-122.07630293</lon>
+      <name>Pleasant Hill</name>
+      <state>CA</state>
+    </location>
+    <location name="94549">
+      <cdi>2.2902</cdi>
+      <nresp>5</nresp>
+      <dist>11</dist>
+      <lat>37.9011071203</lat>
+      <lon>-122.117193174</lon>
+      <name>Lafayette</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94558">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>64</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94590">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>38.1003329591</lat>
+      <lon>-122.247859578</lon>
+      <name>Vallejo</name>
+      <state>CA</state>
+    </location>
+    <location name="94596">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.8884024161</lat>
+      <lon>-122.036464813</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94597">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>11</dist>
+      <lat>37.9181539053</lat>
+      <lon>-122.071327156</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94598">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.9057818419</lat>
+      <lon>-122.003612069</lon>
+      <name>Walnut Creek</name>
+      <state>CA</state>
+    </location>
+    <location name="94608">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>21</dist>
+      <lat>37.8355803247</lat>
+      <lon>-122.284666408</lon>
+      <name>Emeryville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73007">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73110">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>35.4599812871</lat>
+      <lon>-97.3970813939</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74019">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>36.2821833601</lat>
+      <lon>-95.6050489434</lon>
+      <name>Claremore</name>
+      <state>OK</state>
+    </location>
+    <location name="74115">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>36.1955504607</lat>
+      <lon>-95.9059523166</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

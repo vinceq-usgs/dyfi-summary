@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00058">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>37.7552955572</lat>
+      <lon>-119.440023164</lon>
+      <name>Yosemite NTL Park</name>
+      <state>CA</state>
+    </location>
+    <location name="94588">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>213</dist>
+      <lat>37.6895558211</lat>
+      <lon>-121.896794754</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+    <location name="95389">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>28</dist>
+      <lat>37.749744387</lat>
+      <lon>-119.554279563</lon>
+      <name>Yosemite National Park</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

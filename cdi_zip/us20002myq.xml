@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73025">
+      <cdi>2.9958</cdi>
+      <nresp>4</nresp>
+      <dist>78</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="75219">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>410</dist>
+      <lat>32.8108181032</lat>
+      <lon>-96.8131670043</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

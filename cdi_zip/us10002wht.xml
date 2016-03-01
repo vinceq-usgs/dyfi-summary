@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Cayon::Saint Mary Cayon::Saint Kitts and Nevis">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>17.35</lat>
+      <lon>-62.73</lon>
+      <name>Cayon</name>
+    </location>
+    <location name="Island Harbour::_no region::Anguilla">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>18.25</lat>
+      <lon>-63.00</lon>
+      <name>Island Harbour</name>
+    </location>
+    <location name="The Valley::_no region::Anguilla">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>43</dist>
+      <lat>18.22</lat>
+      <lon>-63.05</lon>
+      <name>The Valley</name>
+    </location>
+    <location name="Saint-Barthélemy::Saint Barthélemy::Guadeloupe">
+      <cdi>2.7613</cdi>
+      <nresp>7</nresp>
+      <dist>41</dist>
+      <lat>17.90</lat>
+      <lon>-62.85</lon>
+      <name>Saint-Barthélemy</name>
+    </location>
+    <location name="Marigot::Saint Martin::Guadeloupe">
+      <cdi>3.6156</cdi>
+      <nresp>4</nresp>
+      <dist>40</dist>
+      <lat>18.10</lat>
+      <lon>-63.05</lon>
+      <name>Marigot</name>
+    </location>
+    <location name="Cul De Sac::Sint Maarten::Netherlands Antilles">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>41</dist>
+      <lat>18.03</lat>
+      <lon>-63.07</lon>
+      <name>Cul De Sac</name>
+    </location>
+    <location name="Little Bay::Sint Maarten::Netherlands Antilles">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>18.02</lat>
+      <lon>-63.05</lon>
+      <name>Little Bay</name>
+    </location>
+    <location name="Low Lands::Sint Maarten::Netherlands Antilles">
+      <cdi>3.1067</cdi>
+      <nresp>5</nresp>
+      <dist>43</dist>
+      <lat>18.03</lat>
+      <lon>-63.12</lon>
+      <name>Low Lands</name>
+    </location>
+    <location name="Phillipsburg::Sint Maarten::Netherlands Antilles">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>18.02</lat>
+      <lon>-63.03</lon>
+      <name>Phillipsburg</name>
+    </location>
+    <location name="Princess Quarter::Sint Maarten::Netherlands Antilles">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>39</dist>
+      <lat>18.03</lat>
+      <lon>-63.03</lon>
+      <name>Princess Quarter</name>
+    </location>
+  </cdi>
+</cdidata>

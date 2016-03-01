@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Freire::Araucanía::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>-38.96</lat>
+      <lon>-72.63</lon>
+      <name>Freire</name>
+    </location>
+    <location name="Loncoche::Araucanía::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>-39.37</lat>
+      <lon>-72.63</lon>
+      <name>Loncoche</name>
+    </location>
+    <location name="Temuco::Araucanía::Chile">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>117</dist>
+      <lat>-38.73</lat>
+      <lon>-72.58</lon>
+      <name>Temuco</name>
+    </location>
+    <location name="Villarrica::Araucanía::Chile">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>85</dist>
+      <lat>-39.28</lat>
+      <lon>-72.23</lon>
+      <name>Villarrica</name>
+    </location>
+    <location name="Panguipulli::Los Lagos::Chile">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>69</dist>
+      <lat>-39.64</lat>
+      <lon>-72.34</lon>
+      <name>Panguipulli</name>
+    </location>
+    <location name="Valdivia::Los Lagos::Chile">
+      <cdi>2.9567</cdi>
+      <nresp>4</nresp>
+      <dist>71</dist>
+      <lat>-39.82</lat>
+      <lon>-73.23</lon>
+      <name>Valdivia</name>
+    </location>
+  </cdi>
+</cdidata>

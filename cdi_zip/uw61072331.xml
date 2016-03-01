@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Abbotsford::British Columbia::Canada">
+      <cdi>2.9419</cdi>
+      <nresp>34</nresp>
+      <dist>12</dist>
+      <lat>49.06</lat>
+      <lon>-122.30</lon>
+      <name>Abbotsford</name>
+    </location>
+    <location name="Walnut Grove::British Columbia::Canada">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>49.19</lat>
+      <lon>-122.62</lon>
+      <name>Walnut Grove</name>
+    </location>
+  </cdi>
+</cdidata>

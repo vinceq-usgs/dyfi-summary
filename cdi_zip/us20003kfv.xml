@@ -1,0 +1,124 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Córdoba::Córdoba::Argentina">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>715</dist>
+      <lat>-31.40</lat>
+      <lon>-64.19</lon>
+      <name>Córdoba</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>311</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="Cutral Có::Neuquén::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>852</dist>
+      <lat>-38.94</lat>
+      <lon>-69.24</lon>
+      <name>Cutral Có</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>303</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>600</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="Illapel::Coquimbo::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>-31.63</lat>
+      <lon>-71.17</lon>
+      <name>Illapel</name>
+    </location>
+    <location name="Graneros::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>297</dist>
+      <lat>-34.07</lat>
+      <lon>-70.72</lon>
+      <name>Graneros</name>
+    </location>
+    <location name="Rancagua::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>307</dist>
+      <lat>-34.17</lat>
+      <lon>-70.74</lon>
+      <name>Rancagua</name>
+    </location>
+    <location name="Puente Alto::Metropolitana::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>255</dist>
+      <lat>-33.61</lat>
+      <lon>-70.57</lon>
+      <name>Puente Alto</name>
+    </location>
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>3.7490</cdi>
+      <nresp>5</nresp>
+      <dist>249</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>3.4889</cdi>
+      <nresp>21</nresp>
+      <dist>237</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Quilpué::Valparaíso::Chile">
+      <cdi>3.6692</cdi>
+      <nresp>3</nresp>
+      <dist>170</dist>
+      <lat>-33.04</lat>
+      <lon>-71.50</lon>
+      <name>Quilpué</name>
+    </location>
+    <location name="San Antonio::Valparaíso::Chile">
+      <cdi>4.9397</cdi>
+      <nresp>1</nresp>
+      <dist>230</dist>
+      <lat>-33.60</lat>
+      <lon>-71.61</lon>
+      <name>San Antonio</name>
+    </location>
+    <location name="Valparaíso::Valparaíso::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>169</dist>
+      <lat>-33.04</lat>
+      <lon>-71.64</lon>
+      <name>Valparaíso</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Denpasar::Bali::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>273</dist>
+      <lat>-8.65</lat>
+      <lon>115.22</lon>
+      <name>Denpasar</name>
+    </location>
+    <location name="Kuta::Bali::Indonesia">
+      <cdi>2.3643</cdi>
+      <nresp>3</nresp>
+      <dist>269</dist>
+      <lat>-8.72</lat>
+      <lon>115.17</lon>
+      <name>Kuta</name>
+    </location>
+    <location name="Tabanan::Bali::Indonesia">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>289</dist>
+      <lat>-8.54</lat>
+      <lon>115.12</lon>
+      <name>Tabanan</name>
+    </location>
+    <location name="Ubud::Bali::Indonesia">
+      <cdi>2.9073</cdi>
+      <nresp>8</nresp>
+      <dist>284</dist>
+      <lat>-8.52</lat>
+      <lon>115.26</lon>
+      <name>Ubud</name>
+    </location>
+    <location name="Praya::Nusa Tenggara Barat::Indonesia">
+      <cdi>3.2031</cdi>
+      <nresp>2</nresp>
+      <dist>237</dist>
+      <lat>-8.72</lat>
+      <lon>116.29</lon>
+      <name>Praya</name>
+    </location>
+  </cdi>
+</cdidata>

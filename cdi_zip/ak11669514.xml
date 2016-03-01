@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99567">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>209</dist>
+      <lat>61.4609962815</lat>
+      <lon>-149.330150001</lon>
+      <name>Chugiak</name>
+      <state>AK</state>
+    </location>
+    <location name="99603">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>94</dist>
+      <lat>59.5330957545</lat>
+      <lon>-151.193180499</lon>
+      <name>Homer</name>
+      <state>AK</state>
+    </location>
+    <location name="99610">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>60.3309885724</lat>
+      <lon>-151.277479474</lon>
+      <name>Kasilof</name>
+      <state>AK</state>
+    </location>
+    <location name="99664">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>60.2395703767</lat>
+      <lon>-149.044241402</lon>
+      <name>Seward</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

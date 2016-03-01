@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73012">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>2.2372</cdi>
+      <nresp>4</nresp>
+      <dist>9</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.8973</cdi>
+      <nresp>5</nresp>
+      <dist>5</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="74403">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>197</dist>
+      <lat>35.665839705</lat>
+      <lon>-95.2712787014</lon>
+      <name>Muskogee</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

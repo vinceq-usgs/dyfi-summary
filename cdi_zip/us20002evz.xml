@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kurseong::Bangla::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>230</dist>
+      <lat>26.88</lat>
+      <lon>88.28</lon>
+      <name>Kurseong</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="HÄ?jÄ«pur::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>240</dist>
+      <lat>25.68</lat>
+      <lon>85.20</lon>
+      <name>HÄ?jÄ«pur</name>
+    </location>
+    <location name="Katihār::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>276</dist>
+      <lat>25.55</lat>
+      <lon>87.57</lon>
+      <name>Katihār</name>
+    </location>
+    <location name="Gorakhpur::Uttar Pradesh::India">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>293</dist>
+      <lat>26.76</lat>
+      <lon>83.36</lon>
+      <name>Gorakhpur</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>167</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>76</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>82</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Kirtipur::Kathmandu::Nepal">
+      <cdi>4.4700</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>27.67</lat>
+      <lon>85.28</lon>
+      <name>Kirtipur</name>
+    </location>
+    <location name="Lalitpur::Lalitpur::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>27.68</lat>
+      <lon>85.32</lon>
+      <name>Lalitpur</name>
+    </location>
+  </cdi>
+</cdidata>

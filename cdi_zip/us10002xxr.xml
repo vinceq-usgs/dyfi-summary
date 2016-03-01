@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67036">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67502">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>38.1280036149</lat>
+      <lon>-97.9208647034</lon>
+      <name>Hutchinson</name>
+      <state>KS</state>
+    </location>
+    <location name="73120">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>141</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99502">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>429</dist>
+      <lat>61.158809373</lat>
+      <lon>-150.04667767</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99701">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>64.5124558489</lat>
+      <lon>-147.669565076</lon>
+      <name>Fairbanks</name>
+      <state>AK</state>
+    </location>
+    <location name="99705">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>18</dist>
+      <lat>64.7563125235</lat>
+      <lon>-147.338813404</lon>
+      <name>North Pole</name>
+      <state>AK</state>
+    </location>
+    <location name="99709">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>64.9460959895</lat>
+      <lon>-148.251252626</lon>
+      <name>Fairbanks</name>
+      <state>AK</state>
+    </location>
+    <location name="99712">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>65.1396847707</lat>
+      <lon>-146.92538704</lon>
+      <name>Fairbanks</name>
+      <state>AK</state>
+    </location>
+    <location name="99743">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>64.0132527644</lat>
+      <lon>-148.562160959</lon>
+      <name>Healy</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

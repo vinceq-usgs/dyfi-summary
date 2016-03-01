@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="35401">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>33.177333537</lat>
+      <lon>-87.6165755816</lon>
+      <name>Tuscaloosa</name>
+      <state>AL</state>
+    </location>
+    <location name="35404">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>33.2180014493</lat>
+      <lon>-87.4846370377</lon>
+      <name>Tuscaloosa</name>
+      <state>AL</state>
+    </location>
+    <location name="35406">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>33.3386728052</lat>
+      <lon>-87.4717913384</lon>
+      <name>Tuscaloosa</name>
+      <state>AL</state>
+    </location>
+    <location name="35442">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>33.0489929107</lat>
+      <lon>-88.2106384383</lon>
+      <name>Aliceville</name>
+      <state>AL</state>
+    </location>
+    <location name="35462">
+      <cdi>2.7053</cdi>
+      <nresp>3</nresp>
+      <dist>8</dist>
+      <lat>32.9341757636</lat>
+      <lon>-87.98539177</lon>
+      <name>Eutaw</name>
+      <state>AL</state>
+    </location>
+    <location name="35469">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>32.9729594662</lat>
+      <lon>-87.8027916647</lon>
+      <name>Knoxville</name>
+      <state>AL</state>
+    </location>
+    <location name="36078">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>204</dist>
+      <lat>32.5477033205</lat>
+      <lon>-85.9274522897</lon>
+      <name>Tallassee</name>
+      <state>AL</state>
+    </location>
+    <location name="38655">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>200</dist>
+      <lat>34.3463172412</lat>
+      <lon>-89.4513209019</lon>
+      <name>Oxford</name>
+      <state>MS</state>
+    </location>
+    <location name="39110">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>202</dist>
+      <lat>32.5021313703</lat>
+      <lon>-90.1293151174</lon>
+      <name>Madison</name>
+      <state>MS</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,124 @@
+<cdidata>
+  <cdi type="city">
+    <location name="San Ignacio::Cayo::Belize">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>512</dist>
+      <lat>17.16</lat>
+      <lon>-89.06</lon>
+      <name>San Ignacio</name>
+    </location>
+    <location name="Mixco::Guatemala::Guatemala">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>380</dist>
+      <lat>14.64</lat>
+      <lon>-90.60</lon>
+      <name>Mixco</name>
+    </location>
+    <location name="Santa Catarina Pinula::Guatemala::Guatemala">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>393</dist>
+      <lat>14.57</lat>
+      <lon>-90.50</lon>
+      <name>Santa Catarina Pinula</name>
+    </location>
+    <location name="Flores::Petén::Guatemala">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>423</dist>
+      <lat>16.93</lat>
+      <lon>-89.89</lon>
+      <name>Flores</name>
+    </location>
+    <location name="San Martín Sacatepéquez::Quezaltenango::Guatemala">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>278</dist>
+      <lat>14.82</lat>
+      <lon>-91.65</lon>
+      <name>San Martín Sacatepéquez</name>
+    </location>
+    <location name="Bochil::Chiapas::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>156</dist>
+      <lat>16.98</lat>
+      <lon>-92.92</lon>
+      <name>Bochil</name>
+    </location>
+    <location name="San Cristóbal de las Casas::Chiapas::Mexico">
+      <cdi>3.3637</cdi>
+      <nresp>5</nresp>
+      <dist>162</dist>
+      <lat>16.75</lat>
+      <lon>-92.63</lon>
+      <name>San Cristóbal de las Casas</name>
+    </location>
+    <location name="Tonalá::Chiapas::Mexico">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>16.08</lat>
+      <lon>-93.77</lon>
+      <name>Tonalá</name>
+    </location>
+    <location name="Tuxtla Gutiérrez::Chiapas::Mexico">
+      <cdi>4.0135</cdi>
+      <nresp>8</nresp>
+      <dist>132</dist>
+      <lat>16.75</lat>
+      <lon>-93.12</lon>
+      <name>Tuxtla Gutiérrez</name>
+    </location>
+    <location name="Mexico City::Distrito Federal::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>692</dist>
+      <lat>19.43</lat>
+      <lon>-99.14</lon>
+      <name>Mexico City</name>
+    </location>
+    <location name="Oaxaca::Oaxaca::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>356</dist>
+      <lat>17.07</lat>
+      <lon>-96.72</lon>
+      <name>Oaxaca</name>
+    </location>
+    <location name="Villahermosa::Tabasco::Mexico">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>239</dist>
+      <lat>17.98</lat>
+      <lon>-92.92</lon>
+      <name>Villahermosa</name>
+    </location>
+    <location name="Boca del Río::Veracruz::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>432</dist>
+      <lat>19.12</lat>
+      <lon>-96.12</lon>
+      <name>Boca del Río</name>
+    </location>
+    <location name="Coatzacoalcos::Veracruz::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>255</dist>
+      <lat>18.14</lat>
+      <lon>-94.42</lon>
+      <name>Coatzacoalcos</name>
+    </location>
+    <location name="Minatitlán::Veracruz::Mexico">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>244</dist>
+      <lat>17.98</lat>
+      <lon>-94.52</lon>
+      <name>Minatitlán</name>
+    </location>
+  </cdi>
+</cdidata>

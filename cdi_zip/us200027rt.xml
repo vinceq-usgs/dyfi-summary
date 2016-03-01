@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kangshan::Kaohsiung Hsien::Taiwan">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>265</dist>
+      <lat>22.80</lat>
+      <lon>120.27</lon>
+      <name>Kangshan</name>
+    </location>
+    <location name="Hsinchuang::Taipei Hsien::Taiwan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>25.04</lat>
+      <lon>121.44</lon>
+      <name>Hsinchuang</name>
+    </location>
+    <location name="Yungho::Taipei Hsien::Taiwan">
+      <cdi>3.7954</cdi>
+      <nresp>5</nresp>
+      <dist>144</dist>
+      <lat>25.02</lat>
+      <lon>121.51</lon>
+      <name>Yungho</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96911">
+      <cdi>3.2031</cdi>
+      <nresp>6</nresp>
+      <dist>133</dist>
+      <lat>13.51</lat>
+      <lon>144.81</lon>
+      <name>TAMUNING</name>
+      <state>GU</state>
+    </location>
+    <location name="96912">
+      <cdi>3.6156</cdi>
+      <nresp>3</nresp>
+      <dist>131</dist>
+      <lat>13.57</lat>
+      <lon>144.84</lon>
+      <name>DEDEDO</name>
+      <state>GU</state>
+    </location>
+    <location name="96914">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>13.40</lat>
+      <lon>144.74</lon>
+      <name>YONA</name>
+      <state>GU</state>
+    </location>
+    <location name="96915">
+      <cdi>3.1978</cdi>
+      <nresp>8</nresp>
+      <dist>139</dist>
+      <lat>13.40</lat>
+      <lon>144.67</lon>
+      <name>SANTA RITA</name>
+      <state>GU</state>
+    </location>
+    <location name="96916">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>143</dist>
+      <lat>13.27</lat>
+      <lon>144.69</lon>
+      <name>MERIZO</name>
+      <state>GU</state>
+    </location>
+    <location name="96919">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>13.46</lat>
+      <lon>144.74</lon>
+      <name>HAGATNA HTS</name>
+      <state>GU</state>
+    </location>
+    <location name="96922">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>136</dist>
+      <lat>13.46</lat>
+      <lon>144.73</lon>
+      <name>ASAN</name>
+      <state>GU</state>
+    </location>
+    <location name="96923">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>133</dist>
+      <lat>13.46</lat>
+      <lon>144.84</lon>
+      <name>MANGILAO</name>
+      <state>GU</state>
+    </location>
+    <location name="96927">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>13.47</lat>
+      <lon>144.77</lon>
+      <name>MONGMONG</name>
+      <state>GU</state>
+    </location>
+    <location name="96928">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>13.36</lat>
+      <lon>144.67</lon>
+      <name>AGAT</name>
+      <state>GU</state>
+    </location>
+    <location name="96929">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>130</dist>
+      <lat>13.57</lat>
+      <lon>144.91</lon>
+      <name>YIGO</name>
+      <state>GU</state>
+    </location>
+  </cdi>
+</cdidata>

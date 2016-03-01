@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93442">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>35.4034865503</lat>
+      <lon>-120.800373375</lon>
+      <name>Morro Bay</name>
+      <state>CA</state>
+    </location>
+    <location name="93551">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>357</dist>
+      <lat>34.5951350338</lat>
+      <lon>-118.222061274</lon>
+      <name>Palmdale</name>
+      <state>CA</state>
+    </location>
+    <location name="93950">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>36.6192274914</lat>
+      <lon>-121.925645778</lon>
+      <name>Pacific Grove</name>
+      <state>CA</state>
+    </location>
+    <location name="94116">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>37.7446010014</lat>
+      <lon>-122.48655692</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94117">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>37.7706446163</lat>
+      <lon>-122.443293351</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94122">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>163</dist>
+      <lat>37.7628768326</lat>
+      <lon>-122.485058175</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94510">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>173</dist>
+      <lat>38.0889049703</lat>
+      <lon>-122.122779438</lon>
+      <name>Benicia</name>
+      <state>CA</state>
+    </location>
+    <location name="94520">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>38.0188740799</lat>
+      <lon>-122.040302233</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>136</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94707">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>37.8982127479</lat>
+      <lon>-122.279304332</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+    <location name="95616">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>211</dist>
+      <lat>38.5589148035</lat>
+      <lon>-121.802578233</lon>
+      <name>Davis</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

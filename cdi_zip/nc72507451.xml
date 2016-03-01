@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94117">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.7706446163</lat>
+      <lon>-122.443293351</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94609">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>5</dist>
+      <lat>37.8347302593</lat>
+      <lon>-122.264110335</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94611">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>5</dist>
+      <lat>37.8308833038</lat>
+      <lon>-122.215136936</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94612">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>37.8086513164</lat>
+      <lon>-122.267192618</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="94619">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>37.7907735637</lat>
+      <lon>-122.174004163</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

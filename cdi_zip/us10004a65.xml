@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Gulmarg::Jammu and Kashmir::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>34.05</lat>
+      <lon>74.38</lon>
+      <name>Gulmarg</name>
+    </location>
+    <location name="Srīnagar::Jammu and Kashmir::India">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>191</dist>
+      <lat>34.09</lat>
+      <lon>74.79</lon>
+      <name>Srīnagar</name>
+    </location>
+    <location name="Abottabad::North-West Frontier::Pakistan">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>102</dist>
+      <lat>34.15</lat>
+      <lon>73.20</lon>
+      <name>Abottabad</name>
+    </location>
+    <location name="Mingaora::North-West Frontier::Pakistan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>34.78</lat>
+      <lon>72.36</lon>
+      <name>Mingaora</name>
+    </location>
+    <location name="Rawalpindi::Punjab::Pakistan">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>159</dist>
+      <lat>33.60</lat>
+      <lon>73.04</lon>
+      <name>Rawalpindi</name>
+    </location>
+  </cdi>
+</cdidata>

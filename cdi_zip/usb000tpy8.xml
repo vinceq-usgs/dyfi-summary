@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Yuzawa::Akita::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>39.17</lat>
+      <lon>140.48</lon>
+      <name>Yuzawa</name>
+    </location>
+    <location name="Hachinohe::Aomori::Japan">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>72</dist>
+      <lat>40.52</lat>
+      <lon>141.53</lon>
+      <name>Hachinohe</name>
+    </location>
+    <location name="Misawa::Aomori::Japan">
+      <cdi>4.2534</cdi>
+      <nresp>3</nresp>
+      <dist>92</dist>
+      <lat>40.68</lat>
+      <lon>141.34</lon>
+      <name>Misawa</name>
+    </location>
+    <location name="Haramachi::Fukushima::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>289</dist>
+      <lat>37.64</lat>
+      <lon>140.96</lon>
+      <name>Haramachi</name>
+    </location>
+    <location name="Kitakami::Iwate::Japan">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>121</dist>
+      <lat>39.29</lat>
+      <lon>141.12</lon>
+      <name>Kitakami</name>
+    </location>
+    <location name="Morioka::Iwate::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>39.70</lat>
+      <lon>141.15</lon>
+      <name>Morioka</name>
+    </location>
+    <location name="Takizawa::Iwate::Japan">
+      <cdi>4.8282</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>39.75</lat>
+      <lon>141.07</lon>
+      <name>Takizawa</name>
+    </location>
+    <location name="Sagamihara::Kanagawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>550</dist>
+      <lat>35.58</lat>
+      <lon>139.38</lon>
+      <name>Sagamihara</name>
+    </location>
+    <location name="Sendai::Miyagi::Japan">
+      <cdi>2.5832</cdi>
+      <nresp>4</nresp>
+      <dist>227</dist>
+      <lat>38.26</lat>
+      <lon>140.89</lon>
+      <name>Sendai</name>
+    </location>
+  </cdi>
+</cdidata>

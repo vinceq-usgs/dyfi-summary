@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67002">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>37.6978785988</lat>
+      <lon>-97.1097897813</lon>
+      <name>Andover</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>246</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67749">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>576</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="74012">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74804">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>35.4080338639</lat>
+      <lon>-96.8631224577</lon>
+      <name>Shawnee</name>
+      <state>OK</state>
+    </location>
+    <location name="74851">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>35.4031104746</lat>
+      <lon>-97.0926965117</lon>
+      <name>McLoud</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

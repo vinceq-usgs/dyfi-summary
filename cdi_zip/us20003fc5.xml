@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="74023">
+      <cdi>3.2944</cdi>
+      <nresp>5</nresp>
+      <dist>7</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>36.3807769423</lat>
+      <lon>-96.0623166374</lon>
+      <name>Skiatook</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="74079">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>35.820417226</lat>
+      <lon>-96.7124045961</lon>
+      <name>Stroud</name>
+      <state>OK</state>
+    </location>
+    <location name="74103">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>36.1557145461</lat>
+      <lon>-95.9947104052</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

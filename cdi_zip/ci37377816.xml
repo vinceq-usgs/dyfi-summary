@@ -1,0 +1,130 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00061">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>200</dist>
+      <lat>33.2579971913</lat>
+      <lon>-119.485360416</lon>
+      <name>Channel Is Air Guard Station</name>
+      <state>CA</state>
+    </location>
+    <location name="90026">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>34.0787685886</lat>
+      <lon>-118.263775106</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="91335">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>34.2013216277</lat>
+      <lon>-118.540688744</lon>
+      <name>Reseda</name>
+      <state>CA</state>
+    </location>
+    <location name="91506">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>117</dist>
+      <lat>34.1713060334</lat>
+      <lon>-118.323983665</lon>
+      <name>Burbank</name>
+      <state>CA</state>
+    </location>
+    <location name="91602">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>34.1507240204</lat>
+      <lon>-118.365981114</lon>
+      <name>North Hollywood</name>
+      <state>CA</state>
+    </location>
+    <location name="92065">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>300</dist>
+      <lat>33.042819068</lat>
+      <lon>-116.848126526</lon>
+      <name>Ramona</name>
+      <state>CA</state>
+    </location>
+    <location name="92081">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>266</dist>
+      <lat>33.164805762</lat>
+      <lon>-117.240875441</lon>
+      <name>Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="92585">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>225</dist>
+      <lat>33.7422987411</lat>
+      <lon>-117.171316277</lon>
+      <name>Sun City</name>
+      <state>CA</state>
+    </location>
+    <location name="92880">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>33.9212642945</lat>
+      <lon>-117.611282855</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+    <location name="93010">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>34.229149675</lat>
+      <lon>-119.075762949</lon>
+      <name>Camarillo</name>
+      <state>CA</state>
+    </location>
+    <location name="93225">
+      <cdi>2.1823</cdi>
+      <nresp>33</nresp>
+      <dist>17</dist>
+      <lat>34.87935294</lat>
+      <lon>-119.120444541</lon>
+      <name>Frazier Park</name>
+      <state>CA</state>
+    </location>
+    <location name="93268">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>36</dist>
+      <lat>35.171754588</lat>
+      <lon>-119.424219825</lon>
+      <name>Taft</name>
+      <state>CA</state>
+    </location>
+    <location name="94080">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>418</dist>
+      <lat>37.65477424</lat>
+      <lon>-122.422257321</lon>
+      <name>South San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>401</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

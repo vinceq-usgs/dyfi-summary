@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Suva::Central::Fiji Islands">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>174</dist>
+      <lat>-18.13</lat>
+      <lon>178.43</lon>
+      <name>Suva</name>
+    </location>
+    <location name="Lautoka::Western::Fiji Islands">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>-17.61</lat>
+      <lon>177.45</lon>
+      <name>Lautoka</name>
+    </location>
+    <location name="Nadi::Western::Fiji Islands">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>86</dist>
+      <lat>-17.80</lat>
+      <lon>177.42</lon>
+      <name>Nadi</name>
+    </location>
+  </cdi>
+</cdidata>

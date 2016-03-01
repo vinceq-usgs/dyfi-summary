@@ -1,0 +1,113 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90254">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>149</dist>
+      <lat>33.8652373721</lat>
+      <lon>-118.396575558</lon>
+      <name>Hermosa Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="92539">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>33.5540401854</lat>
+      <lon>-116.696854421</lon>
+      <name>Anza</name>
+      <state>CA</state>
+    </location>
+    <location name="92543">
+      <cdi>2.4718</cdi>
+      <nresp>7</nresp>
+      <dist>21</dist>
+      <lat>33.7022792679</lat>
+      <lon>-116.979163214</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92544">
+      <cdi>2.5832</cdi>
+      <nresp>16</nresp>
+      <dist>13</dist>
+      <lat>33.6443840016</lat>
+      <lon>-116.898417469</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92545">
+      <cdi>2.0883</cdi>
+      <nresp>4</nresp>
+      <dist>27</dist>
+      <lat>33.732725009</lat>
+      <lon>-117.043277134</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92549">
+      <cdi>2.7613</cdi>
+      <nresp>3</nresp>
+      <dist>23</dist>
+      <lat>33.7836411163</lat>
+      <lon>-116.777173608</lon>
+      <name>Idyllwild</name>
+      <state>CA</state>
+    </location>
+    <location name="92567">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>33.810316169</lat>
+      <lon>-117.099355216</lon>
+      <name>Nuevo</name>
+      <state>CA</state>
+    </location>
+    <location name="92583">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>25</dist>
+      <lat>33.7928153426</lat>
+      <lon>-116.919476933</lon>
+      <name>San Jacinto</name>
+      <state>CA</state>
+    </location>
+    <location name="92592">
+      <cdi>2.7053</cdi>
+      <nresp>6</nresp>
+      <dist>22</dist>
+      <lat>33.5072014251</lat>
+      <lon>-117.013060513</lon>
+      <name>Temecula</name>
+      <state>CA</state>
+    </location>
+    <location name="92596">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>33.6355435193</lat>
+      <lon>-117.073133704</lon>
+      <name>Winchester</name>
+      <state>CA</state>
+    </location>
+    <location name="92620">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>33.7089974512</lat>
+      <lon>-117.756916143</lon>
+      <name>Irvine</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Primo Tapia::Baja California::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>152</dist>
+      <lat>32.22</lat>
+      <lon>-116.92</lon>
+      <name>Primo Tapia</name>
+    </location>
+  </cdi>
+</cdidata>

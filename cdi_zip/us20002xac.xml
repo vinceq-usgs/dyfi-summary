@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="Lampa::Metropolitana::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>-33.28</lat>
+      <lon>-70.90</lon>
+      <name>Lampa</name>
+    </location>
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>3.0492</cdi>
+      <nresp>31</nresp>
+      <dist>113</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Viña del Mar::Valparaíso::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>Viña del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

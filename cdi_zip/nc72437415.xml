@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95470">
+      <cdi>2.2047</cdi>
+      <nresp>6</nresp>
+      <dist>12</dist>
+      <lat>39.2751318915</lat>
+      <lon>-123.329440439</lon>
+      <name>Redwood Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95482">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>39.1369495272</lat>
+      <lon>-123.224829878</lon>
+      <name>Ukiah</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

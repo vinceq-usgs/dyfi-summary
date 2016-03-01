@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73012">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>2.1387</cdi>
+      <nresp>2</nresp>
+      <dist>143</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73025">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73102">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>152</dist>
+      <lat>35.4714367683</lat>
+      <lon>-97.519123843</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73132">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>35.5513031039</lat>
+      <lon>-97.6345444976</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73159">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>35.3856819937</lat>
+      <lon>-97.5789240222</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74132">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>246</dist>
+      <lat>36.0489156898</lat>
+      <lon>-96.0154691678</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74804">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>202</dist>
+      <lat>35.4080338639</lat>
+      <lon>-96.8631224577</lon>
+      <name>Shawnee</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91387">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>292</dist>
+      <lat>34.4232918094</lat>
+      <lon>-118.410193255</lon>
+      <name>Canyon Country</name>
+      <state>CA</state>
+    </location>
+    <location name="93513">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>37.2893538007</lat>
+      <lon>-117.928397682</lon>
+      <name>Big Pine</name>
+      <state>CA</state>
+    </location>
+    <location name="93526">
+      <cdi>2.9633</cdi>
+      <nresp>3</nresp>
+      <dist>37</dist>
+      <lat>36.9237202606</lat>
+      <lon>-117.895933892</lon>
+      <name>Independence</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

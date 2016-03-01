@@ -1,0 +1,132 @@
+<cdidata>
+  <cdi type="city">
+    <location name="İzmir::İzmir::Turkey">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>367</dist>
+      <lat>38.43</lat>
+      <lon>27.15</lon>
+      <name>İzmir</name>
+    </location>
+    <location name="Kaisarianí::Attikí::Greece">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>415</dist>
+      <lat>37.97</lat>
+      <lon>23.80</lon>
+      <name>Kaisarianí</name>
+    </location>
+    <location name="Kárpathos::Dodekánisos::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>35.50</lat>
+      <lon>27.23</lon>
+      <name>Kárpathos</name>
+    </location>
+    <location name="Lárdos::Dodekánisos::Greece">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>153</dist>
+      <lat>36.10</lat>
+      <lon>28.02</lon>
+      <name>Lárdos</name>
+    </location>
+    <location name="Malón::Dodekánisos::Greece">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>162</dist>
+      <lat>36.18</lat>
+      <lon>28.06</lon>
+      <name>Malón</name>
+    </location>
+    <location name="Pithárion::Haniá::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>253</dist>
+      <lat>35.52</lat>
+      <lon>24.08</lon>
+      <name>Pithárion</name>
+    </location>
+    <location name="Vríses::Haniá::Greece">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>240</dist>
+      <lat>35.38</lat>
+      <lon>24.20</lon>
+      <name>Vríses</name>
+    </location>
+    <location name="Anissarás::Iráklion::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>35.33</lat>
+      <lon>25.37</lon>
+      <name>Anissarás</name>
+    </location>
+    <location name="Ayía Eiríni::Iráklion::Greece">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>159</dist>
+      <lat>35.33</lat>
+      <lon>25.10</lon>
+      <name>Ayía Eiríni</name>
+    </location>
+    <location name="Iráklion::Iráklion::Greece">
+      <cdi>4.6538</cdi>
+      <nresp>6</nresp>
+      <dist>156</dist>
+      <lat>35.33</lat>
+      <lon>25.13</lon>
+      <name>Iráklion</name>
+    </location>
+    <location name="Limín Khersonísou::Iráklion::Greece">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>134</dist>
+      <lat>35.32</lat>
+      <lon>25.38</lon>
+      <name>Limín Khersonísou</name>
+    </location>
+    <location name="Gra Liyiá::Lasíthi::Greece">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>106</dist>
+      <lat>35.02</lat>
+      <lon>25.68</lon>
+      <name>Gra Liyiá</name>
+    </location>
+    <location name="Kritsá::Lasíthi::Greece">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>35.17</lat>
+      <lon>25.65</lon>
+      <name>Kritsá</name>
+    </location>
+    <location name="Néa Anatolí::Lasíthi::Greece">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>35.04</lat>
+      <lon>25.65</lon>
+      <name>Néa Anatolí</name>
+    </location>
+    <location name="Sitía::Lasíthi::Greece">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>35.20</lat>
+      <lon>26.10</lon>
+      <name>Sitía</name>
+    </location>
+    <location name="Livádia::Rethímni::Greece">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>35.30</lat>
+      <lon>24.80</lon>
+      <name>Livádia</name>
+    </location>
+  </cdi>
+</cdidata>

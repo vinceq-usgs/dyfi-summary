@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Santa Cruz::Libertador General Bernardo OÊ¿Higgins::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>-34.63</lat>
+      <lon>-71.37</lon>
+      <name>Santa Cruz</name>
+    </location>
+    <location name="Lampa::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>209</dist>
+      <lat>-33.28</lat>
+      <lon>-70.90</lon>
+      <name>Lampa</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>219</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

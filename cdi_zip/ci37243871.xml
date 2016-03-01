@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92056">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>33.2014758499</lat>
+      <lon>-117.289315772</lon>
+      <name>Oceanside</name>
+      <state>CA</state>
+    </location>
+    <location name="92314">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>11</dist>
+      <lat>34.2734445739</lat>
+      <lon>-116.914645906</lon>
+      <name>Big Bear City</name>
+      <state>CA</state>
+    </location>
+    <location name="92315">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>13</dist>
+      <lat>34.2483705249</lat>
+      <lon>-116.915145265</lon>
+      <name>Big Bear Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="92356">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>26</dist>
+      <lat>34.527054552</lat>
+      <lon>-116.879774545</lon>
+      <name>Lucerne Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92399">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>34.0384658442</lat>
+      <lon>-117.007660214</lon>
+      <name>Yucaipa</name>
+      <state>CA</state>
+    </location>
+    <location name="92883">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>33.7641450945</lat>
+      <lon>-117.492464466</lon>
+      <name>Corona</name>
+      <state>CA</state>
+    </location>
+    <location name="93544">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>34.4809566368</lat>
+      <lon>-117.746692857</lon>
+      <name>Llano</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

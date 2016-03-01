@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Palmar de Ocoa::Azua::Dominican Republic">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>18.30</lat>
+      <lon>-70.58</lon>
+      <name>Palmar de Ocoa</name>
+    </location>
+    <location name="Peralta::Azua::Dominican Republic">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>18.58</lat>
+      <lon>-70.77</lon>
+      <name>Peralta</name>
+    </location>
+    <location name="Jarabacoa::La Vega::Dominican Republic">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>19.12</lat>
+      <lon>-70.64</lon>
+      <name>Jarabacoa</name>
+    </location>
+    <location name="La Vega::La Vega::Dominican Republic">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>89</dist>
+      <lat>19.22</lat>
+      <lon>-70.53</lon>
+      <name>La Vega</name>
+    </location>
+    <location name="Baní::Peravia::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>18.29</lat>
+      <lon>-70.33</lon>
+      <name>Baní</name>
+    </location>
+    <location name="El Carril::San Cristóbal::Dominican Republic">
+      <cdi>2.6487</cdi>
+      <nresp>17</nresp>
+      <dist>43</dist>
+      <lat>18.45</lat>
+      <lon>-70.02</lon>
+      <name>El Carril</name>
+    </location>
+    <location name="San Cristóbal::San Cristóbal::Dominican Republic">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>18.42</lat>
+      <lon>-70.11</lon>
+      <name>San Cristóbal</name>
+    </location>
+    <location name="San José de Ocoa::San José de Ocoa::Dominican Republic">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>18.55</lat>
+      <lon>-70.50</lon>
+      <name>San José de Ocoa</name>
+    </location>
+    <location name="Santiago::Santiago::Dominican Republic">
+      <cdi>2.2636</cdi>
+      <nresp>11</nresp>
+      <dist>120</dist>
+      <lat>19.48</lat>
+      <lon>-70.69</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Santo Domingo::Santo Domingo::Dominican Republic">
+      <cdi>2.8970</cdi>
+      <nresp>59</nresp>
+      <dist>55</dist>
+      <lat>18.48</lat>
+      <lon>-69.91</lon>
+      <name>Santo Domingo</name>
+    </location>
+  </cdi>
+</cdidata>

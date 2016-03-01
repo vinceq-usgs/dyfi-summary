@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93514">
+      <cdi>2.7274</cdi>
+      <nresp>7</nresp>
+      <dist>37</dist>
+      <lat>37.4762712635</lat>
+      <lon>-118.400747511</lon>
+      <name>Bishop</name>
+      <state>CA</state>
+    </location>
+    <location name="93529">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>37.8139103806</lat>
+      <lon>-118.99650126</lon>
+      <name>June Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="94707">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>309</dist>
+      <lat>37.8982127479</lat>
+      <lon>-122.279304332</lon>
+      <name>Berkeley</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

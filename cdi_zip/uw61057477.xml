@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98328">
+      <cdi>2.1387</cdi>
+      <nresp>6</nresp>
+      <dist>16</dist>
+      <lat>46.8694205731</lat>
+      <lon>-122.221594142</lon>
+      <name>Eatonville</name>
+      <state>WA</state>
+    </location>
+    <location name="98330">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>46.759946769</lat>
+      <lon>-122.15177859</lon>
+      <name>Elbe</name>
+      <state>WA</state>
+    </location>
+    <location name="98338">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>47.0182213866</lat>
+      <lon>-122.283711638</lon>
+      <name>Graham</name>
+      <state>WA</state>
+    </location>
+    <location name="98355">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>46.691366227</lat>
+      <lon>-122.225794037</lon>
+      <name>Mineral</name>
+      <state>WA</state>
+    </location>
+    <location name="98375">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>47.1036361925</lat>
+      <lon>-122.32561326</lon>
+      <name>Puyallup</name>
+      <state>WA</state>
+    </location>
+    <location name="98377">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>46.5414679842</lat>
+      <lon>-121.698281349</lon>
+      <name>Randle</name>
+      <state>WA</state>
+    </location>
+    <location name="98387">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>47.0583256181</lat>
+      <lon>-122.392621128</lon>
+      <name>Spanaway</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

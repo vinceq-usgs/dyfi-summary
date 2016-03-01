@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93906">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>36.7246845946</lat>
+      <lon>-121.627630026</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="93907">
+      <cdi>2.7404</cdi>
+      <nresp>12</nresp>
+      <dist>11</dist>
+      <lat>36.775878511</lat>
+      <lon>-121.658003087</lon>
+      <name>Salinas</name>
+      <state>CA</state>
+    </location>
+    <location name="94534">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>38.2413237878</lat>
+      <lon>-122.121790816</lon>
+      <name>Fairfield</name>
+      <state>CA</state>
+    </location>
+    <location name="95004">
+      <cdi>3.5994</cdi>
+      <nresp>6</nresp>
+      <dist>7</dist>
+      <lat>36.8769387866</lat>
+      <lon>-121.635616407</lon>
+      <name>Aromas</name>
+      <state>CA</state>
+    </location>
+    <location name="95020">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>37.0188204369</lat>
+      <lon>-121.560718867</lon>
+      <name>Gilroy</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>3.2394</cdi>
+      <nresp>16</nresp>
+      <dist>6</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

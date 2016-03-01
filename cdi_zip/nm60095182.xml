@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="38117">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>258</dist>
+      <lat>35.1154064841</lat>
+      <lon>-89.9050629229</lon>
+      <name>Memphis</name>
+      <state>TN</state>
+    </location>
+    <location name="40003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>455</dist>
+      <lat>38.2794878051</lat>
+      <lon>-85.0423285674</lon>
+      <name>Bagdad</name>
+      <state>KY</state>
+    </location>
+    <location name="63020">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>38.1057718632</lat>
+      <lon>-90.5588708124</lon>
+      <name>De Soto</name>
+      <state>MO</state>
+    </location>
+    <location name="63036">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>67</dist>
+      <lat>37.9883625566</lat>
+      <lon>-90.3754130312</lon>
+      <name>French Village</name>
+      <state>MO</state>
+    </location>
+    <location name="63601">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>37.8181572016</lat>
+      <lon>-90.558575155</lon>
+      <name>Park Hills</name>
+      <state>MO</state>
+    </location>
+    <location name="63628">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>37.935997675</lat>
+      <lon>-90.4988983067</lon>
+      <name>Bonne Terre</name>
+      <state>MO</state>
+    </location>
+    <location name="63630">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>38.0107035574</lat>
+      <lon>-90.7253286252</lon>
+      <name>Cadet</name>
+      <state>MO</state>
+    </location>
+    <location name="63640">
+      <cdi>2.1883</cdi>
+      <nresp>3</nresp>
+      <dist>44</dist>
+      <lat>37.7542179963</lat>
+      <lon>-90.3707839078</lon>
+      <name>Farmington</name>
+      <state>MO</state>
+    </location>
+    <location name="63645">
+      <cdi>3.0699</cdi>
+      <nresp>7</nresp>
+      <dist>27</dist>
+      <lat>37.5229078088</lat>
+      <lon>-90.3509732866</lon>
+      <name>Fredericktown</name>
+      <state>MO</state>
+    </location>
+    <location name="63655">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>37.4063419363</lat>
+      <lon>-90.1993672259</lon>
+      <name>Marquand</name>
+      <state>MO</state>
+    </location>
+    <location name="63662">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>37.3863761167</lat>
+      <lon>-90.0701680038</lon>
+      <name>Patton</name>
+      <state>MO</state>
+    </location>
+    <location name="63664">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>37.9652342261</lat>
+      <lon>-90.965330497</lon>
+      <name>Potosi</name>
+      <state>MO</state>
+    </location>
+    <location name="63764">
+      <cdi>3.3345</cdi>
+      <nresp>3</nresp>
+      <dist>23</dist>
+      <lat>37.2970587125</lat>
+      <lon>-89.9592246166</lon>
+      <name>Marble Hill</name>
+      <state>MO</state>
+    </location>
+    <location name="63769">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>37.520275522</lat>
+      <lon>-89.7399567809</lon>
+      <name>Oak Ridge</name>
+      <state>MO</state>
+    </location>
+    <location name="63775">
+      <cdi>2.5701</cdi>
+      <nresp>5</nresp>
+      <dist>38</dist>
+      <lat>37.714730932</lat>
+      <lon>-89.885351664</lon>
+      <name>Perryville</name>
+      <state>MO</state>
+    </location>
+    <location name="63781">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>37.5473161437</lat>
+      <lon>-89.9276661512</lon>
+      <name>Sedgewickville</name>
+      <state>MO</state>
+    </location>
+    <location name="65109">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>229</dist>
+      <lat>38.5736055776</lat>
+      <lon>-92.2784037121</lon>
+      <name>Jefferson City</name>
+      <state>MO</state>
+    </location>
+    <location name="67749">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>946</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

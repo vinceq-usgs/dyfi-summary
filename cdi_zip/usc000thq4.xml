@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Igpit::Northern Mindanao::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>326</dist>
+      <lat>8.51</lat>
+      <lon>124.59</lon>
+      <name>Igpit</name>
+    </location>
+    <location name="Buayan::Southern Mindanao::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>6.11</lat>
+      <lon>125.24</lon>
+      <name>Buayan</name>
+    </location>
+    <location name="Cablalan::Southern Mindanao::Philippines">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>5.78</lat>
+      <lon>125.20</lon>
+      <name>Cablalan</name>
+    </location>
+    <location name="Davao::Southern Mindanao::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>7.11</lat>
+      <lon>125.63</lon>
+      <name>Davao</name>
+    </location>
+    <location name="Klinan::Southern Mindanao::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>96</dist>
+      <lat>6.19</lat>
+      <lon>125.13</lon>
+      <name>Klinan</name>
+    </location>
+    <location name="Lumakil::Southern Mindanao::Philippines">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>6.22</lat>
+      <lon>125.02</lon>
+      <name>Lumakil</name>
+    </location>
+    <location name="Malalag::Southern Mindanao::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>6.60</lat>
+      <lon>125.40</lon>
+      <name>Malalag</name>
+    </location>
+    <location name="San Jose (General Santos City, South Cotabato)::Southern Mindanao::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>6.12</lat>
+      <lon>125.07</lon>
+      <name>San Jose (General Santos City, South Cotabato)</name>
+    </location>
+    <location name="Ula::Southern Mindanao::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>7.13</lat>
+      <lon>125.49</lon>
+      <name>Ula</name>
+    </location>
+  </cdi>
+</cdidata>

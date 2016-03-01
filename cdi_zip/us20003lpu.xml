@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="72143">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>473</dist>
+      <lat>35.2321187782</lat>
+      <lon>-91.7371226837</lon>
+      <name>Searcy</name>
+      <state>AR</state>
+    </location>
+    <location name="74023">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74058">
+      <cdi>4.6538</cdi>
+      <nresp>2</nresp>
+      <dist>5</dist>
+      <lat>36.3447277149</lat>
+      <lon>-96.8058296537</lon>
+      <name>Pawnee</name>
+      <state>OK</state>
+    </location>
+    <location name="74074">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>40</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="75089">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>378</dist>
+      <lat>32.9304433652</lat>
+      <lon>-96.5512097846</lon>
+      <name>Rowlett</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98801">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>47.4308043295</lat>
+      <lon>-120.348997666</lon>
+      <name>Wenatchee</name>
+      <state>WA</state>
+    </location>
+    <location name="98815">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>20</dist>
+      <lat>47.5330066669</lat>
+      <lon>-120.500561973</lon>
+      <name>Cashmere</name>
+      <state>WA</state>
+    </location>
+    <location name="98816">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>47.7805802822</lat>
+      <lon>-120.139980982</lon>
+      <name>Chelan</name>
+      <state>WA</state>
+    </location>
+    <location name="98822">
+      <cdi>3.3080</cdi>
+      <nresp>12</nresp>
+      <dist>23</dist>
+      <lat>47.8630472143</lat>
+      <lon>-120.460683233</lon>
+      <name>Entiat</name>
+      <state>WA</state>
+    </location>
+    <location name="98826">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>47.7926237119</lat>
+      <lon>-120.86260359</lon>
+      <name>Leavenworth</name>
+      <state>WA</state>
+    </location>
+    <location name="98831">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>47.9326034664</lat>
+      <lon>-120.122477738</lon>
+      <name>Manson</name>
+      <state>WA</state>
+    </location>
+    <location name="98843">
+      <cdi>2.5168</cdi>
+      <nresp>3</nresp>
+      <dist>23</dist>
+      <lat>47.7561254646</lat>
+      <lon>-120.055833006</lon>
+      <name>Orondo</name>
+      <state>WA</state>
+    </location>
+    <location name="98858">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>45</dist>
+      <lat>47.6339254815</lat>
+      <lon>-119.732333888</lon>
+      <name>Waterville</name>
+      <state>WA</state>
+    </location>
+    <location name="98946">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>85</dist>
+      <lat>47.0409445455</lat>
+      <lon>-120.967901908</lon>
+      <name>Thorp</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

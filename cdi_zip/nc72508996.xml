@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94041">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>37.3884190311</lat>
+      <lon>-122.075808652</lon>
+      <name>Mountain View</name>
+      <state>CA</state>
+    </location>
+    <location name="94062">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>146</dist>
+      <lat>37.4076638109</lat>
+      <lon>-122.303813288</lon>
+      <name>Redwood City</name>
+      <state>CA</state>
+    </location>
+    <location name="94070">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>37.4956177005</lat>
+      <lon>-122.270806784</lon>
+      <name>San Carlos</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94608">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>37.8355803247</lat>
+      <lon>-122.284666408</lon>
+      <name>Emeryville</name>
+      <state>CA</state>
+    </location>
+    <location name="94941">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>200</dist>
+      <lat>37.8934006252</lat>
+      <lon>-122.565192731</lon>
+      <name>Mill Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="95043">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>36.4869402111</lat>
+      <lon>-120.946780105</lon>
+      <name>Paicines</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

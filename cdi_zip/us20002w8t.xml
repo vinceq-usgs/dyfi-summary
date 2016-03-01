@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Hachinohe::Aomori::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>110</dist>
+      <lat>40.52</lat>
+      <lon>141.53</lon>
+      <name>Hachinohe</name>
+    </location>
+    <location name="Yachiyo::Chiba::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>534</dist>
+      <lat>35.74</lat>
+      <lon>140.10</lon>
+      <name>Yachiyo</name>
+    </location>
+    <location name="Morioka::Iwate::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>39.70</lat>
+      <lon>141.15</lon>
+      <name>Morioka</name>
+    </location>
+    <location name="Takizawa::Iwate::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>144</dist>
+      <lat>39.75</lat>
+      <lon>141.07</lon>
+      <name>Takizawa</name>
+    </location>
+    <location name="Mizuho::Tokio::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>562</dist>
+      <lat>35.77</lat>
+      <lon>139.36</lon>
+      <name>Mizuho</name>
+    </location>
+  </cdi>
+</cdidata>

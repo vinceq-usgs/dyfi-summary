@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98021">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>47.7924720729</lat>
+      <lon>-122.208117775</lon>
+      <name>Bothell</name>
+      <state>WA</state>
+    </location>
+    <location name="98052">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>47.6812578484</lat>
+      <lon>-122.120757724</lon>
+      <name>Redmond</name>
+      <state>WA</state>
+    </location>
+    <location name="98225">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>220</dist>
+      <lat>48.7759601548</lat>
+      <lon>-122.522355499</lon>
+      <name>Bellingham</name>
+      <state>WA</state>
+    </location>
+    <location name="98328">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>25</dist>
+      <lat>46.8694205731</lat>
+      <lon>-122.221594142</lon>
+      <name>Eatonville</name>
+      <state>WA</state>
+    </location>
+    <location name="98629">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>119</dist>
+      <lat>45.8803912932</lat>
+      <lon>-122.611961562</lon>
+      <name>La Center</name>
+      <state>WA</state>
+    </location>
+    <location name="98685">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>45.7161381312</lat>
+      <lon>-122.689893094</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Victoria::British Columbia::Canada">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>208</dist>
+      <lat>48.43</lat>
+      <lon>-123.37</lon>
+      <name>Victoria</name>
+    </location>
+  </cdi>
+</cdidata>

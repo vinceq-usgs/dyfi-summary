@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67208">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>242</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67220">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>247</dist>
+      <lat>37.7521280141</lat>
+      <lon>-97.2808050599</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73013">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73084">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>35.5264751791</lat>
+      <lon>-97.3432436184</lon>
+      <name>Spencer</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>3.6479</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73750">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>35.9137282463</lat>
+      <lon>-98.0227422978</lon>
+      <name>Kingfisher</name>
+      <state>OK</state>
+    </location>
+    <location name="74012">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>249</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74077">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>36.1228033078</lat>
+      <lon>-97.0706479473</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

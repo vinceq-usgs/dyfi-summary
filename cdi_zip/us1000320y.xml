@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Angol::Araucanía::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>-37.79</lat>
+      <lon>-72.71</lon>
+      <name>Angol</name>
+    </location>
+    <location name="Chiguayante::Bío Bío::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>-36.90</lat>
+      <lon>-73.04</lon>
+      <name>Chiguayante</name>
+    </location>
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>142</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="Lebu::Bío Bío::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>-37.61</lat>
+      <lon>-73.65</lon>
+      <name>Lebu</name>
+    </location>
+  </cdi>
+</cdidata>

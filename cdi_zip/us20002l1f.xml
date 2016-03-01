@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1032</dist>
+      <lat>46.195923345</lat>
+      <lon>-116.868962453</lon>
+      <name>Lewiston</name>
+      <state>ID</state>
+    </location>
+    <location name="97146">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>497</dist>
+      <lat>46.1324683138</lat>
+      <lon>-123.921657116</lon>
+      <name>Warrenton</name>
+      <state>OR</state>
+    </location>
+    <location name="97367">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>473</dist>
+      <lat>44.9370969971</lat>
+      <lon>-123.877710344</lon>
+      <name>Lincoln City</name>
+      <state>OR</state>
+    </location>
+    <location name="97391">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>469</dist>
+      <lat>44.6112864135</lat>
+      <lon>-123.912339052</lon>
+      <name>Toledo</name>
+      <state>OR</state>
+    </location>
+    <location name="97754">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>729</dist>
+      <lat>44.2880274838</lat>
+      <lon>-120.660784531</lon>
+      <name>Prineville</name>
+      <state>OR</state>
+    </location>
+    <location name="98077">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>701</dist>
+      <lat>47.751795578</lat>
+      <lon>-122.055206482</lon>
+      <name>Woodinville</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

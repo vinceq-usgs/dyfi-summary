@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="98922">
+      <cdi>2.7154</cdi>
+      <nresp>7</nresp>
+      <dist>22</dist>
+      <lat>47.3307595243</lat>
+      <lon>-121.015457951</lon>
+      <name>Cle Elum</name>
+      <state>WA</state>
+    </location>
+    <location name="98926">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>47.017268085</lat>
+      <lon>-120.326310099</lon>
+      <name>Ellensburg</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

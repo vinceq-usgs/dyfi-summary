@@ -1,0 +1,12 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.4490</cdi>
+      <nresp>12</nresp>
+      <dist>95</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

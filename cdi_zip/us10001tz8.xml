@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="63376">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>275</dist>
+      <lat>38.7904123048</lat>
+      <lon>-90.6247881924</lon>
+      <name>Saint Peters</name>
+      <state>MO</state>
+    </location>
+    <location name="64726">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>38.5241437648</lat>
+      <lon>-93.9253142145</lon>
+      <name>Blairstown</name>
+      <state>MO</state>
+    </location>
+    <location name="64730">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>38.2705423952</lat>
+      <lon>-94.2727273212</lon>
+      <name>Butler</name>
+      <state>MO</state>
+    </location>
+    <location name="64735">
+      <cdi>2.0820</cdi>
+      <nresp>16</nresp>
+      <dist>4</dist>
+      <lat>38.3687637777</lat>
+      <lon>-93.779281503</lon>
+      <name>Clinton</name>
+      <state>MO</state>
+    </location>
+    <location name="66202">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>39.0240127711</lat>
+      <lon>-94.6690362816</lon>
+      <name>Mission</name>
+      <state>KS</state>
+    </location>
+    <location name="67003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>403</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+  </cdi>
+</cdidata>

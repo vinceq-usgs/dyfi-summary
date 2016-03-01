@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90275">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>33.7552706318</lat>
+      <lon>-118.363098141</lon>
+      <name>Rancho Palos Verdes</name>
+      <state>CA</state>
+    </location>
+    <location name="92545">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>33.732725009</lat>
+      <lon>-117.043277134</lon>
+      <name>Hemet</name>
+      <state>CA</state>
+    </location>
+    <location name="92582">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>33.8093053678</lat>
+      <lon>-117.012716267</lon>
+      <name>San Jacinto</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

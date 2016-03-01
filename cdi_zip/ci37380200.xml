@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90723">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>264</dist>
+      <lat>33.8976337779</lat>
+      <lon>-118.164718803</lon>
+      <name>Paramount</name>
+      <state>CA</state>
+    </location>
+    <location name="92040">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>125</dist>
+      <lat>32.9132430478</lat>
+      <lon>-116.882406668</lon>
+      <name>Lakeside</name>
+      <state>CA</state>
+    </location>
+    <location name="92227">
+      <cdi>2.7652</cdi>
+      <nresp>7</nresp>
+      <dist>17</dist>
+      <lat>33.0077298456</lat>
+      <lon>-115.429493874</lon>
+      <name>Brawley</name>
+      <state>CA</state>
+    </location>
+    <location name="92251">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>32.8727372362</lat>
+      <lon>-115.620839586</lon>
+      <name>Imperial</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

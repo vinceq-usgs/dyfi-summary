@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="15219">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>937</dist>
+      <lat>40.4433254271</lat>
+      <lon>-79.9805916954</lon>
+      <name>Pittsburgh</name>
+      <state>PA</state>
+    </location>
+    <location name="60035">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>635</dist>
+      <lat>42.1833179687</lat>
+      <lon>-87.8107875818</lon>
+      <name>Highland Park</name>
+      <state>IL</state>
+    </location>
+    <location name="62249">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>236</dist>
+      <lat>38.7513113156</lat>
+      <lon>-89.6660870959</lon>
+      <name>Highland</name>
+      <state>IL</state>
+    </location>
+    <location name="63801">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>36.9240416072</lat>
+      <lon>-89.602605644</lon>
+      <name>Sikeston</name>
+      <state>MO</state>
+    </location>
+    <location name="63834">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>43</dist>
+      <lat>36.917383254</lat>
+      <lon>-89.2753190419</lon>
+      <name>Charleston</name>
+      <state>MO</state>
+    </location>
+    <location name="63845">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>36.7207364309</lat>
+      <lon>-89.30389416</lon>
+      <name>East Prairie</name>
+      <state>MO</state>
+    </location>
+    <location name="63862">
+      <cdi>2.3954</cdi>
+      <nresp>3</nresp>
+      <dist>14</dist>
+      <lat>36.5917165848</lat>
+      <lon>-89.648795741</lon>
+      <name>Lilbourn</name>
+      <state>MO</state>
+    </location>
+    <location name="63867">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>36.7634876948</lat>
+      <lon>-89.554894432</lon>
+      <name>Matthews</name>
+      <state>MO</state>
+    </location>
+    <location name="63869">
+      <cdi>2.9841</cdi>
+      <nresp>5</nresp>
+      <dist>12</dist>
+      <lat>36.6282046896</lat>
+      <lon>-89.5028230406</lon>
+      <name>New Madrid</name>
+      <state>MO</state>
+    </location>
+    <location name="63873">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>27</dist>
+      <lat>36.4243480611</lat>
+      <lon>-89.684000549</lon>
+      <name>Portageville</name>
+      <state>MO</state>
+    </location>
+  </cdi>
+</cdidata>

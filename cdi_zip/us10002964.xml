@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiba::Chiba::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>192</dist>
+      <lat>35.61</lat>
+      <lon>140.11</lon>
+      <name>Chiba</name>
+    </location>
+    <location name="Narita::Chiba::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>35.79</lat>
+      <lon>140.32</lon>
+      <name>Narita</name>
+    </location>
+    <location name="Iwaki::Fukushima::Japan">
+      <cdi>3.9980</cdi>
+      <nresp>4</nresp>
+      <dist>53</dist>
+      <lat>37.05</lat>
+      <lon>140.88</lon>
+      <name>Iwaki</name>
+    </location>
+    <location name="Kōriyama::Fukushima::Japan">
+      <cdi>3.2754</cdi>
+      <nresp>2</nresp>
+      <dist>99</dist>
+      <lat>37.41</lat>
+      <lon>140.38</lon>
+      <name>Kōriyama</name>
+    </location>
+    <location name="Shirakawa::Fukushima::Japan">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>37.13</lat>
+      <lon>140.21</lon>
+      <name>Shirakawa</name>
+    </location>
+    <location name="Hitachi::Ibaraki::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>36.59</lat>
+      <lon>140.66</lon>
+      <name>Hitachi</name>
+    </location>
+    <location name="Minori::Ibaraki::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>36.24</lat>
+      <lon>140.34</lon>
+      <name>Minori</name>
+    </location>
+    <location name="Tokai::Ibaraki::Japan">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>36.47</lat>
+      <lon>140.59</lon>
+      <name>Tokai</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Natori::Miyagi::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>137</dist>
+      <lat>38.16</lat>
+      <lon>140.88</lon>
+      <name>Natori</name>
+    </location>
+    <location name="Sendai::Miyagi::Japan">
+      <cdi>3.2152</cdi>
+      <nresp>5</nresp>
+      <dist>147</dist>
+      <lat>38.26</lat>
+      <lon>140.89</lon>
+      <name>Sendai</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>139</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+    <location name="Kokubunji::Tokio::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>221</dist>
+      <lat>35.70</lat>
+      <lon>139.48</lon>
+      <name>Kokubunji</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>205</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

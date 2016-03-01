@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Dispur::Assam::India">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>604</dist>
+      <lat>26.11</lat>
+      <lon>91.83</lon>
+      <name>Dispur</name>
+    </location>
+    <location name="Shilīguri::Bangla::India">
+      <cdi>4.7710</cdi>
+      <nresp>1</nresp>
+      <dist>262</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Faridabad::Haryana::India">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>860</dist>
+      <lat>28.38</lat>
+      <lon>77.30</lon>
+      <name>Faridabad</name>
+    </location>
+    <location name="Abohar::Punjab::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1182</dist>
+      <lat>30.14</lat>
+      <lon>74.20</lon>
+      <name>Abohar</name>
+    </location>
+    <location name="Moradabad::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>722</dist>
+      <lat>28.84</lat>
+      <lon>78.76</lon>
+      <name>Moradabad</name>
+    </location>
+  </cdi>
+</cdidata>

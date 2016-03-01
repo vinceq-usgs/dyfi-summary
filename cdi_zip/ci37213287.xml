@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91740">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.1185404722</lat>
+      <lon>-117.853681417</lon>
+      <name>Glendora</name>
+      <state>CA</state>
+    </location>
+    <location name="91750">
+      <cdi>2.6304</cdi>
+      <nresp>18</nresp>
+      <dist>5</dist>
+      <lat>34.1431528654</lat>
+      <lon>-117.762221147</lon>
+      <name>La Verne</name>
+      <state>CA</state>
+    </location>
+    <location name="91767">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>8</dist>
+      <lat>34.0814669607</lat>
+      <lon>-117.73847442</lon>
+      <name>Pomona</name>
+      <state>CA</state>
+    </location>
+    <location name="91773">
+      <cdi>2.9633</cdi>
+      <nresp>6</nresp>
+      <dist>7</dist>
+      <lat>34.107197891</lat>
+      <lon>-117.808886066</lon>
+      <name>San Dimas</name>
+      <state>CA</state>
+    </location>
+    <location name="92352">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>34.2683589883</lat>
+      <lon>-117.192835694</lon>
+      <name>Lake Arrowhead</name>
+      <state>CA</state>
+    </location>
+    <location name="92704">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>33.720790129</lat>
+      <lon>-117.908370569</lon>
+      <name>Santa Ana</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

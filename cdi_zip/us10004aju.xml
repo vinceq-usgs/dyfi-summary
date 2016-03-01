@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73003">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>35.6683436545</lat>
+      <lon>-97.4969186829</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.3799</cdi>
+      <nresp>4</nresp>
+      <dist>7</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="76018">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>335</dist>
+      <lat>32.6607247987</lat>
+      <lon>-97.0880366738</lon>
+      <name>Arlington</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

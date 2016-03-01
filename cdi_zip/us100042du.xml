@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Tashkent::Taschkent::Uzbekistan">
+      <cdi>2.7751</cdi>
+      <nresp>3</nresp>
+      <dist>329</dist>
+      <lat>41.31</lat>
+      <lon>69.30</lon>
+      <name>Tashkent</name>
+    </location>
+    <location name="Oş::Oş::Kyrgyzstan">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>111</dist>
+      <lat>40.54</lat>
+      <lon>72.79</lon>
+      <name>Oş</name>
+    </location>
+  </cdi>
+</cdidata>

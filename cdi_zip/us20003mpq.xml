@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Antiguo Cuscatlán::La Libertad::El Salvador">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>13.68</lat>
+      <lon>-89.23</lon>
+      <name>Antiguo Cuscatlán</name>
+    </location>
+    <location name="Nueva San Salvador::La Libertad::El Salvador">
+      <cdi>4.0696</cdi>
+      <nresp>3</nresp>
+      <dist>11</dist>
+      <lat>13.68</lat>
+      <lon>-89.29</lon>
+      <name>Nueva San Salvador</name>
+    </location>
+    <location name="Nuevo Cuscatlán::La Libertad::El Salvador">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>13.65</lat>
+      <lon>-89.27</lon>
+      <name>Nuevo Cuscatlán</name>
+    </location>
+    <location name="San Salvador::San Salvador::El Salvador">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>13.69</lat>
+      <lon>-89.19</lon>
+      <name>San Salvador</name>
+    </location>
+  </cdi>
+</cdidata>

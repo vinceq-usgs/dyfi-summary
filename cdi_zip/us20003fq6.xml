@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67215">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>37.6195959665</lat>
+      <lon>-97.4274601834</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73662">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>35.3277480504</lat>
+      <lon>-99.6613834439</lon>
+      <name>Sayre</name>
+      <state>OK</state>
+    </location>
+    <location name="73737">
+      <cdi>3.9249</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>36.2867246137</lat>
+      <lon>-98.6108810692</lon>
+      <name>Fairview</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>3.6956</cdi>
+      <nresp>11</nresp>
+      <dist>168</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74030">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>35.9828204849</lat>
+      <lon>-96.5564969222</lon>
+      <name>Drumright</name>
+      <state>OK</state>
+    </location>
+    <location name="74059">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>35.9797187465</lat>
+      <lon>-97.0916283661</lon>
+      <name>Perkins</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

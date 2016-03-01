@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kōriyama::Fukushima::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>37.41</lat>
+      <lon>140.38</lon>
+      <name>Kōriyama</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>203</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Sendai::Miyagi::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>124</dist>
+      <lat>38.26</lat>
+      <lon>140.89</lon>
+      <name>Sendai</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>191</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+  </cdi>
+</cdidata>

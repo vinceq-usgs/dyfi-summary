@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Donsol::Bicol::Philippines">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>12.91</lat>
+      <lon>123.60</lon>
+      <name>Donsol</name>
+    </location>
+    <location name="Gigmoto::Bicol::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>13.78</lat>
+      <lon>124.39</lon>
+      <name>Gigmoto</name>
+    </location>
+    <location name="Legazpi::Bicol::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>13.17</lat>
+      <lon>123.75</lon>
+      <name>Legazpi</name>
+    </location>
+    <location name="San Roque (Daraga, Albay)::Bicol::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>13.15</lat>
+      <lon>123.76</lon>
+      <name>San Roque (Daraga, Albay)</name>
+    </location>
+    <location name="Talisay::Bicol::Philippines">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>14.14</lat>
+      <lon>122.92</lon>
+      <name>Talisay</name>
+    </location>
+    <location name="Mandaue::Central Visayas::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>410</dist>
+      <lat>10.33</lat>
+      <lon>123.93</lon>
+      <name>Mandaue</name>
+    </location>
+    <location name="Manila::National Capital Region::Philippines">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>394</dist>
+      <lat>14.62</lat>
+      <lon>120.97</lon>
+      <name>Manila</name>
+    </location>
+    <location name="Angono::Southern Tagalog::Philippines">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>373</dist>
+      <lat>14.53</lat>
+      <lon>121.15</lon>
+      <name>Angono</name>
+    </location>
+    <location name="Imus::Southern Tagalog::Philippines">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>394</dist>
+      <lat>14.43</lat>
+      <lon>120.94</lon>
+      <name>Imus</name>
+    </location>
+  </cdi>
+</cdidata>

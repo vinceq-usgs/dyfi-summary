@@ -1,0 +1,202 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="83801">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>1085</dist>
+      <lat>47.9455309956</lat>
+      <lon>-116.649195932</lon>
+      <name>Athol</name>
+      <state>ID</state>
+    </location>
+    <location name="97005">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>561</dist>
+      <lat>45.4916211796</lat>
+      <lon>-122.80369491</lon>
+      <name>Beaverton</name>
+      <state>OR</state>
+    </location>
+    <location name="97006">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>558</dist>
+      <lat>45.5173108422</lat>
+      <lon>-122.859147072</lon>
+      <name>Beaverton</name>
+      <state>OR</state>
+    </location>
+    <location name="97201">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>571</dist>
+      <lat>45.5076946703</lat>
+      <lon>-122.689844813</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97217">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>572</dist>
+      <lat>45.5857845277</lat>
+      <lon>-122.693366675</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97231">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>563</dist>
+      <lat>45.6788684062</lat>
+      <lon>-122.830910676</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97232">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>574</dist>
+      <lat>45.5289401988</lat>
+      <lon>-122.643659351</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97233">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>585</dist>
+      <lat>45.5136080739</lat>
+      <lon>-122.499781486</lon>
+      <name>Portland</name>
+      <state>OR</state>
+    </location>
+    <location name="97322">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>536</dist>
+      <lat>44.6257275162</lat>
+      <lon>-123.019933198</lon>
+      <name>Albany</name>
+      <state>OR</state>
+    </location>
+    <location name="97333">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>514</dist>
+      <lat>44.476980228</lat>
+      <lon>-123.303904118</lon>
+      <name>Corvallis</name>
+      <state>OR</state>
+    </location>
+    <location name="97361">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>511</dist>
+      <lat>44.7769626548</lat>
+      <lon>-123.346924894</lon>
+      <name>Monmouth</name>
+      <state>OR</state>
+    </location>
+    <location name="97367">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>470</dist>
+      <lat>44.9370969971</lat>
+      <lon>-123.877710344</lon>
+      <name>Lincoln City</name>
+      <state>OR</state>
+    </location>
+    <location name="97391">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>466</dist>
+      <lat>44.6112864135</lat>
+      <lon>-123.912339052</lon>
+      <name>Toledo</name>
+      <state>OR</state>
+    </location>
+    <location name="97394">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>460</dist>
+      <lat>44.4171191773</lat>
+      <lon>-123.991801244</lon>
+      <name>Waldport</name>
+      <state>OR</state>
+    </location>
+    <location name="97415">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>522</dist>
+      <lat>42.2160121032</lat>
+      <lon>-124.093338898</lon>
+      <name>Brookings</name>
+      <state>OR</state>
+    </location>
+    <location name="97439">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>458</dist>
+      <lat>44.1023761498</lat>
+      <lon>-124.03948956</lon>
+      <name>Florence</name>
+      <state>OR</state>
+    </location>
+    <location name="97478">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>554</dist>
+      <lat>44.0889039688</lat>
+      <lon>-122.846722567</lon>
+      <name>Springfield</name>
+      <state>OR</state>
+    </location>
+    <location name="98391">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>664</dist>
+      <lat>47.1765867005</lat>
+      <lon>-122.174420109</lon>
+      <name>Bonney Lake</name>
+      <state>WA</state>
+    </location>
+    <location name="98638">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>523</dist>
+      <lat>46.4092976833</lat>
+      <lon>-123.693771742</lon>
+      <name>Naselle</name>
+      <state>WA</state>
+    </location>
+    <location name="98640">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>504</dist>
+      <lat>46.5418218104</lat>
+      <lon>-124.045770208</lon>
+      <name>Ocean Park</name>
+      <state>WA</state>
+    </location>
+    <location name="98685">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>575</dist>
+      <lat>45.7161381312</lat>
+      <lon>-122.689893094</lon>
+      <name>Vancouver</name>
+      <state>WA</state>
+    </location>
+    <location name="98801">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>802</dist>
+      <lat>47.4308043295</lat>
+      <lon>-120.348997666</lon>
+      <name>Wenatchee</name>
+      <state>WA</state>
+    </location>
+  </cdi>
+</cdidata>

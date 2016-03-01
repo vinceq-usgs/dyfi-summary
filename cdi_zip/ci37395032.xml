@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91910">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>32.637931508</lat>
+      <lon>-117.055474752</lon>
+      <name>Chula Vista</name>
+      <state>CA</state>
+    </location>
+    <location name="92201">
+      <cdi>2.4865</cdi>
+      <nresp>11</nresp>
+      <dist>11</dist>
+      <lat>33.707623363</lat>
+      <lon>-116.234525355</lon>
+      <name>Indio</name>
+      <state>CA</state>
+    </location>
+    <location name="92203">
+      <cdi>2.4960</cdi>
+      <nresp>16</nresp>
+      <dist>8</dist>
+      <lat>33.7517583205</lat>
+      <lon>-116.241723548</lon>
+      <name>Indio</name>
+      <state>CA</state>
+    </location>
+    <location name="92211">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>33.7642960411</lat>
+      <lon>-116.330157044</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92236">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>33.6893133646</lat>
+      <lon>-116.168400069</lon>
+      <name>Coachella</name>
+      <state>CA</state>
+    </location>
+    <location name="92253">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>18</dist>
+      <lat>33.654505594</lat>
+      <lon>-116.281141058</lon>
+      <name>La Quinta</name>
+      <state>CA</state>
+    </location>
+    <location name="92260">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>33.6890242816</lat>
+      <lon>-116.397060697</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92507">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>33.9529113701</lat>
+      <lon>-117.323004987</lon>
+      <name>Riverside</name>
+      <state>CA</state>
+    </location>
+    <location name="92691">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>33.610517845</lat>
+      <lon>-117.666154857</lon>
+      <name>Mission Viejo</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

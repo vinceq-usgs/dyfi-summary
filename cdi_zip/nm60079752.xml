@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="37146">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>36.4019638328</lat>
+      <lon>-87.0323361042</lon>
+      <name>Pleasant View</name>
+      <state>TN</state>
+    </location>
+    <location name="38080">
+      <cdi>3.0152</cdi>
+      <nresp>6</nresp>
+      <dist>9</dist>
+      <lat>36.2405642317</lat>
+      <lon>-89.5053777659</lon>
+      <name>Ridgely</name>
+      <state>TN</state>
+    </location>
+    <location name="38240">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>36.2450788825</lat>
+      <lon>-89.3023668135</lon>
+      <name>Obion</name>
+      <state>TN</state>
+    </location>
+    <location name="63301">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>299</dist>
+      <lat>38.8514606032</lat>
+      <lon>-90.4712304802</lon>
+      <name>Saint Charles</name>
+      <state>MO</state>
+    </location>
+  </cdi>
+</cdidata>

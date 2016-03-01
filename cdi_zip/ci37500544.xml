@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91791">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>100</dist>
+      <lat>34.0606629002</lat>
+      <lon>-117.893830543</lon>
+      <name>West Covina</name>
+      <state>CA</state>
+    </location>
+    <location name="92211">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>33.7642960411</lat>
+      <lon>-116.330157044</lon>
+      <name>Palm Desert</name>
+      <state>CA</state>
+    </location>
+    <location name="92277">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>34.1987854155</lat>
+      <lon>-115.76081204</lon>
+      <name>Twentynine Palms</name>
+      <state>CA</state>
+    </location>
+    <location name="92314">
+      <cdi>2.7033</cdi>
+      <nresp>16</nresp>
+      <dist>8</dist>
+      <lat>34.2734445739</lat>
+      <lon>-116.914645906</lon>
+      <name>Big Bear City</name>
+      <state>CA</state>
+    </location>
+    <location name="92315">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>34.2483705249</lat>
+      <lon>-116.915145265</lon>
+      <name>Big Bear Lake</name>
+      <state>CA</state>
+    </location>
+    <location name="92356">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>23</dist>
+      <lat>34.527054552</lat>
+      <lon>-116.879774545</lon>
+      <name>Lucerne Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="92549">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>33.7836411163</lat>
+      <lon>-116.777173608</lon>
+      <name>Idyllwild</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

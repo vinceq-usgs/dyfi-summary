@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="60605">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>1025</dist>
+      <lat>41.8654727741</lat>
+      <lon>-87.6212657438</lon>
+      <name>Chicago</name>
+      <state>IL</state>
+    </location>
+    <location name="67003">
+      <cdi>3.2754</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67018">
+      <cdi>4.4700</cdi>
+      <nresp>3</nresp>
+      <dist>14</dist>
+      <lat>37.07206096</lat>
+      <lon>-97.8801688898</lon>
+      <name>Bluff City</name>
+      <state>KS</state>
+    </location>
+    <location name="67031">
+      <cdi>3.1291</cdi>
+      <nresp>1</nresp>
+      <dist>34</dist>
+      <lat>37.4030449969</lat>
+      <lon>-97.6227732393</lon>
+      <name>Conway Springs</name>
+      <state>KS</state>
+    </location>
+    <location name="67036">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="67049">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>37.1830286968</lat>
+      <lon>-97.8572620826</lon>
+      <name>Freeport</name>
+      <state>KS</state>
+    </location>
+    <location name="67068">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>37.6025506169</lat>
+      <lon>-98.0596462589</lon>
+      <name>Kingman</name>
+      <state>KS</state>
+    </location>
+    <location name="74074">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>36.0759277283</lat>
+      <lon>-97.0995974939</lon>
+      <name>Stillwater</name>
+      <state>OK</state>
+    </location>
+    <location name="75409">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>443</dist>
+      <lat>33.3512093104</lat>
+      <lon>-96.5261588772</lon>
+      <name>Anna</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

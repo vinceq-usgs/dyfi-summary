@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Machalí::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>-34.18</lat>
+      <lon>-70.67</lon>
+      <name>Machalí</name>
+    </location>
+    <location name="El Monte::Metropolitana::Chile">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>124</dist>
+      <lat>-33.68</lat>
+      <lon>-71.02</lon>
+      <name>El Monte</name>
+    </location>
+    <location name="Puente Alto::Metropolitana::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>109</dist>
+      <lat>-33.61</lat>
+      <lon>-70.57</lon>
+      <name>Puente Alto</name>
+    </location>
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>113</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>3.0130</cdi>
+      <nresp>17</nresp>
+      <dist>115</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Villa Alemana::Valparaíso::Chile">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>-33.04</lat>
+      <lon>-71.36</lon>
+      <name>Villa Alemana</name>
+    </location>
+  </cdi>
+</cdidata>

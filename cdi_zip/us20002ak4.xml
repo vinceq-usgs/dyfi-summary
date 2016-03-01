@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="72011">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>479</dist>
+      <lat>34.5139650189</lat>
+      <lon>-92.4682114871</lon>
+      <name>Bauxite</name>
+      <state>AR</state>
+    </location>
+    <location name="73025">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>5</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

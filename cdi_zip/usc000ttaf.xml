@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Yuzawa::Akita::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>39.17</lat>
+      <lon>140.48</lon>
+      <name>Yuzawa</name>
+    </location>
+    <location name="Morioka::Iwate::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>39.70</lat>
+      <lon>141.15</lon>
+      <name>Morioka</name>
+    </location>
+    <location name="Sagamihara::Kanagawa::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>403</dist>
+      <lat>35.58</lat>
+      <lon>139.38</lon>
+      <name>Sagamihara</name>
+    </location>
+    <location name="Ishinomaki::Miyagi::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>38.43</lat>
+      <lon>141.29</lon>
+      <name>Ishinomaki</name>
+    </location>
+    <location name="Sendai::Miyagi::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>4</nresp>
+      <dist>116</dist>
+      <lat>38.26</lat>
+      <lon>140.89</lon>
+      <name>Sendai</name>
+    </location>
+  </cdi>
+</cdidata>

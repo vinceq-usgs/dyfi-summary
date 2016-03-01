@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Yungay::Ancash::Peru">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>605</dist>
+      <lat>-9.15</lat>
+      <lon>-77.75</lon>
+      <name>Yungay</name>
+    </location>
+    <location name="Lima::Lima Provincias::Peru">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>286</dist>
+      <lat>-12.07</lat>
+      <lon>-77.05</lon>
+      <name>Lima</name>
+    </location>
+    <location name="Pisco::Ica::Peru">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>-13.71</lat>
+      <lon>-76.22</lon>
+      <name>Pisco</name>
+    </location>
+    <location name="Santiago::Ica::Peru">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>-14.19</lat>
+      <lon>-75.74</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="Vista Alegre::Ica::Peru">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>55</dist>
+      <lat>-14.05</lat>
+      <lon>-75.72</lon>
+      <name>Vista Alegre</name>
+    </location>
+    <location name="Imperial::Lima Provincias::Peru">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>157</dist>
+      <lat>-13.07</lat>
+      <lon>-76.36</lon>
+      <name>Imperial</name>
+    </location>
+  </cdi>
+</cdidata>

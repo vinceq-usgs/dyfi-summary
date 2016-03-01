@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94102">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>176</dist>
+      <lat>37.7795327685</lat>
+      <lon>-122.419606391</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94618">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>37.8445345419</lat>
+      <lon>-122.238119356</lon>
+      <name>Oakland</name>
+      <state>CA</state>
+    </location>
+    <location name="95023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>32</dist>
+      <lat>36.8566762391</lat>
+      <lon>-121.249223359</lon>
+      <name>Hollister</name>
+      <state>CA</state>
+    </location>
+    <location name="95066">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>37.0739284951</lat>
+      <lon>-122.01083177</lon>
+      <name>Scotts Valley</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

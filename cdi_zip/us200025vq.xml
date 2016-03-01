@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kobilja Glava::Federacija Bosna i Hercegovina::Bosnia and Herzegovina">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>43.88</lat>
+      <lon>18.39</lon>
+      <name>Kobilja Glava</name>
+    </location>
+    <location name="Sarajevo::Federacija Bosna i Hercegovina::Bosnia and Herzegovina">
+      <cdi>4.0572</cdi>
+      <nresp>9</nresp>
+      <dist>18</dist>
+      <lat>43.85</lat>
+      <lon>18.38</lon>
+      <name>Sarajevo</name>
+    </location>
+  </cdi>
+</cdidata>

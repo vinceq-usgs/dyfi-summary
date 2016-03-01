@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="HÄ?jÄ«pur::Bihar::India">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>235</dist>
+      <lat>25.68</lat>
+      <lon>85.20</lon>
+      <name>HÄ?jÄ«pur</name>
+    </location>
+    <location name="Muzaffarpur::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>26.13</lat>
+      <lon>85.38</lon>
+      <name>Muzaffarpur</name>
+    </location>
+    <location name="Supaul::Bihar::India">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>26.12</lat>
+      <lon>86.60</lon>
+      <name>Supaul</name>
+    </location>
+    <location name="Gorakhpur::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>271</dist>
+      <lat>26.76</lat>
+      <lon>83.36</lon>
+      <name>Gorakhpur</name>
+    </location>
+    <location name="Harraiya::Uttar Pradesh::India">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>352</dist>
+      <lat>26.80</lat>
+      <lon>82.47</lon>
+      <name>Harraiya</name>
+    </location>
+    <location name="Lakhnau::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>500</dist>
+      <lat>26.85</lat>
+      <lon>80.92</lon>
+      <name>Lakhnau</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+  </cdi>
+</cdidata>

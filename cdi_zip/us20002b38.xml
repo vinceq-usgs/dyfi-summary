@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Christchurch::Canterbury::New Zealand">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>323</dist>
+      <lat>-43.53</lat>
+      <lon>172.64</lon>
+      <name>Christchurch</name>
+    </location>
+    <location name="Dunedin::Otago::New Zealand">
+      <cdi>2.5942</cdi>
+      <nresp>4</nresp>
+      <dist>198</dist>
+      <lat>-45.88</lat>
+      <lon>170.48</lon>
+      <name>Dunedin</name>
+    </location>
+    <location name="Wanaka::Otago::New Zealand">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>32</dist>
+      <lat>-44.70</lat>
+      <lon>169.15</lon>
+      <name>Wanaka</name>
+    </location>
+    <location name="Invercargill::Southland::New Zealand">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>213</dist>
+      <lat>-46.41</lat>
+      <lon>168.37</lon>
+      <name>Invercargill</name>
+    </location>
+  </cdi>
+</cdidata>

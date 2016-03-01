@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Shilīguri::Bangla::India">
+      <cdi>2.2854</cdi>
+      <nresp>2</nresp>
+      <dist>260</dist>
+      <lat>26.73</lat>
+      <lon>88.42</lon>
+      <name>Shilīguri</name>
+    </location>
+    <location name="Phulwari::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>269</dist>
+      <lat>25.60</lat>
+      <lon>85.13</lon>
+      <name>Phulwari</name>
+    </location>
+    <location name="Bhaktapur::Bhaktapur::Nepal">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>27.67</lat>
+      <lon>85.43</lon>
+      <name>Bhaktapur</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>213</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+    <location name="Kathmandu::Kathmandu::Nepal">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>81</dist>
+      <lat>27.71</lat>
+      <lon>85.31</lon>
+      <name>Kathmandu</name>
+    </location>
+    <location name="Dhulikhet::Kavrepalanchok::Nepal">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>27.62</lat>
+      <lon>85.55</lon>
+      <name>Dhulikhet</name>
+    </location>
+  </cdi>
+</cdidata>

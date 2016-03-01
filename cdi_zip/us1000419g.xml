@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Itanagar::Arunachal Pradesh::India">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>27.14</lat>
+      <lon>93.61</lon>
+      <name>Itanagar</name>
+    </location>
+    <location name="Dispur::Assam::India">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>26.11</lat>
+      <lon>91.83</lon>
+      <name>Dispur</name>
+    </location>
+    <location name="Gauhati::Assam::India">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>136</dist>
+      <lat>26.19</lat>
+      <lon>91.75</lon>
+      <name>Gauhati</name>
+    </location>
+    <location name="Jorhat::Assam::India">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>26.76</lat>
+      <lon>94.20</lon>
+      <name>Jorhat</name>
+    </location>
+    <location name="North Guwahati::Assam::India">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>137</dist>
+      <lat>26.21</lat>
+      <lon>91.73</lon>
+      <name>North Guwahati</name>
+    </location>
+    <location name="Tezpur::Assam::India">
+      <cdi>2.6912</cdi>
+      <nresp>3</nresp>
+      <dist>62</dist>
+      <lat>26.63</lat>
+      <lon>92.79</lon>
+      <name>Tezpur</name>
+    </location>
+    <location name="Dimapur::Nagaland::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>107</dist>
+      <lat>25.92</lat>
+      <lon>93.73</lon>
+      <name>Dimapur</name>
+    </location>
+    <location name="Kohīma::Nagaland::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>150</dist>
+      <lat>25.67</lat>
+      <lon>94.11</lon>
+      <name>Kohīma</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Alajuela::Alajuela::Costa Rica">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>10.02</lat>
+      <lon>-84.23</lon>
+      <name>Alajuela</name>
+    </location>
+    <location name="Carrillos::Alajuela::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>10.03</lat>
+      <lon>-84.27</lon>
+      <name>Carrillos</name>
+    </location>
+    <location name="Escazú::San José::Costa Rica">
+      <cdi>2.0883</cdi>
+      <nresp>2</nresp>
+      <dist>73</dist>
+      <lat>9.92</lat>
+      <lon>-84.15</lon>
+      <name>Escazú</name>
+    </location>
+    <location name="San Isidro (San Isidro de Coronado)::San José::Costa Rica">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>10.02</lat>
+      <lon>-84.06</lon>
+      <name>San Isidro (San Isidro de Coronado)</name>
+    </location>
+    <location name="San Isidro (San Isidro de El General)::San José::Costa Rica">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>9.37</lat>
+      <lon>-83.71</lon>
+      <name>San Isidro (San Isidro de El General)</name>
+    </location>
+    <location name="San José::San José::Costa Rica">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>73</dist>
+      <lat>9.93</lat>
+      <lon>-84.08</lon>
+      <name>San José</name>
+    </location>
+  </cdi>
+</cdidata>

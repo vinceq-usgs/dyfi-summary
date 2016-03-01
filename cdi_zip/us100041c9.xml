@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ahwaz::Khūzestān::Iran">
+      <cdi>2.8299</cdi>
+      <nresp>4</nresp>
+      <dist>112</dist>
+      <lat>31.28</lat>
+      <lon>48.72</lon>
+      <name>Ahwaz</name>
+    </location>
+    <location name="Tehran::Teheran::Iran">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>444</dist>
+      <lat>35.67</lat>
+      <lon>51.43</lon>
+      <name>Tehran</name>
+    </location>
+  </cdi>
+</cdidata>

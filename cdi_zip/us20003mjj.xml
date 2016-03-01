@@ -1,0 +1,58 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="62901">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>845</dist>
+      <lat>37.7379501374</lat>
+      <lon>-89.2101285589</lon>
+      <name>Carbondale</name>
+      <state>IL</state>
+    </location>
+    <location name="67801">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>210</dist>
+      <lat>37.7120933667</lat>
+      <lon>-100.064093481</lon>
+      <name>Dodge City</name>
+      <state>KS</state>
+    </location>
+    <location name="73118">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>35.5186748711</lat>
+      <lon>-97.5298794618</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73663">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>36.0766315243</lat>
+      <lon>-98.8156343555</lon>
+      <name>Seiling</name>
+      <state>OK</state>
+    </location>
+    <location name="73737">
+      <cdi>3.5831</cdi>
+      <nresp>5</nresp>
+      <dist>9</dist>
+      <lat>36.2867246137</lat>
+      <lon>-98.6108810692</lon>
+      <name>Fairview</name>
+      <state>OK</state>
+    </location>
+    <location name="73755">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>36.115067658</lat>
+      <lon>-98.5568499608</lon>
+      <name>Longdale</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

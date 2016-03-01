@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73034">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73129">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>35.4334811354</lat>
+      <lon>-97.4859931612</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74011">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>35.9844979881</lat>
+      <lon>-95.8098860351</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="74039">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>35.8975629435</lat>
+      <lon>-96.2394512563</lon>
+      <name>Kellyville</name>
+      <state>OK</state>
+    </location>
+    <location name="74429">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>125</dist>
+      <lat>35.9667101244</lat>
+      <lon>-95.6168258577</lon>
+      <name>Coweta</name>
+      <state>OK</state>
+    </location>
+    <location name="74824">
+      <cdi>4.7710</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>35.8747253046</lat>
+      <lon>-96.8850890131</lon>
+      <name>Agra</name>
+      <state>OK</state>
+    </location>
+    <location name="74832">
+      <cdi>3.9738</cdi>
+      <nresp>3</nresp>
+      <dist>7</dist>
+      <lat>35.8112340162</lat>
+      <lon>-97.0185128147</lon>
+      <name>Carney</name>
+      <state>OK</state>
+    </location>
+    <location name="74875">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>35.8610524416</lat>
+      <lon>-97.0416815007</lon>
+      <name>Tryon</name>
+      <state>OK</state>
+    </location>
+    <location name="75068">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>289</dist>
+      <lat>33.1788435088</lat>
+      <lon>-96.9509648187</lon>
+      <name>Little Elm</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

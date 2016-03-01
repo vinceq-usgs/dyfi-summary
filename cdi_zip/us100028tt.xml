@@ -1,0 +1,156 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Chiba::Chiba::Japan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>120</dist>
+      <lat>35.61</lat>
+      <lon>140.11</lon>
+      <name>Chiba</name>
+    </location>
+    <location name="Kashiwa::Chiba::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>35.87</lat>
+      <lon>139.97</lon>
+      <name>Kashiwa</name>
+    </location>
+    <location name="Narita::Chiba::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>35.79</lat>
+      <lon>140.32</lon>
+      <name>Narita</name>
+    </location>
+    <location name="Urayasu::Chiba::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>122</dist>
+      <lat>35.67</lat>
+      <lon>139.90</lon>
+      <name>Urayasu</name>
+    </location>
+    <location name="Kōriyama::Fukushima::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>104</dist>
+      <lat>37.41</lat>
+      <lon>140.38</lon>
+      <name>Kōriyama</name>
+    </location>
+    <location name="Hitachi::Ibaraki::Japan">
+      <cdi>4.7518</cdi>
+      <nresp>3</nresp>
+      <dist>44</dist>
+      <lat>36.59</lat>
+      <lon>140.66</lon>
+      <name>Hitachi</name>
+    </location>
+    <location name="Hitachinaka::Ibaraki::Japan">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>47</dist>
+      <lat>36.40</lat>
+      <lon>140.52</lon>
+      <name>Hitachinaka</name>
+    </location>
+    <location name="Kasama::Ibaraki::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>54</dist>
+      <lat>36.38</lat>
+      <lon>140.25</lon>
+      <name>Kasama</name>
+    </location>
+    <location name="Mito::Ibaraki::Japan">
+      <cdi>4.2084</cdi>
+      <nresp>2</nresp>
+      <dist>48</dist>
+      <lat>36.38</lat>
+      <lon>140.47</lon>
+      <name>Mito</name>
+    </location>
+    <location name="Naka::Ibaraki::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>36.05</lat>
+      <lon>140.17</lon>
+      <name>Naka</name>
+    </location>
+    <location name="Shimotsuma::Ibaraki::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>36.20</lat>
+      <lon>139.96</lon>
+      <name>Shimotsuma</name>
+    </location>
+    <location name="Tokai::Ibaraki::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>36.47</lat>
+      <lon>140.59</lon>
+      <name>Tokai</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>3.6692</cdi>
+      <nresp>3</nresp>
+      <dist>75</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Kawagoe::Saitama::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>125</dist>
+      <lat>35.92</lat>
+      <lon>139.49</lon>
+      <name>Kawagoe</name>
+    </location>
+    <location name="Wakō::Saitama::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>35.78</lat>
+      <lon>139.61</lon>
+      <name>Wakō</name>
+    </location>
+    <location name="Warabi::Saitama::Japan">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>118</dist>
+      <lat>35.85</lat>
+      <lon>139.68</lon>
+      <name>Warabi</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>72</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+    <location name="Kokubunji::Tokio::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>141</dist>
+      <lat>35.70</lat>
+      <lon>139.48</lon>
+      <name>Kokubunji</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.2950</cdi>
+      <nresp>5</nresp>
+      <dist>128</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

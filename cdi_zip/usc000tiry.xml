@@ -1,0 +1,148 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67003">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>37.1119636592</lat>
+      <lon>-98.0346209163</lon>
+      <name>Anthony</name>
+      <state>KS</state>
+    </location>
+    <location name="67068">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>37.6025506169</lat>
+      <lon>-98.0596462589</lon>
+      <name>Kingman</name>
+      <state>KS</state>
+    </location>
+    <location name="67202">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>160</dist>
+      <lat>37.6861204417</lat>
+      <lon>-97.3343203619</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>163</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67209">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>154</dist>
+      <lat>37.6664896303</lat>
+      <lon>-97.4346930874</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67211">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>37.6671074036</lat>
+      <lon>-97.3175664461</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67218">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>160</dist>
+      <lat>37.6682943682</lat>
+      <lon>-97.2804802674</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67220">
+      <cdi>2.6051</cdi>
+      <nresp>2</nresp>
+      <dist>168</dist>
+      <lat>37.7521280141</lat>
+      <lon>-97.2808050599</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73701">
+      <cdi>3.5612</cdi>
+      <nresp>3</nresp>
+      <dist>22</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.9686</cdi>
+      <nresp>19</nresp>
+      <dist>12</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73735">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>36.2375011839</lat>
+      <lon>-98.0418617278</lon>
+      <name>Drummond</name>
+      <state>OK</state>
+    </location>
+    <location name="73754">
+      <cdi>2.9370</cdi>
+      <nresp>3</nresp>
+      <dist>7</dist>
+      <lat>36.3931163055</lat>
+      <lon>-98.0546735682</lon>
+      <name>Lahoma</name>
+      <state>OK</state>
+    </location>
+    <location name="73760">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>36.3763369028</lat>
+      <lon>-98.1581894391</lon>
+      <name>Meno</name>
+      <state>OK</state>
+    </location>
+    <location name="73773">
+      <cdi>3.4270</cdi>
+      <nresp>3</nresp>
+      <dist>20</dist>
+      <lat>36.2657606082</lat>
+      <lon>-97.8823018211</lon>
+      <name>Waukomis</name>
+      <state>OK</state>
+    </location>
+    <location name="74059">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>35.9797187465</lat>
+      <lon>-97.0916283661</lon>
+      <name>Perkins</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

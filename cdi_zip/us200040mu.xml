@@ -1,0 +1,166 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67002">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>75</dist>
+      <lat>37.6978785988</lat>
+      <lon>-97.1097897813</lon>
+      <name>Andover</name>
+      <state>KS</state>
+    </location>
+    <location name="67017">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>37.8330208685</lat>
+      <lon>-97.1049823077</lon>
+      <name>Benton</name>
+      <state>KS</state>
+    </location>
+    <location name="67022">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>8</dist>
+      <lat>37.0959484612</lat>
+      <lon>-97.6546725248</lon>
+      <name>Caldwell</name>
+      <state>KS</state>
+    </location>
+    <location name="67026">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>41</dist>
+      <lat>37.5122638106</lat>
+      <lon>-97.4881281076</lon>
+      <name>Clearwater</name>
+      <state>KS</state>
+    </location>
+    <location name="67037">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>57</dist>
+      <lat>37.5637110992</lat>
+      <lon>-97.2213664898</lon>
+      <name>Derby</name>
+      <state>KS</state>
+    </location>
+    <location name="67060">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>37.5473935873</lat>
+      <lon>-97.3590658203</lon>
+      <name>Haysville</name>
+      <state>KS</state>
+    </location>
+    <location name="67110">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>49</dist>
+      <lat>37.4656104721</lat>
+      <lon>-97.2199102898</lon>
+      <name>Mulvane</name>
+      <state>KS</state>
+    </location>
+    <location name="67120">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>41</dist>
+      <lat>37.4702359349</lat>
+      <lon>-97.3720086425</lon>
+      <name>Peck</name>
+      <state>KS</state>
+    </location>
+    <location name="67133">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>37.5767304997</lat>
+      <lon>-97.1039969268</lon>
+      <name>Rose Hill</name>
+      <state>KS</state>
+    </location>
+    <location name="67152">
+      <cdi>2.8609</cdi>
+      <nresp>7</nresp>
+      <dist>22</dist>
+      <lat>37.2574619357</lat>
+      <lon>-97.4015125998</lon>
+      <name>Wellington</name>
+      <state>KS</state>
+    </location>
+    <location name="67156">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>58</dist>
+      <lat>37.2468518161</lat>
+      <lon>-96.9651090421</lon>
+      <name>Winfield</name>
+      <state>KS</state>
+    </location>
+    <location name="67206">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>70</dist>
+      <lat>37.7037441156</lat>
+      <lon>-97.2255351318</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67207">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>66</dist>
+      <lat>37.6672980796</lat>
+      <lon>-97.2265847962</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67208">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>68</dist>
+      <lat>37.7046283725</lat>
+      <lon>-97.2805432325</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>3.1291</cdi>
+      <nresp>3</nresp>
+      <dist>76</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67230">
+      <cdi>4.2355</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>37.6867337481</lat>
+      <lon>-97.1712736112</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="67749">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>392</dist>
+      <lat>39.8369921494</lat>
+      <lon>-100.526768294</lon>
+      <name>Oberlin</name>
+      <state>KS</state>
+    </location>
+    <location name="73703">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

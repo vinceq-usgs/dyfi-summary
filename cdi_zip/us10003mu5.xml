@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="73701">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>36.4049653505</lat>
+      <lon>-97.8200653927</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73730">
+      <cdi>4.4065</cdi>
+      <nresp>2</nresp>
+      <dist>3</dist>
+      <lat>36.2974050991</lat>
+      <lon>-97.543857753</lon>
+      <name>Covington</name>
+      <state>OK</state>
+    </location>
+    <location name="73736">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>36.3760475046</lat>
+      <lon>-97.7023706919</lon>
+      <name>Fairmont</name>
+      <state>OK</state>
+    </location>
+    <location name="73754">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>36.3931163055</lat>
+      <lon>-98.0546735682</lon>
+      <name>Lahoma</name>
+      <state>OK</state>
+    </location>
+    <location name="73773">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>36.2657606082</lat>
+      <lon>-97.8823018211</lon>
+      <name>Waukomis</name>
+      <state>OK</state>
+    </location>
+    <location name="74066">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>35.9886131945</lat>
+      <lon>-96.1598316867</lon>
+      <name>Sapulpa</name>
+      <state>OK</state>
+    </location>
+    <location name="74120">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>142</dist>
+      <lat>36.1500754484</lat>
+      <lon>-95.9765243594</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74447">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>35.6437227585</lat>
+      <lon>-96.0354113646</lon>
+      <name>Okmulgee</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

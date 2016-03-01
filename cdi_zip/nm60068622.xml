@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="61021">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>550</dist>
+      <lat>41.8305421411</lat>
+      <lon>-89.4847196193</lon>
+      <name>Dixon</name>
+      <state>IL</state>
+    </location>
+    <location name="63801">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>36.9240416072</lat>
+      <lon>-89.602605644</lon>
+      <name>Sikeston</name>
+      <state>MO</state>
+    </location>
+    <location name="63823">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>7</dist>
+      <lat>36.8864716569</lat>
+      <lon>-89.4580898956</lon>
+      <name>Bertrand</name>
+      <state>MO</state>
+    </location>
+    <location name="63834">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>36.917383254</lat>
+      <lon>-89.2753190419</lon>
+      <name>Charleston</name>
+      <state>MO</state>
+    </location>
+    <location name="63845">
+      <cdi>2</cdi>
+      <nresp>6</nresp>
+      <dist>21</dist>
+      <lat>36.7207364309</lat>
+      <lon>-89.30389416</lon>
+      <name>East Prairie</name>
+      <state>MO</state>
+    </location>
+  </cdi>
+</cdidata>

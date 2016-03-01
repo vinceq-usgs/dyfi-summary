@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="76009">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>404</dist>
+      <lat>32.4185305831</lat>
+      <lon>-97.2044749595</lon>
+      <name>Alvarado</name>
+      <state>TX</state>
+    </location>
+    <location name="77024">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>269</dist>
+      <lat>29.7706537747</lat>
+      <lon>-95.5113757712</lon>
+      <name>Houston</name>
+      <state>TX</state>
+    </location>
+    <location name="78073">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>69</dist>
+      <lat>29.2503536326</lat>
+      <lon>-98.6214206096</lon>
+      <name>Von Ormy</name>
+      <state>TX</state>
+    </location>
+    <location name="78113">
+      <cdi>3.2754</cdi>
+      <nresp>5</nresp>
+      <dist>10</dist>
+      <lat>28.9142942891</lat>
+      <lon>-98.1416494515</lon>
+      <name>Falls City</name>
+      <state>TX</state>
+    </location>
+    <location name="78117">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>28.9384532947</lat>
+      <lon>-97.9807040543</lon>
+      <name>Hobson</name>
+      <state>TX</state>
+    </location>
+    <location name="78147">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>21</dist>
+      <lat>29.0334983113</lat>
+      <lon>-98.09592683</lon>
+      <name>Poth</name>
+      <state>TX</state>
+    </location>
+    <location name="78154">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>29.57221249</lat>
+      <lon>-98.2780647963</lon>
+      <name>Schertz</name>
+      <state>TX</state>
+    </location>
+    <location name="78205">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>29.4244264846</lat>
+      <lon>-98.4879735424</lon>
+      <name>San Antonio</name>
+      <state>TX</state>
+    </location>
+    <location name="78215">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>76</dist>
+      <lat>29.4410403472</lat>
+      <lon>-98.4803251896</lon>
+      <name>San Antonio</name>
+      <state>TX</state>
+    </location>
+    <location name="78259">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>29.6251262993</lat>
+      <lon>-98.4177140803</lon>
+      <name>San Antonio</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

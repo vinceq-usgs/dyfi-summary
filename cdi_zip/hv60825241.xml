@@ -1,0 +1,22 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96740">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>46</dist>
+      <lat>19.7409901702</lat>
+      <lon>-155.898323017</lon>
+      <name>Kailua Kona</name>
+      <state>HI</state>
+    </location>
+    <location name="96743">
+      <cdi>2.3330</cdi>
+      <nresp>4</nresp>
+      <dist>36</dist>
+      <lat>19.931537941</lat>
+      <lon>-155.724082526</lon>
+      <name>Kamuela</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

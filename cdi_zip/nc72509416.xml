@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94080">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>112</dist>
+      <lat>37.65477424</lat>
+      <lon>-122.422257321</lon>
+      <name>South San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94087">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>65</dist>
+      <lat>37.3511799729</lat>
+      <lon>-122.036982745</lon>
+      <name>Sunnyvale</name>
+      <state>CA</state>
+    </location>
+    <location name="94546">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>37.7535145162</lat>
+      <lon>-122.097032395</lon>
+      <name>Castro Valley</name>
+      <state>CA</state>
+    </location>
+    <location name="94553">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>37.9820157598</lat>
+      <lon>-122.165788423</lon>
+      <name>Martinez</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95020">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>10</dist>
+      <lat>37.0188204369</lat>
+      <lon>-121.560718867</lon>
+      <name>Gilroy</name>
+      <state>CA</state>
+    </location>
+    <location name="95023">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>24</dist>
+      <lat>36.8566762391</lat>
+      <lon>-121.249223359</lon>
+      <name>Hollister</name>
+      <state>CA</state>
+    </location>
+    <location name="95045">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>36.850595258</lat>
+      <lon>-121.519285401</lon>
+      <name>San Juan Bautista</name>
+      <state>CA</state>
+    </location>
+    <location name="95608">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>38.6248099544</lat>
+      <lon>-121.328174332</lon>
+      <name>Carmichael</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

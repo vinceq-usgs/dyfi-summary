@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94558">
+      <cdi>2</cdi>
+      <nresp>8</nresp>
+      <dist>13</dist>
+      <lat>38.4988212361</lat>
+      <lon>-122.266321155</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94559">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>38.2394047273</lat>
+      <lon>-122.330669802</lon>
+      <name>Napa</name>
+      <state>CA</state>
+    </location>
+    <location name="94580">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>84</dist>
+      <lat>37.6757604923</lat>
+      <lon>-122.136048982</lon>
+      <name>San Lorenzo</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95816">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>71</dist>
+      <lat>38.5755644201</lat>
+      <lon>-121.465384384</lon>
+      <name>Sacramento</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

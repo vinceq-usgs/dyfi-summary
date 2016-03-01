@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94539">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>37.5266513594</lat>
+      <lon>-121.911791132</lon>
+      <name>Fremont</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94951">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>38.3218513743</lat>
+      <lon>-122.644095055</lon>
+      <name>Penngrove</name>
+      <state>CA</state>
+    </location>
+    <location name="95403">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>38.5032353589</lat>
+      <lon>-122.750206204</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95405">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>38.4395469848</lat>
+      <lon>-122.668473589</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

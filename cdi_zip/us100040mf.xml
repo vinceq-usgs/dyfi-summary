@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kyotanabe::Kyōto::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>34.82</lat>
+      <lon>135.77</lon>
+      <name>Kyotanabe</name>
+    </location>
+    <location name="Kyōto::Kyōto::Japan">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>10</dist>
+      <lat>35.01</lat>
+      <lon>135.75</lon>
+      <name>Kyōto</name>
+    </location>
+    <location name="Mukō::Kyōto::Japan">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>34.96</lat>
+      <lon>135.72</lon>
+      <name>Mukō</name>
+    </location>
+    <location name="Ibaraki::Ōsaka::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>34.81</lat>
+      <lon>135.57</lon>
+      <name>Ibaraki</name>
+    </location>
+    <location name="Toyonaka::Ōsaka::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>34.78</lat>
+      <lon>135.48</lon>
+      <name>Toyonaka</name>
+    </location>
+  </cdi>
+</cdidata>

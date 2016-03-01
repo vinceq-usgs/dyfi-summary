@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="59601">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>30</dist>
+      <lat>46.5446807071</lat>
+      <lon>-112.177188693</lon>
+      <name>Helena</name>
+      <state>MT</state>
+    </location>
+    <location name="59602">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>46.6844690085</lat>
+      <lon>-111.983819735</lon>
+      <name>Helena</name>
+      <state>MT</state>
+    </location>
+    <location name="59633">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>46.8549404461</lat>
+      <lon>-112.310309997</lon>
+      <name>Canyon Creek</name>
+      <state>MT</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67042">
+      <cdi>3.9249</cdi>
+      <nresp>1</nresp>
+      <dist>167</dist>
+      <lat>37.8636939248</lat>
+      <lon>-96.7648880507</lon>
+      <name>El Dorado</name>
+      <state>KS</state>
+    </location>
+    <location name="67152">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>37.2574619357</lat>
+      <lon>-97.4015125998</lon>
+      <name>Wellington</name>
+      <state>KS</state>
+    </location>
+    <location name="67226">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>135</dist>
+      <lat>37.7686679329</lat>
+      <lon>-97.2224601497</lon>
+      <name>Wichita</name>
+      <state>KS</state>
+    </location>
+    <location name="73120">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>35.578955654</lat>
+      <lon>-97.5741492628</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73727">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>36.5307674754</lat>
+      <lon>-98.0184191843</lon>
+      <name>Carrier</name>
+      <state>OK</state>
+    </location>
+    <location name="74129">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>203</dist>
+      <lat>36.1262257904</lat>
+      <lon>-95.8688929266</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

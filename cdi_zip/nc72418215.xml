@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90745">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>328</dist>
+      <lat>33.8225753513</lat>
+      <lon>-118.262102669</lon>
+      <name>Carson</name>
+      <state>CA</state>
+    </location>
+    <location name="92008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>440</dist>
+      <lat>33.1466607065</lat>
+      <lon>-117.31838967</lon>
+      <name>Carlsbad</name>
+      <state>CA</state>
+    </location>
+    <location name="93210">
+      <cdi>2.5391</cdi>
+      <nresp>4</nresp>
+      <dist>12</dist>
+      <lat>36.198572789</lat>
+      <lon>-120.402676852</lon>
+      <name>Coalinga</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,108 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Huaraz::Ancash::Peru">
+      <cdi>2.6912</cdi>
+      <nresp>2</nresp>
+      <dist>135</dist>
+      <lat>-9.53</lat>
+      <lon>-77.53</lon>
+      <name>Huaraz</name>
+    </location>
+    <location name="Lima::Lima Provincias::Peru">
+      <cdi>2.7889</cdi>
+      <nresp>15</nresp>
+      <dist>208</dist>
+      <lat>-12.07</lat>
+      <lon>-77.05</lon>
+      <name>Lima</name>
+    </location>
+    <location name="Huánuco::Huánuco::Peru">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>218</dist>
+      <lat>-9.92</lat>
+      <lon>-76.24</lon>
+      <name>Huánuco</name>
+    </location>
+    <location name="Huanchanco::La Libertad::Peru">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>299</dist>
+      <lat>-8.08</lat>
+      <lon>-79.12</lon>
+      <name>Huanchanco</name>
+    </location>
+    <location name="Trujillo::La Libertad::Peru">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>292</dist>
+      <lat>-8.11</lat>
+      <lon>-79.03</lon>
+      <name>Trujillo</name>
+    </location>
+    <location name="Santa Rosa::Lambayeque::Peru">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>462</dist>
+      <lat>-6.77</lat>
+      <lon>-79.84</lon>
+      <name>Santa Rosa</name>
+    </location>
+    <location name="Barranca::Lima Provincias::Peru">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>-10.74</lat>
+      <lon>-77.77</lon>
+      <name>Barranca</name>
+    </location>
+    <location name="Caleta de Carquín::Lima Provincias::Peru">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>-11.10</lat>
+      <lon>-77.61</lon>
+      <name>Caleta de Carquín</name>
+    </location>
+    <location name="Chancay::Lima Provincias::Peru">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>151</dist>
+      <lat>-11.56</lat>
+      <lon>-77.27</lon>
+      <name>Chancay</name>
+    </location>
+    <location name="Chilca::Lima Provincias::Peru">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>267</dist>
+      <lat>-12.52</lat>
+      <lon>-76.74</lon>
+      <name>Chilca</name>
+    </location>
+    <location name="Mala::Lima Provincias::Peru">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>286</dist>
+      <lat>-12.66</lat>
+      <lon>-76.64</lon>
+      <name>Mala</name>
+    </location>
+    <location name="San Luis::Lima Provincias::Peru">
+      <cdi>2.3025</cdi>
+      <nresp>7</nresp>
+      <dist>212</dist>
+      <lat>-12.08</lat>
+      <lon>-77.00</lon>
+      <name>San Luis</name>
+    </location>
+    <location name="Santa María::Lima Provincias::Peru">
+      <cdi>2.2614</cdi>
+      <nresp>4</nresp>
+      <dist>211</dist>
+      <lat>-12.00</lat>
+      <lon>-76.90</lon>
+      <name>Santa María</name>
+    </location>
+  </cdi>
+</cdidata>

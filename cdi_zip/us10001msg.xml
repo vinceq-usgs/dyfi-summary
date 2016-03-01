@@ -1,0 +1,52 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bucharest::Bukarest::Romania">
+      <cdi>2.8973</cdi>
+      <nresp>3</nresp>
+      <dist>180</dist>
+      <lat>44.44</lat>
+      <lon>26.10</lon>
+      <name>Bucharest</name>
+    </location>
+    <location name="MÄƒrÄƒcineni::BuzÄƒu::Romania">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>45.20</lat>
+      <lon>26.80</lon>
+      <name>MÄƒrÄƒcineni</name>
+    </location>
+    <location name="Chiajna::Ilfov::Romania">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>179</dist>
+      <lat>44.47</lat>
+      <lon>25.97</lon>
+      <name>Chiajna</name>
+    </location>
+    <location name="Voluntari::Ilfov::Romania">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>177</dist>
+      <lat>44.47</lat>
+      <lon>26.13</lon>
+      <name>Voluntari</name>
+    </location>
+    <location name="Doftana::Prahova::Romania">
+      <cdi>3.9249</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>45.15</lat>
+      <lon>25.80</lon>
+      <name>Doftana</name>
+    </location>
+    <location name="Mera::Vrancea::Romania">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>45.77</lat>
+      <lon>26.95</lon>
+      <name>Mera</name>
+    </location>
+  </cdi>
+</cdidata>

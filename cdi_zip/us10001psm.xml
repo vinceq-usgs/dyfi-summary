@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>90</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Ayase::Kanagawa::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>35.44</lat>
+      <lon>139.43</lon>
+      <name>Ayase</name>
+    </location>
+    <location name="Ebina::Kanagawa::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>35.47</lat>
+      <lon>139.42</lon>
+      <name>Ebina</name>
+    </location>
+    <location name="Yamato::Kanagawa::Japan">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>94</dist>
+      <lat>35.52</lat>
+      <lon>139.47</lon>
+      <name>Yamato</name>
+    </location>
+    <location name="Yokohama::Kanagawa::Japan">
+      <cdi>2.6051</cdi>
+      <nresp>5</nresp>
+      <dist>93</dist>
+      <lat>35.47</lat>
+      <lon>139.62</lon>
+      <name>Yokohama</name>
+    </location>
+    <location name="Kawaguchi::Saitama::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>35.81</lat>
+      <lon>139.73</lon>
+      <name>Kawaguchi</name>
+    </location>
+    <location name="Komae::Tokio::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>87</dist>
+      <lat>35.63</lat>
+      <lon>139.58</lon>
+      <name>Komae</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.6196</cdi>
+      <nresp>6</nresp>
+      <dist>83</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

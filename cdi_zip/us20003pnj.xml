@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Belize::Belize::Belize">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>214</dist>
+      <lat>17.50</lat>
+      <lon>-88.19</lon>
+      <name>Belize</name>
+    </location>
+    <location name="La Ceiba::Atlántida::Honduras">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>15.78</lat>
+      <lon>-86.79</lon>
+      <name>La Ceiba</name>
+    </location>
+    <location name="Choloma::Cortés::Honduras">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>201</dist>
+      <lat>15.61</lat>
+      <lon>-87.96</lon>
+      <name>Choloma</name>
+    </location>
+    <location name="French Harbor::Islas de la Bahía::Honduras">
+      <cdi>4.5936</cdi>
+      <nresp>3</nresp>
+      <dist>31</dist>
+      <lat>16.37</lat>
+      <lon>-86.43</lon>
+      <name>French Harbor</name>
+    </location>
+    <location name="Guanaja::Islas de la Bahía::Honduras">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>61</dist>
+      <lat>16.43</lat>
+      <lon>-85.88</lon>
+      <name>Guanaja</name>
+    </location>
+    <location name="José Santos Guardiola::Islas de la Bahía::Honduras">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>29</dist>
+      <lat>16.40</lat>
+      <lon>-86.37</lon>
+      <name>José Santos Guardiola</name>
+    </location>
+    <location name="Monte Placentero::Islas de la Bahía::Honduras">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>16.36</lat>
+      <lon>-86.47</lon>
+      <name>Monte Placentero</name>
+    </location>
+    <location name="Roatán::Islas de la Bahía::Honduras">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>16.33</lat>
+      <lon>-86.52</lon>
+      <name>Roatán</name>
+    </location>
+    <location name="Sandy Bay::Islas de la Bahía::Honduras">
+      <cdi>3.4498</cdi>
+      <nresp>4</nresp>
+      <dist>39</dist>
+      <lat>16.34</lat>
+      <lon>-86.58</lon>
+      <name>Sandy Bay</name>
+    </location>
+  </cdi>
+</cdidata>

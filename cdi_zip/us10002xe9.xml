@@ -1,0 +1,68 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Yachiyo::Chiba::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>265</dist>
+      <lat>35.74</lat>
+      <lon>140.10</lon>
+      <name>Yachiyo</name>
+    </location>
+    <location name="Iwaki::Fukushima::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>111</dist>
+      <lat>37.05</lat>
+      <lon>140.88</lon>
+      <name>Iwaki</name>
+    </location>
+    <location name="Kōriyama::Fukushima::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>37.41</lat>
+      <lon>140.38</lon>
+      <name>Kōriyama</name>
+    </location>
+    <location name="Hitachi::Ibaraki::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>161</dist>
+      <lat>36.59</lat>
+      <lon>140.66</lon>
+      <name>Hitachi</name>
+    </location>
+    <location name="Naka::Ibaraki::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>233</dist>
+      <lat>36.05</lat>
+      <lon>140.17</lon>
+      <name>Naka</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>228</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Sendai::Miyagi::Japan">
+      <cdi>2.8973</cdi>
+      <nresp>4</nresp>
+      <dist>93</dist>
+      <lat>38.26</lat>
+      <lon>140.89</lon>
+      <name>Sendai</name>
+    </location>
+    <location name="Yonezawa::Yamagata::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>137</dist>
+      <lat>37.91</lat>
+      <lon>140.10</lon>
+      <name>Yonezawa</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,67 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="74012">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>416</dist>
+      <lat>36.0534222354</lat>
+      <lon>-95.8042250379</lon>
+      <name>Broken Arrow</name>
+      <state>OK</state>
+    </location>
+    <location name="75234">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>56</dist>
+      <lat>32.9238373245</lat>
+      <lon>-96.8903418275</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76009">
+      <cdi>2.0027</cdi>
+      <nresp>3</nresp>
+      <dist>10</dist>
+      <lat>32.4185305831</lat>
+      <lon>-97.2044749595</lon>
+      <name>Alvarado</name>
+      <state>TX</state>
+    </location>
+    <location name="76028">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>17</dist>
+      <lat>32.5256735642</lat>
+      <lon>-97.304570582</lon>
+      <name>Burleson</name>
+      <state>TX</state>
+    </location>
+    <location name="76031">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>32.349763034</lat>
+      <lon>-97.3335784815</lon>
+      <name>Cleburne</name>
+      <state>TX</state>
+    </location>
+    <location name="76063">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>13</dist>
+      <lat>32.5724675729</lat>
+      <lon>-97.1380219893</lon>
+      <name>Mansfield</name>
+      <state>TX</state>
+    </location>
+    <location name="76084">
+      <cdi>3.0280</cdi>
+      <nresp>3</nresp>
+      <dist>8</dist>
+      <lat>32.4358033098</lat>
+      <lon>-97.0921615573</lon>
+      <name>Venus</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,132 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Nueva Imperial::Araucanía::Chile">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>274</dist>
+      <lat>-38.74</lat>
+      <lon>-72.96</lon>
+      <name>Nueva Imperial</name>
+    </location>
+    <location name="Temuco::Araucanía::Chile">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>284</dist>
+      <lat>-38.73</lat>
+      <lon>-72.58</lon>
+      <name>Temuco</name>
+    </location>
+    <location name="Villarrica::Araucanía::Chile">
+      <cdi>2.5391</cdi>
+      <nresp>4</nresp>
+      <dist>352</dist>
+      <lat>-39.28</lat>
+      <lon>-72.23</lon>
+      <name>Villarrica</name>
+    </location>
+    <location name="Chiguayante::Bío Bío::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>3</nresp>
+      <dist>90</dist>
+      <lat>-36.90</lat>
+      <lon>-73.04</lon>
+      <name>Chiguayante</name>
+    </location>
+    <location name="Chillán::Bío Bío::Chile">
+      <cdi>3.6156</cdi>
+      <nresp>2</nresp>
+      <dist>153</dist>
+      <lat>-36.60</lat>
+      <lon>-72.11</lon>
+      <name>Chillán</name>
+    </location>
+    <location name="Concepción::Bío Bío::Chile">
+      <cdi>3.8782</cdi>
+      <nresp>28</nresp>
+      <dist>84</dist>
+      <lat>-36.83</lat>
+      <lon>-73.05</lon>
+      <name>Concepción</name>
+    </location>
+    <location name="Coronel::Bío Bío::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>2</nresp>
+      <dist>93</dist>
+      <lat>-37.03</lat>
+      <lon>-73.16</lon>
+      <name>Coronel</name>
+    </location>
+    <location name="Lota::Bío Bío::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>-37.09</lat>
+      <lon>-73.16</lon>
+      <name>Lota</name>
+    </location>
+    <location name="Penco::Bío Bío::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>82</dist>
+      <lat>-36.73</lat>
+      <lon>-73.00</lon>
+      <name>Penco</name>
+    </location>
+    <location name="Talcahuano::Bío Bío::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>73</dist>
+      <lat>-36.74</lat>
+      <lon>-73.13</lon>
+      <name>Talcahuano</name>
+    </location>
+    <location name="Tomé::Bío Bío::Chile">
+      <cdi>4.3417</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>-36.61</lat>
+      <lon>-72.96</lon>
+      <name>Tomé</name>
+    </location>
+    <location name="Santa Cruz::Libertador General Bernardo OʿHiggins::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>291</dist>
+      <lat>-34.63</lat>
+      <lon>-71.37</lon>
+      <name>Santa Cruz</name>
+    </location>
+    <location name="Valdivia::Los Lagos::Chile">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>387</dist>
+      <lat>-39.82</lat>
+      <lon>-73.23</lon>
+      <name>Valdivia</name>
+    </location>
+    <location name="Parral::Maule::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>177</dist>
+      <lat>-36.14</lat>
+      <lon>-71.83</lon>
+      <name>Parral</name>
+    </location>
+    <location name="Puente Alto::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>423</dist>
+      <lat>-33.61</lat>
+      <lon>-70.57</lon>
+      <name>Puente Alto</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>431</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

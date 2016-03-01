@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="96738">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>19.9278736268</lat>
+      <lon>-155.809803675</lon>
+      <name>Waikoloa</name>
+      <state>HI</state>
+    </location>
+    <location name="96740">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>19.7409901702</lat>
+      <lon>-155.898323017</lon>
+      <name>Kailua Kona</name>
+      <state>HI</state>
+    </location>
+    <location name="96743">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>34</dist>
+      <lat>19.931537941</lat>
+      <lon>-155.724082526</lon>
+      <name>Kamuela</name>
+      <state>HI</state>
+    </location>
+    <location name="96755">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>20.1678850117</lat>
+      <lon>-155.783145136</lon>
+      <name>Kapaau</name>
+      <state>HI</state>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="92243">
+      <cdi>2.7053</cdi>
+      <nresp>6</nresp>
+      <dist>17</dist>
+      <lat>32.7733878486</lat>
+      <lon>-115.600968985</lon>
+      <name>El Centro</name>
+      <state>CA</state>
+    </location>
+    <location name="92250">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>32.7946415441</lat>
+      <lon>-115.356401686</lon>
+      <name>Holtville</name>
+      <state>CA</state>
+    </location>
+    <location name="92251">
+      <cdi>3.6156</cdi>
+      <nresp>5</nresp>
+      <dist>19</dist>
+      <lat>32.8727372362</lat>
+      <lon>-115.620839586</lon>
+      <name>Imperial</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

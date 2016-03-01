@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94578">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>293</dist>
+      <lat>37.7063627987</lat>
+      <lon>-122.125302829</lon>
+      <name>San Leandro</name>
+      <state>CA</state>
+    </location>
+    <location name="95060">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>365</dist>
+      <lat>37.0592413896</lat>
+      <lon>-122.157700218</lon>
+      <name>Santa Cruz</name>
+      <state>CA</state>
+    </location>
+    <location name="96063">
+      <cdi>2.0713</cdi>
+      <nresp>3</nresp>
+      <dist>16</dist>
+      <lat>40.3535732115</lat>
+      <lon>-121.517055936</lon>
+      <name>Mineral</name>
+      <state>CA</state>
+    </location>
+    <location name="96075">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>40.3667707202</lat>
+      <lon>-121.800810811</lon>
+      <name>Paynes Creek</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

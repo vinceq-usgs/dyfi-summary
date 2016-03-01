@@ -1,0 +1,20 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Lanzhou::Gansu::China">
+      <cdi>4.0100</cdi>
+      <nresp>4</nresp>
+      <dist>72</dist>
+      <lat>36.05</lat>
+      <lon>103.68</lon>
+      <name>Lanzhou</name>
+    </location>
+    <location name="Qincheng::Gansu::China">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>198</dist>
+      <lat>34.60</lat>
+      <lon>105.92</lon>
+      <name>Qincheng</name>
+    </location>
+  </cdi>
+</cdidata>

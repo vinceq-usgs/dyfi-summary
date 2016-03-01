@@ -1,0 +1,175 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="20877">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>677</dist>
+      <lat>39.1415412569</lat>
+      <lon>-77.1864968684</lon>
+      <name>Gaithersburg</name>
+      <state>MD</state>
+    </location>
+    <location name="21075">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>712</dist>
+      <lat>39.2047497826</lat>
+      <lon>-76.7530030102</lon>
+      <name>Elkridge</name>
+      <state>MD</state>
+    </location>
+    <location name="27203">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>317</dist>
+      <lat>35.7317395672</lat>
+      <lon>-79.7896572867</lon>
+      <name>Asheboro</name>
+      <state>NC</state>
+    </location>
+    <location name="27592">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>417</dist>
+      <lat>35.5606629666</lat>
+      <lon>-78.6757365993</lon>
+      <name>Willow Spring</name>
+      <state>NC</state>
+    </location>
+    <location name="27960">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>671</dist>
+      <lat>35.1283068212</lat>
+      <lon>-75.9141840148</lon>
+      <name>Ocracoke</name>
+      <state>NC</state>
+    </location>
+    <location name="27965">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>673</dist>
+      <lat>36.2709823082</lat>
+      <lon>-75.8887216195</lon>
+      <name>Poplar Branch</name>
+      <state>NC</state>
+    </location>
+    <location name="28472">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>446</dist>
+      <lat>34.2129323041</lat>
+      <lon>-78.6371755088</lon>
+      <name>Whiteville</name>
+      <state>NC</state>
+    </location>
+    <location name="28704">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>35.4641970946</lat>
+      <lon>-82.5810466259</lon>
+      <name>Arden</name>
+      <state>NC</state>
+    </location>
+    <location name="28713">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>26</dist>
+      <lat>35.4539529431</lat>
+      <lon>-83.5712761057</lon>
+      <name>Bryson City</name>
+      <state>NC</state>
+    </location>
+    <location name="28719">
+      <cdi>3.5139</cdi>
+      <nresp>7</nresp>
+      <dist>18</dist>
+      <lat>35.6154694366</lat>
+      <lon>-83.216955817</lon>
+      <name>Cherokee</name>
+      <state>NC</state>
+    </location>
+    <location name="28721">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>35.6604560659</lat>
+      <lon>-82.9486403144</lon>
+      <name>Clyde</name>
+      <state>NC</state>
+    </location>
+    <location name="28734">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>33</dist>
+      <lat>35.1759453279</lat>
+      <lon>-83.4279385995</lon>
+      <name>Franklin</name>
+      <state>NC</state>
+    </location>
+    <location name="28779">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>35.3602971539</lat>
+      <lon>-83.1981054567</lon>
+      <name>Sylva</name>
+      <state>NC</state>
+    </location>
+    <location name="28789">
+      <cdi>3.4017</cdi>
+      <nresp>18</nresp>
+      <dist>2</dist>
+      <lat>35.4310165211</lat>
+      <lon>-83.2796046478</lon>
+      <name>Whittier</name>
+      <state>NC</state>
+    </location>
+    <location name="28901">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>55</dist>
+      <lat>35.2039191404</lat>
+      <lon>-83.8051772933</lon>
+      <name>Andrews</name>
+      <state>NC</state>
+    </location>
+    <location name="28906">
+      <cdi>2</cdi>
+      <nresp>3</nresp>
+      <dist>85</dist>
+      <lat>35.1180726576</lat>
+      <lon>-84.1309893511</lon>
+      <name>Murphy</name>
+      <state>NC</state>
+    </location>
+    <location name="29016">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>251</dist>
+      <lat>34.2008209984</lat>
+      <lon>-80.9951079404</lon>
+      <name>Blythewood</name>
+      <state>SC</state>
+    </location>
+    <location name="31087">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>243</dist>
+      <lat>33.276220613</lat>
+      <lon>-83.0001776995</lon>
+      <name>Sparta</name>
+      <state>GA</state>
+    </location>
+    <location name="45226">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>418</dist>
+      <lat>39.1112845477</lat>
+      <lon>-84.4191052877</lon>
+      <name>Cincinnati</name>
+      <state>OH</state>
+    </location>
+  </cdi>
+</cdidata>

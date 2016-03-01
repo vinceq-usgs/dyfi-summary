@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Río Tercero::Córdoba::Argentina">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>373</dist>
+      <lat>-32.18</lat>
+      <lon>-64.12</lon>
+      <name>Río Tercero</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2.6051</cdi>
+      <nresp>7</nresp>
+      <dist>114</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="San Rafael::Mendoza::Argentina">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>280</dist>
+      <lat>-34.62</lat>
+      <lon>-68.34</lon>
+      <name>San Rafael</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>80</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="La Serena::Coquimbo::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>390</dist>
+      <lat>-29.90</lat>
+      <lon>-71.25</lon>
+      <name>La Serena</name>
+    </location>
+  </cdi>
+</cdidata>

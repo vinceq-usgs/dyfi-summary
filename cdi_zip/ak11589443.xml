@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00198">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>253</dist>
+      <lat>60.9302607613</lat>
+      <lon>-149.087241999</lon>
+      <name>E Mncplty of Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99501">
+      <cdi>2.3799</cdi>
+      <nresp>2</nresp>
+      <dist>234</dist>
+      <lat>61.2172381203</lat>
+      <lon>-149.869068212</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99516">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>246</dist>
+      <lat>61.0726161718</lat>
+      <lon>-149.715124965</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99517">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>238</dist>
+      <lat>61.1899261926</lat>
+      <lon>-149.936096257</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99567">
+      <cdi>2.2047</cdi>
+      <nresp>3</nresp>
+      <dist>201</dist>
+      <lat>61.4609962815</lat>
+      <lon>-149.330150001</lon>
+      <name>Chugiak</name>
+      <state>AK</state>
+    </location>
+    <location name="99577">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>224</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+    <location name="99676">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>147</dist>
+      <lat>62.1797503902</lat>
+      <lon>-149.889641836</lon>
+      <name>Talkeetna</name>
+      <state>AK</state>
+    </location>
+    <location name="99701">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>175</dist>
+      <lat>64.5124558489</lat>
+      <lon>-147.669565076</lon>
+      <name>Fairbanks</name>
+      <state>AK</state>
+    </location>
+    <location name="99709">
+      <cdi>2.8973</cdi>
+      <nresp>2</nresp>
+      <dist>218</dist>
+      <lat>64.9460959895</lat>
+      <lon>-148.251252626</lon>
+      <name>Fairbanks</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

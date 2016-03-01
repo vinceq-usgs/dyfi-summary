@@ -1,0 +1,103 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67036">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>59</dist>
+      <lat>37.2575310238</lat>
+      <lon>-97.8672725658</lon>
+      <name>Danville</name>
+      <state>KS</state>
+    </location>
+    <location name="73007">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>35.685166984</lat>
+      <lon>-97.3241441</lon>
+      <name>Arcadia</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>121</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73114">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>132</dist>
+      <lat>35.579568444</lat>
+      <lon>-97.5180480544</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73703">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>36</dist>
+      <lat>36.3996561482</lat>
+      <lon>-97.9455732831</lon>
+      <name>Enid</name>
+      <state>OK</state>
+    </location>
+    <location name="73860">
+      <cdi>3.3110</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>36.5801313858</lat>
+      <lon>-98.7996573577</lon>
+      <name>Waynoka</name>
+      <state>OK</state>
+    </location>
+    <location name="75062">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>439</dist>
+      <lat>32.8466187025</lat>
+      <lon>-96.9592247696</lon>
+      <name>Irving</name>
+      <state>TX</state>
+    </location>
+    <location name="75214">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>445</dist>
+      <lat>32.8290264582</lat>
+      <lon>-96.7434502891</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="75229">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>435</dist>
+      <lat>32.8942688307</lat>
+      <lon>-96.8621020502</lon>
+      <name>Dallas</name>
+      <state>TX</state>
+    </location>
+    <location name="76120">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>444</dist>
+      <lat>32.766492076</lat>
+      <lon>-97.1827450419</lon>
+      <name>Fort Worth</name>
+      <state>TX</state>
+    </location>
+  </cdi>
+</cdidata>

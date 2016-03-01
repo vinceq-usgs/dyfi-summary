@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="95971">
+      <cdi>3.0686</cdi>
+      <nresp>33</nresp>
+      <dist>15</dist>
+      <lat>39.9086719097</lat>
+      <lon>-121.017117002</lon>
+      <name>Quincy</name>
+      <state>CA</state>
+    </location>
+    <location name="96103">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>39.8010984125</lat>
+      <lon>-120.690097808</lon>
+      <name>Blairsden-Graeagle</name>
+      <state>CA</state>
+    </location>
+    <location name="96122">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>39</dist>
+      <lat>39.8910584715</lat>
+      <lon>-120.379280308</lon>
+      <name>Portola</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

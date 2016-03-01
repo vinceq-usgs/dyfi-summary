@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="99507">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>104</dist>
+      <lat>61.151181701</lat>
+      <lon>-149.77914819</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99515">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>61.1145748641</lat>
+      <lon>-149.893146119</lon>
+      <name>Anchorage</name>
+      <state>AK</state>
+    </location>
+    <location name="99577">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>110</dist>
+      <lat>61.2252197667</lat>
+      <lon>-149.305089664</lon>
+      <name>Eagle River</name>
+      <state>AK</state>
+    </location>
+    <location name="99688">
+      <cdi>2.5465</cdi>
+      <nresp>3</nresp>
+      <dist>69</dist>
+      <lat>61.5775256877</lat>
+      <lon>-150.312380005</lon>
+      <name>Willow</name>
+      <state>AK</state>
+    </location>
+  </cdi>
+</cdidata>

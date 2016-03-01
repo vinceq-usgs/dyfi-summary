@@ -1,0 +1,188 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Pergamino::Buenos Aires::Argentina">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>647</dist>
+      <lat>-33.90</lat>
+      <lon>-60.57</lon>
+      <name>Pergamino</name>
+    </location>
+    <location name="CÃ³rdoba::CÃ³rdoba::Argentina">
+      <cdi>2.2854</cdi>
+      <nresp>2</nresp>
+      <dist>357</dist>
+      <lat>-31.40</lat>
+      <lon>-64.19</lon>
+      <name>CÃ³rdoba</name>
+    </location>
+    <location name="La Rioja::La Rioja::Argentina">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>405</dist>
+      <lat>-29.41</lat>
+      <lon>-66.85</lon>
+      <name>La Rioja</name>
+    </location>
+    <location name="Mendoza::Mendoza::Argentina">
+      <cdi>2.9737</cdi>
+      <nresp>15</nresp>
+      <dist>235</dist>
+      <lat>-32.89</lat>
+      <lon>-68.83</lon>
+      <name>Mendoza</name>
+    </location>
+    <location name="San Rafael::Mendoza::Argentina">
+      <cdi>3.4667</cdi>
+      <nresp>4</nresp>
+      <dist>294</dist>
+      <lat>-34.62</lat>
+      <lon>-68.34</lon>
+      <name>San Rafael</name>
+    </location>
+    <location name="San Juan::San Juan::Argentina">
+      <cdi>4.1098</cdi>
+      <nresp>7</nresp>
+      <dist>253</dist>
+      <lat>-31.54</lat>
+      <lon>-68.53</lon>
+      <name>San Juan</name>
+    </location>
+    <location name="San Luis::San Luis::Argentina">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>197</dist>
+      <lat>-33.31</lat>
+      <lon>-66.35</lon>
+      <name>San Luis</name>
+    </location>
+    <location name="CopiapÃ³::Atacama::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>691</dist>
+      <lat>-27.36</lat>
+      <lon>-70.34</lon>
+      <name>CopiapÃ³</name>
+    </location>
+    <location name="Coquimbo::Coquimbo::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>532</dist>
+      <lat>-29.96</lat>
+      <lon>-71.33</lon>
+      <name>Coquimbo</name>
+    </location>
+    <location name="VicuÃ±a::Coquimbo::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>486</dist>
+      <lat>-30.03</lat>
+      <lon>-70.74</lon>
+      <name>VicuÃ±a</name>
+    </location>
+    <location name="Graneros::Libertador General Bernardo OÊ¿Higgins::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>405</dist>
+      <lat>-34.07</lat>
+      <lon>-70.72</lon>
+      <name>Graneros</name>
+    </location>
+    <location name="MachalÃ­::Libertador General Bernardo OÊ¿Higgins::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>405</dist>
+      <lat>-34.18</lat>
+      <lon>-70.67</lon>
+      <name>MachalÃ­</name>
+    </location>
+    <location name="Rancagua::Libertador General Bernardo OÊ¿Higgins::Chile">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>410</dist>
+      <lat>-34.17</lat>
+      <lon>-70.74</lon>
+      <name>Rancagua</name>
+    </location>
+    <location name="Valdivia::Los Lagos::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>975</dist>
+      <lat>-39.82</lat>
+      <lon>-73.23</lon>
+      <name>Valdivia</name>
+    </location>
+    <location name="Lampa::Metropolitana::Chile">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>397</dist>
+      <lat>-33.28</lat>
+      <lon>-70.90</lon>
+      <name>Lampa</name>
+    </location>
+    <location name="Melipilla::Metropolitana::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>432</dist>
+      <lat>-33.69</lat>
+      <lon>-71.22</lon>
+      <name>Melipilla</name>
+    </location>
+    <location name="Puente Alto::Metropolitana::Chile">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>377</dist>
+      <lat>-33.61</lat>
+      <lon>-70.57</lon>
+      <name>Puente Alto</name>
+    </location>
+    <location name="San Bernardo::Metropolitana::Chile">
+      <cdi>2.8299</cdi>
+      <nresp>3</nresp>
+      <dist>387</dist>
+      <lat>-33.60</lat>
+      <lon>-70.70</lon>
+      <name>San Bernardo</name>
+    </location>
+    <location name="Santiago::Metropolitana::Chile">
+      <cdi>2.7038</cdi>
+      <nresp>32</nresp>
+      <dist>379</dist>
+      <lat>-33.46</lat>
+      <lon>-70.64</lon>
+      <name>Santiago</name>
+    </location>
+    <location name="La Ligua::ValparaÃ­so::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>424</dist>
+      <lat>-32.46</lat>
+      <lon>-71.24</lon>
+      <name>La Ligua</name>
+    </location>
+    <location name="QuilpuÃ©::ValparaÃ­so::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>445</dist>
+      <lat>-33.04</lat>
+      <lon>-71.50</lon>
+      <name>QuilpuÃ©</name>
+    </location>
+    <location name="ValparaÃ­so::ValparaÃ­so::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>457</dist>
+      <lat>-33.04</lat>
+      <lon>-71.64</lon>
+      <name>ValparaÃ­so</name>
+    </location>
+    <location name="ViÃ±a del Mar::ValparaÃ­so::Chile">
+      <cdi>2.9841</cdi>
+      <nresp>5</nresp>
+      <dist>449</dist>
+      <lat>-33.01</lat>
+      <lon>-71.55</lon>
+      <name>ViÃ±a del Mar</name>
+    </location>
+  </cdi>
+</cdidata>

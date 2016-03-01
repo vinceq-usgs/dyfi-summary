@@ -1,0 +1,276 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Mexico City::Distrito Federal::Mexico">
+      <cdi>3.0573</cdi>
+      <nresp>39</nresp>
+      <dist>175</dist>
+      <lat>19.43</lat>
+      <lon>-99.14</lon>
+      <name>Mexico City</name>
+    </location>
+    <location name="Huamuxtitlán::Guerrero::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>17.82</lat>
+      <lon>-98.57</lon>
+      <name>Huamuxtitlán</name>
+    </location>
+    <location name="Tlapa::Guerrero::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>17.55</lat>
+      <lon>-98.59</lon>
+      <name>Tlapa</name>
+    </location>
+    <location name="Las Pintas::Jalisco::Mexico">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>579</dist>
+      <lat>20.57</lat>
+      <lon>-103.32</lon>
+      <name>Las Pintas</name>
+    </location>
+    <location name="Cocoyoc::Morelos::Mexico">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>116</dist>
+      <lat>18.87</lat>
+      <lon>-98.98</lon>
+      <name>Cocoyoc</name>
+    </location>
+    <location name="Cuernavaca::Morelos::Mexico">
+      <cdi>2.7751</cdi>
+      <nresp>6</nresp>
+      <dist>135</dist>
+      <lat>18.92</lat>
+      <lon>-99.25</lon>
+      <name>Cuernavaca</name>
+    </location>
+    <location name="Jiutepec::Morelos::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>18.87</lat>
+      <lon>-99.18</lon>
+      <name>Jiutepec</name>
+    </location>
+    <location name="Tepoztlán::Morelos::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>131</dist>
+      <lat>18.98</lat>
+      <lon>-99.10</lon>
+      <name>Tepoztlán</name>
+    </location>
+    <location name="Tlalnepantla::Morelos::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>128</dist>
+      <lat>19.00</lat>
+      <lon>-98.98</lon>
+      <name>Tlalnepantla</name>
+    </location>
+    <location name="Tlaquiltenango::Morelos::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>108</dist>
+      <lat>18.63</lat>
+      <lon>-99.17</lon>
+      <name>Tlaquiltenango</name>
+    </location>
+    <location name="Tres Marías::Morelos::Mexico">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>19.05</lat>
+      <lon>-99.24</lon>
+      <name>Tres Marías</name>
+    </location>
+    <location name="Cacalomacán::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>190</dist>
+      <lat>19.25</lat>
+      <lon>-99.70</lon>
+      <name>Cacalomacán</name>
+    </location>
+    <location name="Coatepec (San Bartolomé Coatepec)::México::Mexico">
+      <cdi>4.0220</cdi>
+      <nresp>3</nresp>
+      <dist>179</dist>
+      <lat>19.39</lat>
+      <lon>-99.31</lon>
+      <name>Coatepec (San Bartolomé Coatepec)</name>
+    </location>
+    <location name="Ecatepec::México::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>19.60</lat>
+      <lon>-99.05</lon>
+      <name>Ecatepec</name>
+    </location>
+    <location name="Ixtacalco::México::Mexico">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>203</dist>
+      <lat>19.69</lat>
+      <lon>-99.19</lon>
+      <name>Ixtacalco</name>
+    </location>
+    <location name="Jajalpa::México::Mexico">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>19.11</lat>
+      <lon>-99.54</lon>
+      <name>Jajalpa</name>
+    </location>
+    <location name="López Mateos::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>194</dist>
+      <lat>19.57</lat>
+      <lon>-99.26</lon>
+      <name>López Mateos</name>
+    </location>
+    <location name="Metepec::México::Mexico">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>186</dist>
+      <lat>19.27</lat>
+      <lon>-99.62</lon>
+      <name>Metepec</name>
+    </location>
+    <location name="Naucalpan::México::Mexico">
+      <cdi>3.0408</cdi>
+      <nresp>3</nresp>
+      <dist>184</dist>
+      <lat>19.48</lat>
+      <lon>-99.23</lon>
+      <name>Naucalpan</name>
+    </location>
+    <location name="Tlalnepantla::México::Mexico">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>188</dist>
+      <lat>19.54</lat>
+      <lon>-99.19</lon>
+      <name>Tlalnepantla</name>
+    </location>
+    <location name="Xico::México::Mexico">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>152</dist>
+      <lat>19.27</lat>
+      <lon>-98.94</lon>
+      <name>Xico</name>
+    </location>
+    <location name="Zacamulpa::México::Mexico">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>177</dist>
+      <lat>19.36</lat>
+      <lon>-99.33</lon>
+      <name>Zacamulpa</name>
+    </location>
+    <location name="Teotitlán den Valle::Oaxaca::Mexico">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>247</dist>
+      <lat>17.03</lat>
+      <lon>-96.50</lon>
+      <name>Teotitlán den Valle</name>
+    </location>
+    <location name="Xoxocotlan::Oaxaca::Mexico">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>226</dist>
+      <lat>17.02</lat>
+      <lon>-96.73</lon>
+      <name>Xoxocotlan</name>
+    </location>
+    <location name="Acatlán (Acatlán de Osorio)::Puebla::Mexico">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>74</dist>
+      <lat>18.20</lat>
+      <lon>-98.05</lon>
+      <name>Acatlán (Acatlán de Osorio)</name>
+    </location>
+    <location name="Acatzingo::Puebla::Mexico">
+      <cdi>5.2033</cdi>
+      <nresp>1</nresp>
+      <dist>140</dist>
+      <lat>18.98</lat>
+      <lon>-97.78</lon>
+      <name>Acatzingo</name>
+    </location>
+    <location name="Atzompa::Puebla::Mexico">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>19.03</lat>
+      <lon>-98.33</lon>
+      <name>Atzompa</name>
+    </location>
+    <location name="Cuanala::Puebla::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>19.10</lat>
+      <lon>-98.32</lon>
+      <name>Cuanala</name>
+    </location>
+    <location name="Puebla::Puebla::Mexico">
+      <cdi>3.6447</cdi>
+      <nresp>5</nresp>
+      <dist>127</dist>
+      <lat>19.05</lat>
+      <lon>-98.22</lon>
+      <name>Puebla</name>
+    </location>
+    <location name="Tecali::Puebla::Mexico">
+      <cdi>3.0408</cdi>
+      <nresp>3</nresp>
+      <dist>123</dist>
+      <lat>18.90</lat>
+      <lon>-97.97</lon>
+      <name>Tecali</name>
+    </location>
+    <location name="Cuautlapan::Veracruz::Mexico">
+      <cdi>4.9397</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>18.87</lat>
+      <lon>-97.03</lon>
+      <name>Cuautlapan</name>
+    </location>
+    <location name="Ixtaczoquitlán::Veracruz::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>185</dist>
+      <lat>18.85</lat>
+      <lon>-97.07</lon>
+      <name>Ixtaczoquitlán</name>
+    </location>
+    <location name="Orizaba::Veracruz::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>18.83</lat>
+      <lon>-97.10</lon>
+      <name>Orizaba</name>
+    </location>
+    <location name="Veracruz::Veracruz::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>286</dist>
+      <lat>19.19</lat>
+      <lon>-96.14</lon>
+      <name>Veracruz</name>
+    </location>
+  </cdi>
+</cdidata>

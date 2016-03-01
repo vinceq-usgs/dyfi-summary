@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Pimentel::Duarte::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>19.18</lat>
+      <lon>-70.11</lon>
+      <name>Pimentel</name>
+    </location>
+    <location name="Tireo::La Vega::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>83</dist>
+      <lat>18.93</lat>
+      <lon>-70.68</lon>
+      <name>Tireo</name>
+    </location>
+    <location name="Altamira::Puerto Plata::Dominican Republic">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>30</dist>
+      <lat>19.68</lat>
+      <lon>-70.83</lon>
+      <name>Altamira</name>
+    </location>
+    <location name="Puerto Plata::Puerto Plata::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>19.80</lat>
+      <lon>-70.70</lon>
+      <name>Puerto Plata</name>
+    </location>
+    <location name="El Carril::San Cristóbal::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>155</dist>
+      <lat>18.45</lat>
+      <lon>-70.02</lon>
+      <name>El Carril</name>
+    </location>
+    <location name="Bohechío::San Juan::Dominican Republic">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>102</dist>
+      <lat>18.77</lat>
+      <lon>-70.98</lon>
+      <name>Bohechío</name>
+    </location>
+    <location name="Pedro García::Santiago::Dominican Republic">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>31</dist>
+      <lat>19.60</lat>
+      <lon>-70.65</lon>
+      <name>Pedro García</name>
+    </location>
+    <location name="Sabana Iglesia::Santiago::Dominican Republic">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>19.33</lat>
+      <lon>-70.75</lon>
+      <name>Sabana Iglesia</name>
+    </location>
+    <location name="San José de las Matas::Santiago::Dominican Republic">
+      <cdi>4.5936</cdi>
+      <nresp>1</nresp>
+      <dist>47</dist>
+      <lat>19.33</lat>
+      <lon>-70.93</lon>
+      <name>San José de las Matas</name>
+    </location>
+    <location name="Santiago::Santiago::Dominican Republic">
+      <cdi>3.1043</cdi>
+      <nresp>22</nresp>
+      <dist>34</dist>
+      <lat>19.48</lat>
+      <lon>-70.69</lon>
+      <name>Santiago</name>
+    </location>
+  </cdi>
+</cdidata>

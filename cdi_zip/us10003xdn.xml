@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Palmares::Alajuela::Costa Rica">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>226</dist>
+      <lat>9.32</lat>
+      <lon>-83.67</lon>
+      <name>Palmares</name>
+    </location>
+    <location name="Sardinal::Guanacaste::Costa Rica">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>98</dist>
+      <lat>10.52</lat>
+      <lon>-85.65</lon>
+      <name>Sardinal</name>
+    </location>
+    <location name="Limón::Limón::Costa Rica">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>293</dist>
+      <lat>9.99</lat>
+      <lon>-83.04</lon>
+      <name>Limón</name>
+    </location>
+    <location name="Ipís::San José::Costa Rica">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>187</dist>
+      <lat>9.97</lat>
+      <lon>-84.02</lon>
+      <name>Ipís</name>
+    </location>
+    <location name="San Miguel::San José::Costa Rica">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>181</dist>
+      <lat>9.89</lat>
+      <lon>-84.07</lon>
+      <name>San Miguel</name>
+    </location>
+  </cdi>
+</cdidata>

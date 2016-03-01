@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94110">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>37.7497940107</lat>
+      <lon>-122.415347766</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+    <location name="94510">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>53</dist>
+      <lat>38.0889049703</lat>
+      <lon>-122.122779438</lon>
+      <name>Benicia</name>
+      <state>CA</state>
+    </location>
+    <location name="94518">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>37.950837981</lat>
+      <lon>-122.022350281</lon>
+      <name>Concord</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.1387</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95678">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>123</dist>
+      <lat>38.7648177637</lat>
+      <lon>-121.288145345</lon>
+      <name>Roseville</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

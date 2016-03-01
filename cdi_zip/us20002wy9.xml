@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kuta::Bali::Indonesia">
+      <cdi>2.8570</cdi>
+      <nresp>4</nresp>
+      <dist>163</dist>
+      <lat>-8.72</lat>
+      <lon>115.17</lon>
+      <name>Kuta</name>
+    </location>
+    <location name="Ubud::Bali::Indonesia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>158</dist>
+      <lat>-8.52</lat>
+      <lon>115.26</lon>
+      <name>Ubud</name>
+    </location>
+    <location name="Mataram::Nusa Tenggara Barat::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>127</dist>
+      <lat>-8.58</lat>
+      <lon>116.13</lon>
+      <name>Mataram</name>
+    </location>
+    <location name="Praya::Nusa Tenggara Barat::Indonesia">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>-8.72</lat>
+      <lon>116.29</lon>
+      <name>Praya</name>
+    </location>
+  </cdi>
+</cdidata>

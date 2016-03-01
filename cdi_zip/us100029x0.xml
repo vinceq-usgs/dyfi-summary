@@ -1,0 +1,100 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Phuentsholing::Chhukha::Bhutan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>364</dist>
+      <lat>26.85</lat>
+      <lon>89.38</lon>
+      <name>Phuentsholing</name>
+    </location>
+    <location name="Jaynagar-Majilpur::Bangla::India">
+      <cdi>2.0372</cdi>
+      <nresp>1</nresp>
+      <dist>646</dist>
+      <lat>22.18</lat>
+      <lon>88.42</lon>
+      <name>Jaynagar-Majilpur</name>
+    </location>
+    <location name="Bhagalpur::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>275</dist>
+      <lat>25.26</lat>
+      <lon>86.98</lon>
+      <name>Bhagalpur</name>
+    </location>
+    <location name="Motihari::Bihar::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>126</dist>
+      <lat>26.66</lat>
+      <lon>84.91</lon>
+      <name>Motihari</name>
+    </location>
+    <location name="Raxaul::Bihar::India">
+      <cdi>1</cdi>
+      <nresp>2</nresp>
+      <dist>108</dist>
+      <lat>26.98</lat>
+      <lon>84.85</lon>
+      <name>Raxaul</name>
+    </location>
+    <location name="Raurkela Civil Township::Orissa::India">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>588</dist>
+      <lat>22.25</lat>
+      <lon>84.86</lon>
+      <name>Raurkela Civil Township</name>
+    </location>
+    <location name="Jaunpur::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>362</dist>
+      <lat>25.76</lat>
+      <lon>82.69</lon>
+      <name>Jaunpur</name>
+    </location>
+    <location name="Unao::Uttar Pradesh::India">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>534</dist>
+      <lat>26.55</lat>
+      <lon>80.49</lon>
+      <name>Unao</name>
+    </location>
+    <location name="Bharatpur::Chitwan::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>27.67</lat>
+      <lon>84.44</lon>
+      <name>Bharatpur</name>
+    </location>
+    <location name="Tribuvannagar::Dang Deokhuri::Nepal">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>48</dist>
+      <lat>27.72</lat>
+      <lon>85.37</lon>
+      <name>Tribuvannagar</name>
+    </location>
+    <location name="Mechinagar::Jhapa::Nepal">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>215</dist>
+      <lat>27.17</lat>
+      <lon>87.92</lon>
+      <name>Mechinagar</name>
+    </location>
+    <location name="Pokharā::Kaski::Nepal">
+      <cdi>2</cdi>
+      <nresp>4</nresp>
+      <dist>193</dist>
+      <lat>28.22</lat>
+      <lon>83.99</lon>
+      <name>Pokharā</name>
+    </location>
+  </cdi>
+</cdidata>

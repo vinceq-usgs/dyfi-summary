@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bagno a Ripoli::Toscana::Italy">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>22</dist>
+      <lat>43.75</lat>
+      <lon>11.31</lon>
+      <name>Bagno a Ripoli</name>
+    </location>
+    <location name="Florence::Toscana::Italy">
+      <cdi>3.2703</cdi>
+      <nresp>14</nresp>
+      <dist>25</dist>
+      <lat>43.78</lat>
+      <lon>11.24</lon>
+      <name>Florence</name>
+    </location>
+    <location name="Greve in Chianti::Toscana::Italy">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>6</dist>
+      <lat>43.59</lat>
+      <lon>11.32</lon>
+      <name>Greve in Chianti</name>
+    </location>
+    <location name="Impruneta::Toscana::Italy">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>43.69</lat>
+      <lon>11.25</lon>
+      <name>Impruneta</name>
+    </location>
+    <location name="Pian di Scò::Toscana::Italy">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>43.63</lat>
+      <lon>11.55</lon>
+      <name>Pian di Scò</name>
+    </location>
+  </cdi>
+</cdidata>

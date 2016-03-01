@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="El Porvenir::Atlántida::Honduras">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>95</dist>
+      <lat>15.75</lat>
+      <lon>-86.93</lon>
+      <name>El Porvenir</name>
+    </location>
+    <location name="Puerto Castilla::Colón::Honduras">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>141</dist>
+      <lat>16.02</lat>
+      <lon>-85.97</lon>
+      <name>Puerto Castilla</name>
+    </location>
+    <location name="José Santos Guardiola::Islas de la Bahía::Honduras">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>16.40</lat>
+      <lon>-86.37</lon>
+      <name>José Santos Guardiola</name>
+    </location>
+    <location name="Roatán::Islas de la Bahía::Honduras">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>16.33</lat>
+      <lon>-86.52</lon>
+      <name>Roatán</name>
+    </location>
+    <location name="Sandy Bay::Islas de la Bahía::Honduras">
+      <cdi>3.4498</cdi>
+      <nresp>3</nresp>
+      <dist>69</dist>
+      <lat>16.34</lat>
+      <lon>-86.58</lon>
+      <name>Sandy Bay</name>
+    </location>
+  </cdi>
+</cdidata>

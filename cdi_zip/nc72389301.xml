@@ -1,0 +1,76 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93109">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>449</dist>
+      <lat>34.4064021923</lat>
+      <lon>-119.727639599</lon>
+      <name>Santa Barbara</name>
+      <state>CA</state>
+    </location>
+    <location name="93117">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>443</dist>
+      <lat>34.4931874411</lat>
+      <lon>-120.046075664</lon>
+      <name>Goleta</name>
+      <state>CA</state>
+    </location>
+    <location name="93463">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>433</dist>
+      <lat>34.5964008957</lat>
+      <lon>-120.124962287</lon>
+      <name>Solvang</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>250</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95620">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>217</dist>
+      <lat>38.4139484772</lat>
+      <lon>-121.758761423</lon>
+      <name>Dixon</name>
+      <state>CA</state>
+    </location>
+    <location name="95630">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>38.6647672952</lat>
+      <lon>-121.142885324</lon>
+      <name>Folsom</name>
+      <state>CA</state>
+    </location>
+    <location name="95841">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>182</dist>
+      <lat>38.6593115715</lat>
+      <lon>-121.347081811</lon>
+      <name>Sacramento</name>
+      <state>CA</state>
+    </location>
+    <location name="96001">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>365</dist>
+      <lat>40.598019567</lat>
+      <lon>-122.46979591</lon>
+      <name>Redding</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

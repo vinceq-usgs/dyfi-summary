@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="91325">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>286</dist>
+      <lat>34.2368611976</lat>
+      <lon>-118.518193675</lon>
+      <name>Northridge</name>
+      <state>CA</state>
+    </location>
+    <location name="93420">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>88</dist>
+      <lat>35.1408941229</lat>
+      <lon>-120.414250835</lon>
+      <name>Arroyo Grande</name>
+      <state>CA</state>
+    </location>
+    <location name="93426">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>24</dist>
+      <lat>35.8644938228</lat>
+      <lon>-120.967725709</lon>
+      <name>Bradley</name>
+      <state>CA</state>
+    </location>
+    <location name="93428">
+      <cdi>2.3643</cdi>
+      <nresp>3</nresp>
+      <dist>15</dist>
+      <lat>35.5833958464</lat>
+      <lon>-121.019668707</lon>
+      <name>Cambria</name>
+      <state>CA</state>
+    </location>
+    <location name="93446">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>35.6535983591</lat>
+      <lon>-120.735081918</lon>
+      <name>Paso Robles</name>
+      <state>CA</state>
+    </location>
+    <location name="93452">
+      <cdi>2.6627</cdi>
+      <nresp>3</nresp>
+      <dist>6</dist>
+      <lat>35.7132025813</lat>
+      <lon>-121.159980978</lon>
+      <name>San Simeon</name>
+      <state>CA</state>
+    </location>
+    <location name="93932">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>35</dist>
+      <lat>35.9917036456</lat>
+      <lon>-121.234379022</lon>
+      <name>Lockwood</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>243</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95060">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>178</dist>
+      <lat>37.0592413896</lat>
+      <lon>-122.157700218</lon>
+      <name>Santa Cruz</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

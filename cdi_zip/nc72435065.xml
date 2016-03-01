@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>130</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95404">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>45</dist>
+      <lat>38.3832370515</lat>
+      <lon>-122.640583489</lon>
+      <name>Santa Rosa</name>
+      <state>CA</state>
+    </location>
+    <location name="95415">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>63</dist>
+      <lat>39.0136966551</lat>
+      <lon>-123.387559729</lon>
+      <name>Boonville</name>
+      <state>CA</state>
+    </location>
+    <location name="95423">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>39.1237409093</lat>
+      <lon>-122.643192124</lon>
+      <name>Clearlake Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="95451">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>16</dist>
+      <lat>38.921044264</lat>
+      <lon>-122.79454376</lon>
+      <name>Kelseyville</name>
+      <state>CA</state>
+    </location>
+    <location name="95461">
+      <cdi>3.8753</cdi>
+      <nresp>3</nresp>
+      <dist>9</dist>
+      <lat>38.7666137401</lat>
+      <lon>-122.613153731</lon>
+      <name>Middletown</name>
+      <state>CA</state>
+    </location>
+    <location name="95492">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>38.5417405178</lat>
+      <lon>-122.81139405</lon>
+      <name>Windsor</name>
+      <state>CA</state>
+    </location>
+    <location name="95667">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>168</dist>
+      <lat>38.7419031895</lat>
+      <lon>-120.779290453</lon>
+      <name>Placerville</name>
+      <state>CA</state>
+    </location>
+    <location name="95695">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>75</dist>
+      <lat>38.6921573977</lat>
+      <lon>-121.855632552</lon>
+      <name>Woodland</name>
+      <state>CA</state>
+    </location>
+    <location name="95991">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>99</dist>
+      <lat>39.0231324018</lat>
+      <lon>-121.61244158</lon>
+      <name>Yuba City</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

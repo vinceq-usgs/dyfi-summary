@@ -1,0 +1,84 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Manzanillo::Colima::Mexico">
+      <cdi>2.7585</cdi>
+      <nresp>5</nresp>
+      <dist>158</dist>
+      <lat>19.05</lat>
+      <lon>-104.32</lon>
+      <name>Manzanillo</name>
+    </location>
+    <location name="El Grullo::Jalisco::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>173</dist>
+      <lat>19.77</lat>
+      <lon>-104.20</lon>
+      <name>El Grullo</name>
+    </location>
+    <location name="Ixtapa::Jalisco::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>164</dist>
+      <lat>20.70</lat>
+      <lon>-105.20</lon>
+      <name>Ixtapa</name>
+    </location>
+    <location name="Las Juntas::Jalisco::Mexico">
+      <cdi>3.0408</cdi>
+      <nresp>3</nresp>
+      <dist>117</dist>
+      <lat>19.42</lat>
+      <lon>-104.70</lon>
+      <name>Las Juntas</name>
+    </location>
+    <location name="Puerto Vallarta::Jalisco::Mexico">
+      <cdi>2</cdi>
+      <nresp>7</nresp>
+      <dist>155</dist>
+      <lat>20.62</lat>
+      <lon>-105.23</lon>
+      <name>Puerto Vallarta</name>
+    </location>
+    <location name="San Patricio::Jalisco::Mexico">
+      <cdi>2.6051</cdi>
+      <nresp>4</nresp>
+      <dist>117</dist>
+      <lat>19.22</lat>
+      <lon>-104.70</lon>
+      <name>San Patricio</name>
+    </location>
+    <location name="TomatlÃ¡n::Jalisco::Mexico">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>91</dist>
+      <lat>19.93</lat>
+      <lon>-105.25</lon>
+      <name>TomatlÃ¡n</name>
+    </location>
+    <location name="Naucalpan::MÃ©xico::Mexico">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>685</dist>
+      <lat>19.48</lat>
+      <lon>-99.23</lon>
+      <name>Naucalpan</name>
+    </location>
+    <location name="BucerÃ­as::Nayarit::Mexico">
+      <cdi>2</cdi>
+      <nresp>5</nresp>
+      <dist>165</dist>
+      <lat>20.75</lat>
+      <lon>-105.33</lon>
+      <name>BucerÃ­as</name>
+    </location>
+    <location name="La PeÃ±ita de Jaltemba::Nayarit::Mexico">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>196</dist>
+      <lat>21.03</lat>
+      <lon>-105.25</lon>
+      <name>La PeÃ±ita de Jaltemba</name>
+    </location>
+  </cdi>
+</cdidata>

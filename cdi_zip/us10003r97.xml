@@ -1,0 +1,36 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Ancud::Los Lagos::Chile">
+      <cdi>2.5465</cdi>
+      <nresp>4</nresp>
+      <dist>52</dist>
+      <lat>-41.87</lat>
+      <lon>-73.83</lon>
+      <name>Ancud</name>
+    </location>
+    <location name="Castro::Los Lagos::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>-42.48</lat>
+      <lon>-73.77</lon>
+      <name>Castro</name>
+    </location>
+    <location name="Puerto Montt::Los Lagos::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>90</dist>
+      <lat>-41.47</lat>
+      <lon>-72.94</lon>
+      <name>Puerto Montt</name>
+    </location>
+    <location name="Puerto Varas::Los Lagos::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>-41.33</lat>
+      <lon>-72.99</lon>
+      <name>Puerto Varas</name>
+    </location>
+  </cdi>
+</cdidata>

@@ -1,0 +1,31 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94044">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>129</dist>
+      <lat>37.6045298737</lat>
+      <lon>-122.482164108</lon>
+      <name>Pacifica</name>
+      <state>CA</state>
+    </location>
+    <location name="95461">
+      <cdi>3.6156</cdi>
+      <nresp>3</nresp>
+      <dist>8</dist>
+      <lat>38.7666137401</lat>
+      <lon>-122.613153731</lon>
+      <name>Middletown</name>
+      <state>CA</state>
+    </location>
+    <location name="95616">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>81</dist>
+      <lat>38.5589148035</lat>
+      <lon>-121.802578233</lon>
+      <name>Davis</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

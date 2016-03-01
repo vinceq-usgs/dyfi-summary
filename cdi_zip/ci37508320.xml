@@ -1,0 +1,157 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90275">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>101</dist>
+      <lat>33.7552706318</lat>
+      <lon>-118.363098141</lon>
+      <name>Rancho Palos Verdes</name>
+      <state>CA</state>
+    </location>
+    <location name="90501">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>93</dist>
+      <lat>33.8336285474</lat>
+      <lon>-118.314281547</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90601">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>62</dist>
+      <lat>34.001435927</lat>
+      <lon>-118.02951616</lon>
+      <name>Whittier</name>
+      <state>CA</state>
+    </location>
+    <location name="90815">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>79</dist>
+      <lat>33.796240627</lat>
+      <lon>-118.11595962</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="91024">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>60</dist>
+      <lat>34.1690653327</lat>
+      <lon>-118.049921528</lon>
+      <name>Sierra Madre</name>
+      <state>CA</state>
+    </location>
+    <location name="91205">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>78</dist>
+      <lat>34.1366183916</lat>
+      <lon>-118.243509227</lon>
+      <name>Glendale</name>
+      <state>CA</state>
+    </location>
+    <location name="91360">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>136</dist>
+      <lat>34.2140411905</lat>
+      <lon>-118.880791506</lon>
+      <name>Thousand Oaks</name>
+      <state>CA</state>
+    </location>
+    <location name="91745">
+      <cdi>2.9370</cdi>
+      <nresp>1</nresp>
+      <dist>57</dist>
+      <lat>34.0006116969</lat>
+      <lon>-117.975860341</lon>
+      <name>Hacienda Heights</name>
+      <state>CA</state>
+    </location>
+    <location name="92234">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>95</dist>
+      <lat>33.8157080121</lat>
+      <lon>-116.466479106</lon>
+      <name>Cathedral City</name>
+      <state>CA</state>
+    </location>
+    <location name="92311">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>80</dist>
+      <lat>34.8400535</lat>
+      <lon>-117.043139595</lon>
+      <name>Barstow</name>
+      <state>CA</state>
+    </location>
+    <location name="92335">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>14</dist>
+      <lat>34.0869349564</lat>
+      <lon>-117.466361873</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92336">
+      <cdi>2.0883</cdi>
+      <nresp>4</nresp>
+      <dist>11</dist>
+      <lat>34.1352054936</lat>
+      <lon>-117.462098185</lon>
+      <name>Fontana</name>
+      <state>CA</state>
+    </location>
+    <location name="92376">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>11</dist>
+      <lat>34.1106765881</lat>
+      <lon>-117.380207744</lon>
+      <name>Rialto</name>
+      <state>CA</state>
+    </location>
+    <location name="92377">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>9</dist>
+      <lat>34.1549212208</lat>
+      <lon>-117.405480991</lon>
+      <name>Rialto</name>
+      <state>CA</state>
+    </location>
+    <location name="92405">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>34.1461626381</lat>
+      <lon>-117.304032925</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92407">
+      <cdi>2.9039</cdi>
+      <nresp>9</nresp>
+      <dist>12</dist>
+      <lat>34.1726036158</lat>
+      <lon>-117.308551982</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+    <location name="92408">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>18</dist>
+      <lat>34.0845095549</lat>
+      <lon>-117.26370311</lon>
+      <name>San Bernardino</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

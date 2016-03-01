@@ -1,0 +1,85 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90006">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>14</dist>
+      <lat>34.0480263184</lat>
+      <lon>-118.294092518</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90043">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.9887240668</lat>
+      <lon>-118.335094215</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90047">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>33.9539410337</lat>
+      <lon>-118.308761917</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90056">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>33.9930841621</lat>
+      <lon>-118.373733934</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90062">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>12</dist>
+      <lat>34.0033971037</lat>
+      <lon>-118.308837697</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90232">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>34.0179145665</lat>
+      <lon>-118.391987459</lon>
+      <name>Culver City</name>
+      <state>CA</state>
+    </location>
+    <location name="90292">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>15</dist>
+      <lat>33.9712908882</lat>
+      <lon>-118.445270979</lon>
+      <name>Marina del Rey</name>
+      <state>CA</state>
+    </location>
+    <location name="90303">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>33.9363361594</lat>
+      <lon>-118.331057754</lon>
+      <name>Inglewood</name>
+      <state>CA</state>
+    </location>
+    <location name="92345">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>105</dist>
+      <lat>34.3857961061</lat>
+      <lon>-117.308080427</lon>
+      <name>Hesperia</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

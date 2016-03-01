@@ -1,0 +1,60 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Carahue::Araucanía::Chile">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>29</dist>
+      <lat>-38.71</lat>
+      <lon>-73.17</lon>
+      <name>Carahue</name>
+    </location>
+    <location name="Lautaro::Araucanía::Chile">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>-38.53</lat>
+      <lon>-72.44</lon>
+      <name>Lautaro</name>
+    </location>
+    <location name="Nueva Imperial::Araucanía::Chile">
+      <cdi>4.0696</cdi>
+      <nresp>1</nresp>
+      <dist>42</dist>
+      <lat>-38.74</lat>
+      <lon>-72.96</lon>
+      <name>Nueva Imperial</name>
+    </location>
+    <location name="Temuco::Araucanía::Chile">
+      <cdi>2.9238</cdi>
+      <nresp>6</nresp>
+      <dist>73</dist>
+      <lat>-38.73</lat>
+      <lon>-72.58</lon>
+      <name>Temuco</name>
+    </location>
+    <location name="Vilcún::Araucanía::Chile">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>103</dist>
+      <lat>-38.67</lat>
+      <lon>-72.23</lon>
+      <name>Vilcún</name>
+    </location>
+    <location name="Villarrica::Araucanía::Chile">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>116</dist>
+      <lat>-39.28</lat>
+      <lon>-72.23</lon>
+      <name>Villarrica</name>
+    </location>
+    <location name="Valdivia::Los Lagos::Chile">
+      <cdi>2.8812</cdi>
+      <nresp>10</nresp>
+      <dist>117</dist>
+      <lat>-39.82</lat>
+      <lon>-73.23</lon>
+      <name>Valdivia</name>
+    </location>
+  </cdi>
+</cdidata>

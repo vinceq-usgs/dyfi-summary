@@ -1,0 +1,157 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="67156">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>178</dist>
+      <lat>37.2468518161</lat>
+      <lon>-96.9651090421</lon>
+      <name>Winfield</name>
+      <state>KS</state>
+    </location>
+    <location name="72714">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>299</dist>
+      <lat>36.4588314163</lat>
+      <lon>-94.2309984549</lon>
+      <name>Bella Vista</name>
+      <state>AR</state>
+    </location>
+    <location name="73003">
+      <cdi>3.0916</cdi>
+      <nresp>3</nresp>
+      <dist>8</dist>
+      <lat>35.6683436545</lat>
+      <lon>-97.4969186829</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73008">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>35.5138038925</lat>
+      <lon>-97.6432316553</lon>
+      <name>Bethany</name>
+      <state>OK</state>
+    </location>
+    <location name="73012">
+      <cdi>3.2754</cdi>
+      <nresp>3</nresp>
+      <dist>16</dist>
+      <lat>35.6675590393</lat>
+      <lon>-97.593966579</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73013">
+      <cdi>2.2177</cdi>
+      <nresp>5</nresp>
+      <dist>10</dist>
+      <lat>35.6220704839</lat>
+      <lon>-97.4858455914</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73025">
+      <cdi>3.3345</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>35.7318376753</lat>
+      <lon>-97.574819097</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73034">
+      <cdi>3.8052</cdi>
+      <nresp>11</nresp>
+      <dist>4</dist>
+      <lat>35.7023169435</lat>
+      <lon>-97.4284925058</lon>
+      <name>Edmond</name>
+      <state>OK</state>
+    </location>
+    <location name="73044">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>19</dist>
+      <lat>35.8555874545</lat>
+      <lon>-97.4533252066</lon>
+      <name>Guthrie</name>
+      <state>OK</state>
+    </location>
+    <location name="73112">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>35.5185814398</lat>
+      <lon>-97.5743746682</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73151">
+      <cdi>4.7129</cdi>
+      <nresp>1</nresp>
+      <dist>13</dist>
+      <lat>35.5701370079</lat>
+      <lon>-97.4054663471</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73162">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>23</dist>
+      <lat>35.5808656078</lat>
+      <lon>-97.6415225426</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="73165">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>38</dist>
+      <lat>35.3420484245</lat>
+      <lon>-97.3589880869</lon>
+      <name>Oklahoma City</name>
+      <state>OK</state>
+    </location>
+    <location name="74008">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>145</dist>
+      <lat>35.9148562447</lat>
+      <lon>-95.8381122962</lon>
+      <name>Bixby</name>
+      <state>OK</state>
+    </location>
+    <location name="74023">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>70</dist>
+      <lat>35.9970321702</lat>
+      <lon>-96.737107477</lon>
+      <name>Cushing</name>
+      <state>OK</state>
+    </location>
+    <location name="74136">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>139</dist>
+      <lat>36.0617672231</lat>
+      <lon>-95.9409568667</lon>
+      <name>Tulsa</name>
+      <state>OK</state>
+    </location>
+    <location name="74855">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>46</dist>
+      <lat>35.5282025813</lat>
+      <lon>-96.9407688965</lon>
+      <name>Meeker</name>
+      <state>OK</state>
+    </location>
+  </cdi>
+</cdidata>

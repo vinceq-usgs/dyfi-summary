@@ -1,0 +1,94 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="94501">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>28</dist>
+      <lat>37.7746713921</lat>
+      <lon>-122.275647073</lon>
+      <name>Alameda</name>
+      <state>CA</state>
+    </location>
+    <location name="94506">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>12</dist>
+      <lat>37.8159141289</lat>
+      <lon>-121.910441645</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94526">
+      <cdi>2.4226</cdi>
+      <nresp>13</nresp>
+      <dist>10</dist>
+      <lat>37.8139415505</lat>
+      <lon>-121.989888408</lon>
+      <name>Danville</name>
+      <state>CA</state>
+    </location>
+    <location name="94551">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>20</dist>
+      <lat>37.7544107453</lat>
+      <lon>-121.777824944</lon>
+      <name>Livermore</name>
+      <state>CA</state>
+    </location>
+    <location name="94563">
+      <cdi>3.0916</cdi>
+      <nresp>2</nresp>
+      <dist>23</dist>
+      <lat>37.8701811099</lat>
+      <lon>-122.184883316</lon>
+      <name>Orinda</name>
+      <state>CA</state>
+    </location>
+    <location name="94568">
+      <cdi>2.3643</cdi>
+      <nresp>3</nresp>
+      <dist>14</dist>
+      <lat>37.7137844956</lat>
+      <lon>-121.909108702</lon>
+      <name>Dublin</name>
+      <state>CA</state>
+    </location>
+    <location name="94582">
+      <cdi>2.4384</cdi>
+      <nresp>16</nresp>
+      <dist>11</dist>
+      <lat>37.766003993</lat>
+      <lon>-121.906630849</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>2.6272</cdi>
+      <nresp>26</nresp>
+      <dist>10</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="94586">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>28</dist>
+      <lat>37.5617179945</lat>
+      <lon>-121.873674489</lon>
+      <name>Sunol</name>
+      <state>CA</state>
+    </location>
+    <location name="94588">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>16</dist>
+      <lat>37.6895558211</lat>
+      <lon>-121.896794754</lon>
+      <name>Pleasanton</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

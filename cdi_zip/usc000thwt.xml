@@ -1,0 +1,28 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Kainantu::Eastern Highlands::Papua New Guinea">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>97</dist>
+      <lat>-6.27</lat>
+      <lon>145.87</lon>
+      <name>Kainantu</name>
+    </location>
+    <location name="Madang::Madang::Papua New Guinea">
+      <cdi>3.5612</cdi>
+      <nresp>3</nresp>
+      <dist>90</dist>
+      <lat>-5.23</lat>
+      <lon>145.79</lon>
+      <name>Madang</name>
+    </location>
+    <location name="Mount Hagen::Western Highlands::Papua New Guinea">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>239</dist>
+      <lat>-5.86</lat>
+      <lon>144.22</lon>
+      <name>Mount Hagen</name>
+    </location>
+  </cdi>
+</cdidata>

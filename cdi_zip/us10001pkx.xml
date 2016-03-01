@@ -1,0 +1,44 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Bandung::Jawa Barat::Indonesia">
+      <cdi>2.5168</cdi>
+      <nresp>1</nresp>
+      <dist>165</dist>
+      <lat>-6.91</lat>
+      <lon>107.60</lon>
+      <name>Bandung</name>
+    </location>
+    <location name="Cirebon::Jawa Barat::Indonesia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>77</dist>
+      <lat>-6.71</lat>
+      <lon>108.56</lon>
+      <name>Cirebon</name>
+    </location>
+    <location name="Slawi::Jawa Tengah::Indonesia">
+      <cdi>5.8062</cdi>
+      <nresp>1</nresp>
+      <dist>44</dist>
+      <lat>-6.98</lat>
+      <lon>109.14</lon>
+      <name>Slawi</name>
+    </location>
+    <location name="Taman::Jawa Tengah::Indonesia">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>58</dist>
+      <lat>-6.90</lat>
+      <lon>109.38</lon>
+      <name>Taman</name>
+    </location>
+    <location name="Tegal::Jawa Tengah::Indonesia">
+      <cdi>2.8163</cdi>
+      <nresp>2</nresp>
+      <dist>48</dist>
+      <lat>-6.86</lat>
+      <lon>109.13</lon>
+      <name>Tegal</name>
+    </location>
+  </cdi>
+</cdidata>

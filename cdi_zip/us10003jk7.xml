@@ -1,0 +1,95 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="00976">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>694</dist>
+      <lat>18.3360917453</lat>
+      <lon>-65.9988087376</lon>
+      <name>Trujillo Alto</name>
+      <state>PR</state>
+    </location>
+  </cdi>
+  <cdi type="city">
+    <location name="Castries::Castries::Saint Lucia">
+      <cdi>3.2152</cdi>
+      <nresp>3</nresp>
+      <dist>139</dist>
+      <lat>14.03</lat>
+      <lon>-60.98</lon>
+      <name>Castries</name>
+    </location>
+    <location name="Choc::Castries::Saint Lucia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>138</dist>
+      <lat>14.03</lat>
+      <lon>-60.97</lon>
+      <name>Choc</name>
+    </location>
+    <location name="Cap Estate::Gros Inlet::Saint Lucia">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>14.08</lat>
+      <lon>-60.95</lon>
+      <name>Cap Estate</name>
+    </location>
+    <location name="Fort-de-France::Fort-de-France::Martinique">
+      <cdi>2.8973</cdi>
+      <nresp>3</nresp>
+      <dist>102</dist>
+      <lat>14.60</lat>
+      <lon>-61.08</lon>
+      <name>Fort-de-France</name>
+    </location>
+    <location name="Le Lamentin::Fort-de-France::Martinique">
+      <cdi>3.8502</cdi>
+      <nresp>9</nresp>
+      <dist>97</dist>
+      <lat>14.60</lat>
+      <lon>-61.00</lon>
+      <name>Le Lamentin</name>
+    </location>
+    <location name="Gros-Morne::La Trinité::Martinique">
+      <cdi>3.7738</cdi>
+      <nresp>1</nresp>
+      <dist>92</dist>
+      <lat>14.70</lat>
+      <lon>-61.00</lon>
+      <name>Gros-Morne</name>
+    </location>
+    <location name="La Trinité::La Trinité::Martinique">
+      <cdi>3.7738</cdi>
+      <nresp>2</nresp>
+      <dist>88</dist>
+      <lat>14.74</lat>
+      <lon>-60.97</lon>
+      <name>La Trinité</name>
+    </location>
+    <location name="Le Robert::La Trinité::Martinique">
+      <cdi>3.4498</cdi>
+      <nresp>1</nresp>
+      <dist>89</dist>
+      <lat>14.67</lat>
+      <lon>-60.94</lon>
+      <name>Le Robert</name>
+    </location>
+    <location name="Ducos::Le Marin::Martinique">
+      <cdi>4.4700</cdi>
+      <nresp>2</nresp>
+      <dist>97</dist>
+      <lat>14.57</lat>
+      <lon>-60.98</lon>
+      <name>Ducos</name>
+    </location>
+    <location name="Saint-Pierre::Saint-Pierre::Martinique">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>103</dist>
+      <lat>14.74</lat>
+      <lon>-61.18</lon>
+      <name>Saint-Pierre</name>
+    </location>
+  </cdi>
+</cdidata>

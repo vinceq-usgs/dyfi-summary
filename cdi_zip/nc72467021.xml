@@ -1,0 +1,49 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="90066">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>387</dist>
+      <lat>34.0019600736</lat>
+      <lon>-118.431197505</lon>
+      <name>Los Angeles</name>
+      <state>CA</state>
+    </location>
+    <location name="90503">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>405</dist>
+      <lat>33.8419954117</lat>
+      <lon>-118.351634592</lon>
+      <name>Torrance</name>
+      <state>CA</state>
+    </location>
+    <location name="90807">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>409</dist>
+      <lat>33.8286381513</lat>
+      <lon>-118.178180973</lon>
+      <name>Long Beach</name>
+      <state>CA</state>
+    </location>
+    <location name="93514">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>37</dist>
+      <lat>37.4762712635</lat>
+      <lon>-118.400747511</lon>
+      <name>Bishop</name>
+      <state>CA</state>
+    </location>
+    <location name="94124">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>315</dist>
+      <lat>37.7316321822</lat>
+      <lon>-122.385336477</lon>
+      <name>San Francisco</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>

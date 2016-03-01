@@ -1,0 +1,116 @@
+<cdidata>
+  <cdi type="city">
+    <location name="Matsudo::Chiba::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>184</dist>
+      <lat>35.78</lat>
+      <lon>139.90</lon>
+      <name>Matsudo</name>
+    </location>
+    <location name="Shimotsuma::Ibaraki::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>183</dist>
+      <lat>36.20</lat>
+      <lon>139.96</lon>
+      <name>Shimotsuma</name>
+    </location>
+    <location name="Tsuchiura::Ibaraki::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>2</nresp>
+      <dist>196</dist>
+      <lat>36.09</lat>
+      <lon>140.19</lon>
+      <name>Tsuchiura</name>
+    </location>
+    <location name="Atsugi::Kanagawa::Japan">
+      <cdi>3.0916</cdi>
+      <nresp>1</nresp>
+      <dist>174</dist>
+      <lat>35.45</lat>
+      <lon>139.36</lon>
+      <name>Atsugi</name>
+    </location>
+    <location name="Shiroyama::Kanagawa::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>166</dist>
+      <lat>35.60</lat>
+      <lon>139.31</lon>
+      <name>Shiroyama</name>
+    </location>
+    <location name="Yokohama::Kanagawa::Japan">
+      <cdi>2.5832</cdi>
+      <nresp>4</nresp>
+      <dist>182</dist>
+      <lat>35.47</lat>
+      <lon>139.62</lon>
+      <name>Yokohama</name>
+    </location>
+    <location name="Yokosuka::Kanagawa::Japan">
+      <cdi>2.3954</cdi>
+      <nresp>3</nresp>
+      <dist>195</dist>
+      <lat>35.27</lat>
+      <lon>139.67</lon>
+      <name>Yokosuka</name>
+    </location>
+    <location name="Zushi::Kanagawa::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>189</dist>
+      <lat>35.30</lat>
+      <lon>139.58</lon>
+      <name>Zushi</name>
+    </location>
+    <location name="Saitama::Saitama::Japan">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>170</dist>
+      <lat>35.87</lat>
+      <lon>139.64</lon>
+      <name>Saitama</name>
+    </location>
+    <location name="Utsunomiya::Tochigi::Japan">
+      <cdi>2</cdi>
+      <nresp>2</nresp>
+      <dist>185</dist>
+      <lat>36.56</lat>
+      <lon>139.89</lon>
+      <name>Utsunomiya</name>
+    </location>
+    <location name="Kokubunji::Tokio::Japan">
+      <cdi>2.4718</cdi>
+      <nresp>2</nresp>
+      <dist>168</dist>
+      <lat>35.70</lat>
+      <lon>139.48</lon>
+      <name>Kokubunji</name>
+    </location>
+    <location name="Musashino::Tokio::Japan">
+      <cdi>2.2372</cdi>
+      <nresp>1</nresp>
+      <dist>172</dist>
+      <lat>35.71</lat>
+      <lon>139.58</lon>
+      <name>Musashino</name>
+    </location>
+    <location name="Tama::Tokio::Japan">
+      <cdi>2.6912</cdi>
+      <nresp>1</nresp>
+      <dist>171</dist>
+      <lat>35.61</lat>
+      <lon>139.46</lon>
+      <name>Tama</name>
+    </location>
+    <location name="Tokyo::Tokio::Japan">
+      <cdi>2.1487</cdi>
+      <nresp>10</nresp>
+      <dist>181</dist>
+      <lat>35.67</lat>
+      <lon>139.77</lon>
+      <name>Tokyo</name>
+    </location>
+  </cdi>
+</cdidata>

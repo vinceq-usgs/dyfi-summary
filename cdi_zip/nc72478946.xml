@@ -1,0 +1,40 @@
+<cdidata>
+  <cdi type="zip">
+    <location name="93546">
+      <cdi>2</cdi>
+      <nresp>1</nresp>
+      <dist>362</dist>
+      <lat>37.6583157092</lat>
+      <lon>-118.898845011</lon>
+      <name>Mammoth Lakes</name>
+      <state>CA</state>
+    </location>
+    <location name="94583">
+      <cdi>1</cdi>
+      <nresp>1</nresp>
+      <dist>133</dist>
+      <lat>37.7659173829</lat>
+      <lon>-121.990078229</lon>
+      <name>San Ramon</name>
+      <state>CA</state>
+    </location>
+    <location name="95451">
+      <cdi>3.4498</cdi>
+      <nresp>2</nresp>
+      <dist>15</dist>
+      <lat>38.921044264</lat>
+      <lon>-122.79454376</lon>
+      <name>Kelseyville</name>
+      <state>CA</state>
+    </location>
+    <location name="95461">
+      <cdi>3.5337</cdi>
+      <nresp>4</nresp>
+      <dist>15</dist>
+      <lat>38.7666137401</lat>
+      <lon>-122.613153731</lon>
+      <name>Middletown</name>
+      <state>CA</state>
+    </location>
+  </cdi>
+</cdidata>
