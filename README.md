@@ -1,2 +1,4 @@
 # dyfi-summary
-DYFI yearly and cumulative summary maps
+Data and programs for data processing yearly and cumulative summary maps for DYFI
+
+
