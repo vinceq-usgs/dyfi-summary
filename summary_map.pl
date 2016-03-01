@@ -5,29 +5,19 @@ use warnings;
 
 use Data::Dumper;
 use XML::Simple;
-use Plot_summary;
 use File::Copy;
 use JSON::Tiny;
 
 use lib '/home/shake/ciim3/perl';
-use Common;
-use File;
-use DB;
-use Parameters;
-use Region;
-use Cdi;
+use File; # Need slurp, event_dir, zip_file
+use DB; # Read event table and get list of events
 
-my $ciimdir = "/home/shake/ciim3";
-my $cdidir = "/home/shake/PROJECTS/summary/cdi_zip";
-
-my $URL = 'http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&eventid=%s';
-
-my $badfile = "./badfiles.txt";
 my $STARTDATE = 1991;
 my $ENDDATE = 2015;
 
-# For Art
-#$STARTDATE = 2003; $ENDDATE = 2013;
+my $ciimdir = "/home/shake/ciim3";
+my $URL = 'http://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&eventid=%s';
+my $badfile = "./badfiles.txt";
 
 my $EVENT;
 
@@ -43,12 +33,13 @@ $0 time|start|sequence [usonly]
   map=us \t- don't do Global map
   map=global \t- don't do US map
   map=nocal \t- NoCal map 
-  -noplot \t- Don't run GMT
+  -noplot \t- Don't run GMT (deprecated, now always on)
 USAGE
 
  exit;
 }
 
+my $cdidir = "./cdi_zip";
 my $outdir = './output';
 my $db = new DB;
 
@@ -69,9 +60,6 @@ my $start;
 die "Unknown date $date";
 
 my $USONLY = grep /usonly/, @ARGV;
-my $NOPLOT = grep /-noplot/,@ARGV;
-
-$NOPLOT = 1;
 
 my $map = '';
 foreach (@ARGV) {
@@ -372,8 +360,7 @@ sub read_cdi_xml {
     load($output,$list);
   }
   else {
-    Common::dump($ref,1);
-    die "Could not get ref for $ref.\n";
+    die "Could not get CDI, possible malformed XML file $file.\n";
   }
   my $c = scalar keys %$output;
 #  print "File $file had $c locs.\n";
@@ -675,134 +662,9 @@ sub plot {
   $xml =~ s/\.ps$/\.xml/;
 
   write_to_xml($xml,$date,outformat($data));
-  return if ($NOPLOT);
 
-  my $plot = Plot_summary->new(get_map_params($date,$file,$data));
-  $plot->execute;
-
-  posterize($file);
-
-#  my $flags = '-colorspace RGB -crop 2140x920+200+2020 -antialias';
-  my $flags = '-colorspace RGB  -antialias';
-  print "Convert flags: $flags\n";
-
-  print "Converting $file to $jpeg.\n";
-  unlink $jpeg if (-e $jpeg);
-  Plot_summary::ps_to_jpeg($file,$jpeg,$flags);
-
-#  system "scp $jpeg quake\@ehpdevel.cr.usgs.gov:/home/www/data/DYFI/events/us/SUMMARY/us/";
-#  system "scp ./summary.pdf quake\@ehpdevel.cr.usgs.gov:/home/www/data/DYFI/events/";
-
-}
-
-sub get_map_params {
-  my ($name,$file,$data) = @_;
-  my $params = Parameters->new;
-
-  $params->add_params( {
-    eventid => 'SUMMARY',
-    latitude => 0,
-    longitude => 0,
-    lat_span => 130,
-    lon_span => 358,
-    center_lat => 10,
-    center_lon => 0,
-    lat_offset => 0,
-    lon_offset => 0,
-    topo => 'NONE',
-    proj => 'Q0/0/6.5',
-    border_flags => '-N1/2/0 -A1000',
-    plot_commands => 'basemap titles cdiplot timestamp close',
-    link => $file,
-    river_flags => '',
-    mmiscale_file => undef,
-    title_size => 8,
-    timestamp_format => '0.0 -0.2 4 0 0 5 %s',
-    jpeg_xspan => 612,
-    jpeg_yspan => 684,
-    cdi_outline_pen => '',
-    plot_width => '6.5',
-
-    cdidata => 'zip',
-    CDI => reformat($data),
-    year => $name,
-
-    });
-  if (%bounds) {
-    $params->add_params(\%bounds);
-  }
-  elsif ($USONLY) {
-    my $wb = -126;
-    my $eb = -66.5;
-    my $nb = 50;
-    my $sb = 25;
-
-    my $lat_span = abs($nb - $sb);
-    my $lon_span = abs($wb - $eb);
-    my $center_lat = ($nb + $sb)/2;
-    my $center_lon = ($eb + $wb)/2;
-
-    $params->add_params( {
-      lat_span => $lat_span,
-      lon_span => $lon_span,
-      center_lat => $center_lat,
-      center_lon => $center_lon,
-      proj => 'Q-95/38/6.5',
-#      proj => 'B-95/37/29.5/45.5/6.5',
-      border_flags => '-A1000 -N2/2/0',
-#      water_color => '255',
-      water_color => '128/128/255',
-    });
-  }
- 
-  print "Link is $file\n"; 
-  return $params;
-}
-
-sub posterize {
-  my $file = shift;
-
-  open FILE,$file or die "Could not posterize $file";
-  my @out;
-  while (my $line = <FILE>) {
-    chomp $line;
-    $line = '1.0 1.0 scale' if $line eq '0.24 0.24 scale';
-    $line = '%%BoundingBox: 0 0 2592 3456' if $line =~ /BoundingBox/;
-    $line = 'PSLevel 1 gt { << /PageSize [2592 3456] '
-    . '/ImagingBBox null >> setpagedevice } if'
-      if $line =~ /PageSize/;
-   push @out,$line;
-  }
-  close FILE;
-  open FILE, ">$file";
-  foreach (@out) { print FILE "$_\n"; }
-  close FILE;
-}
-
-sub reformat {
-  my $in = shift;
-  my $out = {};
-
-  foreach my $ref (values %{$in->{'city'}},values %{$in->{'zip'}}) {
-    my $index = $ref->{'loc'};
-    my $d = { 
-      cdi => $ref->{'cdi'}, 
-      nresp => $ref->{'nresp'}, 
-      loc => $index,
-      type => $ref->{'type'},
-    };
-
-    if ($index =~ /,/) {
-      my ($lat,$lon) = split /,/,$index;
-      $d->{'loc'} = "${lat}::${lon}";
-      $d->{'lon'} = $lat;
-      $d->{'lat'} = $lon;
-      $d->{'pop'} = $ref->{'pop'};
-    }
-    $out->{$index} = $d;
-  }
-  return $out;
-
+#  print "Plotting function no longer supported.\n";
+  return;
 }
 
 sub read_inputfiles {
